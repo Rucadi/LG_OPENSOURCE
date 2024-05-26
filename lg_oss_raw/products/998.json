@@ -1,0 +1,272 @@
+{
+    "TV/AV>Monitor/Signage": {
+        "65VH7B-BD": {
+            "description": "webOS2.0_LM15U_Signage_2",
+            "notice": [
+                {
+                    "osSeq": "506465",
+                    "model": "65VH7B-BD",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-151022-LM15U_Signage-4.pdf"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "506465",
+                    "model": "65VH7B-BD",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS_Commercial_Signage_OpenSource_version1.0.1_2.zip"
+                }
+            ]
+        }
+    },
+    "TV/AV>TV": {
+        "65WM960H0LD": {
+            "description": "webOS23_K8HP+_CommercialTV",
+            "notice": [
+                {
+                    "osSeq": "511320",
+                    "model": "65WM960H0LD",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-5181_webOS23_K8HP+_CommercialTV_230316.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "511320",
+                    "model": "65WM960H0LD",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS23_K8HP+_CommercialTV_1.zip"
+                },
+                {
+                    "osSeq": "511320",
+                    "model": "65WM960H0LD",
+                    "type": "Op",
+                    "fileId": "2",
+                    "filename": "webOS23_K8HP+_CommercialTV_2.zip"
+                }
+            ]
+        },
+        "65WN960H0LD": {
+            "description": "webOS22_K8HP_K8LP_CommercialTV",
+            "notice": [
+                {
+                    "osSeq": "510888",
+                    "model": "65WN960H0LD",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-4270_webOS22_K8HP_CommercialTV_220329.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "510888",
+                    "model": "65WN960H0LD",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS22_K8HP_CommercialTV_1.zip"
+                },
+                {
+                    "osSeq": "510888",
+                    "model": "65WN960H0LD",
+                    "type": "Op",
+                    "fileId": "2",
+                    "filename": "webOS22_K8HP_CommercialTV_2.zip"
+                }
+            ]
+        },
+        "65WS960H0GD": {
+            "description": "webOS5.0_K6HP_CommercialTV",
+            "notice": [
+                {
+                    "osSeq": "509748",
+                    "model": "65WS960H0GD",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-2511_webOS5.0_K6HP_CommercialTV_200318.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "509748",
+                    "model": "65WS960H0GD",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS5.0_K6HP_CommercialTV_1.zip"
+                },
+                {
+                    "osSeq": "509748",
+                    "model": "65WS960H0GD",
+                    "type": "Op",
+                    "fileId": "2",
+                    "filename": "webOS5.0_K6HP_CommercialTV_2.zip"
+                }
+            ]
+        },
+        "65WS960H0UD": {
+            "description": "webOS5.0_K6HP_CommercialTV 1.1",
+            "notice": [
+                {
+                    "osSeq": "510077",
+                    "model": "65WS960H0UD",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-2887_webOS5.0_K6HP_CommercialTV_1.1_200831.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "510077",
+                    "model": "65WS960H0UD",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS5.0_K6HP_CommercialTV_1.1_1.zip"
+                },
+                {
+                    "osSeq": "510077",
+                    "model": "65WS960H0UD",
+                    "type": "Op",
+                    "fileId": "2",
+                    "filename": "webOS5.0_K6HP_CommercialTV_1.1_2.zip"
+                }
+            ]
+        },
+        "65WS960H0ZD": {
+            "description": "webOS5.0_K6HP_CommercialTV 1.1",
+            "notice": [
+                {
+                    "osSeq": "510077",
+                    "model": "65WS960H0ZD",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-2887_webOS5.0_K6HP_CommercialTV_1.1_200831.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "510077",
+                    "model": "65WS960H0ZD",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS5.0_K6HP_CommercialTV_1.1_1.zip"
+                },
+                {
+                    "osSeq": "510077",
+                    "model": "65WS960H0ZD",
+                    "type": "Op",
+                    "fileId": "2",
+                    "filename": "webOS5.0_K6HP_CommercialTV_1.1_2.zip"
+                }
+            ]
+        },
+        "65WS960H2GD": {
+            "description": "webOS5.0_K6HP_CommercialTV 1.1",
+            "notice": [
+                {
+                    "osSeq": "510077",
+                    "model": "65WS960H2GD",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-2887_webOS5.0_K6HP_CommercialTV_1.1_200831.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "510077",
+                    "model": "65WS960H2GD",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS5.0_K6HP_CommercialTV_1.1_1.zip"
+                },
+                {
+                    "osSeq": "510077",
+                    "model": "65WS960H2GD",
+                    "type": "Op",
+                    "fileId": "2",
+                    "filename": "webOS5.0_K6HP_CommercialTV_1.1_2.zip"
+                }
+            ]
+        },
+        "65WS960H2UD": {
+            "description": "webOS5.0_K6HP_CommercialTV 1.1",
+            "notice": [
+                {
+                    "osSeq": "510077",
+                    "model": "65WS960H2UD",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-2887_webOS5.0_K6HP_CommercialTV_1.1_200831.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "510077",
+                    "model": "65WS960H2UD",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS5.0_K6HP_CommercialTV_1.1_1.zip"
+                },
+                {
+                    "osSeq": "510077",
+                    "model": "65WS960H2UD",
+                    "type": "Op",
+                    "fileId": "2",
+                    "filename": "webOS5.0_K6HP_CommercialTV_1.1_2.zip"
+                }
+            ]
+        },
+        "65WS960H2ZD": {
+            "description": "webOS5.0_K6HP_CommercialTV 1.1",
+            "notice": [
+                {
+                    "osSeq": "510077",
+                    "model": "65WS960H2ZD",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-2887_webOS5.0_K6HP_CommercialTV_1.1_200831.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "510077",
+                    "model": "65WS960H2ZD",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS5.0_K6HP_CommercialTV_1.1_1.zip"
+                },
+                {
+                    "osSeq": "510077",
+                    "model": "65WS960H2ZD",
+                    "type": "Op",
+                    "fileId": "2",
+                    "filename": "webOS5.0_K6HP_CommercialTV_1.1_2.zip"
+                }
+            ]
+        },
+        "65WT980H0ZA": {
+            "description": "HCAP API",
+            "notice": [
+                {
+                    "osSeq": "507349",
+                    "model": "65WT980H0ZA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-160516-HCAPAPI-1.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "507349",
+                    "model": "65WT980H0ZA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "HCAP_OpenSource_V1.0.zip"
+                }
+            ]
+        }
+    }
+}

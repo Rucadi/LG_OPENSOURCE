@@ -1,0 +1,424 @@
+{
+    "TV/AV>TV": {
+        "32LW760H-ZA": {
+            "description": "webOS_M14_Commercial TV",
+            "notice": [
+                {
+                    "osSeq": "17160",
+                    "model": "32LW760H-ZA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-141114-webOS_M14_CommercialTV-1.pdf"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "17160",
+                    "model": "32LW760H-ZA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS_M14_CTV_OpenSource_v1.0.zip"
+                }
+            ]
+        },
+        "32LX300C-CA": {
+            "description": "L15 ULC LGE TV Open Source",
+            "notice": [
+                {
+                    "osSeq": "16981",
+                    "model": "32LX300C-CA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "No_OpenSource.txt"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "16981",
+                    "model": "32LX300C-CA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "N/A"
+                }
+            ]
+        },
+        "32LX300C-NA": {
+            "description": "L15_M1A_Commercial TV Open Source",
+            "notice": [
+                {
+                    "osSeq": "506326",
+                    "model": "32LX300C-NA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-150126-L15_M1A_CommercialTV-2.pdf"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "506326",
+                    "model": "32LX300C-NA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "L15_M1A_Commercial_Signage_Opensource_v1.0.zip"
+                }
+            ]
+        },
+        "32LX300C-SA": {
+            "description": "L15_M1A_Commercial TV Open Source",
+            "notice": [
+                {
+                    "osSeq": "506326",
+                    "model": "32LX300C-SA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-150126-L15_M1A_CommercialTV-2.pdf"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "506326",
+                    "model": "32LX300C-SA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "L15_M1A_Commercial_Signage_Opensource_v1.0.zip"
+                }
+            ]
+        },
+        "32LX300C-SB": {
+            "description": "L15_M1A_Commercial TV Open Source",
+            "notice": [
+                {
+                    "osSeq": "506326",
+                    "model": "32LX300C-SB",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-150126-L15_M1A_CommercialTV-2.pdf"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "506326",
+                    "model": "32LX300C-SB",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "L15_M1A_Commercial_Signage_Opensource_v1.0.zip"
+                }
+            ]
+        },
+        "32LX300C-TA": {
+            "description": "L15_M1A_Commercial TV Open Source",
+            "notice": [
+                {
+                    "osSeq": "506326",
+                    "model": "32LX300C-TA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-150126-L15_M1A_CommercialTV-2.pdf"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "506326",
+                    "model": "32LX300C-TA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "L15_M1A_Commercial_Signage_Opensource_v1.0.zip"
+                }
+            ]
+        },
+        "32LX300C-UA": {
+            "description": "L15_M1A_Commercial TV Open Source",
+            "notice": [
+                {
+                    "osSeq": "506326",
+                    "model": "32LX300C-UA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-150126-L15_M1A_CommercialTV-2.pdf"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "506326",
+                    "model": "32LX300C-UA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "L15_M1A_Commercial_Signage_Opensource_v1.0.zip"
+                }
+            ]
+        },
+        "32LX300C-ZA": {
+            "description": "L15_M1A_Commercial TV Open Source",
+            "notice": [
+                {
+                    "osSeq": "506326",
+                    "model": "32LX300C-ZA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-150126-L15_M1A_CommercialTV-2.pdf"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "506326",
+                    "model": "32LX300C-ZA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "L15_M1A_Commercial_Signage_Opensource_v1.0.zip"
+                }
+            ]
+        },
+        "32LX308C-ZA": {
+            "description": "L15_M1A_Commercial TV Open Source",
+            "notice": [
+                {
+                    "osSeq": "506326",
+                    "model": "32LX308C-ZA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-150126-L15_M1A_CommercialTV-2.pdf"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "506326",
+                    "model": "32LX308C-ZA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "L15_M1A_Commercial_Signage_Opensource_v1.0.zip"
+                }
+            ]
+        },
+        "32LX320C-ZA": {
+            "description": "L15_M1A_Commercial TV Open Source",
+            "notice": [
+                {
+                    "osSeq": "506326",
+                    "model": "32LX320C-ZA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-150126-L15_M1A_CommercialTV-2.pdf"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "506326",
+                    "model": "32LX320C-ZA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "L15_M1A_Commercial_Signage_Opensource_v1.0.zip"
+                }
+            ]
+        },
+        "32LX320H-ZA": {
+            "description": "L15_M1A_Commercial TV Open Source",
+            "notice": [
+                {
+                    "osSeq": "506326",
+                    "model": "32LX320H-ZA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-150126-L15_M1A_CommercialTV-2.pdf"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "506326",
+                    "model": "32LX320H-ZA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "L15_M1A_Commercial_Signage_Opensource_v1.0.zip"
+                }
+            ]
+        },
+        "32LX321H-ZA": {
+            "description": "L15_M1A_Commercial TV Open Source",
+            "notice": [
+                {
+                    "osSeq": "506326",
+                    "model": "32LX321H-ZA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-150126-L15_M1A_CommercialTV-2.pdf"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "506326",
+                    "model": "32LX321H-ZA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "L15_M1A_Commercial_Signage_Opensource_v1.0.zip"
+                }
+            ]
+        },
+        "32LX330C-CA": {
+            "description": "L15_M1A_Commercial TV Open Source",
+            "notice": [
+                {
+                    "osSeq": "506326",
+                    "model": "32LX330C-CA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-150126-L15_M1A_CommercialTV-2.pdf"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "506326",
+                    "model": "32LX330C-CA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "L15_M1A_Commercial_Signage_Opensource_v1.0.zip"
+                }
+            ]
+        },
+        "32LX330C-DA": {
+            "description": "L15_M1A_Commercial TV Open Source",
+            "notice": [
+                {
+                    "osSeq": "506326",
+                    "model": "32LX330C-DA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-150126-L15_M1A_CommercialTV-2.pdf"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "506326",
+                    "model": "32LX330C-DA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "L15_M1A_Commercial_Signage_Opensource_v1.0.zip"
+                }
+            ]
+        },
+        "32LX330C-GA": {
+            "description": "L15_M1A_Commercial TV Open Source",
+            "notice": [
+                {
+                    "osSeq": "506326",
+                    "model": "32LX330C-GA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-150126-L15_M1A_CommercialTV-2.pdf"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "506326",
+                    "model": "32LX330C-GA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "L15_M1A_Commercial_Signage_Opensource_v1.0.zip"
+                }
+            ]
+        },
+        "32LX330C-SA": {
+            "description": "L15_M1A_Commercial TV Open Source",
+            "notice": [
+                {
+                    "osSeq": "506326",
+                    "model": "32LX330C-SA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-150126-L15_M1A_CommercialTV-2.pdf"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "506326",
+                    "model": "32LX330C-SA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "L15_M1A_Commercial_Signage_Opensource_v1.0.zip"
+                }
+            ]
+        },
+        "32LX330C-SB": {
+            "description": "L15_M1A_Commercial TV Open Source",
+            "notice": [
+                {
+                    "osSeq": "506326",
+                    "model": "32LX330C-SB",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-150126-L15_M1A_CommercialTV-2.pdf"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "506326",
+                    "model": "32LX330C-SB",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "L15_M1A_Commercial_Signage_Opensource_v1.0.zip"
+                }
+            ]
+        },
+        "32LX330C-TA": {
+            "description": "L15_M1A_Commercial TV Open Source",
+            "notice": [
+                {
+                    "osSeq": "506326",
+                    "model": "32LX330C-TA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-150126-L15_M1A_CommercialTV-2.pdf"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "506326",
+                    "model": "32LX330C-TA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "L15_M1A_Commercial_Signage_Opensource_v1.0.zip"
+                }
+            ]
+        },
+        "32LX330C-UA": {
+            "description": "L15_M1A_Commercial TV Open Source",
+            "notice": [
+                {
+                    "osSeq": "506326",
+                    "model": "32LX330C-UA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-150126-L15_M1A_CommercialTV-2.pdf"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "506326",
+                    "model": "32LX330C-UA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "L15_M1A_Commercial_Signage_Opensource_v1.0.zip"
+                }
+            ]
+        },
+        "32LX330C-ZA": {
+            "description": "L15_M1A_Commercial TV Open Source",
+            "notice": [
+                {
+                    "osSeq": "506326",
+                    "model": "32LX330C-ZA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-150126-L15_M1A_CommercialTV-2.pdf"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "506326",
+                    "model": "32LX330C-ZA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "L15_M1A_Commercial_Signage_Opensource_v1.0.zip"
+                }
+            ]
+        }
+    }
+}

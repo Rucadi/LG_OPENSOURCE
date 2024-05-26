@@ -1,0 +1,340 @@
+{
+    "TV/AV>TV": {
+        "40JL9100-ZQ": {
+            "description": "webOS BLMU LGE Open Source2",
+            "notice": [
+                {
+                    "osSeq": "506703",
+                    "model": "40JL9100-ZQ",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-160509-webOSBLMU-3.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "506703",
+                    "model": "40JL9100-ZQ",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "BLMU-r3160-2.tar.gz"
+                }
+            ]
+        },
+        "40LF5700-DA": {
+            "description": "L15 L LGE TV Open Source",
+            "notice": [
+                {
+                    "osSeq": "506657",
+                    "model": "40LF5700-DA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-150304-L15L-1.pdf"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "506657",
+                    "model": "40LF5700-DA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "L15_L_LGE_TV_OpenSource_v1.1.zip"
+                }
+            ]
+        },
+        "40LF5700-SA": {
+            "description": "L15 L LGE TV Open Source",
+            "notice": [
+                {
+                    "osSeq": "506657",
+                    "model": "40LF5700-SA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-150304-L15L-1.pdf"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "506657",
+                    "model": "40LF5700-SA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "L15_L_LGE_TV_OpenSource_v1.1.zip"
+                }
+            ]
+        },
+        "40LF5700-TA": {
+            "description": "L15 L LGE TV Open Source",
+            "notice": [
+                {
+                    "osSeq": "506657",
+                    "model": "40LF5700-TA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-150304-L15L-1.pdf"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "506657",
+                    "model": "40LF5700-TA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "L15_L_LGE_TV_OpenSource_v1.1.zip"
+                }
+            ]
+        },
+        "40LF570T-DA": {
+            "description": "L15 L LGE TV Open Source",
+            "notice": [
+                {
+                    "osSeq": "506657",
+                    "model": "40LF570T-DA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-150304-L15L-1.pdf"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "506657",
+                    "model": "40LF570T-DA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "L15_L_LGE_TV_OpenSource_v1.1.zip"
+                }
+            ]
+        },
+        "40LF570T-TA": {
+            "description": "L15 L LGE TV Open Source",
+            "notice": [
+                {
+                    "osSeq": "506657",
+                    "model": "40LF570T-TA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-150304-L15L-1.pdf"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "506657",
+                    "model": "40LF570T-TA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "L15_L_LGE_TV_OpenSource_v1.1.zip"
+                }
+            ]
+        },
+        "40LF570V-ZA": {
+            "description": "L15 L LGE TV Open Source",
+            "notice": [
+                {
+                    "osSeq": "506657",
+                    "model": "40LF570V-ZA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-150304-L15L-1.pdf"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "506657",
+                    "model": "40LF570V-ZA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "L15_L_LGE_TV_OpenSource_v1.1.zip"
+                }
+            ]
+        },
+        "40LF570Y-TA": {
+            "description": "L15 L LGE TV Open Source",
+            "notice": [
+                {
+                    "osSeq": "506657",
+                    "model": "40LF570Y-TA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-150304-L15L-1.pdf"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "506657",
+                    "model": "40LF570Y-TA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "L15_L_LGE_TV_OpenSource_v1.1.zip"
+                }
+            ]
+        },
+        "40LF5710-TB": {
+            "description": "L15 L LGE TV Open Source",
+            "notice": [
+                {
+                    "osSeq": "506657",
+                    "model": "40LF5710-TB",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-150304-L15L-1.pdf"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "506657",
+                    "model": "40LF5710-TB",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "L15_L_LGE_TV_OpenSource_v1.1.zip"
+                }
+            ]
+        },
+        "40LF571T-TB": {
+            "description": "L15 L LGE TV Open Source",
+            "notice": [
+                {
+                    "osSeq": "506657",
+                    "model": "40LF571T-TB",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-150304-L15L-1.pdf"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "506657",
+                    "model": "40LF571T-TB",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "L15_L_LGE_TV_OpenSource_v1.1.zip"
+                }
+            ]
+        },
+        "40LF571Y-TB": {
+            "description": "L15 L LGE TV Open Source",
+            "notice": [
+                {
+                    "osSeq": "506657",
+                    "model": "40LF571Y-TB",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-150304-L15L-1.pdf"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "506657",
+                    "model": "40LF571Y-TB",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "L15_L_LGE_TV_OpenSource_v1.1.zip"
+                }
+            ]
+        },
+        "40LF5750-SA": {
+            "description": "L15 L LGE TV Open Source",
+            "notice": [
+                {
+                    "osSeq": "506657",
+                    "model": "40LF5750-SA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-150304-L15L-1.pdf"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "506657",
+                    "model": "40LF5750-SA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "L15_L_LGE_TV_OpenSource_v1.1.zip"
+                }
+            ]
+        },
+        "40LF6300-DB": {
+            "description": "webOS BM LGE Open Source-Chromium Source",
+            "notice": [
+                {
+                    "osSeq": "506623",
+                    "model": "40LF6300-DB",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-150604-webOSBM-8.pdf"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "506623",
+                    "model": "40LF6300-DB",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "Chromium.zip"
+                }
+            ]
+        },
+        "40LF6300-SB": {
+            "description": "webOS BM LGE Open Source-Chromium Source",
+            "notice": [
+                {
+                    "osSeq": "506623",
+                    "model": "40LF6300-SB",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-150604-webOSBM-8.pdf"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "506623",
+                    "model": "40LF6300-SB",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "Chromium.zip"
+                }
+            ]
+        },
+        "40LF6300-TA": {
+            "description": "webOS BM LGE Open Source-Chromium Source",
+            "notice": [
+                {
+                    "osSeq": "506623",
+                    "model": "40LF6300-TA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-150604-webOSBM-8.pdf"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "506623",
+                    "model": "40LF6300-TA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "Chromium.zip"
+                }
+            ]
+        },
+        "40LF6300-UA": {
+            "description": "webOS BM LGE Open Source",
+            "notice": [
+                {
+                    "osSeq": "506622",
+                    "model": "40LF6300-UA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-150604-webOSBM-8.pdf"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "506622",
+                    "model": "40LF6300-UA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS_BM_CO_FI_2.zip"
+                }
+            ]
+        }
+    }
+}

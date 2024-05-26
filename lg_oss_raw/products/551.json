@@ -1,0 +1,216 @@
+{
+    "TV/AV>Monitor/Signage": {
+        "55EJ5E-BF": {
+            "description": "webOS3.2_M16_Signage_2",
+            "notice": [
+                {
+                    "osSeq": "507773",
+                    "model": "55EJ5E-BF",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-171011-webOS3.2M16Signage-2.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "507773",
+                    "model": "55EJ5E-BF",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS3.2_3.0_M16_Signage_OpenSource_V1.0_2.zip"
+                }
+            ]
+        },
+        "55EJ5E-BS": {
+            "description": "webOS3.2_M16_Signage_2",
+            "notice": [
+                {
+                    "osSeq": "507773",
+                    "model": "55EJ5E-BS",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-171011-webOS3.2M16Signage-2.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "507773",
+                    "model": "55EJ5E-BS",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS3.2_3.0_M16_Signage_OpenSource_V1.0_2.zip"
+                }
+            ]
+        },
+        "55EJ5G-BB": {
+            "description": "webOS4.0_M16++_Signage MR",
+            "notice": [
+                {
+                    "osSeq": "508876",
+                    "model": "55EJ5G-BB",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-1360_webOS4.0_M16++_Signage_MR_190107.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "508876",
+                    "model": "55EJ5G-BB",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS4.0_M16++_Signage_MR.zip"
+                }
+            ]
+        },
+        "55EJ5G-BJ": {
+            "description": "webOS4.0_M16++_Signage MR",
+            "notice": [
+                {
+                    "osSeq": "508876",
+                    "model": "55EJ5G-BJ",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-1360_webOS4.0_M16++_Signage_MR_190107.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "508876",
+                    "model": "55EJ5G-BJ",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS4.0_M16++_Signage_MR.zip"
+                }
+            ]
+        },
+        "55EJ5G-BS": {
+            "description": "webOS4.0_M16++_Signage MR",
+            "notice": [
+                {
+                    "osSeq": "508876",
+                    "model": "55EJ5G-BS",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-1360_webOS4.0_M16++_Signage_MR_190107.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "508876",
+                    "model": "55EJ5G-BS",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS4.0_M16++_Signage_MR.zip"
+                }
+            ]
+        },
+        "55EJ5K-BJ": {
+            "description": "webOS4.0_M16++_Signage MR",
+            "notice": [
+                {
+                    "osSeq": "508876",
+                    "model": "55EJ5K-BJ",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-1360_webOS4.0_M16++_Signage_MR_190107.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "508876",
+                    "model": "55EJ5K-BJ",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS4.0_M16++_Signage_MR.zip"
+                }
+            ]
+        },
+        "55EJ5K-BP": {
+            "description": "webOS4.0_M16++_Signage MR",
+            "notice": [
+                {
+                    "osSeq": "508876",
+                    "model": "55EJ5K-BP",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-1360_webOS4.0_M16++_Signage_MR_190107.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "508876",
+                    "model": "55EJ5K-BP",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS4.0_M16++_Signage_MR.zip"
+                }
+            ]
+        }
+    },
+    "TV/AV>TV": {
+        "55ET960H0UA": {
+            "description": "webOS4.5_M16P3_CommercialTV",
+            "notice": [
+                {
+                    "osSeq": "509112",
+                    "model": "55ET960H0UA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-1526_webOS4.5_M16P3_CommercialTV_190513.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "509112",
+                    "model": "55ET960H0UA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS4.5_M16P3_CommercialTV.zip"
+                }
+            ]
+        },
+        "55ET961H0GA": {
+            "description": "webOS4.5_M16P3_CommercialTV",
+            "notice": [
+                {
+                    "osSeq": "509112",
+                    "model": "55ET961H0GA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-1526_webOS4.5_M16P3_CommercialTV_190513.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "509112",
+                    "model": "55ET961H0GA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS4.5_M16P3_CommercialTV.zip"
+                }
+            ]
+        },
+        "55ET961H0TA": {
+            "description": "webOS4.5_M16P3_CommercialTV",
+            "notice": [
+                {
+                    "osSeq": "509112",
+                    "model": "55ET961H0TA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-1526_webOS4.5_M16P3_CommercialTV_190513.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "509112",
+                    "model": "55ET961H0TA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS4.5_M16P3_CommercialTV.zip"
+                }
+            ]
+        }
+    }
+}

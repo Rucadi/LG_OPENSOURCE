@@ -1,0 +1,438 @@
+{
+    "TV/AV>Monitor/Signage": {
+        "LWBC039-GD": {
+            "description": "webOS4.0_M16++_Signage MR3",
+            "notice": [
+                {
+                    "osSeq": "510978",
+                    "model": "LWBC039-GD",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-4517_webOS4.0_M16++_Signage_MR3_220616.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "510978",
+                    "model": "LWBC039-GD",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS4.0_M16++_Signage_MR3.zip"
+                }
+            ]
+        },
+        "M275WV-PNN": {
+            "description": "Netcast 3.0 Low Platform",
+            "notice": [
+                {
+                    "osSeq": "506714",
+                    "model": "M275WV-PNN",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "120504-2012MTV-1.pdf"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "506714",
+                    "model": "M275WV-PNN",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "NetCast3.0LowMTV_Opensource.zip"
+                }
+            ]
+        },
+        "M275WV-PS": {
+            "description": "Netcast 3.0 Low Platform",
+            "notice": [
+                {
+                    "osSeq": "506714",
+                    "model": "M275WV-PS",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "120504-2012MTV-1.pdf"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "506714",
+                    "model": "M275WV-PS",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "NetCast3.0LowMTV_Opensource.zip"
+                }
+            ]
+        },
+        "MEDICAL CALIBRATION STUDIO - SERVER": {
+            "description": "Medical Calibration Studio - Server",
+            "notice": [
+                {
+                    "osSeq": "511210",
+                    "model": "MEDICAL CALIBRATION STUDIO - SERVER",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-4816_Medical Calibration Studio - Server_221216.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "511210",
+                    "model": "MEDICAL CALIBRATION STUDIO - SERVER",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "Medical Calibration Studio - Server.tar"
+                }
+            ]
+        },
+        "MLW-2750UHD": {
+            "description": "M_Platform_applied_models",
+            "notice": [
+                {
+                    "osSeq": "508050",
+                    "model": "MLW-2750UHD",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-695_M_Platform_2018_1.0_170821.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "508050",
+                    "model": "MLW-2750UHD",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "M_Platform_1.0_bign.zip"
+                }
+            ]
+        },
+        "MSAD-00712": {
+            "description": "webOS6.0_O20N_HomeLED",
+            "notice": [
+                {
+                    "osSeq": "510584",
+                    "model": "MSAD-00712",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-3724_webOS6.0_O20N_HomeLED_210820.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "510584",
+                    "model": "MSAD-00712",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS6.0_O20N_HomeLED_1.zip"
+                },
+                {
+                    "osSeq": "510584",
+                    "model": "MSAD-00712",
+                    "type": "Op",
+                    "fileId": "2",
+                    "filename": "webOS6.0_O20N_HomeLED_2.zip"
+                },
+                {
+                    "osSeq": "510584",
+                    "model": "MSAD-00712",
+                    "type": "Op",
+                    "fileId": "3",
+                    "filename": "webOS6.0_O20N_HomeLED_3.zip"
+                }
+            ]
+        },
+        "MSAD-0072": {
+            "description": "webOS6.0_O20N_HomeLED",
+            "notice": [
+                {
+                    "osSeq": "510584",
+                    "model": "MSAD-0072",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-3724_webOS6.0_O20N_HomeLED_210820.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "510584",
+                    "model": "MSAD-0072",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS6.0_O20N_HomeLED_1.zip"
+                },
+                {
+                    "osSeq": "510584",
+                    "model": "MSAD-0072",
+                    "type": "Op",
+                    "fileId": "2",
+                    "filename": "webOS6.0_O20N_HomeLED_2.zip"
+                },
+                {
+                    "osSeq": "510584",
+                    "model": "MSAD-0072",
+                    "type": "Op",
+                    "fileId": "3",
+                    "filename": "webOS6.0_O20N_HomeLED_3.zip"
+                }
+            ]
+        }
+    },
+    "TV/AV>TV": {
+        "MOBILE MAGIC REMOTE": {
+            "description": "Android app - Smartphone as remocon for LG webOS Smart TVU",
+            "notice": [
+                {
+                    "osSeq": "507020",
+                    "model": "MOBILE MAGIC REMOTE",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-151221-MobileMagicRemote-1.html"
+                }
+            ],
+            "source": []
+        },
+        "MSD3553NUA": {
+            "description": "2017 LGE ODM Open Source (BO)",
+            "notice": [
+                {
+                    "osSeq": "507889",
+                    "model": "MSD3553NUA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "No_OpenSource.txt"
+                }
+            ],
+            "source": []
+        },
+        "OLED42C21LA": {
+            "description": "webOS 22 O 1.0",
+            "notice": [
+                {
+                    "osSeq": "511211",
+                    "model": "OLED42C21LA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-3926_webOS 22 O_1.0_221219.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "511211",
+                    "model": "OLED42C21LA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS 22 O_1.0_1.tar.gz"
+                },
+                {
+                    "osSeq": "511211",
+                    "model": "OLED42C21LA",
+                    "type": "Op",
+                    "fileId": "2",
+                    "filename": "webOS 22 O_1.0_2.tar.gz"
+                },
+                {
+                    "osSeq": "511211",
+                    "model": "OLED42C21LA",
+                    "type": "Op",
+                    "fileId": "3",
+                    "filename": "webOS 22 O_1.0_3.tar.gz"
+                }
+            ]
+        }
+    },
+    "TV/AV>AV": {
+        "MUSIC FLOW BLUETOOTH FOR ANDROID": {
+            "description": "Music Flow Bluetooth for Android (latest)",
+            "notice": [
+                {
+                    "osSeq": "510094",
+                    "model": "MUSIC FLOW BLUETOOTH FOR ANDROID",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-3089_Music Flow Bluetooth for Android_1.0.8-_200922.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "510094",
+                    "model": "MUSIC FLOW BLUETOOTH FOR ANDROID",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "Music Flow Bluetooth for Android_1.0.8-.zip"
+                }
+            ]
+        },
+        "MUSIC FLOW BLUETOOTH FOR IOS": {
+            "description": "Music Flow Bluetooth for iOS (latest)",
+            "notice": [
+                {
+                    "osSeq": "510140",
+                    "model": "MUSIC FLOW BLUETOOTH FOR IOS",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-3051_Music Flow Bluetooth for iOS_0.5.9-_201026.html"
+                }
+            ],
+            "source": []
+        },
+        "MUSIC FLOW PLAYER FOR ANDROID": {
+            "description": "Music Flow Player for android (latest)",
+            "notice": [
+                {
+                    "osSeq": "510259",
+                    "model": "MUSIC FLOW PLAYER FOR ANDROID",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-3321_Music Flow Player (android)_1.9.84-_210106.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "510259",
+                    "model": "MUSIC FLOW PLAYER FOR ANDROID",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "Music Flow Player (android)_1.9.84-.zip"
+                }
+            ]
+        },
+        "MUSIC FLOW PLAYER FOR IOS": {
+            "description": "Music Flow Player for iOS (latest)",
+            "notice": [
+                {
+                    "osSeq": "510406",
+                    "model": "MUSIC FLOW PLAYER FOR IOS",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-3491_Music Flow Player for iOS_1.9.94-_210326.html"
+                }
+            ],
+            "source": []
+        },
+        "N90TY": {
+            "description": "24Y High-End SoundBar 230822-",
+            "notice": [
+                {
+                    "osSeq": "511524",
+                    "model": "N90TY",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-5723_24Y High-End SoundBar_230822-_231016.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "511524",
+                    "model": "N90TY",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "24Y High-End SoundBar_230822-.tar.gz"
+                }
+            ]
+        },
+        "NS40T": {
+            "description": "24Y Low-End SoundBar (S40T/S50TR/SK1D VI) 2308210- (latest)",
+            "notice": [
+                {
+                    "osSeq": "511505",
+                    "model": "NS40T",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-5756_24Y Low-End SoundBar (S40T_S50TR)_2308210-_230915.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "511505",
+                    "model": "NS40T",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "24Y Low-End SoundBar (S40T_S50TR)_2308210-.zip"
+                }
+            ]
+        },
+        "NS60T": {
+            "description": "24Y Low-End SoundBar (S40T/S50TR/SK1D VI) 2308210- (latest)",
+            "notice": [
+                {
+                    "osSeq": "511505",
+                    "model": "NS60T",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-5756_24Y Low-End SoundBar (S40T_S50TR)_2308210-_230915.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "511505",
+                    "model": "NS60T",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "24Y Low-End SoundBar (S40T_S50TR)_2308210-.zip"
+                }
+            ]
+        },
+        "NS60TR": {
+            "description": "24Y Low-End SoundBar (S40T/S50TR/SK1D VI) 2308210- (latest)",
+            "notice": [
+                {
+                    "osSeq": "511505",
+                    "model": "NS60TR",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-5756_24Y Low-End SoundBar (S40T_S50TR)_2308210-_230915.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "511505",
+                    "model": "NS60TR",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "24Y Low-End SoundBar (S40T_S50TR)_2308210-.zip"
+                }
+            ]
+        },
+        "NS95TR": {
+            "description": "24Y High-End SoundBar 230822-",
+            "notice": [
+                {
+                    "osSeq": "511524",
+                    "model": "NS95TR",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-5723_24Y High-End SoundBar_230822-_231016.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "511524",
+                    "model": "NS95TR",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "24Y High-End SoundBar_230822-.tar.gz"
+                }
+            ]
+        },
+        "NSG10TY": {
+            "description": "24Y High-End SoundBar 230822-",
+            "notice": [
+                {
+                    "osSeq": "511524",
+                    "model": "NSG10TY",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-5723_24Y High-End SoundBar_230822-_231016.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "511524",
+                    "model": "NSG10TY",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "24Y High-End SoundBar_230822-.tar.gz"
+                }
+            ]
+        }
+    }
+}

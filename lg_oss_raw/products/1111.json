@@ -1,0 +1,368 @@
+{
+    "TV/AV>TV": {
+        "75UT9050PCB": {
+            "description": "webOS 24 KLPNN 1.0_2303",
+            "notice": [
+                {
+                    "osSeq": "511659",
+                    "model": "75UT9050PCB",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-6515_webOS 24 KLPNN_1.0_2303_240326.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "511659",
+                    "model": "75UT9050PCB",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS 24 KLPNN_1.0_2303_1.tar.gz"
+                },
+                {
+                    "osSeq": "511659",
+                    "model": "75UT9050PCB",
+                    "type": "Op",
+                    "fileId": "2",
+                    "filename": "webOS 24 KLPNN_1.0_2303_2.tar.gz"
+                },
+                {
+                    "osSeq": "511659",
+                    "model": "75UT9050PCB",
+                    "type": "Op",
+                    "fileId": "3",
+                    "filename": "webOS 24 KLPNN_1.0_2303_3.tar.gz"
+                }
+            ]
+        },
+        "75UT9050PSA": {
+            "description": "webOS 24 KLPNN 1.0_2303",
+            "notice": [
+                {
+                    "osSeq": "511659",
+                    "model": "75UT9050PSA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-6515_webOS 24 KLPNN_1.0_2303_240326.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "511659",
+                    "model": "75UT9050PSA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS 24 KLPNN_1.0_2303_1.tar.gz"
+                },
+                {
+                    "osSeq": "511659",
+                    "model": "75UT9050PSA",
+                    "type": "Op",
+                    "fileId": "2",
+                    "filename": "webOS 24 KLPNN_1.0_2303_2.tar.gz"
+                },
+                {
+                    "osSeq": "511659",
+                    "model": "75UT9050PSA",
+                    "type": "Op",
+                    "fileId": "3",
+                    "filename": "webOS 24 KLPNN_1.0_2303_3.tar.gz"
+                }
+            ]
+        },
+        "75UT9050PSB": {
+            "description": "webOS 24 KLPNN 1.0_2303",
+            "notice": [
+                {
+                    "osSeq": "511659",
+                    "model": "75UT9050PSB",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-6515_webOS 24 KLPNN_1.0_2303_240326.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "511659",
+                    "model": "75UT9050PSB",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS 24 KLPNN_1.0_2303_1.tar.gz"
+                },
+                {
+                    "osSeq": "511659",
+                    "model": "75UT9050PSB",
+                    "type": "Op",
+                    "fileId": "2",
+                    "filename": "webOS 24 KLPNN_1.0_2303_2.tar.gz"
+                },
+                {
+                    "osSeq": "511659",
+                    "model": "75UT9050PSB",
+                    "type": "Op",
+                    "fileId": "3",
+                    "filename": "webOS 24 KLPNN_1.0_2303_3.tar.gz"
+                }
+            ]
+        },
+        "75UT91003LA": {
+            "description": "webOS 24 KLPNN 1.0_2303",
+            "notice": [
+                {
+                    "osSeq": "511659",
+                    "model": "75UT91003LA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-6515_webOS 24 KLPNN_1.0_2303_240326.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "511659",
+                    "model": "75UT91003LA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS 24 KLPNN_1.0_2303_1.tar.gz"
+                },
+                {
+                    "osSeq": "511659",
+                    "model": "75UT91003LA",
+                    "type": "Op",
+                    "fileId": "2",
+                    "filename": "webOS 24 KLPNN_1.0_2303_2.tar.gz"
+                },
+                {
+                    "osSeq": "511659",
+                    "model": "75UT91003LA",
+                    "type": "Op",
+                    "fileId": "3",
+                    "filename": "webOS 24 KLPNN_1.0_2303_3.tar.gz"
+                }
+            ]
+        },
+        "75UT91006LA": {
+            "description": "webOS 24 KLPNN 1.0_2303",
+            "notice": [
+                {
+                    "osSeq": "511659",
+                    "model": "75UT91006LA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-6515_webOS 24 KLPNN_1.0_2303_240326.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "511659",
+                    "model": "75UT91006LA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS 24 KLPNN_1.0_2303_1.tar.gz"
+                },
+                {
+                    "osSeq": "511659",
+                    "model": "75UT91006LA",
+                    "type": "Op",
+                    "fileId": "2",
+                    "filename": "webOS 24 KLPNN_1.0_2303_2.tar.gz"
+                },
+                {
+                    "osSeq": "511659",
+                    "model": "75UT91006LA",
+                    "type": "Op",
+                    "fileId": "3",
+                    "filename": "webOS 24 KLPNN_1.0_2303_3.tar.gz"
+                }
+            ]
+        },
+        "75UT9150PTA": {
+            "description": "webOS 24 KLPNN 1.0_2303",
+            "notice": [
+                {
+                    "osSeq": "511659",
+                    "model": "75UT9150PTA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-6515_webOS 24 KLPNN_1.0_2303_240326.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "511659",
+                    "model": "75UT9150PTA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS 24 KLPNN_1.0_2303_1.tar.gz"
+                },
+                {
+                    "osSeq": "511659",
+                    "model": "75UT9150PTA",
+                    "type": "Op",
+                    "fileId": "2",
+                    "filename": "webOS 24 KLPNN_1.0_2303_2.tar.gz"
+                },
+                {
+                    "osSeq": "511659",
+                    "model": "75UT9150PTA",
+                    "type": "Op",
+                    "fileId": "3",
+                    "filename": "webOS 24 KLPNN_1.0_2303_3.tar.gz"
+                }
+            ]
+        },
+        "75UT9300BNA": {
+            "description": "webOS 24 KLPNN 1.0_2303",
+            "notice": [
+                {
+                    "osSeq": "511659",
+                    "model": "75UT9300BNA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-6515_webOS 24 KLPNN_1.0_2303_240326.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "511659",
+                    "model": "75UT9300BNA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS 24 KLPNN_1.0_2303_1.tar.gz"
+                },
+                {
+                    "osSeq": "511659",
+                    "model": "75UT9300BNA",
+                    "type": "Op",
+                    "fileId": "2",
+                    "filename": "webOS 24 KLPNN_1.0_2303_2.tar.gz"
+                },
+                {
+                    "osSeq": "511659",
+                    "model": "75UT9300BNA",
+                    "type": "Op",
+                    "fileId": "3",
+                    "filename": "webOS 24 KLPNN_1.0_2303_3.tar.gz"
+                }
+            ]
+        },
+        "75UT9300KNA": {
+            "description": "webOS 24 KLPNN 1.0_2303",
+            "notice": [
+                {
+                    "osSeq": "511659",
+                    "model": "75UT9300KNA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-6515_webOS 24 KLPNN_1.0_2303_240326.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "511659",
+                    "model": "75UT9300KNA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS 24 KLPNN_1.0_2303_1.tar.gz"
+                },
+                {
+                    "osSeq": "511659",
+                    "model": "75UT9300KNA",
+                    "type": "Op",
+                    "fileId": "2",
+                    "filename": "webOS 24 KLPNN_1.0_2303_2.tar.gz"
+                },
+                {
+                    "osSeq": "511659",
+                    "model": "75UT9300KNA",
+                    "type": "Op",
+                    "fileId": "3",
+                    "filename": "webOS 24 KLPNN_1.0_2303_3.tar.gz"
+                }
+            ]
+        },
+        "75UU340C-UB": {
+            "description": "webOS3.5_M16+_CommercialTV",
+            "notice": [
+                {
+                    "osSeq": "507936",
+                    "model": "75UU340C-UB",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-537_webOS3.5 M16+ Commercial TV _170912.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "507936",
+                    "model": "75UU340C-UB",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS3.5_M16+_CTV_OpenSource_V1.1.zip"
+                }
+            ]
+        },
+        "75UU640C-SB": {
+            "description": "webOS4.0_M16++_TV Signage",
+            "notice": [
+                {
+                    "osSeq": "508600",
+                    "model": "75UU640C-SB",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-1073_webOS4.0_M16++_TV Signage_180604.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "508600",
+                    "model": "75UU640C-SB",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS4.0_M16++_TV Signage.zip"
+                }
+            ]
+        },
+        "75UU640C-TB": {
+            "description": "webOS4.0_M16++_TV Signage",
+            "notice": [
+                {
+                    "osSeq": "508600",
+                    "model": "75UU640C-TB",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-1073_webOS4.0_M16++_TV Signage_180604.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "508600",
+                    "model": "75UU640C-TB",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS4.0_M16++_TV Signage.zip"
+                }
+            ]
+        },
+        "75UU660H-CB": {
+            "description": "HCAP API",
+            "notice": [
+                {
+                    "osSeq": "507349",
+                    "model": "75UU660H-CB",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-160516-HCAPAPI-1.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "507349",
+                    "model": "75UU660H-CB",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "HCAP_OpenSource_V1.0.zip"
+                }
+            ]
+        }
+    }
+}

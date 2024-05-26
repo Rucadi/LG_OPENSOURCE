@@ -1,0 +1,258 @@
+{
+    "TV/AV>TV": {
+        "42LY970H-UA": {
+            "description": "webOS_M14_Commercial TV",
+            "notice": [
+                {
+                    "osSeq": "17160",
+                    "model": "42LY970H-UA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-141114-webOS_M14_CommercialTV-1.pdf"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "17160",
+                    "model": "42LY970H-UA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS_M14_CTV_OpenSource_v1.0.zip"
+                }
+            ]
+        },
+        "42UB7000-SH": {
+            "description": "NetCast4.5 LM LGE TV Open Source",
+            "notice": [
+                {
+                    "osSeq": "506625",
+                    "model": "42UB7000-SH",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-140925-NetCast4_5LM-2.pdf"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "506625",
+                    "model": "42UB7000-SH",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "NetCast4.5_LM_CO_FI-4.zip"
+                }
+            ]
+        },
+        "42UB700T-DH": {
+            "description": "NetCast4.5 LM LGE TV Open Source",
+            "notice": [
+                {
+                    "osSeq": "506625",
+                    "model": "42UB700T-DH",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-140925-NetCast4_5LM-2.pdf"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "506625",
+                    "model": "42UB700T-DH",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "NetCast4.5_LM_CO_FI-4.zip"
+                }
+            ]
+        },
+        "42UB700T-TH": {
+            "description": "NetCast4.5 LM LGE TV Open Source",
+            "notice": [
+                {
+                    "osSeq": "506625",
+                    "model": "42UB700T-TH",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-140925-NetCast4_5LM-2.pdf"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "506625",
+                    "model": "42UB700T-TH",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "NetCast4.5_LM_CO_FI-4.zip"
+                }
+            ]
+        },
+        "42UB7900-CA": {
+            "description": "NetCast4.5 LM LGE TV Open Source",
+            "notice": [
+                {
+                    "osSeq": "506625",
+                    "model": "42UB7900-CA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-140925-NetCast4_5LM-2.pdf"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "506625",
+                    "model": "42UB7900-CA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "NetCast4.5_LM_CO_FI-4.zip"
+                }
+            ]
+        },
+        "42UB8200-CA": {
+            "description": "NetCast4.5 LM LGE TV Open Source",
+            "notice": [
+                {
+                    "osSeq": "506625",
+                    "model": "42UB8200-CA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-140925-NetCast4_5LM-2.pdf"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "506625",
+                    "model": "42UB8200-CA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "NetCast4.5_LM_CO_FI-4.zip"
+                }
+            ]
+        },
+        "42UB8200-CB": {
+            "description": "NetCast4.5 LM LGE TV Open Source",
+            "notice": [
+                {
+                    "osSeq": "506625",
+                    "model": "42UB8200-CB",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-140925-NetCast4_5LM-2.pdf"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "506625",
+                    "model": "42UB8200-CB",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "NetCast4.5_LM_CO_FI-4.zip"
+                }
+            ]
+        },
+        "42UB8200-CF": {
+            "description": "NetCast4.5 LM LGE TV Open Source",
+            "notice": [
+                {
+                    "osSeq": "506625",
+                    "model": "42UB8200-CF",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-140925-NetCast4_5LM-2.pdf"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "506625",
+                    "model": "42UB8200-CF",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "NetCast4.5_LM_CO_FI-4.zip"
+                }
+            ]
+        },
+        "42UB8200-CH": {
+            "description": "NetCast4.5 LM LGE TV Open Source",
+            "notice": [
+                {
+                    "osSeq": "506625",
+                    "model": "42UB8200-CH",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-140925-NetCast4_5LM-2.pdf"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "506625",
+                    "model": "42UB8200-CH",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "NetCast4.5_LM_CO_FI-4.zip"
+                }
+            ]
+        },
+        "42UB8200-NH": {
+            "description": "NetCast4.5 LM LGE TV Chromium Source",
+            "notice": [
+                {
+                    "osSeq": "506624",
+                    "model": "42UB8200-NH",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-140925-NetCast4_5LM-2.pdf"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "506624",
+                    "model": "42UB8200-NH",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "chromium_open_src2_4.5LM.tar.gz"
+                }
+            ]
+        }
+    },
+    "TV/AV>Monitor/Signage": {
+        "42SH7DB-BE": {
+            "description": "L15_M1A_Signage Open Source",
+            "notice": [
+                {
+                    "osSeq": "506463",
+                    "model": "42SH7DB-BE",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-150128-L15_M1A_Signage-2.pdf"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "506463",
+                    "model": "42SH7DB-BE",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "L15_M1A_Commercial_Signage_Opensource_v1.1.zip"
+                }
+            ]
+        },
+        "42SH7DB-ME": {
+            "description": "L15_M1A_Signage Open Source",
+            "notice": [
+                {
+                    "osSeq": "506463",
+                    "model": "42SH7DB-ME",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-150128-L15_M1A_Signage-2.pdf"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "506463",
+                    "model": "42SH7DB-ME",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "L15_M1A_Commercial_Signage_Opensource_v1.1.zip"
+                }
+            ]
+        }
+    }
+}

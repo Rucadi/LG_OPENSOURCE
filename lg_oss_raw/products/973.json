@@ -1,0 +1,354 @@
+{
+    "TV/AV>TV": {
+        "65UQ801C0SB": {
+            "description": "webOS 22 LMAN (Commercial)",
+            "notice": [
+                {
+                    "osSeq": "511299",
+                    "model": "65UQ801C0SB",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-4593_webOS 22 LMAN (Commercial)_230310.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "511299",
+                    "model": "65UQ801C0SB",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS 22 LMAN (Commercial)_1.tar.gz"
+                },
+                {
+                    "osSeq": "511299",
+                    "model": "65UQ801C0SB",
+                    "type": "Op",
+                    "fileId": "2",
+                    "filename": "webOS 22 LMAN (Commercial)_2.tar.gz"
+                },
+                {
+                    "osSeq": "511299",
+                    "model": "65UQ801C0SB",
+                    "type": "Op",
+                    "fileId": "3",
+                    "filename": "webOS 22 LMAN (Commercial)_3.tar.gz"
+                }
+            ]
+        },
+        "65UQ8020PSB": {
+            "description": "webOS 22 LMAN 2.0",
+            "notice": [
+                {
+                    "osSeq": "511325",
+                    "model": "65UQ8020PSB",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-5240_webOS 22 LMAN_2.0_230321.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "511325",
+                    "model": "65UQ8020PSB",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS 22 LMAN_2.0_1.tar.gz"
+                },
+                {
+                    "osSeq": "511325",
+                    "model": "65UQ8020PSB",
+                    "type": "Op",
+                    "fileId": "2",
+                    "filename": "webOS 22 LMAN_2.0_2.tar.gz"
+                },
+                {
+                    "osSeq": "511325",
+                    "model": "65UQ8020PSB",
+                    "type": "Op",
+                    "fileId": "3",
+                    "filename": "webOS 22 LMAN_2.0_3.tar.gz"
+                }
+            ]
+        },
+        "65UQ8020PSK": {
+            "description": "webOS 22 KLP 2.0",
+            "notice": [
+                {
+                    "osSeq": "511322",
+                    "model": "65UQ8020PSK",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-5239_webOS 22 KLP_2.0_230321.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "511322",
+                    "model": "65UQ8020PSK",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS 22 KLP_2.0_1.tar.gz"
+                },
+                {
+                    "osSeq": "511322",
+                    "model": "65UQ8020PSK",
+                    "type": "Op",
+                    "fileId": "2",
+                    "filename": "webOS 22 KLP_2.0_2.tar.gz"
+                }
+            ]
+        },
+        "65UQ8040PSB": {
+            "description": "webOS 22 LMAN 2.0",
+            "notice": [
+                {
+                    "osSeq": "511325",
+                    "model": "65UQ8040PSB",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-5240_webOS 22 LMAN_2.0_230321.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "511325",
+                    "model": "65UQ8040PSB",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS 22 LMAN_2.0_1.tar.gz"
+                },
+                {
+                    "osSeq": "511325",
+                    "model": "65UQ8040PSB",
+                    "type": "Op",
+                    "fileId": "2",
+                    "filename": "webOS 22 LMAN_2.0_2.tar.gz"
+                },
+                {
+                    "osSeq": "511325",
+                    "model": "65UQ8040PSB",
+                    "type": "Op",
+                    "fileId": "3",
+                    "filename": "webOS 22 LMAN_2.0_3.tar.gz"
+                }
+            ]
+        },
+        "65UQ8040PSK": {
+            "description": "webOS 22 KLP 2.0",
+            "notice": [
+                {
+                    "osSeq": "511322",
+                    "model": "65UQ8040PSK",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-5239_webOS 22 KLP_2.0_230321.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "511322",
+                    "model": "65UQ8040PSK",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS 22 KLP_2.0_1.tar.gz"
+                },
+                {
+                    "osSeq": "511322",
+                    "model": "65UQ8040PSK",
+                    "type": "Op",
+                    "fileId": "2",
+                    "filename": "webOS 22 KLP_2.0_2.tar.gz"
+                }
+            ]
+        },
+        "65UQ8050PSB": {
+            "description": "webOS 22 LMAN 2.0",
+            "notice": [
+                {
+                    "osSeq": "511325",
+                    "model": "65UQ8050PSB",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-5240_webOS 22 LMAN_2.0_230321.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "511325",
+                    "model": "65UQ8050PSB",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS 22 LMAN_2.0_1.tar.gz"
+                },
+                {
+                    "osSeq": "511325",
+                    "model": "65UQ8050PSB",
+                    "type": "Op",
+                    "fileId": "2",
+                    "filename": "webOS 22 LMAN_2.0_2.tar.gz"
+                },
+                {
+                    "osSeq": "511325",
+                    "model": "65UQ8050PSB",
+                    "type": "Op",
+                    "fileId": "3",
+                    "filename": "webOS 22 LMAN_2.0_3.tar.gz"
+                }
+            ]
+        },
+        "65UQ8050PSK": {
+            "description": "webOS 22 KLP 2.0",
+            "notice": [
+                {
+                    "osSeq": "511322",
+                    "model": "65UQ8050PSK",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-5239_webOS 22 KLP_2.0_230321.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "511322",
+                    "model": "65UQ8050PSK",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS 22 KLP_2.0_1.tar.gz"
+                },
+                {
+                    "osSeq": "511322",
+                    "model": "65UQ8050PSK",
+                    "type": "Op",
+                    "fileId": "2",
+                    "filename": "webOS 22 KLP_2.0_2.tar.gz"
+                }
+            ]
+        },
+        "65UQ81003LA": {
+            "description": "webOS 22 LMAN 2.0",
+            "notice": [
+                {
+                    "osSeq": "511325",
+                    "model": "65UQ81003LA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-5240_webOS 22 LMAN_2.0_230321.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "511325",
+                    "model": "65UQ81003LA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS 22 LMAN_2.0_1.tar.gz"
+                },
+                {
+                    "osSeq": "511325",
+                    "model": "65UQ81003LA",
+                    "type": "Op",
+                    "fileId": "2",
+                    "filename": "webOS 22 LMAN_2.0_2.tar.gz"
+                },
+                {
+                    "osSeq": "511325",
+                    "model": "65UQ81003LA",
+                    "type": "Op",
+                    "fileId": "3",
+                    "filename": "webOS 22 LMAN_2.0_3.tar.gz"
+                }
+            ]
+        },
+        "65UQ81003LB": {
+            "description": "webOS 22 LMAN 2.0",
+            "notice": [
+                {
+                    "osSeq": "511325",
+                    "model": "65UQ81003LB",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-5240_webOS 22 LMAN_2.0_230321.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "511325",
+                    "model": "65UQ81003LB",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS 22 LMAN_2.0_1.tar.gz"
+                },
+                {
+                    "osSeq": "511325",
+                    "model": "65UQ81003LB",
+                    "type": "Op",
+                    "fileId": "2",
+                    "filename": "webOS 22 LMAN_2.0_2.tar.gz"
+                },
+                {
+                    "osSeq": "511325",
+                    "model": "65UQ81003LB",
+                    "type": "Op",
+                    "fileId": "3",
+                    "filename": "webOS 22 LMAN_2.0_3.tar.gz"
+                }
+            ]
+        },
+        "65UQ81003LJ": {
+            "description": "webOS 22 KLP 2.0",
+            "notice": [
+                {
+                    "osSeq": "511322",
+                    "model": "65UQ81003LJ",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-5239_webOS 22 KLP_2.0_230321.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "511322",
+                    "model": "65UQ81003LJ",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS 22 KLP_2.0_1.tar.gz"
+                },
+                {
+                    "osSeq": "511322",
+                    "model": "65UQ81003LJ",
+                    "type": "Op",
+                    "fileId": "2",
+                    "filename": "webOS 22 KLP_2.0_2.tar.gz"
+                }
+            ]
+        },
+        "65UQ81003LK": {
+            "description": "webOS 22 KLP 1.0",
+            "notice": [
+                {
+                    "osSeq": "510782",
+                    "model": "65UQ81003LK",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-3983_webOS 22 KLP_1.0_220118.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "510782",
+                    "model": "65UQ81003LK",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS 22 KLP_1.0_1.tar.gz"
+                },
+                {
+                    "osSeq": "510782",
+                    "model": "65UQ81003LK",
+                    "type": "Op",
+                    "fileId": "2",
+                    "filename": "webOS 22 KLP_1.0_2.tar.gz"
+                }
+            ]
+        }
+    }
+}

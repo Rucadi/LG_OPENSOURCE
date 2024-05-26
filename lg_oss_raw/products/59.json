@@ -1,0 +1,426 @@
+{
+    "TV/AV>Monitor/Signage": {
+        "27UQ850-WT": {
+            "description": "M_Odinson_Leona2_Nxp",
+            "notice": [
+                {
+                    "osSeq": "509858",
+                    "model": "27UQ850-WT",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-862_18Y_M_Odinson_4K_200324.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "509858",
+                    "model": "27UQ850-WT",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "18Y_M_Odinson_4K.zip"
+                }
+            ]
+        },
+        "27UQ850-WY": {
+            "description": "M_Odinson_Leona2_Nxp",
+            "notice": [
+                {
+                    "osSeq": "509858",
+                    "model": "27UQ850-WY",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-862_18Y_M_Odinson_4K_200324.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "509858",
+                    "model": "27UQ850-WY",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "18Y_M_Odinson_4K.zip"
+                }
+            ]
+        },
+        "27UQ850V-WT": {
+            "description": "M_Odinson_Leona2_Nxp",
+            "notice": [
+                {
+                    "osSeq": "509858",
+                    "model": "27UQ850V-WT",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-862_18Y_M_Odinson_4K_200324.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "509858",
+                    "model": "27UQ850V-WT",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "18Y_M_Odinson_4K.zip"
+                }
+            ]
+        },
+        "27UQ85R-WT": {
+            "description": "M_Odinson_Leona2_Nxp",
+            "notice": [
+                {
+                    "osSeq": "509858",
+                    "model": "27UQ85R-WT",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-862_18Y_M_Odinson_4K_200324.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "509858",
+                    "model": "27UQ85R-WT",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "18Y_M_Odinson_4K.zip"
+                }
+            ]
+        },
+        "27VRN71C-BF": {
+            "description": "M_Platform_applied_models",
+            "notice": [
+                {
+                    "osSeq": "508050",
+                    "model": "27VRN71C-BF",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-695_M_Platform_2018_1.0_170821.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "508050",
+                    "model": "27VRN71C-BF",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "M_Platform_1.0_bign.zip"
+                }
+            ]
+        },
+        "28BQ750-CY": {
+            "description": "M_Odinson_Leona2_Nxp",
+            "notice": [
+                {
+                    "osSeq": "509858",
+                    "model": "28BQ750-CY",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-862_18Y_M_Odinson_4K_200324.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "509858",
+                    "model": "28BQ750-CY",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "18Y_M_Odinson_4K.zip"
+                }
+            ]
+        },
+        "28BQ780-BY": {
+            "description": "M_Odinson_Leona2_Nxp",
+            "notice": [
+                {
+                    "osSeq": "509858",
+                    "model": "28BQ780-BY",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-862_18Y_M_Odinson_4K_200324.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "509858",
+                    "model": "28BQ780-BY",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "18Y_M_Odinson_4K.zip"
+                }
+            ]
+        },
+        "28LB600B-14": {
+            "description": "L14 Platform_MTV",
+            "notice": [
+                {
+                    "osSeq": "10340",
+                    "model": "28LB600B-14",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "140306-L14_M1A_MTV_v0.2.pdf"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "10340",
+                    "model": "28LB600B-14",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "20141223144029_5.0_L_CO_FI_2014_Monitor.zip"
+                }
+            ]
+        }
+    },
+    "TV/AV>TV": {
+        "28LB4500-TC": {
+            "description": "5.0L LGE MTV Open Source",
+            "notice": [
+                {
+                    "osSeq": "11240",
+                    "model": "28LB4500-TC",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "140306-L14_M1A_MTV_v0.2.pdf"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "11240",
+                    "model": "28LB4500-TC",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "5.0L LGE MTV Open Source-v1.2.zip"
+                }
+            ]
+        },
+        "28LB450A-TA": {
+            "description": "5.0UL LGE MTV Open Source",
+            "notice": [
+                {
+                    "osSeq": "11241",
+                    "model": "28LB450A-TA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-140522-M8RR_MTV-1.pdf"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "11241",
+                    "model": "28LB450A-TA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "N/A"
+                }
+            ]
+        },
+        "28LB450A-TB": {
+            "description": "5.0UL LGE MTV Open Source",
+            "notice": [
+                {
+                    "osSeq": "11241",
+                    "model": "28LB450A-TB",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-140522-M8RR_MTV-1.pdf"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "11241",
+                    "model": "28LB450A-TB",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "N/A"
+                }
+            ]
+        },
+        "28LB450B-ZB": {
+            "description": "5.0L LGE MTV Open Source",
+            "notice": [
+                {
+                    "osSeq": "11240",
+                    "model": "28LB450B-ZB",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "140306-L14_M1A_MTV_v0.2.pdf"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "11240",
+                    "model": "28LB450B-ZB",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "5.0L LGE MTV Open Source-v1.2.zip"
+                }
+            ]
+        },
+        "28LB450U-ZB": {
+            "description": "5.0L LGE MTV Open Source",
+            "notice": [
+                {
+                    "osSeq": "11240",
+                    "model": "28LB450U-ZB",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "140306-L14_M1A_MTV_v0.2.pdf"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "11240",
+                    "model": "28LB450U-ZB",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "5.0L LGE MTV Open Source-v1.2.zip"
+                }
+            ]
+        },
+        "28LB451A-TA": {
+            "description": "5.0UL LGE MTV Open Source",
+            "notice": [
+                {
+                    "osSeq": "11241",
+                    "model": "28LB451A-TA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-140522-M8RR_MTV-1.pdf"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "11241",
+                    "model": "28LB451A-TA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "N/A"
+                }
+            ]
+        },
+        "28LB452A-TB": {
+            "description": "5.0UL LGE MTV Open Source",
+            "notice": [
+                {
+                    "osSeq": "11241",
+                    "model": "28LB452A-TB",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-140522-M8RR_MTV-1.pdf"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "11241",
+                    "model": "28LB452A-TB",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "N/A"
+                }
+            ]
+        },
+        "28LB453A-TE": {
+            "description": "5.0UL LGE MTV Open Source",
+            "notice": [
+                {
+                    "osSeq": "11241",
+                    "model": "28LB453A-TE",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-140522-M8RR_MTV-1.pdf"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "11241",
+                    "model": "28LB453A-TE",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "N/A"
+                }
+            ]
+        },
+        "28LB455A-TE": {
+            "description": "5.0UL LGE MTV Open Source",
+            "notice": [
+                {
+                    "osSeq": "11241",
+                    "model": "28LB455A-TE",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-140522-M8RR_MTV-1.pdf"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "11241",
+                    "model": "28LB455A-TE",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "N/A"
+                }
+            ]
+        },
+        "28LB457B-ZF": {
+            "description": "5.0L LGE MTV Open Source",
+            "notice": [
+                {
+                    "osSeq": "11240",
+                    "model": "28LB457B-ZF",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "140306-L14_M1A_MTV_v0.2.pdf"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "11240",
+                    "model": "28LB457B-ZF",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "5.0L LGE MTV Open Source-v1.2.zip"
+                }
+            ]
+        },
+        "28LB457U-ZF": {
+            "description": "5.0L LGE MTV Open Source",
+            "notice": [
+                {
+                    "osSeq": "11240",
+                    "model": "28LB457U-ZF",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "140306-L14_M1A_MTV_v0.2.pdf"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "11240",
+                    "model": "28LB457U-ZF",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "5.0L LGE MTV Open Source-v1.2.zip"
+                }
+            ]
+        },
+        "28LB515A-TH": {
+            "description": "5.0UL LGE MTV Open Source",
+            "notice": [
+                {
+                    "osSeq": "11241",
+                    "model": "28LB515A-TH",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-140522-M8RR_MTV-1.pdf"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "11241",
+                    "model": "28LB515A-TH",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "N/A"
+                }
+            ]
+        }
+    }
+}

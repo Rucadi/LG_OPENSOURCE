@@ -1,0 +1,426 @@
+{
+    "TV/AV>Monitor/Signage": {
+        "43UH5N-EP": {
+            "description": "webOS6.0_M16P3_Signage MR5",
+            "notice": [
+                {
+                    "osSeq": "511336",
+                    "model": "43UH5N-EP",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-5298_webOS6.0_M16P3_Signage_MR5_230403.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "511336",
+                    "model": "43UH5N-EP",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS6.0_M16P3_Signage_MR5.zip"
+                }
+            ]
+        }
+    },
+    "TV/AV>TV": {
+        "43UH6000-SG": {
+            "description": "webOS DKLP LGE Open Source",
+            "notice": [
+                {
+                    "osSeq": "507044",
+                    "model": "43UH6000-SG",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-161110-webOSDKLP-4.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "507044",
+                    "model": "43UH6000-SG",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "DKLP-r3173.tar.gz"
+                }
+            ]
+        },
+        "43UH6030-SB": {
+            "description": "webOS DKLP LGE Open Source",
+            "notice": [
+                {
+                    "osSeq": "507044",
+                    "model": "43UH6030-SB",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-161110-webOSDKLP-4.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "507044",
+                    "model": "43UH6030-SB",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "DKLP-r3173.tar.gz"
+                }
+            ]
+        },
+        "43UH6030-UB": {
+            "description": "webOS DKLP LGE Open Source",
+            "notice": [
+                {
+                    "osSeq": "507044",
+                    "model": "43UH6030-UB",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-161110-webOSDKLP-4.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "507044",
+                    "model": "43UH6030-UB",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "DKLP-r3173.tar.gz"
+                }
+            ]
+        },
+        "43UH6030-UD": {
+            "description": "webOS DKLP LGE Open Source",
+            "notice": [
+                {
+                    "osSeq": "507044",
+                    "model": "43UH6030-UD",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-161110-webOSDKLP-4.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "507044",
+                    "model": "43UH6030-UD",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "DKLP-r3173.tar.gz"
+                }
+            ]
+        },
+        "43UH603T-DB": {
+            "description": "webOS DKLP LGE Open Source",
+            "notice": [
+                {
+                    "osSeq": "507044",
+                    "model": "43UH603T-DB",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-161110-webOSDKLP-4.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "507044",
+                    "model": "43UH603T-DB",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "DKLP-r3173.tar.gz"
+                }
+            ]
+        },
+        "43UH603V-TD": {
+            "description": "webOS DKLP LGE Open Source",
+            "notice": [
+                {
+                    "osSeq": "507044",
+                    "model": "43UH603V-TD",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-161110-webOSDKLP-4.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "507044",
+                    "model": "43UH603V-TD",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "DKLP-r3173.tar.gz"
+                }
+            ]
+        },
+        "43UH603V-ZE": {
+            "description": "webOS DKLP LGE Open Source",
+            "notice": [
+                {
+                    "osSeq": "507044",
+                    "model": "43UH603V-ZE",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-161110-webOSDKLP-4.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "507044",
+                    "model": "43UH603V-ZE",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "DKLP-r3173.tar.gz"
+                }
+            ]
+        },
+        "43UH603Y-TD": {
+            "description": "webOS DKLP LGE Open Source",
+            "notice": [
+                {
+                    "osSeq": "507044",
+                    "model": "43UH603Y-TD",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-161110-webOSDKLP-4.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "507044",
+                    "model": "43UH603Y-TD",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "DKLP-r3173.tar.gz"
+                }
+            ]
+        },
+        "43UH6088-CK": {
+            "description": "webOS DKLP LGE Open Source",
+            "notice": [
+                {
+                    "osSeq": "507044",
+                    "model": "43UH6088-CK",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-161110-webOSDKLP-4.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "507044",
+                    "model": "43UH6088-CK",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "DKLP-r3173.tar.gz"
+                }
+            ]
+        },
+        "43UH6100-CB": {
+            "description": "webOS DKLP LGE Open Source",
+            "notice": [
+                {
+                    "osSeq": "507044",
+                    "model": "43UH6100-CB",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-161110-webOSDKLP-4.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "507044",
+                    "model": "43UH6100-CB",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "DKLP-r3173.tar.gz"
+                }
+            ]
+        },
+        "43UH6100-JE": {
+            "description": "webOS DKLP LGE Open Source",
+            "notice": [
+                {
+                    "osSeq": "507044",
+                    "model": "43UH6100-JE",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-161110-webOSDKLP-4.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "507044",
+                    "model": "43UH6100-JE",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "DKLP-r3173.tar.gz"
+                }
+            ]
+        },
+        "43UH6100-PB": {
+            "description": "webOS DKLP LGE Open Source",
+            "notice": [
+                {
+                    "osSeq": "507044",
+                    "model": "43UH6100-PB",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-161110-webOSDKLP-4.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "507044",
+                    "model": "43UH6100-PB",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "DKLP-r3173.tar.gz"
+                }
+            ]
+        },
+        "43UH6100-SF": {
+            "description": "webOS DKLP LGE Open Source",
+            "notice": [
+                {
+                    "osSeq": "507044",
+                    "model": "43UH6100-SF",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-161110-webOSDKLP-4.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "507044",
+                    "model": "43UH6100-SF",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "DKLP-r3173.tar.gz"
+                }
+            ]
+        },
+        "43UH6100-SJ": {
+            "description": "webOS DKLP LGE Open Source",
+            "notice": [
+                {
+                    "osSeq": "507044",
+                    "model": "43UH6100-SJ",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-161110-webOSDKLP-4.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "507044",
+                    "model": "43UH6100-SJ",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "DKLP-r3173.tar.gz"
+                }
+            ]
+        },
+        "43UH6100-UH": {
+            "description": "webOS DKLP LGE Open Source",
+            "notice": [
+                {
+                    "osSeq": "507044",
+                    "model": "43UH6100-UH",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-161110-webOSDKLP-4.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "507044",
+                    "model": "43UH6100-UH",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "DKLP-r3173.tar.gz"
+                }
+            ]
+        },
+        "43UH6107-ZB": {
+            "description": "webOS DKLP LGE Open Source",
+            "notice": [
+                {
+                    "osSeq": "507044",
+                    "model": "43UH6107-ZB",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-161110-webOSDKLP-4.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "507044",
+                    "model": "43UH6107-ZB",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "DKLP-r3173.tar.gz"
+                }
+            ]
+        },
+        "43UH6109-ZB": {
+            "description": "webOS DKLP LGE Open Source",
+            "notice": [
+                {
+                    "osSeq": "507044",
+                    "model": "43UH6109-ZB",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-161110-webOSDKLP-4.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "507044",
+                    "model": "43UH6109-ZB",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "DKLP-r3173.tar.gz"
+                }
+            ]
+        },
+        "43UH610A-UJ": {
+            "description": "webOS DKLP LGE Open Source",
+            "notice": [
+                {
+                    "osSeq": "507044",
+                    "model": "43UH610A-UJ",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-161110-webOSDKLP-4.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "507044",
+                    "model": "43UH610A-UJ",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "DKLP-r3173.tar.gz"
+                }
+            ]
+        },
+        "43UH610N-ZB": {
+            "description": "webOS DKLP LGE Open Source",
+            "notice": [
+                {
+                    "osSeq": "507044",
+                    "model": "43UH610N-ZB",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-161110-webOSDKLP-4.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "507044",
+                    "model": "43UH610N-ZB",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "DKLP-r3173.tar.gz"
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,74 @@
+{
+    "TV/AV>AV": {
+        "LG XBOOM FOR ANDROID": {
+            "description": "LG XBOOM for Android 1.6.03-",
+            "notice": [
+                {
+                    "osSeq": "511087",
+                    "model": "LG XBOOM FOR ANDROID",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-4776_LG XBOOM for Android_1.6.03-_220915.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "511087",
+                    "model": "LG XBOOM FOR ANDROID",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "LG XBOOM for Android_1.6.03-.zip"
+                }
+            ]
+        },
+        "LG XBOOM FOR IOS": {
+            "description": "LG XBOOM for iOS 1.6.03-",
+            "notice": [
+                {
+                    "osSeq": "511121",
+                    "model": "LG XBOOM FOR IOS",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-4741_LG XBOOM for iOS_1.6.03-_221006.html"
+                }
+            ],
+            "source": []
+        }
+    },
+    "TV/AV>TV": {
+        "LGTV PLUS APP": {
+            "description": "LGTV Plus 201902 (Android) 2.0",
+            "notice": [
+                {
+                    "osSeq": "509283",
+                    "model": "LGTV PLUS APP",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-1933_LGTV Plus 201902 (Android)_2.0_200422.html"
+                }
+            ],
+            "source": []
+        },
+        "LGTVPLUS15MR": {
+            "description": "LG TV Plus App",
+            "notice": [
+                {
+                    "osSeq": "507338",
+                    "model": "LGTVPLUS15MR",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-160614-LGTVPlusApp-3.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "507338",
+                    "model": "LGTVPLUS15MR",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "TMS2.zip"
+                }
+            ]
+        }
+    }
+}

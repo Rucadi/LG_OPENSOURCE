@@ -1,0 +1,193 @@
+{
+    "TV/AV>TV": {
+        "65UF680V-ZA": {
+            "description": "webOS BLMA LGE Open Source2",
+            "notice": [
+                {
+                    "osSeq": "506701",
+                    "model": "65UF680V-ZA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-160509-webOSBLMA-5.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "506701",
+                    "model": "65UF680V-ZA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "BLMA-r3161-2.tar.gz"
+                }
+            ]
+        },
+        "65UF680Y-TA": {
+            "description": "webOS BLMA LGE Open Source2",
+            "notice": [
+                {
+                    "osSeq": "506701",
+                    "model": "65UF680Y-TA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-160509-webOSBLMA-5.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "506701",
+                    "model": "65UF680Y-TA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "BLMA-r3161-2.tar.gz"
+                }
+            ]
+        },
+        "65UF6860-CB": {
+            "description": "webOS BLMA LGE Open Source2",
+            "notice": [
+                {
+                    "osSeq": "506701",
+                    "model": "65UF6860-CB",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-160509-webOSBLMA-5.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "506701",
+                    "model": "65UF6860-CB",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "BLMA-r3161-2.tar.gz"
+                }
+            ]
+        },
+        "65UF7400-SA": {
+            "description": "webOS BLMA LGE Open Source2",
+            "notice": [
+                {
+                    "osSeq": "506701",
+                    "model": "65UF7400-SA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-160509-webOSBLMA-5.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "506701",
+                    "model": "65UF7400-SA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "BLMA-r3161-2.tar.gz"
+                }
+            ]
+        },
+        "65UF740T-DA": {
+            "description": "webOS BLMA LGE Open Source2",
+            "notice": [
+                {
+                    "osSeq": "506701",
+                    "model": "65UF740T-DA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-160509-webOSBLMA-5.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "506701",
+                    "model": "65UF740T-DA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "BLMA-r3161-2.tar.gz"
+                }
+            ]
+        },
+        "65UF7650-UJ": {
+            "description": "webOS BLMU LGE Open Source2",
+            "notice": [
+                {
+                    "osSeq": "506703",
+                    "model": "65UF7650-UJ",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-160509-webOSBLMU-3.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "506703",
+                    "model": "65UF7650-UJ",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "BLMU-r3160-2.tar.gz"
+                }
+            ]
+        },
+        "65UF7690-UH": {
+            "description": "webOS BLMU LGE Open Source2",
+            "notice": [
+                {
+                    "osSeq": "506703",
+                    "model": "65UF7690-UH",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-160509-webOSBLMU-3.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "506703",
+                    "model": "65UF7690-UH",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "BLMU-r3160-2.tar.gz"
+                }
+            ]
+        },
+        "65UF7700-CB": {
+            "description": "webOS BLMU LGE Open Source2",
+            "notice": [
+                {
+                    "osSeq": "506703",
+                    "model": "65UF7700-CB",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-160509-webOSBLMU-3.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "506703",
+                    "model": "65UF7700-CB",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "BLMU-r3160-2.tar.gz"
+                }
+            ]
+        },
+        "65UF7700-CC": {
+            "description": "webOS BLMU LGE Open Source-Chromium Source",
+            "notice": [
+                {
+                    "osSeq": "506704",
+                    "model": "65UF7700-CC",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-160509-webOSBLMU-3.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "506704",
+                    "model": "65UF7700-CC",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "BLMU-chromium.tar.gz"
+                }
+            ]
+        }
+    }
+}

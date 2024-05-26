@@ -1,0 +1,223 @@
+{
+    "TV/AV>TV": {
+        "49SK8500PVA": {
+            "description": "webOS 4.5 IMP 4.0",
+            "notice": [
+                {
+                    "osSeq": "510773",
+                    "model": "49SK8500PVA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-4152_webOS 4.5 IMP_4.0_220113.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "510773",
+                    "model": "49SK8500PVA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS 4.5 IMP_4.0_1.tar.gz"
+                },
+                {
+                    "osSeq": "510773",
+                    "model": "49SK8500PVA",
+                    "type": "Op",
+                    "fileId": "2",
+                    "filename": "webOS 4.5 IMP_4.0_2.tar.gz"
+                }
+            ]
+        },
+        "49SK8509-ZA": {
+            "description": "webOS 4.0 GMPP MR 2.0",
+            "notice": [
+                {
+                    "osSeq": "508643",
+                    "model": "49SK8509-ZA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-1058_webOS 4.0 GMPP MR_2.0_180625.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "508643",
+                    "model": "49SK8509-ZA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS 4.0 GMPP MR_2.0.tar.gz"
+                }
+            ]
+        },
+        "49SK850T-TA": {
+            "description": "webOS 4.0 GMPP MR 2.0",
+            "notice": [
+                {
+                    "osSeq": "508643",
+                    "model": "49SK850T-TA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-1058_webOS 4.0 GMPP MR_2.0_180625.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "508643",
+                    "model": "49SK850T-TA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS 4.0 GMPP MR_2.0.tar.gz"
+                }
+            ]
+        },
+        "49SK850V-TA": {
+            "description": "webOS 4.0 GMPP MR 2.0",
+            "notice": [
+                {
+                    "osSeq": "508643",
+                    "model": "49SK850V-TA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-1058_webOS 4.0 GMPP MR_2.0_180625.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "508643",
+                    "model": "49SK850V-TA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS 4.0 GMPP MR_2.0.tar.gz"
+                }
+            ]
+        },
+        "49SK850V-ZA": {
+            "description": "webOS 4.0 GMPP MR 2.0",
+            "notice": [
+                {
+                    "osSeq": "508643",
+                    "model": "49SK850V-ZA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-1058_webOS 4.0 GMPP MR_2.0_180625.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "508643",
+                    "model": "49SK850V-ZA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS 4.0 GMPP MR_2.0.tar.gz"
+                }
+            ]
+        },
+        "49SK850Y-TA": {
+            "description": "webOS 4.0 GMPP MR 2.0",
+            "notice": [
+                {
+                    "osSeq": "508643",
+                    "model": "49SK850Y-TA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-1058_webOS 4.0 GMPP MR_2.0_180625.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "508643",
+                    "model": "49SK850Y-TA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS 4.0 GMPP MR_2.0.tar.gz"
+                }
+            ]
+        }
+    },
+    "TV/AV>Monitor/Signage": {
+        "49SL5B-BE": {
+            "description": "L15_M1A_Signage Open Source",
+            "notice": [
+                {
+                    "osSeq": "506463",
+                    "model": "49SL5B-BE",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-150128-L15_M1A_Signage-2.pdf"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "506463",
+                    "model": "49SL5B-BE",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "L15_M1A_Commercial_Signage_Opensource_v1.1.zip"
+                }
+            ]
+        },
+        "49SL5E-HK": {
+            "description": "L18/L19 M1A Signage",
+            "notice": [
+                {
+                    "osSeq": "508319",
+                    "model": "49SL5E-HK",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-820_L18 M1A Signage_171220.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "508319",
+                    "model": "49SL5E-HK",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "L18 M1A Signage.zip"
+                }
+            ]
+        },
+        "49SL5KC-BE": {
+            "description": "L15_M1A_Signage Open Source",
+            "notice": [
+                {
+                    "osSeq": "506463",
+                    "model": "49SL5KC-BE",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-150128-L15_M1A_Signage-2.pdf"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "506463",
+                    "model": "49SL5KC-BE",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "L15_M1A_Commercial_Signage_Opensource_v1.1.zip"
+                }
+            ]
+        },
+        "49SL5PE-HK": {
+            "description": "L18/L19 M1A Signage",
+            "notice": [
+                {
+                    "osSeq": "508319",
+                    "model": "49SL5PE-HK",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-820_L18 M1A Signage_171220.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "508319",
+                    "model": "49SL5PE-HK",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "L18 M1A Signage.zip"
+                }
+            ]
+        }
+    }
+}

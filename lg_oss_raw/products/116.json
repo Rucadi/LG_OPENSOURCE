@@ -1,0 +1,587 @@
+{
+    "TV/AV>TV": {
+        "32LQ636BPSA": {
+            "description": "webOS 22 KAP 2.0",
+            "notice": [
+                {
+                    "osSeq": "511327",
+                    "model": "32LQ636BPSA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-5242_webOS 22 KAP_2.0_230321.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "511327",
+                    "model": "32LQ636BPSA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS 22 KAP_2.0_1.tar.gz"
+                },
+                {
+                    "osSeq": "511327",
+                    "model": "32LQ636BPSA",
+                    "type": "Op",
+                    "fileId": "2",
+                    "filename": "webOS 22 KAP_2.0_2.tar.gz"
+                }
+            ]
+        },
+        "32LQ63806LC": {
+            "description": "webOS 22 KAP 2.0",
+            "notice": [
+                {
+                    "osSeq": "511327",
+                    "model": "32LQ63806LC",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-5242_webOS 22 KAP_2.0_230321.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "511327",
+                    "model": "32LQ63806LC",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS 22 KAP_2.0_1.tar.gz"
+                },
+                {
+                    "osSeq": "511327",
+                    "model": "32LQ63806LC",
+                    "type": "Op",
+                    "fileId": "2",
+                    "filename": "webOS 22 KAP_2.0_2.tar.gz"
+                }
+            ]
+        },
+        "32LR600BPSA": {
+            "description": "webOS 22 KAP 1.0",
+            "notice": [
+                {
+                    "osSeq": "510733",
+                    "model": "32LR600BPSA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-3980_webOS 22 KAP_1.0_220119.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "510733",
+                    "model": "32LR600BPSA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS 22 KAP_1.0_1.tar.gz"
+                },
+                {
+                    "osSeq": "510733",
+                    "model": "32LR600BPSA",
+                    "type": "Op",
+                    "fileId": "2",
+                    "filename": "webOS 22 KAP_1.0_2.tar.gz"
+                }
+            ]
+        },
+        "32LR630B6LA": {
+            "description": "webOS 23 KKF 1.0",
+            "notice": [
+                {
+                    "osSeq": "511411",
+                    "model": "32LR630B6LA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-5431_webOS 23 KKF_1.0_230626.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "511411",
+                    "model": "32LR630B6LA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS 23 KKF_1.0_1.tar.gz"
+                },
+                {
+                    "osSeq": "511411",
+                    "model": "32LR630B6LA",
+                    "type": "Op",
+                    "fileId": "2",
+                    "filename": "webOS 23 KKF_1.0_2.tar.gz"
+                },
+                {
+                    "osSeq": "511411",
+                    "model": "32LR630B6LA",
+                    "type": "Op",
+                    "fileId": "3",
+                    "filename": "webOS 23 KKF_1.0_3.tar.gz"
+                }
+            ]
+        },
+        "32LR630B6LB": {
+            "description": "webOS 23 KKF 1.0",
+            "notice": [
+                {
+                    "osSeq": "511411",
+                    "model": "32LR630B6LB",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-5431_webOS 23 KKF_1.0_230626.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "511411",
+                    "model": "32LR630B6LB",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS 23 KKF_1.0_1.tar.gz"
+                },
+                {
+                    "osSeq": "511411",
+                    "model": "32LR630B6LB",
+                    "type": "Op",
+                    "fileId": "2",
+                    "filename": "webOS 23 KKF_1.0_2.tar.gz"
+                },
+                {
+                    "osSeq": "511411",
+                    "model": "32LR630B6LB",
+                    "type": "Op",
+                    "fileId": "3",
+                    "filename": "webOS 23 KKF_1.0_3.tar.gz"
+                }
+            ]
+        },
+        "32LR630BKNA": {
+            "description": "webOS 23 KKF 1.0",
+            "notice": [
+                {
+                    "osSeq": "511411",
+                    "model": "32LR630BKNA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-5431_webOS 23 KKF_1.0_230626.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "511411",
+                    "model": "32LR630BKNA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS 23 KKF_1.0_1.tar.gz"
+                },
+                {
+                    "osSeq": "511411",
+                    "model": "32LR630BKNA",
+                    "type": "Op",
+                    "fileId": "2",
+                    "filename": "webOS 23 KKF_1.0_2.tar.gz"
+                },
+                {
+                    "osSeq": "511411",
+                    "model": "32LR630BKNA",
+                    "type": "Op",
+                    "fileId": "3",
+                    "filename": "webOS 23 KKF_1.0_3.tar.gz"
+                }
+            ]
+        },
+        "32LR630BPSA": {
+            "description": "webOS 23 KKF 1.0",
+            "notice": [
+                {
+                    "osSeq": "511411",
+                    "model": "32LR630BPSA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-5431_webOS 23 KKF_1.0_230626.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "511411",
+                    "model": "32LR630BPSA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS 23 KKF_1.0_1.tar.gz"
+                },
+                {
+                    "osSeq": "511411",
+                    "model": "32LR630BPSA",
+                    "type": "Op",
+                    "fileId": "2",
+                    "filename": "webOS 23 KKF_1.0_2.tar.gz"
+                },
+                {
+                    "osSeq": "511411",
+                    "model": "32LR630BPSA",
+                    "type": "Op",
+                    "fileId": "3",
+                    "filename": "webOS 23 KKF_1.0_3.tar.gz"
+                }
+            ]
+        },
+        "32LR630BZUA": {
+            "description": "webOS 23 KKF 1.0",
+            "notice": [
+                {
+                    "osSeq": "511411",
+                    "model": "32LR630BZUA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-5431_webOS 23 KKF_1.0_230626.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "511411",
+                    "model": "32LR630BZUA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS 23 KKF_1.0_1.tar.gz"
+                },
+                {
+                    "osSeq": "511411",
+                    "model": "32LR630BZUA",
+                    "type": "Op",
+                    "fileId": "2",
+                    "filename": "webOS 23 KKF_1.0_2.tar.gz"
+                },
+                {
+                    "osSeq": "511411",
+                    "model": "32LR630BZUA",
+                    "type": "Op",
+                    "fileId": "3",
+                    "filename": "webOS 23 KKF_1.0_3.tar.gz"
+                }
+            ]
+        },
+        "32LR635BCNA": {
+            "description": "webOS 23 KKF 1.0",
+            "notice": [
+                {
+                    "osSeq": "511411",
+                    "model": "32LR635BCNA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-5431_webOS 23 KKF_1.0_230626.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "511411",
+                    "model": "32LR635BCNA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS 23 KKF_1.0_1.tar.gz"
+                },
+                {
+                    "osSeq": "511411",
+                    "model": "32LR635BCNA",
+                    "type": "Op",
+                    "fileId": "2",
+                    "filename": "webOS 23 KKF_1.0_2.tar.gz"
+                },
+                {
+                    "osSeq": "511411",
+                    "model": "32LR635BCNA",
+                    "type": "Op",
+                    "fileId": "3",
+                    "filename": "webOS 23 KKF_1.0_3.tar.gz"
+                }
+            ]
+        },
+        "32LR635BENA": {
+            "description": "webOS 23 KKF 1.0",
+            "notice": [
+                {
+                    "osSeq": "511411",
+                    "model": "32LR635BENA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-5431_webOS 23 KKF_1.0_230626.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "511411",
+                    "model": "32LR635BENA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS 23 KKF_1.0_1.tar.gz"
+                },
+                {
+                    "osSeq": "511411",
+                    "model": "32LR635BENA",
+                    "type": "Op",
+                    "fileId": "2",
+                    "filename": "webOS 23 KKF_1.0_2.tar.gz"
+                },
+                {
+                    "osSeq": "511411",
+                    "model": "32LR635BENA",
+                    "type": "Op",
+                    "fileId": "3",
+                    "filename": "webOS 23 KKF_1.0_3.tar.gz"
+                }
+            ]
+        },
+        "32LR635BGNA": {
+            "description": "webOS 23 KKF 1.0",
+            "notice": [
+                {
+                    "osSeq": "511411",
+                    "model": "32LR635BGNA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-5431_webOS 23 KKF_1.0_230626.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "511411",
+                    "model": "32LR635BGNA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS 23 KKF_1.0_1.tar.gz"
+                },
+                {
+                    "osSeq": "511411",
+                    "model": "32LR635BGNA",
+                    "type": "Op",
+                    "fileId": "2",
+                    "filename": "webOS 23 KKF_1.0_2.tar.gz"
+                },
+                {
+                    "osSeq": "511411",
+                    "model": "32LR635BGNA",
+                    "type": "Op",
+                    "fileId": "3",
+                    "filename": "webOS 23 KKF_1.0_3.tar.gz"
+                }
+            ]
+        },
+        "32LR650B6LA": {
+            "description": "webOS 23 KKF 1.0",
+            "notice": [
+                {
+                    "osSeq": "511411",
+                    "model": "32LR650B6LA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-5431_webOS 23 KKF_1.0_230626.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "511411",
+                    "model": "32LR650B6LA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS 23 KKF_1.0_1.tar.gz"
+                },
+                {
+                    "osSeq": "511411",
+                    "model": "32LR650B6LA",
+                    "type": "Op",
+                    "fileId": "2",
+                    "filename": "webOS 23 KKF_1.0_2.tar.gz"
+                },
+                {
+                    "osSeq": "511411",
+                    "model": "32LR650B6LA",
+                    "type": "Op",
+                    "fileId": "3",
+                    "filename": "webOS 23 KKF_1.0_3.tar.gz"
+                }
+            ]
+        },
+        "32LR650BPSA": {
+            "description": "webOS 23 KKF 1.0",
+            "notice": [
+                {
+                    "osSeq": "511411",
+                    "model": "32LR650BPSA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-5431_webOS 23 KKF_1.0_230626.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "511411",
+                    "model": "32LR650BPSA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS 23 KKF_1.0_1.tar.gz"
+                },
+                {
+                    "osSeq": "511411",
+                    "model": "32LR650BPSA",
+                    "type": "Op",
+                    "fileId": "2",
+                    "filename": "webOS 23 KKF_1.0_2.tar.gz"
+                },
+                {
+                    "osSeq": "511411",
+                    "model": "32LR650BPSA",
+                    "type": "Op",
+                    "fileId": "3",
+                    "filename": "webOS 23 KKF_1.0_3.tar.gz"
+                }
+            ]
+        },
+        "32LR655BPUA": {
+            "description": "webOS 23 KKF 1.0",
+            "notice": [
+                {
+                    "osSeq": "511411",
+                    "model": "32LR655BPUA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-5431_webOS 23 KKF_1.0_230626.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "511411",
+                    "model": "32LR655BPUA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS 23 KKF_1.0_1.tar.gz"
+                },
+                {
+                    "osSeq": "511411",
+                    "model": "32LR655BPUA",
+                    "type": "Op",
+                    "fileId": "2",
+                    "filename": "webOS 23 KKF_1.0_2.tar.gz"
+                },
+                {
+                    "osSeq": "511411",
+                    "model": "32LR655BPUA",
+                    "type": "Op",
+                    "fileId": "3",
+                    "filename": "webOS 23 KKF_1.0_3.tar.gz"
+                }
+            ]
+        },
+        "32LR656BPSA": {
+            "description": "webOS 23 KKF 1.0",
+            "notice": [
+                {
+                    "osSeq": "511411",
+                    "model": "32LR656BPSA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-5431_webOS 23 KKF_1.0_230626.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "511411",
+                    "model": "32LR656BPSA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS 23 KKF_1.0_1.tar.gz"
+                },
+                {
+                    "osSeq": "511411",
+                    "model": "32LR656BPSA",
+                    "type": "Op",
+                    "fileId": "2",
+                    "filename": "webOS 23 KKF_1.0_2.tar.gz"
+                },
+                {
+                    "osSeq": "511411",
+                    "model": "32LR656BPSA",
+                    "type": "Op",
+                    "fileId": "3",
+                    "filename": "webOS 23 KKF_1.0_3.tar.gz"
+                }
+            ]
+        },
+        "32LR686BPSA": {
+            "description": "webOS 23 KKF 1.0",
+            "notice": [
+                {
+                    "osSeq": "511411",
+                    "model": "32LR686BPSA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-5431_webOS 23 KKF_1.0_230626.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "511411",
+                    "model": "32LR686BPSA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS 23 KKF_1.0_1.tar.gz"
+                },
+                {
+                    "osSeq": "511411",
+                    "model": "32LR686BPSA",
+                    "type": "Op",
+                    "fileId": "2",
+                    "filename": "webOS 23 KKF_1.0_2.tar.gz"
+                },
+                {
+                    "osSeq": "511411",
+                    "model": "32LR686BPSA",
+                    "type": "Op",
+                    "fileId": "3",
+                    "filename": "webOS 23 KKF_1.0_3.tar.gz"
+                }
+            ]
+        }
+    },
+    "TV/AV>Monitor/Signage": {
+        "32LS33A-5BC": {
+            "description": "L14_M1A_Signage",
+            "notice": [
+                {
+                    "osSeq": "12880",
+                    "model": "32LS33A-5BC",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-891_L14 M1A Signage_180122.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "12880",
+                    "model": "32LS33A-5BC",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "L14 M1A Signage.zip"
+                }
+            ]
+        },
+        "32LS33A-5D": {
+            "description": "L14_M1A_Signage",
+            "notice": [
+                {
+                    "osSeq": "12880",
+                    "model": "32LS33A-5D",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-891_L14 M1A Signage_180122.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "12880",
+                    "model": "32LS33A-5D",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "L14 M1A Signage.zip"
+                }
+            ]
+        }
+    }
+}

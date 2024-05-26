@@ -1,0 +1,697 @@
+{
+    "TV/AV>TV": {
+        "43UN8160PVA": {
+            "description": "webOS 5.0 JKHP 2.0",
+            "notice": [
+                {
+                    "osSeq": "510776",
+                    "model": "43UN8160PVA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-3913_webOS 5.0 JKHP_2.0_220114.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "510776",
+                    "model": "43UN8160PVA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS 5.0 JKHP_2.0_1.tar.gz"
+                },
+                {
+                    "osSeq": "510776",
+                    "model": "43UN8160PVA",
+                    "type": "Op",
+                    "fileId": "2",
+                    "filename": "webOS 5.0 JKHP_2.0_2.tar.gz"
+                }
+            ]
+        },
+        "43UP70003LA": {
+            "description": "webOS 6.0 LMUA 1.0",
+            "notice": [
+                {
+                    "osSeq": "510685",
+                    "model": "43UP70003LA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-3037_webOS 6.0 LMUA_1.0_211116.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "510685",
+                    "model": "43UP70003LA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS 6.0 LMUA_1.0_1.tar.gz"
+                },
+                {
+                    "osSeq": "510685",
+                    "model": "43UP70003LA",
+                    "type": "Op",
+                    "fileId": "2",
+                    "filename": "webOS 6.0 LMUA_1.0_2.tar.gz"
+                },
+                {
+                    "osSeq": "510685",
+                    "model": "43UP70003LA",
+                    "type": "Op",
+                    "fileId": "3",
+                    "filename": "webOS 6.0 LMUA_1.0_3.tar.gz"
+                }
+            ]
+        },
+        "43UP70006LA": {
+            "description": "webOS 6.0 LMUA 1.0",
+            "notice": [
+                {
+                    "osSeq": "510685",
+                    "model": "43UP70006LA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-3037_webOS 6.0 LMUA_1.0_211116.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "510685",
+                    "model": "43UP70006LA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS 6.0 LMUA_1.0_1.tar.gz"
+                },
+                {
+                    "osSeq": "510685",
+                    "model": "43UP70006LA",
+                    "type": "Op",
+                    "fileId": "2",
+                    "filename": "webOS 6.0 LMUA_1.0_2.tar.gz"
+                },
+                {
+                    "osSeq": "510685",
+                    "model": "43UP70006LA",
+                    "type": "Op",
+                    "fileId": "3",
+                    "filename": "webOS 6.0 LMUA_1.0_3.tar.gz"
+                }
+            ]
+        },
+        "43UP70009LA": {
+            "description": "webOS 6.0 LMUA 1.0",
+            "notice": [
+                {
+                    "osSeq": "510685",
+                    "model": "43UP70009LA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-3037_webOS 6.0 LMUA_1.0_211116.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "510685",
+                    "model": "43UP70009LA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS 6.0 LMUA_1.0_1.tar.gz"
+                },
+                {
+                    "osSeq": "510685",
+                    "model": "43UP70009LA",
+                    "type": "Op",
+                    "fileId": "2",
+                    "filename": "webOS 6.0 LMUA_1.0_2.tar.gz"
+                },
+                {
+                    "osSeq": "510685",
+                    "model": "43UP70009LA",
+                    "type": "Op",
+                    "fileId": "3",
+                    "filename": "webOS 6.0 LMUA_1.0_3.tar.gz"
+                }
+            ]
+        },
+        "43UP7000PUA": {
+            "description": "webOS 6.0 LMUA 1.0",
+            "notice": [
+                {
+                    "osSeq": "510685",
+                    "model": "43UP7000PUA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-3037_webOS 6.0 LMUA_1.0_211116.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "510685",
+                    "model": "43UP7000PUA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS 6.0 LMUA_1.0_1.tar.gz"
+                },
+                {
+                    "osSeq": "510685",
+                    "model": "43UP7000PUA",
+                    "type": "Op",
+                    "fileId": "2",
+                    "filename": "webOS 6.0 LMUA_1.0_2.tar.gz"
+                },
+                {
+                    "osSeq": "510685",
+                    "model": "43UP7000PUA",
+                    "type": "Op",
+                    "fileId": "3",
+                    "filename": "webOS 6.0 LMUA_1.0_3.tar.gz"
+                }
+            ]
+        },
+        "43UP7100ZUF": {
+            "description": "webOS 6.0 LMUA 1.0",
+            "notice": [
+                {
+                    "osSeq": "510685",
+                    "model": "43UP7100ZUF",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-3037_webOS 6.0 LMUA_1.0_211116.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "510685",
+                    "model": "43UP7100ZUF",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS 6.0 LMUA_1.0_1.tar.gz"
+                },
+                {
+                    "osSeq": "510685",
+                    "model": "43UP7100ZUF",
+                    "type": "Op",
+                    "fileId": "2",
+                    "filename": "webOS 6.0 LMUA_1.0_2.tar.gz"
+                },
+                {
+                    "osSeq": "510685",
+                    "model": "43UP7100ZUF",
+                    "type": "Op",
+                    "fileId": "3",
+                    "filename": "webOS 6.0 LMUA_1.0_3.tar.gz"
+                }
+            ]
+        },
+        "43UP74006LB": {
+            "description": "webOS 6.0 KLP 1.0",
+            "notice": [
+                {
+                    "osSeq": "510320",
+                    "model": "43UP74006LB",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-3253_webOS 6.0 KLP_1.0_210204.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "510320",
+                    "model": "43UP74006LB",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS 6.0 KLP_1.0_1.tar.gz"
+                },
+                {
+                    "osSeq": "510320",
+                    "model": "43UP74006LB",
+                    "type": "Op",
+                    "fileId": "2",
+                    "filename": "webOS 6.0 KLP_1.0_2.tar.gz"
+                },
+                {
+                    "osSeq": "510320",
+                    "model": "43UP74006LB",
+                    "type": "Op",
+                    "fileId": "3",
+                    "filename": "webOS 6.0 KLP_1.0_3.tar.gz"
+                }
+            ]
+        },
+        "43UP74009LB": {
+            "description": "webOS 6.0 KLP 1.0",
+            "notice": [
+                {
+                    "osSeq": "510320",
+                    "model": "43UP74009LB",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-3253_webOS 6.0 KLP_1.0_210204.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "510320",
+                    "model": "43UP74009LB",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS 6.0 KLP_1.0_1.tar.gz"
+                },
+                {
+                    "osSeq": "510320",
+                    "model": "43UP74009LB",
+                    "type": "Op",
+                    "fileId": "2",
+                    "filename": "webOS 6.0 KLP_1.0_2.tar.gz"
+                },
+                {
+                    "osSeq": "510320",
+                    "model": "43UP74009LB",
+                    "type": "Op",
+                    "fileId": "3",
+                    "filename": "webOS 6.0 KLP_1.0_3.tar.gz"
+                }
+            ]
+        },
+        "43UP75003LF": {
+            "description": "webOS 6.0 LMUA 1.0",
+            "notice": [
+                {
+                    "osSeq": "510685",
+                    "model": "43UP75003LF",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-3037_webOS 6.0 LMUA_1.0_211116.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "510685",
+                    "model": "43UP75003LF",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS 6.0 LMUA_1.0_1.tar.gz"
+                },
+                {
+                    "osSeq": "510685",
+                    "model": "43UP75003LF",
+                    "type": "Op",
+                    "fileId": "2",
+                    "filename": "webOS 6.0 LMUA_1.0_2.tar.gz"
+                },
+                {
+                    "osSeq": "510685",
+                    "model": "43UP75003LF",
+                    "type": "Op",
+                    "fileId": "3",
+                    "filename": "webOS 6.0 LMUA_1.0_3.tar.gz"
+                }
+            ]
+        },
+        "43UP75006LF": {
+            "description": "webOS 6.0 LMUA 1.0",
+            "notice": [
+                {
+                    "osSeq": "510685",
+                    "model": "43UP75006LF",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-3037_webOS 6.0 LMUA_1.0_211116.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "510685",
+                    "model": "43UP75006LF",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS 6.0 LMUA_1.0_1.tar.gz"
+                },
+                {
+                    "osSeq": "510685",
+                    "model": "43UP75006LF",
+                    "type": "Op",
+                    "fileId": "2",
+                    "filename": "webOS 6.0 LMUA_1.0_2.tar.gz"
+                },
+                {
+                    "osSeq": "510685",
+                    "model": "43UP75006LF",
+                    "type": "Op",
+                    "fileId": "3",
+                    "filename": "webOS 6.0 LMUA_1.0_3.tar.gz"
+                }
+            ]
+        },
+        "43UP75009LF": {
+            "description": "webOS 6.0 LMUA 1.0",
+            "notice": [
+                {
+                    "osSeq": "510685",
+                    "model": "43UP75009LF",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-3037_webOS 6.0 LMUA_1.0_211116.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "510685",
+                    "model": "43UP75009LF",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS 6.0 LMUA_1.0_1.tar.gz"
+                },
+                {
+                    "osSeq": "510685",
+                    "model": "43UP75009LF",
+                    "type": "Op",
+                    "fileId": "2",
+                    "filename": "webOS 6.0 LMUA_1.0_2.tar.gz"
+                },
+                {
+                    "osSeq": "510685",
+                    "model": "43UP75009LF",
+                    "type": "Op",
+                    "fileId": "3",
+                    "filename": "webOS 6.0 LMUA_1.0_3.tar.gz"
+                }
+            ]
+        },
+        "43UP7500PSF": {
+            "description": "webOS 6.0 LMUA 1.0",
+            "notice": [
+                {
+                    "osSeq": "510685",
+                    "model": "43UP7500PSF",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-3037_webOS 6.0 LMUA_1.0_211116.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "510685",
+                    "model": "43UP7500PSF",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS 6.0 LMUA_1.0_1.tar.gz"
+                },
+                {
+                    "osSeq": "510685",
+                    "model": "43UP7500PSF",
+                    "type": "Op",
+                    "fileId": "2",
+                    "filename": "webOS 6.0 LMUA_1.0_2.tar.gz"
+                },
+                {
+                    "osSeq": "510685",
+                    "model": "43UP7500PSF",
+                    "type": "Op",
+                    "fileId": "3",
+                    "filename": "webOS 6.0 LMUA_1.0_3.tar.gz"
+                }
+            ]
+        },
+        "43UP7500PTC": {
+            "description": "webOS 6.0 LMUA 1.0",
+            "notice": [
+                {
+                    "osSeq": "510685",
+                    "model": "43UP7500PTC",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-3037_webOS 6.0 LMUA_1.0_211116.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "510685",
+                    "model": "43UP7500PTC",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS 6.0 LMUA_1.0_1.tar.gz"
+                },
+                {
+                    "osSeq": "510685",
+                    "model": "43UP7500PTC",
+                    "type": "Op",
+                    "fileId": "2",
+                    "filename": "webOS 6.0 LMUA_1.0_2.tar.gz"
+                },
+                {
+                    "osSeq": "510685",
+                    "model": "43UP7500PTC",
+                    "type": "Op",
+                    "fileId": "3",
+                    "filename": "webOS 6.0 LMUA_1.0_3.tar.gz"
+                }
+            ]
+        },
+        "43UP7500PTZ": {
+            "description": "webOS 6.0 LMUA 1.0",
+            "notice": [
+                {
+                    "osSeq": "510685",
+                    "model": "43UP7500PTZ",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-3037_webOS 6.0 LMUA_1.0_211116.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "510685",
+                    "model": "43UP7500PTZ",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS 6.0 LMUA_1.0_1.tar.gz"
+                },
+                {
+                    "osSeq": "510685",
+                    "model": "43UP7500PTZ",
+                    "type": "Op",
+                    "fileId": "2",
+                    "filename": "webOS 6.0 LMUA_1.0_2.tar.gz"
+                },
+                {
+                    "osSeq": "510685",
+                    "model": "43UP7500PTZ",
+                    "type": "Op",
+                    "fileId": "3",
+                    "filename": "webOS 6.0 LMUA_1.0_3.tar.gz"
+                }
+            ]
+        },
+        "43UP7500PVG": {
+            "description": "webOS 6.0 LMUA 1.0",
+            "notice": [
+                {
+                    "osSeq": "510685",
+                    "model": "43UP7500PVG",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-3037_webOS 6.0 LMUA_1.0_211116.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "510685",
+                    "model": "43UP7500PVG",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS 6.0 LMUA_1.0_1.tar.gz"
+                },
+                {
+                    "osSeq": "510685",
+                    "model": "43UP7500PVG",
+                    "type": "Op",
+                    "fileId": "2",
+                    "filename": "webOS 6.0 LMUA_1.0_2.tar.gz"
+                },
+                {
+                    "osSeq": "510685",
+                    "model": "43UP7500PVG",
+                    "type": "Op",
+                    "fileId": "3",
+                    "filename": "webOS 6.0 LMUA_1.0_3.tar.gz"
+                }
+            ]
+        },
+        "43UP751C0GG": {
+            "description": "webOS 6.0 LMUA (Commercial)",
+            "notice": [
+                {
+                    "osSeq": "511295",
+                    "model": "43UP751C0GG",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-3642_webOS 6.0 LMUA (Commercial)_230307.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "511295",
+                    "model": "43UP751C0GG",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS 6.0 LMUA (Commercial)_1.tar.gz"
+                },
+                {
+                    "osSeq": "511295",
+                    "model": "43UP751C0GG",
+                    "type": "Op",
+                    "fileId": "2",
+                    "filename": "webOS 6.0 LMUA (Commercial)_2.tar.gz"
+                },
+                {
+                    "osSeq": "511295",
+                    "model": "43UP751C0GG",
+                    "type": "Op",
+                    "fileId": "3",
+                    "filename": "webOS 6.0 LMUA (Commercial)_3.tar.gz"
+                }
+            ]
+        },
+        "43UP751C0PF": {
+            "description": "webOS 6.0 LMUA (Commercial)",
+            "notice": [
+                {
+                    "osSeq": "511295",
+                    "model": "43UP751C0PF",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-3642_webOS 6.0 LMUA (Commercial)_230307.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "511295",
+                    "model": "43UP751C0PF",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS 6.0 LMUA (Commercial)_1.tar.gz"
+                },
+                {
+                    "osSeq": "511295",
+                    "model": "43UP751C0PF",
+                    "type": "Op",
+                    "fileId": "2",
+                    "filename": "webOS 6.0 LMUA (Commercial)_2.tar.gz"
+                },
+                {
+                    "osSeq": "511295",
+                    "model": "43UP751C0PF",
+                    "type": "Op",
+                    "fileId": "3",
+                    "filename": "webOS 6.0 LMUA (Commercial)_3.tar.gz"
+                }
+            ]
+        },
+        "43UP751C0SF": {
+            "description": "webOS 6.0 LMUA (Commercial)",
+            "notice": [
+                {
+                    "osSeq": "511295",
+                    "model": "43UP751C0SF",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-3642_webOS 6.0 LMUA (Commercial)_230307.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "511295",
+                    "model": "43UP751C0SF",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS 6.0 LMUA (Commercial)_1.tar.gz"
+                },
+                {
+                    "osSeq": "511295",
+                    "model": "43UP751C0SF",
+                    "type": "Op",
+                    "fileId": "2",
+                    "filename": "webOS 6.0 LMUA (Commercial)_2.tar.gz"
+                },
+                {
+                    "osSeq": "511295",
+                    "model": "43UP751C0SF",
+                    "type": "Op",
+                    "fileId": "3",
+                    "filename": "webOS 6.0 LMUA (Commercial)_3.tar.gz"
+                }
+            ]
+        },
+        "43UP751C0TC": {
+            "description": "webOS 6.0 LMUA (Commercial)",
+            "notice": [
+                {
+                    "osSeq": "511295",
+                    "model": "43UP751C0TC",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-3642_webOS 6.0 LMUA (Commercial)_230307.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "511295",
+                    "model": "43UP751C0TC",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS 6.0 LMUA (Commercial)_1.tar.gz"
+                },
+                {
+                    "osSeq": "511295",
+                    "model": "43UP751C0TC",
+                    "type": "Op",
+                    "fileId": "2",
+                    "filename": "webOS 6.0 LMUA (Commercial)_2.tar.gz"
+                },
+                {
+                    "osSeq": "511295",
+                    "model": "43UP751C0TC",
+                    "type": "Op",
+                    "fileId": "3",
+                    "filename": "webOS 6.0 LMUA (Commercial)_3.tar.gz"
+                }
+            ]
+        },
+        "43UP751C0ZF": {
+            "description": "webOS 6.0 LMUA (Commercial)",
+            "notice": [
+                {
+                    "osSeq": "511295",
+                    "model": "43UP751C0ZF",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-3642_webOS 6.0 LMUA (Commercial)_230307.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "511295",
+                    "model": "43UP751C0ZF",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS 6.0 LMUA (Commercial)_1.tar.gz"
+                },
+                {
+                    "osSeq": "511295",
+                    "model": "43UP751C0ZF",
+                    "type": "Op",
+                    "fileId": "2",
+                    "filename": "webOS 6.0 LMUA (Commercial)_2.tar.gz"
+                },
+                {
+                    "osSeq": "511295",
+                    "model": "43UP751C0ZF",
+                    "type": "Op",
+                    "fileId": "3",
+                    "filename": "webOS 6.0 LMUA (Commercial)_3.tar.gz"
+                }
+            ]
+        }
+    }
+}

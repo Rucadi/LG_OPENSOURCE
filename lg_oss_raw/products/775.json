@@ -1,0 +1,298 @@
+{
+    "TV/AV>TV": {
+        "60LF650T-DA": {
+            "description": "webOS BM LGE Open Source-Chromium Source",
+            "notice": [
+                {
+                    "osSeq": "506623",
+                    "model": "60LF650T-DA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-150604-webOSBM-8.pdf"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "506623",
+                    "model": "60LF650T-DA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "Chromium.zip"
+                }
+            ]
+        },
+        "60LF650T-DB": {
+            "description": "webOS BM LGE Open Source-Chromium Source",
+            "notice": [
+                {
+                    "osSeq": "506623",
+                    "model": "60LF650T-DB",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-150604-webOSBM-8.pdf"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "506623",
+                    "model": "60LF650T-DB",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "Chromium.zip"
+                }
+            ]
+        },
+        "60LF650T-TF": {
+            "description": "webOS BM LGE Open Source-Chromium Source",
+            "notice": [
+                {
+                    "osSeq": "506623",
+                    "model": "60LF650T-TF",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-150604-webOSBM-8.pdf"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "506623",
+                    "model": "60LF650T-TF",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "Chromium.zip"
+                }
+            ]
+        },
+        "60LF650Y-TF": {
+            "description": "webOS BM LGE Open Source-Chromium Source",
+            "notice": [
+                {
+                    "osSeq": "506623",
+                    "model": "60LF650Y-TF",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-150604-webOSBM-8.pdf"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "506623",
+                    "model": "60LF650Y-TF",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "Chromium.zip"
+                }
+            ]
+        },
+        "60LF651V-TB": {
+            "description": "webOS BM LGE Open Source-Chromium Source",
+            "notice": [
+                {
+                    "osSeq": "506623",
+                    "model": "60LF651V-TB",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-150604-webOSBM-8.pdf"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "506623",
+                    "model": "60LF651V-TB",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "Chromium.zip"
+                }
+            ]
+        },
+        "60LG61CH-CD": {
+            "description": "webOS DKLP LGE Open Source",
+            "notice": [
+                {
+                    "osSeq": "507044",
+                    "model": "60LG61CH-CD",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-161110-webOSDKLP-4.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "507044",
+                    "model": "60LG61CH-CD",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "DKLP-r3173.tar.gz"
+                }
+            ]
+        },
+        "60LG63CJ-CA": {
+            "description": "webOS DKLP3 LGE Open Source",
+            "notice": [
+                {
+                    "osSeq": "507694",
+                    "model": "60LG63CJ-CA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-170601-webOSDKL_3-1.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "507694",
+                    "model": "60LG63CJ-CA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "DKLP3-r3185.tar.gz"
+                }
+            ]
+        },
+        "60LH6310-NA": {
+            "description": "webOS BM LGE Open Source-Chromium Source",
+            "notice": [
+                {
+                    "osSeq": "506623",
+                    "model": "60LH6310-NA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-150604-webOSBM-8.pdf"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "506623",
+                    "model": "60LH6310-NA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "Chromium.zip"
+                }
+            ]
+        },
+        "60LH6390-NA": {
+            "description": "webOS BM LGE Open Source-Chromium Source",
+            "notice": [
+                {
+                    "osSeq": "506623",
+                    "model": "60LH6390-NA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-150604-webOSBM-8.pdf"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "506623",
+                    "model": "60LH6390-NA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "Chromium.zip"
+                }
+            ]
+        },
+        "60LX330C-UA": {
+            "description": "L15_M1A_Commercial TV Open Source",
+            "notice": [
+                {
+                    "osSeq": "506326",
+                    "model": "60LX330C-UA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-150126-L15_M1A_CommercialTV-2.pdf"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "506326",
+                    "model": "60LX330C-UA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "L15_M1A_Commercial_Signage_Opensource_v1.0.zip"
+                }
+            ]
+        },
+        "60LX341C-CA": {
+            "description": "L15_M1A_Commercial TV Open Source",
+            "notice": [
+                {
+                    "osSeq": "506326",
+                    "model": "60LX341C-CA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-150126-L15_M1A_CommercialTV-2.pdf"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "506326",
+                    "model": "60LX341C-CA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "L15_M1A_Commercial_Signage_Opensource_v1.0.zip"
+                }
+            ]
+        },
+        "60LX341C-GA": {
+            "description": "L15_M1A_Commercial TV Open Source",
+            "notice": [
+                {
+                    "osSeq": "506326",
+                    "model": "60LX341C-GA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-150126-L15_M1A_CommercialTV-2.pdf"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "506326",
+                    "model": "60LX341C-GA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "L15_M1A_Commercial_Signage_Opensource_v1.0.zip"
+                }
+            ]
+        },
+        "60LX341C-TA": {
+            "description": "L15_M1A_Commercial TV Open Source",
+            "notice": [
+                {
+                    "osSeq": "506326",
+                    "model": "60LX341C-TA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-150126-L15_M1A_CommercialTV-2.pdf"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "506326",
+                    "model": "60LX341C-TA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "L15_M1A_Commercial_Signage_Opensource_v1.0.zip"
+                }
+            ]
+        },
+        "60LX341C-UA": {
+            "description": "L15_M1A_Commercial TV Open Source",
+            "notice": [
+                {
+                    "osSeq": "506326",
+                    "model": "60LX341C-UA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-150126-L15_M1A_CommercialTV-2.pdf"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "506326",
+                    "model": "60LX341C-UA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "L15_M1A_Commercial_Signage_Opensource_v1.0.zip"
+                }
+            ]
+        }
+    }
+}

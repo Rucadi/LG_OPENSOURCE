@@ -1,0 +1,151 @@
+{
+    "TV/AV>TV": {
+        "55UK6500PCC": {
+            "description": "webOS GLMA LGE TV Open Source",
+            "notice": [
+                {
+                    "osSeq": "508336",
+                    "model": "55UK6500PCC",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-784_webOS_4.0_GLMA_1.0_20171106163605.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "508336",
+                    "model": "55UK6500PCC",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "DM2-r3173.tar.gz"
+                }
+            ]
+        },
+        "55UK6500PDC": {
+            "description": "webOS GLMA LGE TV Open Source",
+            "notice": [
+                {
+                    "osSeq": "508336",
+                    "model": "55UK6500PDC",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-784_webOS_4.0_GLMA_1.0_20171106163605.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "508336",
+                    "model": "55UK6500PDC",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "DM2-r3173.tar.gz"
+                }
+            ]
+        },
+        "55UK6500PLA": {
+            "description": "webOS GLMA LGE TV Open Source",
+            "notice": [
+                {
+                    "osSeq": "508336",
+                    "model": "55UK6500PLA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-784_webOS_4.0_GLMA_1.0_20171106163605.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "508336",
+                    "model": "55UK6500PLA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "DM2-r3173.tar.gz"
+                }
+            ]
+        },
+        "55UK6500PPC": {
+            "description": "webOS GLMA LGE TV Open Source",
+            "notice": [
+                {
+                    "osSeq": "508336",
+                    "model": "55UK6500PPC",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-784_webOS_4.0_GLMA_1.0_20171106163605.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "508336",
+                    "model": "55UK6500PPC",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "DM2-r3173.tar.gz"
+                }
+            ]
+        },
+        "55UK6500PSA": {
+            "description": "webOS GLMA LGE TV Open Source",
+            "notice": [
+                {
+                    "osSeq": "508336",
+                    "model": "55UK6500PSA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-784_webOS_4.0_GLMA_1.0_20171106163605.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "508336",
+                    "model": "55UK6500PSA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "DM2-r3173.tar.gz"
+                }
+            ]
+        },
+        "55UK6500PTC": {
+            "description": "webOS GLMA LGE TV Open Source",
+            "notice": [
+                {
+                    "osSeq": "508336",
+                    "model": "55UK6500PTC",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-784_webOS_4.0_GLMA_1.0_20171106163605.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "508336",
+                    "model": "55UK6500PTC",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "DM2-r3173.tar.gz"
+                }
+            ]
+        },
+        "55UK6500PVA": {
+            "description": "webOS 4.0 GLMA 3.0",
+            "notice": [
+                {
+                    "osSeq": "510770",
+                    "model": "55UK6500PVA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-4062_webOS 4.0 GLMA_3.0_220113.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "510770",
+                    "model": "55UK6500PVA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS 4.0 GLMA_3.0.tar.gz"
+                }
+            ]
+        }
+    }
+}

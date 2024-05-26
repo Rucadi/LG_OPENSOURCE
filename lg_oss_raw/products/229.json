@@ -1,0 +1,321 @@
+{
+    "TV/AV>Monitor/Signage": {
+        "43SE3B-BE": {
+            "description": "L15_M1A_Signage Open Source",
+            "notice": [
+                {
+                    "osSeq": "506463",
+                    "model": "43SE3B-BE",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-150128-L15_M1A_Signage-2.pdf"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "506463",
+                    "model": "43SE3B-BE",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "L15_M1A_Commercial_Signage_Opensource_v1.1.zip"
+                }
+            ]
+        },
+        "43SE3C-BE": {
+            "description": "L15_M1A_Signage Open Source",
+            "notice": [
+                {
+                    "osSeq": "506463",
+                    "model": "43SE3C-BE",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-150128-L15_M1A_Signage-2.pdf"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "506463",
+                    "model": "43SE3C-BE",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "L15_M1A_Commercial_Signage_Opensource_v1.1.zip"
+                }
+            ]
+        },
+        "43SE3D-BE": {
+            "description": "L15_M1A_Signage Open Source",
+            "notice": [
+                {
+                    "osSeq": "506463",
+                    "model": "43SE3D-BE",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-150128-L15_M1A_Signage-2.pdf"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "506463",
+                    "model": "43SE3D-BE",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "L15_M1A_Commercial_Signage_Opensource_v1.1.zip"
+                }
+            ]
+        },
+        "43SE3DD-BE": {
+            "description": "L15_M1A_Signage Open Source",
+            "notice": [
+                {
+                    "osSeq": "506463",
+                    "model": "43SE3DD-BE",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-150128-L15_M1A_Signage-2.pdf"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "506463",
+                    "model": "43SE3DD-BE",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "L15_M1A_Commercial_Signage_Opensource_v1.1.zip"
+                }
+            ]
+        },
+        "43SE3E-BK": {
+            "description": "L18/L19 M1A Signage",
+            "notice": [
+                {
+                    "osSeq": "508319",
+                    "model": "43SE3E-BK",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-820_L18 M1A Signage_171220.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "508319",
+                    "model": "43SE3E-BK",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "L18 M1A Signage.zip"
+                }
+            ]
+        },
+        "43SE3KB-BE": {
+            "description": "L15_M1A_Signage Open Source",
+            "notice": [
+                {
+                    "osSeq": "506463",
+                    "model": "43SE3KB-BE",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-150128-L15_M1A_Signage-2.pdf"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "506463",
+                    "model": "43SE3KB-BE",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "L15_M1A_Commercial_Signage_Opensource_v1.1.zip"
+                }
+            ]
+        },
+        "43SE3KD-BE": {
+            "description": "L15_M1A_Signage Open Source",
+            "notice": [
+                {
+                    "osSeq": "506463",
+                    "model": "43SE3KD-BE",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-150128-L15_M1A_Signage-2.pdf"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "506463",
+                    "model": "43SE3KD-BE",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "L15_M1A_Commercial_Signage_Opensource_v1.1.zip"
+                }
+            ]
+        },
+        "43SE3KE-BK": {
+            "description": "L18/L19 M1A Signage",
+            "notice": [
+                {
+                    "osSeq": "508319",
+                    "model": "43SE3KE-BK",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-820_L18 M1A Signage_171220.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "508319",
+                    "model": "43SE3KE-BK",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "L18 M1A Signage.zip"
+                }
+            ]
+        },
+        "43SH7DE-HK": {
+            "description": "L18/L19 M1A Signage",
+            "notice": [
+                {
+                    "osSeq": "508319",
+                    "model": "43SH7DE-HK",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-820_L18 M1A Signage_171220.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "508319",
+                    "model": "43SH7DE-HK",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "L18 M1A Signage.zip"
+                }
+            ]
+        },
+        "43SH7E-BJ": {
+            "description": "webOS4.0_M16++_Signage MR3",
+            "notice": [
+                {
+                    "osSeq": "510978",
+                    "model": "43SH7E-BJ",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-4517_webOS4.0_M16++_Signage_MR3_220616.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "510978",
+                    "model": "43SH7E-BJ",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS4.0_M16++_Signage_MR3.zip"
+                }
+            ]
+        },
+        "43SH7PE-BK": {
+            "description": "L18/L19 M1A Signage",
+            "notice": [
+                {
+                    "osSeq": "508319",
+                    "model": "43SH7PE-BK",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-820_L18 M1A Signage_171220.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "508319",
+                    "model": "43SH7PE-BK",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "L18 M1A Signage.zip"
+                }
+            ]
+        },
+        "43SH7PE-HK": {
+            "description": "L18/L19 M1A Signage",
+            "notice": [
+                {
+                    "osSeq": "508319",
+                    "model": "43SH7PE-HK",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-820_L18 M1A Signage_171220.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "508319",
+                    "model": "43SH7PE-HK",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "L18 M1A Signage.zip"
+                }
+            ]
+        },
+        "43SL5B-BE": {
+            "description": "L15_M1A_Signage Open Source",
+            "notice": [
+                {
+                    "osSeq": "506463",
+                    "model": "43SL5B-BE",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-150128-L15_M1A_Signage-2.pdf"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "506463",
+                    "model": "43SL5B-BE",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "L15_M1A_Commercial_Signage_Opensource_v1.1.zip"
+                }
+            ]
+        }
+    },
+    "TV/AV>TV": {
+        "43SJ7500-NA": {
+            "description": "webOS DMP LGE Open Source",
+            "notice": [
+                {
+                    "osSeq": "507684",
+                    "model": "43SJ7500-NA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-170601-webOSDMP-4.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "507684",
+                    "model": "43SJ7500-NA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "DMP-r3186.tar.gz"
+                }
+            ]
+        },
+        "43SK7900PLA": {
+            "description": "webOS DMP LGE Open Source",
+            "notice": [
+                {
+                    "osSeq": "507684",
+                    "model": "43SK7900PLA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-170601-webOSDMP-4.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "507684",
+                    "model": "43SK7900PLA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "DMP-r3186.tar.gz"
+                }
+            ]
+        }
+    }
+}

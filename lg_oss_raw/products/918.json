@@ -1,0 +1,424 @@
+{
+    "TV/AV>TV": {
+        "65UJ6680-NA": {
+            "description": "webOS DMP LGE Open Source",
+            "notice": [
+                {
+                    "osSeq": "507684",
+                    "model": "65UJ6680-NA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-170601-webOSDMP-4.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "507684",
+                    "model": "65UJ6680-NA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "DMP-r3186.tar.gz"
+                }
+            ]
+        },
+        "65UJ6700-NA": {
+            "description": "webOS DMP LGE Open Source",
+            "notice": [
+                {
+                    "osSeq": "507684",
+                    "model": "65UJ6700-NA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-170601-webOSDMP-4.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "507684",
+                    "model": "65UJ6700-NA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "DMP-r3186.tar.gz"
+                }
+            ]
+        },
+        "65UJ670V-TD": {
+            "description": "webOS DKLP3 LGE Open Source",
+            "notice": [
+                {
+                    "osSeq": "507694",
+                    "model": "65UJ670V-TD",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-170601-webOSDKL_3-1.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "507694",
+                    "model": "65UJ670V-TD",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "DKLP3-r3185.tar.gz"
+                }
+            ]
+        },
+        "65UJ670V-ZD": {
+            "description": "webOS DKLP3 LGE Open Source",
+            "notice": [
+                {
+                    "osSeq": "507694",
+                    "model": "65UJ670V-ZD",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-170601-webOSDKL_3-1.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "507694",
+                    "model": "65UJ670V-ZD",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "DKLP3-r3185.tar.gz"
+                }
+            ]
+        },
+        "65UJ670Y-TD": {
+            "description": "webOS DKLP3 LGE Open Source",
+            "notice": [
+                {
+                    "osSeq": "507694",
+                    "model": "65UJ670Y-TD",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-170601-webOSDKL_3-1.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "507694",
+                    "model": "65UJ670Y-TD",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "DKLP3-r3185.tar.gz"
+                }
+            ]
+        },
+        "65UJ671V-ZD": {
+            "description": "webOS DKLP3 LGE Open Source",
+            "notice": [
+                {
+                    "osSeq": "507694",
+                    "model": "65UJ671V-ZD",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-170601-webOSDKL_3-1.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "507694",
+                    "model": "65UJ671V-ZD",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "DKLP3-r3185.tar.gz"
+                }
+            ]
+        },
+        "65UJ675V-ZC": {
+            "description": "webOS DKLP3 LGE Open Source",
+            "notice": [
+                {
+                    "osSeq": "507694",
+                    "model": "65UJ675V-ZC",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-170601-webOSDKL_3-1.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "507694",
+                    "model": "65UJ675V-ZC",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "DKLP3-r3185.tar.gz"
+                }
+            ]
+        },
+        "65UJ6760-ND": {
+            "description": "webOS DMP LGE Open Source",
+            "notice": [
+                {
+                    "osSeq": "507684",
+                    "model": "65UJ6760-ND",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-170601-webOSDMP-4.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "507684",
+                    "model": "65UJ6760-ND",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "DMP-r3186.tar.gz"
+                }
+            ]
+        },
+        "65UJ6800-CG": {
+            "description": "webOS DKLP3 LGE Open Source",
+            "notice": [
+                {
+                    "osSeq": "507694",
+                    "model": "65UJ6800-CG",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-170601-webOSDKL_3-1.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "507694",
+                    "model": "65UJ6800-CG",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "DKLP3-r3185.tar.gz"
+                }
+            ]
+        },
+        "65UJ6850-NC": {
+            "description": "webOS DMP LGE Open Source",
+            "notice": [
+                {
+                    "osSeq": "507684",
+                    "model": "65UJ6850-NC",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-170601-webOSDMP-4.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "507684",
+                    "model": "65UJ6850-NC",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "DMP-r3186.tar.gz"
+                }
+            ]
+        },
+        "65UJ6860-ND": {
+            "description": "webOS DMP LGE Open Source",
+            "notice": [
+                {
+                    "osSeq": "507684",
+                    "model": "65UJ6860-ND",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-170601-webOSDMP-4.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "507684",
+                    "model": "65UJ6860-ND",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "DMP-r3186.tar.gz"
+                }
+            ]
+        },
+        "65UJ690T-TD": {
+            "description": "webOS DKLP3 LGE Open Source",
+            "notice": [
+                {
+                    "osSeq": "507694",
+                    "model": "65UJ690T-TD",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-170601-webOSDKL_3-1.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "507694",
+                    "model": "65UJ690T-TD",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "DKLP3-r3185.tar.gz"
+                }
+            ]
+        },
+        "65UJ700V-ZC": {
+            "description": "webOS DKLP3 LGE Open Source",
+            "notice": [
+                {
+                    "osSeq": "507694",
+                    "model": "65UJ700V-ZC",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-170601-webOSDKL_3-1.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "507694",
+                    "model": "65UJ700V-ZC",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "DKLP3-r3185.tar.gz"
+                }
+            ]
+        },
+        "65UJ701V-ZC": {
+            "description": "webOS DKLP3 LGE Open Source",
+            "notice": [
+                {
+                    "osSeq": "507694",
+                    "model": "65UJ701V-ZC",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-170601-webOSDKL_3-1.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "507694",
+                    "model": "65UJ701V-ZC",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "DKLP3-r3185.tar.gz"
+                }
+            ]
+        },
+        "65UJ7220-NB": {
+            "description": "webOS DMP LGE Open Source",
+            "notice": [
+                {
+                    "osSeq": "507684",
+                    "model": "65UJ7220-NB",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-170601-webOSDMP-4.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "507684",
+                    "model": "65UJ7220-NB",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "DMP-r3186.tar.gz"
+                }
+            ]
+        },
+        "65UJ7240-ND": {
+            "description": "webOS DMP LGE Open Source",
+            "notice": [
+                {
+                    "osSeq": "507684",
+                    "model": "65UJ7240-ND",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-170601-webOSDMP-4.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "507684",
+                    "model": "65UJ7240-ND",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "DMP-r3186.tar.gz"
+                }
+            ]
+        },
+        "65UJ7250-NC": {
+            "description": "webOS DMP LGE Open Source",
+            "notice": [
+                {
+                    "osSeq": "507684",
+                    "model": "65UJ7250-NC",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-170601-webOSDMP-4.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "507684",
+                    "model": "65UJ7250-NC",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "DMP-r3186.tar.gz"
+                }
+            ]
+        },
+        "65UJ7260-ND": {
+            "description": "webOS DMP LGE Open Source",
+            "notice": [
+                {
+                    "osSeq": "507684",
+                    "model": "65UJ7260-ND",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-170601-webOSDMP-4.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "507684",
+                    "model": "65UJ7260-ND",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "DMP-r3186.tar.gz"
+                }
+            ]
+        },
+        "65UJ7500-CB": {
+            "description": "webOS DMP LGE Open Source",
+            "notice": [
+                {
+                    "osSeq": "507684",
+                    "model": "65UJ7500-CB",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-170601-webOSDMP-4.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "507684",
+                    "model": "65UJ7500-CB",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "DMP-r3186.tar.gz"
+                }
+            ]
+        },
+        "65UJ7500-NA": {
+            "description": "webOS DMP LGE Open Source",
+            "notice": [
+                {
+                    "osSeq": "507684",
+                    "model": "65UJ7500-NA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-170601-webOSDMP-4.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "507684",
+                    "model": "65UJ7500-NA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "DMP-r3186.tar.gz"
+                }
+            ]
+        }
+    }
+}

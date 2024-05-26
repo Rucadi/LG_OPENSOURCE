@@ -1,0 +1,424 @@
+{
+    "TV/AV>TV": {
+        "42LY340C-DA": {
+            "description": "L14_M1A_Commercial TV Lite",
+            "notice": [
+                {
+                    "osSeq": "13080",
+                    "model": "42LY340C-DA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-140818-L14_M1A_CommercialTVLite-1.pdf"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "13080",
+                    "model": "42LY340C-DA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "L14_M1A_OpenSource_v1.0.zip"
+                }
+            ]
+        },
+        "42LY340C-NA": {
+            "description": "L14_M1A_Commercial TV Lite",
+            "notice": [
+                {
+                    "osSeq": "13080",
+                    "model": "42LY340C-NA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-140818-L14_M1A_CommercialTVLite-1.pdf"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "13080",
+                    "model": "42LY340C-NA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "L14_M1A_OpenSource_v1.0.zip"
+                }
+            ]
+        },
+        "42LY340C-SA": {
+            "description": "L14_M1A_Commercial TV Lite",
+            "notice": [
+                {
+                    "osSeq": "13080",
+                    "model": "42LY340C-SA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-140818-L14_M1A_CommercialTVLite-1.pdf"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "13080",
+                    "model": "42LY340C-SA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "L14_M1A_OpenSource_v1.0.zip"
+                }
+            ]
+        },
+        "42LY340C-TA": {
+            "description": "L14_M1A_Commercial TV Lite",
+            "notice": [
+                {
+                    "osSeq": "13080",
+                    "model": "42LY340C-TA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-140818-L14_M1A_CommercialTVLite-1.pdf"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "13080",
+                    "model": "42LY340C-TA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "L14_M1A_OpenSource_v1.0.zip"
+                }
+            ]
+        },
+        "42LY340C-UA": {
+            "description": "L14_M1A_Commercial TV Lite",
+            "notice": [
+                {
+                    "osSeq": "13080",
+                    "model": "42LY340C-UA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-140818-L14_M1A_CommercialTVLite-1.pdf"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "13080",
+                    "model": "42LY340C-UA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "L14_M1A_OpenSource_v1.0.zip"
+                }
+            ]
+        },
+        "42LY340C-ZA": {
+            "description": "L14_M1A_Commercial TV Lite",
+            "notice": [
+                {
+                    "osSeq": "13080",
+                    "model": "42LY340C-ZA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-140818-L14_M1A_CommercialTVLite-1.pdf"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "13080",
+                    "model": "42LY340C-ZA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "L14_M1A_OpenSource_v1.0.zip"
+                }
+            ]
+        },
+        "42LY340H-SA": {
+            "description": "L14_M1A_Commercial TV Lite",
+            "notice": [
+                {
+                    "osSeq": "13080",
+                    "model": "42LY340H-SA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-140818-L14_M1A_CommercialTVLite-1.pdf"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "13080",
+                    "model": "42LY340H-SA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "L14_M1A_OpenSource_v1.0.zip"
+                }
+            ]
+        },
+        "42LY340H-UA": {
+            "description": "L14_M1A_Commercial TV Lite",
+            "notice": [
+                {
+                    "osSeq": "13080",
+                    "model": "42LY340H-UA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-140818-L14_M1A_CommercialTVLite-1.pdf"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "13080",
+                    "model": "42LY340H-UA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "L14_M1A_OpenSource_v1.0.zip"
+                }
+            ]
+        },
+        "42LY345C-ZA": {
+            "description": "L14_M1A_Commercial TV Lite",
+            "notice": [
+                {
+                    "osSeq": "13080",
+                    "model": "42LY345C-ZA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-140818-L14_M1A_CommercialTVLite-1.pdf"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "13080",
+                    "model": "42LY345C-ZA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "L14_M1A_OpenSource_v1.0.zip"
+                }
+            ]
+        },
+        "42LY390C-NA": {
+            "description": "L14_M1A_Commercial TV Lite",
+            "notice": [
+                {
+                    "osSeq": "13080",
+                    "model": "42LY390C-NA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-140818-L14_M1A_CommercialTVLite-1.pdf"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "13080",
+                    "model": "42LY390C-NA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "L14_M1A_OpenSource_v1.0.zip"
+                }
+            ]
+        },
+        "42LY540H-CA": {
+            "description": "L14_M1A_CTV_Interactive",
+            "notice": [
+                {
+                    "osSeq": "15621",
+                    "model": "42LY540H-CA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-141013-L14_M1A_CommercialTVInteractive-1.pdf"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "15621",
+                    "model": "42LY540H-CA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "L14_M1A_CTV_Interactive_OpenSource_v1.0.zip"
+                }
+            ]
+        },
+        "42LY540H-DA": {
+            "description": "L14_M1A_CTV_Interactive",
+            "notice": [
+                {
+                    "osSeq": "15621",
+                    "model": "42LY540H-DA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-141013-L14_M1A_CommercialTVInteractive-1.pdf"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "15621",
+                    "model": "42LY540H-DA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "L14_M1A_CTV_Interactive_OpenSource_v1.0.zip"
+                }
+            ]
+        },
+        "42LY540H-NA": {
+            "description": "L14_M1A_CTV_Interactive",
+            "notice": [
+                {
+                    "osSeq": "15621",
+                    "model": "42LY540H-NA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-141013-L14_M1A_CommercialTVInteractive-1.pdf"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "15621",
+                    "model": "42LY540H-NA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "L14_M1A_CTV_Interactive_OpenSource_v1.0.zip"
+                }
+            ]
+        },
+        "42LY540H-SA": {
+            "description": "L14_M1A_CTV_Interactive",
+            "notice": [
+                {
+                    "osSeq": "15621",
+                    "model": "42LY540H-SA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-141013-L14_M1A_CommercialTVInteractive-1.pdf"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "15621",
+                    "model": "42LY540H-SA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "L14_M1A_CTV_Interactive_OpenSource_v1.0.zip"
+                }
+            ]
+        },
+        "42LY540H-TA": {
+            "description": "L14_M1A_CTV_Interactive",
+            "notice": [
+                {
+                    "osSeq": "15621",
+                    "model": "42LY540H-TA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-141013-L14_M1A_CommercialTVInteractive-1.pdf"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "15621",
+                    "model": "42LY540H-TA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "L14_M1A_CTV_Interactive_OpenSource_v1.0.zip"
+                }
+            ]
+        },
+        "42LY540H-ZA": {
+            "description": "L14_M1A_CTV_Interactive",
+            "notice": [
+                {
+                    "osSeq": "15621",
+                    "model": "42LY540H-ZA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-141013-L14_M1A_CommercialTVInteractive-1.pdf"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "15621",
+                    "model": "42LY540H-ZA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "L14_M1A_CTV_Interactive_OpenSource_v1.0.zip"
+                }
+            ]
+        },
+        "42LY540S-CA": {
+            "description": "L14_M1A_CTV_SuperSign",
+            "notice": [
+                {
+                    "osSeq": "15620",
+                    "model": "42LY540S-CA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-141010-L14_M1A_CommercialTVSuperSign-1.pdf"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "15620",
+                    "model": "42LY540S-CA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "L14_M1A_CTV_SuperSign_OpenSource_v1.0.zip"
+                }
+            ]
+        },
+        "42LY540S-NA": {
+            "description": "L14_M1A_CTV_SuperSign",
+            "notice": [
+                {
+                    "osSeq": "15620",
+                    "model": "42LY540S-NA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-141010-L14_M1A_CommercialTVSuperSign-1.pdf"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "15620",
+                    "model": "42LY540S-NA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "L14_M1A_CTV_SuperSign_OpenSource_v1.0.zip"
+                }
+            ]
+        },
+        "42LY540S-SA": {
+            "description": "L14_M1A_CTV_SuperSign",
+            "notice": [
+                {
+                    "osSeq": "15620",
+                    "model": "42LY540S-SA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-141010-L14_M1A_CommercialTVSuperSign-1.pdf"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "15620",
+                    "model": "42LY540S-SA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "L14_M1A_CTV_SuperSign_OpenSource_v1.0.zip"
+                }
+            ]
+        },
+        "42LY540S-TA": {
+            "description": "L14_M1A_CTV_SuperSign",
+            "notice": [
+                {
+                    "osSeq": "15620",
+                    "model": "42LY540S-TA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-141010-L14_M1A_CommercialTVSuperSign-1.pdf"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "15620",
+                    "model": "42LY540S-TA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "L14_M1A_CTV_SuperSign_OpenSource_v1.0.zip"
+                }
+            ]
+        }
+    }
+}

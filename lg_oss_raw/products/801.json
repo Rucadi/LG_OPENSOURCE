@@ -1,0 +1,151 @@
+{
+    "TV/AV>TV": {
+        "60UK6200PWA": {
+            "description": "webOS 4.0 GLMA MR 2.0",
+            "notice": [
+                {
+                    "osSeq": "508638",
+                    "model": "60UK6200PWA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-1061_webOS 4.0 GLMA MR_2.0_180622.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "508638",
+                    "model": "60UK6200PWA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS 4.0 GLMA MR_2.0.tar.gz"
+                }
+            ]
+        },
+        "60UK6200YVA": {
+            "description": "webOS GLMA LGE TV Open Source",
+            "notice": [
+                {
+                    "osSeq": "508336",
+                    "model": "60UK6200YVA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-784_webOS_4.0_GLMA_1.0_20171106163605.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "508336",
+                    "model": "60UK6200YVA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "DM2-r3173.tar.gz"
+                }
+            ]
+        },
+        "60UK6240PVA": {
+            "description": "webOS 4.0 GLMA MR 2.0",
+            "notice": [
+                {
+                    "osSeq": "508638",
+                    "model": "60UK6240PVA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-1061_webOS 4.0 GLMA MR_2.0_180622.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "508638",
+                    "model": "60UK6240PVA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS 4.0 GLMA MR_2.0.tar.gz"
+                }
+            ]
+        },
+        "60UK6240YVA": {
+            "description": "webOS 4.0 GLMA MR 2.0",
+            "notice": [
+                {
+                    "osSeq": "508638",
+                    "model": "60UK6240YVA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-1061_webOS 4.0 GLMA MR_2.0_180622.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "508638",
+                    "model": "60UK6240YVA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS 4.0 GLMA MR_2.0.tar.gz"
+                }
+            ]
+        },
+        "60UK6250PUB": {
+            "description": "webOS GLMA LGE TV Open Source",
+            "notice": [
+                {
+                    "osSeq": "508336",
+                    "model": "60UK6250PUB",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-784_webOS_4.0_GLMA_1.0_20171106163605.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "508336",
+                    "model": "60UK6250PUB",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "DM2-r3173.tar.gz"
+                }
+            ]
+        },
+        "60UL3E-BJ": {
+            "description": "webOS4.0_M16++_TV Signage",
+            "notice": [
+                {
+                    "osSeq": "508600",
+                    "model": "60UL3E-BJ",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-1073_webOS4.0_M16++_TV Signage_180604.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "508600",
+                    "model": "60UL3E-BJ",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS4.0_M16++_TV Signage.zip"
+                }
+            ]
+        },
+        "60UM6900PUA": {
+            "description": "webOS 4.5 IKLP 2.0",
+            "notice": [
+                {
+                    "osSeq": "509012",
+                    "model": "60UM6900PUA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-1611_webOS 4.5 IKLP_2.0_190319.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "509012",
+                    "model": "60UM6900PUA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS 4.5 IKLP_2.0.tar.gz"
+                }
+            ]
+        }
+    }
+}

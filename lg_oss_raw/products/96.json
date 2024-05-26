@@ -1,0 +1,345 @@
+{
+    "TV/AV>TV": {
+        "32LK500BPLA": {
+            "description": "2018 LGE ODM Open Source (TP) - EU",
+            "notice": [
+                {
+                    "osSeq": "508272",
+                    "model": "32LK500BPLA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-171127-TP_EU-1.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "508272",
+                    "model": "32LK500BPLA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "NT72461_17-r1.zip"
+                }
+            ]
+        },
+        "32LK500BPSA": {
+            "description": "2017 LGE ODM Open Source (TP) - BR",
+            "notice": [
+                {
+                    "osSeq": "507624",
+                    "model": "32LK500BPSA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-161205-LJ50_BR-1.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "507624",
+                    "model": "32LK500BPSA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "Gemini17-r1.zip"
+                }
+            ]
+        },
+        "32LK500BPTA": {
+            "description": "2017 LGE ODM Open Source (BO)",
+            "notice": [
+                {
+                    "osSeq": "507889",
+                    "model": "32LK500BPTA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "No_OpenSource.txt"
+                }
+            ],
+            "source": []
+        },
+        "32LK500BYTA": {
+            "description": "2017 LGE ODM Open Source (BO)",
+            "notice": [
+                {
+                    "osSeq": "507889",
+                    "model": "32LK500BYTA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "No_OpenSource.txt"
+                }
+            ],
+            "source": []
+        },
+        "32LK510BPDA": {
+            "description": "L18/L19 LMA LGE TV Open Source",
+            "notice": [
+                {
+                    "osSeq": "508199",
+                    "model": "32LK510BPDA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-770_L18 LMA_171030.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "508199",
+                    "model": "32LK510BPDA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "L18LMA-r3132.zip"
+                }
+            ]
+        },
+        "32LK510BPLD": {
+            "description": "L18/L19 LMAP LGE TV Open Source",
+            "notice": [
+                {
+                    "osSeq": "510562",
+                    "model": "32LK510BPLD",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-794_L18 LMAP_1.0_171107.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "510562",
+                    "model": "32LK510BPLD",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "L18 LMAP_1.0.tar.gz"
+                }
+            ]
+        },
+        "32LK510BPSA": {
+            "description": "L18/L19 LMA LGE TV Open Source",
+            "notice": [
+                {
+                    "osSeq": "508199",
+                    "model": "32LK510BPSA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-770_L18 LMA_171030.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "508199",
+                    "model": "32LK510BPSA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "L18LMA-r3132.zip"
+                }
+            ]
+        },
+        "32LK510BPTA": {
+            "description": "L18/L19 LMAP LGE TV Open Source",
+            "notice": [
+                {
+                    "osSeq": "510562",
+                    "model": "32LK510BPTA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-794_L18 LMAP_1.0_171107.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "510562",
+                    "model": "32LK510BPTA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "L18 LMAP_1.0.tar.gz"
+                }
+            ]
+        },
+        "32LK510BPVD": {
+            "description": "L18/L19 LMAP LGE TV Open Source",
+            "notice": [
+                {
+                    "osSeq": "510562",
+                    "model": "32LK510BPVD",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-794_L18 LMAP_1.0_171107.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "510562",
+                    "model": "32LK510BPVD",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "L18 LMAP_1.0.tar.gz"
+                }
+            ]
+        },
+        "32LK510BYVD": {
+            "description": "L18/L19 LMAP LGE TV Open Source",
+            "notice": [
+                {
+                    "osSeq": "510562",
+                    "model": "32LK510BYVD",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-794_L18 LMAP_1.0_171107.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "510562",
+                    "model": "32LK510BYVD",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "L18 LMAP_1.0.tar.gz"
+                }
+            ]
+        },
+        "32LK510U-ZA": {
+            "description": "L18/L19 LMAP LGE TV Open Source",
+            "notice": [
+                {
+                    "osSeq": "510562",
+                    "model": "32LK510U-ZA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-794_L18 LMAP_1.0_171107.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "510562",
+                    "model": "32LK510U-ZA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "L18 LMAP_1.0.tar.gz"
+                }
+            ]
+        },
+        "32LK519BPLC": {
+            "description": "L18/L19 LMAP LGE TV Open Source",
+            "notice": [
+                {
+                    "osSeq": "510562",
+                    "model": "32LK519BPLC",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-794_L18 LMAP_1.0_171107.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "510562",
+                    "model": "32LK519BPLC",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "L18 LMAP_1.0.tar.gz"
+                }
+            ]
+        },
+        "32LK520BPTA": {
+            "description": "L18/L19 LMAP LGE TV Open Source",
+            "notice": [
+                {
+                    "osSeq": "510562",
+                    "model": "32LK520BPTA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-794_L18 LMAP_1.0_171107.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "510562",
+                    "model": "32LK520BPTA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "L18 LMAP_1.0.tar.gz"
+                }
+            ]
+        },
+        "32LK526BPTA": {
+            "description": "L18/L19 LMAP LGE TV Open Source",
+            "notice": [
+                {
+                    "osSeq": "510562",
+                    "model": "32LK526BPTA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-794_L18 LMAP_1.0_171107.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "510562",
+                    "model": "32LK526BPTA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "L18 LMAP_1.0.tar.gz"
+                }
+            ]
+        },
+        "32LK536BPTB": {
+            "description": "L18/L19 LMAP LGE TV Open Source",
+            "notice": [
+                {
+                    "osSeq": "510562",
+                    "model": "32LK536BPTB",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-794_L18 LMAP_1.0_171107.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "510562",
+                    "model": "32LK536BPTB",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "L18 LMAP_1.0.tar.gz"
+                }
+            ]
+        },
+        "32LK540BBUA": {
+            "description": "webOS GM LGE TV Open Source",
+            "notice": [
+                {
+                    "osSeq": "508339",
+                    "model": "32LK540BBUA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-767_webOS_4.0_GM_20171027100707.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "508339",
+                    "model": "32LK540BBUA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "DM2-r3173.tar.gz"
+                }
+            ]
+        },
+        "32LK540BPDA": {
+            "description": "webOS 4.0 GM 1.0",
+            "notice": [
+                {
+                    "osSeq": "508410",
+                    "model": "32LK540BPDA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-767_webOS 4.0 GM_1.0_180206.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "508410",
+                    "model": "32LK540BPDA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS 4.0 GM_1.0.tar.gz"
+                }
+            ]
+        }
+    }
+}

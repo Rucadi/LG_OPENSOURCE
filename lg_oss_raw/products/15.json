@@ -1,0 +1,424 @@
+{
+    "TV/AV>Monitor/Signage": {
+        "22XF1TJ-BJ": {
+            "description": "webOS4.0+_M16++_Signage MR2",
+            "notice": [
+                {
+                    "osSeq": "510979",
+                    "model": "22XF1TJ-BJ",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-4518_webOS4.0+_M16++_Signage_MR2_220616.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "510979",
+                    "model": "22XF1TJ-BJ",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS4.0+_M16++_Signage_MR2.zip"
+                }
+            ]
+        },
+        "23CAT42K": {
+            "description": "Cloud Monitor Open Source",
+            "notice": [
+                {
+                    "osSeq": "13760",
+                    "model": "23CAT42K",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-140818-23CAT42K-1.pdf"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "13760",
+                    "model": "23CAT42K",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "23CAT42K_OpenSource_v1.0.zip"
+                }
+            ]
+        },
+        "23CAT42K-14": {
+            "description": "Cloud Monitor Open Source",
+            "notice": [
+                {
+                    "osSeq": "13760",
+                    "model": "23CAT42K-14",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-140818-23CAT42K-1.pdf"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "13760",
+                    "model": "23CAT42K-14",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "23CAT42K_OpenSource_v1.0.zip"
+                }
+            ]
+        },
+        "23CAT42K-B": {
+            "description": "Cloud Monitor Open Source",
+            "notice": [
+                {
+                    "osSeq": "13760",
+                    "model": "23CAT42K-B",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-140818-23CAT42K-1.pdf"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "13760",
+                    "model": "23CAT42K-B",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "23CAT42K_OpenSource_v1.0.zip"
+                }
+            ]
+        },
+        "23CAT42K-BL": {
+            "description": "Cloud Monitor Open Source",
+            "notice": [
+                {
+                    "osSeq": "13760",
+                    "model": "23CAT42K-BL",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-140818-23CAT42K-1.pdf"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "13760",
+                    "model": "23CAT42K-BL",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "23CAT42K_OpenSource_v1.0.zip"
+                }
+            ]
+        },
+        "23CAT42K-BM": {
+            "description": "Cloud Monitor Open Source",
+            "notice": [
+                {
+                    "osSeq": "13760",
+                    "model": "23CAT42K-BM",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-140818-23CAT42K-1.pdf"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "13760",
+                    "model": "23CAT42K-BM",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "23CAT42K_OpenSource_v1.0.zip"
+                }
+            ]
+        },
+        "23CAT42K-D": {
+            "description": "Cloud Monitor Open Source",
+            "notice": [
+                {
+                    "osSeq": "13760",
+                    "model": "23CAT42K-D",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-140818-23CAT42K-1.pdf"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "13760",
+                    "model": "23CAT42K-D",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "23CAT42K_OpenSource_v1.0.zip"
+                }
+            ]
+        },
+        "23CAT42K-DL": {
+            "description": "Cloud Monitor Open Source",
+            "notice": [
+                {
+                    "osSeq": "13760",
+                    "model": "23CAT42K-DL",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-140818-23CAT42K-1.pdf"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "13760",
+                    "model": "23CAT42K-DL",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "23CAT42K_OpenSource_v1.0.zip"
+                }
+            ]
+        },
+        "23MT55B": {
+            "description": "L14 Platform_MTV",
+            "notice": [
+                {
+                    "osSeq": "10340",
+                    "model": "23MT55B",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "140306-L14_M1A_MTV_v0.2.pdf"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "10340",
+                    "model": "23MT55B",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "20141223144029_5.0_L_CO_FI_2014_Monitor.zip"
+                }
+            ]
+        },
+        "23MT55B-PNR": {
+            "description": "L14 Platform_MTV",
+            "notice": [
+                {
+                    "osSeq": "10340",
+                    "model": "23MT55B-PNR",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "140306-L14_M1A_MTV_v0.2.pdf"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "10340",
+                    "model": "23MT55B-PNR",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "20141223144029_5.0_L_CO_FI_2014_Monitor.zip"
+                }
+            ]
+        },
+        "23MT55D": {
+            "description": "L14 Platform_MTV",
+            "notice": [
+                {
+                    "osSeq": "10340",
+                    "model": "23MT55D",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "140306-L14_M1A_MTV_v0.2.pdf"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "10340",
+                    "model": "23MT55D",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "20141223144029_5.0_L_CO_FI_2014_Monitor.zip"
+                }
+            ]
+        },
+        "23MT55D-14": {
+            "description": "L14 Platform_MTV",
+            "notice": [
+                {
+                    "osSeq": "10340",
+                    "model": "23MT55D-14",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "140306-L14_M1A_MTV_v0.2.pdf"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "10340",
+                    "model": "23MT55D-14",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "20141223144029_5.0_L_CO_FI_2014_Monitor.zip"
+                }
+            ]
+        },
+        "23MT55D-PH": {
+            "description": "L14 Platform_MTV",
+            "notice": [
+                {
+                    "osSeq": "10340",
+                    "model": "23MT55D-PH",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "140306-L14_M1A_MTV_v0.2.pdf"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "10340",
+                    "model": "23MT55D-PH",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "20141223144029_5.0_L_CO_FI_2014_Monitor.zip"
+                }
+            ]
+        },
+        "23MT55D-PHR": {
+            "description": "L14 Platform_MTV",
+            "notice": [
+                {
+                    "osSeq": "10340",
+                    "model": "23MT55D-PHR",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "140306-L14_M1A_MTV_v0.2.pdf"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "10340",
+                    "model": "23MT55D-PHR",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "20141223144029_5.0_L_CO_FI_2014_Monitor.zip"
+                }
+            ]
+        },
+        "23MT55D-PN": {
+            "description": "L14 Platform_MTV",
+            "notice": [
+                {
+                    "osSeq": "10340",
+                    "model": "23MT55D-PN",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "140306-L14_M1A_MTV_v0.2.pdf"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "10340",
+                    "model": "23MT55D-PN",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "20141223144029_5.0_L_CO_FI_2014_Monitor.zip"
+                }
+            ]
+        },
+        "23MT55D-PNR": {
+            "description": "L14 Platform_MTV",
+            "notice": [
+                {
+                    "osSeq": "10340",
+                    "model": "23MT55D-PNR",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "140306-L14_M1A_MTV_v0.2.pdf"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "10340",
+                    "model": "23MT55D-PNR",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "20141223144029_5.0_L_CO_FI_2014_Monitor.zip"
+                }
+            ]
+        },
+        "23MT55D-PR": {
+            "description": "L14 Platform_MTV",
+            "notice": [
+                {
+                    "osSeq": "10340",
+                    "model": "23MT55D-PR",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "140306-L14_M1A_MTV_v0.2.pdf"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "10340",
+                    "model": "23MT55D-PR",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "20141223144029_5.0_L_CO_FI_2014_Monitor.zip"
+                }
+            ]
+        },
+        "23MT55D-PRR": {
+            "description": "L14 Platform_MTV",
+            "notice": [
+                {
+                    "osSeq": "10340",
+                    "model": "23MT55D-PRR",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "140306-L14_M1A_MTV_v0.2.pdf"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "10340",
+                    "model": "23MT55D-PRR",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "20141223144029_5.0_L_CO_FI_2014_Monitor.zip"
+                }
+            ]
+        },
+        "23MT55D-PZ": {
+            "description": "L14 Platform_MTV",
+            "notice": [
+                {
+                    "osSeq": "10340",
+                    "model": "23MT55D-PZ",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "140306-L14_M1A_MTV_v0.2.pdf"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "10340",
+                    "model": "23MT55D-PZ",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "20141223144029_5.0_L_CO_FI_2014_Monitor.zip"
+                }
+            ]
+        },
+        "23MT55D-PZR": {
+            "description": "L14 Platform_MTV",
+            "notice": [
+                {
+                    "osSeq": "10340",
+                    "model": "23MT55D-PZR",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "140306-L14_M1A_MTV_v0.2.pdf"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "10340",
+                    "model": "23MT55D-PZR",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "20141223144029_5.0_L_CO_FI_2014_Monitor.zip"
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,389 @@
+{
+    "TV/AV>TV": {
+        "55LX1QPUA": {
+            "description": "webOS 22 O 2.0",
+            "notice": [
+                {
+                    "osSeq": "511321",
+                    "model": "55LX1QPUA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-5226_webOS 22 O_2.0_230313.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "511321",
+                    "model": "55LX1QPUA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS 22 O_2.0_1.tar.gz"
+                },
+                {
+                    "osSeq": "511321",
+                    "model": "55LX1QPUA",
+                    "type": "Op",
+                    "fileId": "2",
+                    "filename": "webOS 22 O_2.0_2.tar.gz"
+                },
+                {
+                    "osSeq": "511321",
+                    "model": "55LX1QPUA",
+                    "type": "Op",
+                    "fileId": "3",
+                    "filename": "webOS 22 O_2.0_3.tar.gz"
+                }
+            ]
+        },
+        "55LX1T3LA": {
+            "description": "webOS 24 ONN 1.0_2303",
+            "notice": [
+                {
+                    "osSeq": "511647",
+                    "model": "55LX1T3LA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-6511_webOS 24 ONN_1.0_2303_240313.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "511647",
+                    "model": "55LX1T3LA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS 24 ONN_1.0_2303_1.tar.gz"
+                },
+                {
+                    "osSeq": "511647",
+                    "model": "55LX1T3LA",
+                    "type": "Op",
+                    "fileId": "2",
+                    "filename": "webOS 24 ONN_1.0_2303_2.tar.gz"
+                },
+                {
+                    "osSeq": "511647",
+                    "model": "55LX1T3LA",
+                    "type": "Op",
+                    "fileId": "3",
+                    "filename": "webOS 24 ONN_1.0_2303_3.tar.gz"
+                }
+            ]
+        },
+        "55LX1T6LA": {
+            "description": "webOS 24 ONN 1.0_2303",
+            "notice": [
+                {
+                    "osSeq": "511647",
+                    "model": "55LX1T6LA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-6511_webOS 24 ONN_1.0_2303_240313.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "511647",
+                    "model": "55LX1T6LA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS 24 ONN_1.0_2303_1.tar.gz"
+                },
+                {
+                    "osSeq": "511647",
+                    "model": "55LX1T6LA",
+                    "type": "Op",
+                    "fileId": "2",
+                    "filename": "webOS 24 ONN_1.0_2303_2.tar.gz"
+                },
+                {
+                    "osSeq": "511647",
+                    "model": "55LX1T6LA",
+                    "type": "Op",
+                    "fileId": "3",
+                    "filename": "webOS 24 ONN_1.0_2303_3.tar.gz"
+                }
+            ]
+        },
+        "55LX1T9LA": {
+            "description": "webOS 24 ONN 1.0_2303",
+            "notice": [
+                {
+                    "osSeq": "511647",
+                    "model": "55LX1T9LA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-6511_webOS 24 ONN_1.0_2303_240313.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "511647",
+                    "model": "55LX1T9LA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS 24 ONN_1.0_2303_1.tar.gz"
+                },
+                {
+                    "osSeq": "511647",
+                    "model": "55LX1T9LA",
+                    "type": "Op",
+                    "fileId": "2",
+                    "filename": "webOS 24 ONN_1.0_2303_2.tar.gz"
+                },
+                {
+                    "osSeq": "511647",
+                    "model": "55LX1T9LA",
+                    "type": "Op",
+                    "fileId": "3",
+                    "filename": "webOS 24 ONN_1.0_2303_3.tar.gz"
+                }
+            ]
+        },
+        "55LX1TKNA": {
+            "description": "webOS 24 ONN 1.0_2303",
+            "notice": [
+                {
+                    "osSeq": "511647",
+                    "model": "55LX1TKNA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-6511_webOS 24 ONN_1.0_2303_240313.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "511647",
+                    "model": "55LX1TKNA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS 24 ONN_1.0_2303_1.tar.gz"
+                },
+                {
+                    "osSeq": "511647",
+                    "model": "55LX1TKNA",
+                    "type": "Op",
+                    "fileId": "2",
+                    "filename": "webOS 24 ONN_1.0_2303_2.tar.gz"
+                },
+                {
+                    "osSeq": "511647",
+                    "model": "55LX1TKNA",
+                    "type": "Op",
+                    "fileId": "3",
+                    "filename": "webOS 24 ONN_1.0_2303_3.tar.gz"
+                }
+            ]
+        },
+        "55LX1TPCA": {
+            "description": "webOS 24 ONN 1.0_2303",
+            "notice": [
+                {
+                    "osSeq": "511647",
+                    "model": "55LX1TPCA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-6511_webOS 24 ONN_1.0_2303_240313.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "511647",
+                    "model": "55LX1TPCA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS 24 ONN_1.0_2303_1.tar.gz"
+                },
+                {
+                    "osSeq": "511647",
+                    "model": "55LX1TPCA",
+                    "type": "Op",
+                    "fileId": "2",
+                    "filename": "webOS 24 ONN_1.0_2303_2.tar.gz"
+                },
+                {
+                    "osSeq": "511647",
+                    "model": "55LX1TPCA",
+                    "type": "Op",
+                    "fileId": "3",
+                    "filename": "webOS 24 ONN_1.0_2303_3.tar.gz"
+                }
+            ]
+        },
+        "55LX1TPSA": {
+            "description": "webOS 24 ONN 1.0_2303",
+            "notice": [
+                {
+                    "osSeq": "511647",
+                    "model": "55LX1TPSA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-6511_webOS 24 ONN_1.0_2303_240313.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "511647",
+                    "model": "55LX1TPSA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS 24 ONN_1.0_2303_1.tar.gz"
+                },
+                {
+                    "osSeq": "511647",
+                    "model": "55LX1TPSA",
+                    "type": "Op",
+                    "fileId": "2",
+                    "filename": "webOS 24 ONN_1.0_2303_2.tar.gz"
+                },
+                {
+                    "osSeq": "511647",
+                    "model": "55LX1TPSA",
+                    "type": "Op",
+                    "fileId": "3",
+                    "filename": "webOS 24 ONN_1.0_2303_3.tar.gz"
+                }
+            ]
+        },
+        "55LX1TPUA": {
+            "description": "webOS 24 ONN 1.0_2303",
+            "notice": [
+                {
+                    "osSeq": "511647",
+                    "model": "55LX1TPUA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-6511_webOS 24 ONN_1.0_2303_240313.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "511647",
+                    "model": "55LX1TPUA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS 24 ONN_1.0_2303_1.tar.gz"
+                },
+                {
+                    "osSeq": "511647",
+                    "model": "55LX1TPUA",
+                    "type": "Op",
+                    "fileId": "2",
+                    "filename": "webOS 24 ONN_1.0_2303_2.tar.gz"
+                },
+                {
+                    "osSeq": "511647",
+                    "model": "55LX1TPUA",
+                    "type": "Op",
+                    "fileId": "3",
+                    "filename": "webOS 24 ONN_1.0_2303_3.tar.gz"
+                }
+            ]
+        },
+        "55LX330C-CA": {
+            "description": "L15_M1A_Commercial TV Open Source",
+            "notice": [
+                {
+                    "osSeq": "506326",
+                    "model": "55LX330C-CA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-150126-L15_M1A_CommercialTV-2.pdf"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "506326",
+                    "model": "55LX330C-CA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "L15_M1A_Commercial_Signage_Opensource_v1.0.zip"
+                }
+            ]
+        },
+        "55LX340H-UA": {
+            "description": "L15_M1A_Commercial TV Open Source",
+            "notice": [
+                {
+                    "osSeq": "506326",
+                    "model": "55LX340H-UA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-150126-L15_M1A_CommercialTV-2.pdf"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "506326",
+                    "model": "55LX340H-UA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "L15_M1A_Commercial_Signage_Opensource_v1.0.zip"
+                }
+            ]
+        },
+        "55LX340H-UF": {
+            "description": "L15_M1A_Commercial TV Open Source",
+            "notice": [
+                {
+                    "osSeq": "506326",
+                    "model": "55LX340H-UF",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-150126-L15_M1A_CommercialTV-2.pdf"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "506326",
+                    "model": "55LX340H-UF",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "L15_M1A_Commercial_Signage_Opensource_v1.0.zip"
+                }
+            ]
+        },
+        "55LX341C-CA": {
+            "description": "L15_M1A_Commercial TV Open Source",
+            "notice": [
+                {
+                    "osSeq": "506326",
+                    "model": "55LX341C-CA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-150126-L15_M1A_CommercialTV-2.pdf"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "506326",
+                    "model": "55LX341C-CA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "L15_M1A_Commercial_Signage_Opensource_v1.0.zip"
+                }
+            ]
+        },
+        "55LX341C-DA": {
+            "description": "L15_M1A_Commercial TV Open Source",
+            "notice": [
+                {
+                    "osSeq": "506326",
+                    "model": "55LX341C-DA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-150126-L15_M1A_CommercialTV-2.pdf"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "506326",
+                    "model": "55LX341C-DA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "L15_M1A_Commercial_Signage_Opensource_v1.0.zip"
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,291 @@
+{
+    "TV/AV>TV": {
+        "OLED65BXBNA": {
+            "description": "webOS 5.0 JKHP 2.0",
+            "notice": [
+                {
+                    "osSeq": "510776",
+                    "model": "OLED65BXBNA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-3913_webOS 5.0 JKHP_2.0_220114.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "510776",
+                    "model": "OLED65BXBNA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS 5.0 JKHP_2.0_1.tar.gz"
+                },
+                {
+                    "osSeq": "510776",
+                    "model": "OLED65BXBNA",
+                    "type": "Op",
+                    "fileId": "2",
+                    "filename": "webOS 5.0 JKHP_2.0_2.tar.gz"
+                }
+            ]
+        },
+        "OLED65BXCNA": {
+            "description": "webOS 5.0 JKHP 2.0",
+            "notice": [
+                {
+                    "osSeq": "510776",
+                    "model": "OLED65BXCNA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-3913_webOS 5.0 JKHP_2.0_220114.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "510776",
+                    "model": "OLED65BXCNA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS 5.0 JKHP_2.0_1.tar.gz"
+                },
+                {
+                    "osSeq": "510776",
+                    "model": "OLED65BXCNA",
+                    "type": "Op",
+                    "fileId": "2",
+                    "filename": "webOS 5.0 JKHP_2.0_2.tar.gz"
+                }
+            ]
+        },
+        "OLED65BXENA": {
+            "description": "webOS 5.0 JKHP 2.0",
+            "notice": [
+                {
+                    "osSeq": "510776",
+                    "model": "OLED65BXENA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-3913_webOS 5.0 JKHP_2.0_220114.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "510776",
+                    "model": "OLED65BXENA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS 5.0 JKHP_2.0_1.tar.gz"
+                },
+                {
+                    "osSeq": "510776",
+                    "model": "OLED65BXENA",
+                    "type": "Op",
+                    "fileId": "2",
+                    "filename": "webOS 5.0 JKHP_2.0_2.tar.gz"
+                }
+            ]
+        },
+        "OLED65BXFNA": {
+            "description": "webOS 5.0 JO 2.0",
+            "notice": [
+                {
+                    "osSeq": "511222",
+                    "model": "OLED65BXFNA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-3894_webOS 5.0 JO_2.0_221228.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "511222",
+                    "model": "OLED65BXFNA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS 5.0 JO_2.0_1.tar.gz"
+                },
+                {
+                    "osSeq": "511222",
+                    "model": "OLED65BXFNA",
+                    "type": "Op",
+                    "fileId": "2",
+                    "filename": "webOS 5.0 JO_2.0_2.tar.gz"
+                },
+                {
+                    "osSeq": "511222",
+                    "model": "OLED65BXFNA",
+                    "type": "Op",
+                    "fileId": "3",
+                    "filename": "webOS 5.0 JO_2.0_3.tar.gz"
+                }
+            ]
+        },
+        "OLED65BXGNA": {
+            "description": "webOS 5.0 JKHP 2.0",
+            "notice": [
+                {
+                    "osSeq": "510776",
+                    "model": "OLED65BXGNA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-3913_webOS 5.0 JKHP_2.0_220114.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "510776",
+                    "model": "OLED65BXGNA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS 5.0 JKHP_2.0_1.tar.gz"
+                },
+                {
+                    "osSeq": "510776",
+                    "model": "OLED65BXGNA",
+                    "type": "Op",
+                    "fileId": "2",
+                    "filename": "webOS 5.0 JKHP_2.0_2.tar.gz"
+                }
+            ]
+        },
+        "OLED65BXPCA": {
+            "description": "webOS 5.0 JKHP 2.0",
+            "notice": [
+                {
+                    "osSeq": "510776",
+                    "model": "OLED65BXPCA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-3913_webOS 5.0 JKHP_2.0_220114.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "510776",
+                    "model": "OLED65BXPCA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS 5.0 JKHP_2.0_1.tar.gz"
+                },
+                {
+                    "osSeq": "510776",
+                    "model": "OLED65BXPCA",
+                    "type": "Op",
+                    "fileId": "2",
+                    "filename": "webOS 5.0 JKHP_2.0_2.tar.gz"
+                }
+            ]
+        },
+        "OLED65BXPDA": {
+            "description": "webOS 5.0 JKHP 2.0",
+            "notice": [
+                {
+                    "osSeq": "510776",
+                    "model": "OLED65BXPDA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-3913_webOS 5.0 JKHP_2.0_220114.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "510776",
+                    "model": "OLED65BXPDA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS 5.0 JKHP_2.0_1.tar.gz"
+                },
+                {
+                    "osSeq": "510776",
+                    "model": "OLED65BXPDA",
+                    "type": "Op",
+                    "fileId": "2",
+                    "filename": "webOS 5.0 JKHP_2.0_2.tar.gz"
+                }
+            ]
+        },
+        "OLED65BXPJA": {
+            "description": "webOS 5.0 JKHP 2.0",
+            "notice": [
+                {
+                    "osSeq": "510776",
+                    "model": "OLED65BXPJA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-3913_webOS 5.0 JKHP_2.0_220114.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "510776",
+                    "model": "OLED65BXPJA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS 5.0 JKHP_2.0_1.tar.gz"
+                },
+                {
+                    "osSeq": "510776",
+                    "model": "OLED65BXPJA",
+                    "type": "Op",
+                    "fileId": "2",
+                    "filename": "webOS 5.0 JKHP_2.0_2.tar.gz"
+                }
+            ]
+        },
+        "OLED65BXPSA": {
+            "description": "webOS 5.0 JKHP 2.0",
+            "notice": [
+                {
+                    "osSeq": "510776",
+                    "model": "OLED65BXPSA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-3913_webOS 5.0 JKHP_2.0_220114.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "510776",
+                    "model": "OLED65BXPSA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS 5.0 JKHP_2.0_1.tar.gz"
+                },
+                {
+                    "osSeq": "510776",
+                    "model": "OLED65BXPSA",
+                    "type": "Op",
+                    "fileId": "2",
+                    "filename": "webOS 5.0 JKHP_2.0_2.tar.gz"
+                }
+            ]
+        },
+        "OLED65BXPTA": {
+            "description": "webOS 5.0 JKHP 1.0",
+            "notice": [
+                {
+                    "osSeq": "510757",
+                    "model": "OLED65BXPTA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-2174_webOS 5.0 JKHP_1.0_220110.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "510757",
+                    "model": "OLED65BXPTA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS 5.0 JKHP_1.0_1.tar.gz"
+                },
+                {
+                    "osSeq": "510757",
+                    "model": "OLED65BXPTA",
+                    "type": "Op",
+                    "fileId": "2",
+                    "filename": "webOS 5.0 JKHP_1.0_2.tar.gz"
+                }
+            ]
+        }
+    }
+}

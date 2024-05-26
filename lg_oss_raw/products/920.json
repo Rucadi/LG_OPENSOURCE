@@ -1,0 +1,256 @@
+{
+    "TV/AV>TV": {
+        "65UJ9400-NA": {
+            "description": "webOS DMP LGE Open Source",
+            "notice": [
+                {
+                    "osSeq": "507684",
+                    "model": "65UJ9400-NA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-170601-webOSDMP-4.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "507684",
+                    "model": "65UJ9400-NA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "DMP-r3186.tar.gz"
+                }
+            ]
+        },
+        "65UJ9800-NA": {
+            "description": "webOS DMP LGE Open Source",
+            "notice": [
+                {
+                    "osSeq": "507684",
+                    "model": "65UJ9800-NA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-170601-webOSDMP-4.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "507684",
+                    "model": "65UJ9800-NA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "DMP-r3186.tar.gz"
+                }
+            ]
+        },
+        "65UJ9810-NB": {
+            "description": "webOS DMP LGE Open Source",
+            "notice": [
+                {
+                    "osSeq": "507684",
+                    "model": "65UJ9810-NB",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-170601-webOSDMP-4.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "507684",
+                    "model": "65UJ9810-NB",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "DMP-r3186.tar.gz"
+                }
+            ]
+        },
+        "65UK6090PUA": {
+            "description": "webOS 4.0 GLMA MR 2.0",
+            "notice": [
+                {
+                    "osSeq": "508638",
+                    "model": "65UK6090PUA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-1061_webOS 4.0 GLMA MR_2.0_180622.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "508638",
+                    "model": "65UK6090PUA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS 4.0 GLMA MR_2.0.tar.gz"
+                }
+            ]
+        },
+        "65UK6100PLA": {
+            "description": "webOS DKLP3 LGE Open Source",
+            "notice": [
+                {
+                    "osSeq": "507694",
+                    "model": "65UK6100PLA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-170601-webOSDKL_3-1.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "507694",
+                    "model": "65UK6100PLA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "DKLP3-r3185.tar.gz"
+                }
+            ]
+        },
+        "65UK6100PLB": {
+            "description": "webOS DKLP3 LGE Open Source",
+            "notice": [
+                {
+                    "osSeq": "507694",
+                    "model": "65UK6100PLB",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-170601-webOSDKL_3-1.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "507694",
+                    "model": "65UK6100PLB",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "DKLP3-r3185.tar.gz"
+                }
+            ]
+        },
+        "65UK6100PTA": {
+            "description": "webOS DKLP3 LGE Open Source toolchain",
+            "notice": [
+                {
+                    "osSeq": "508461",
+                    "model": "65UK6100PTA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-170601-webOSDKL_3-1.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "508461",
+                    "model": "65UK6100PTA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "arm-lg115x-linux-gnueabi-4.8-2016.03-i686.tar.gz"
+                }
+            ]
+        },
+        "65UK6100PVA": {
+            "description": "webOS DKLP3 LGE Open Source",
+            "notice": [
+                {
+                    "osSeq": "507694",
+                    "model": "65UK6100PVA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-170601-webOSDKL_3-1.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "507694",
+                    "model": "65UK6100PVA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "DKLP3-r3185.tar.gz"
+                }
+            ]
+        },
+        "65UK6100YVA": {
+            "description": "webOS DKLP3 LGE Open Source",
+            "notice": [
+                {
+                    "osSeq": "507694",
+                    "model": "65UK6100YVA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-170601-webOSDKL_3-1.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "507694",
+                    "model": "65UK6100YVA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "DKLP3-r3185.tar.gz"
+                }
+            ]
+        },
+        "65UK6200PUA": {
+            "description": "webOS GLMA LGE TV Open Source",
+            "notice": [
+                {
+                    "osSeq": "508336",
+                    "model": "65UK6200PUA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-784_webOS_4.0_GLMA_1.0_20171106163605.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "508336",
+                    "model": "65UK6200PUA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "DM2-r3173.tar.gz"
+                }
+            ]
+        },
+        "65UK6300-SA": {
+            "description": "webOS 4.0 GLMA MR 2.0",
+            "notice": [
+                {
+                    "osSeq": "508638",
+                    "model": "65UK6300-SA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-1061_webOS 4.0 GLMA MR_2.0_180622.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "508638",
+                    "model": "65UK6300-SA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS 4.0 GLMA MR_2.0.tar.gz"
+                }
+            ]
+        },
+        "65UK6300BUB": {
+            "description": "webOS 4.0 GLMA 1.0",
+            "notice": [
+                {
+                    "osSeq": "508637",
+                    "model": "65UK6300BUB",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-784_webOS 4.0 GLMA_1.0_180206.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "508637",
+                    "model": "65UK6300BUB",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS 4.0 GLMA_1.0.gz"
+                }
+            ]
+        }
+    }
+}

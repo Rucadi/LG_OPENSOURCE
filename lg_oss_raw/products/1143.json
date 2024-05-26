@@ -1,0 +1,389 @@
+{
+    "TV/AV>TV": {
+        "86QNED999RA": {
+            "description": "webOS 23 O(F) 1.0",
+            "notice": [
+                {
+                    "osSeq": "511214",
+                    "model": "86QNED999RA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-4526_webOS 23 O_1.0_221220.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "511214",
+                    "model": "86QNED999RA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS 23 O_1.0_1.tar.gz"
+                },
+                {
+                    "osSeq": "511214",
+                    "model": "86QNED999RA",
+                    "type": "Op",
+                    "fileId": "2",
+                    "filename": "webOS 23 O_1.0_2.tar.gz"
+                },
+                {
+                    "osSeq": "511214",
+                    "model": "86QNED999RA",
+                    "type": "Op",
+                    "fileId": "3",
+                    "filename": "webOS 23 O_1.0_3.tar.gz"
+                }
+            ]
+        },
+        "86QNED99CPB": {
+            "description": "webOS 6.0 EN 1.0",
+            "notice": [
+                {
+                    "osSeq": "510347",
+                    "model": "86QNED99CPB",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-3254_webOS 6.0 EN_1.0_210223.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "510347",
+                    "model": "86QNED99CPB",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS 6.0 EN_1.0_1.tar.gz"
+                },
+                {
+                    "osSeq": "510347",
+                    "model": "86QNED99CPB",
+                    "type": "Op",
+                    "fileId": "2",
+                    "filename": "webOS 6.0 EN_1.0_2.tar.gz"
+                },
+                {
+                    "osSeq": "510347",
+                    "model": "86QNED99CPB",
+                    "type": "Op",
+                    "fileId": "3",
+                    "filename": "webOS 6.0 EN_1.0_3.tar.gz"
+                }
+            ]
+        },
+        "86QNED99CQB": {
+            "description": "webOS 23 O ReNew",
+            "notice": [
+                {
+                    "osSeq": "511655",
+                    "model": "86QNED99CQB",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-6380_webOS 23 O_ReNew_240319.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "511655",
+                    "model": "86QNED99CQB",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS 23 O_ReNew_1.tar.gz"
+                },
+                {
+                    "osSeq": "511655",
+                    "model": "86QNED99CQB",
+                    "type": "Op",
+                    "fileId": "2",
+                    "filename": "webOS 23 O_ReNew_2.tar.gz"
+                },
+                {
+                    "osSeq": "511655",
+                    "model": "86QNED99CQB",
+                    "type": "Op",
+                    "fileId": "3",
+                    "filename": "webOS 23 O_ReNew_3.tar.gz"
+                }
+            ]
+        },
+        "86QNED99CRA": {
+            "description": "webOS 23 O(F) 1.0",
+            "notice": [
+                {
+                    "osSeq": "511214",
+                    "model": "86QNED99CRA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-4526_webOS 23 O_1.0_221220.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "511214",
+                    "model": "86QNED99CRA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS 23 O_1.0_1.tar.gz"
+                },
+                {
+                    "osSeq": "511214",
+                    "model": "86QNED99CRA",
+                    "type": "Op",
+                    "fileId": "2",
+                    "filename": "webOS 23 O_1.0_2.tar.gz"
+                },
+                {
+                    "osSeq": "511214",
+                    "model": "86QNED99CRA",
+                    "type": "Op",
+                    "fileId": "3",
+                    "filename": "webOS 23 O_1.0_3.tar.gz"
+                }
+            ]
+        },
+        "86QNED99JPA": {
+            "description": "webOS 6.0 EN 1.0",
+            "notice": [
+                {
+                    "osSeq": "510347",
+                    "model": "86QNED99JPA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-3254_webOS 6.0 EN_1.0_210223.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "510347",
+                    "model": "86QNED99JPA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS 6.0 EN_1.0_1.tar.gz"
+                },
+                {
+                    "osSeq": "510347",
+                    "model": "86QNED99JPA",
+                    "type": "Op",
+                    "fileId": "2",
+                    "filename": "webOS 6.0 EN_1.0_2.tar.gz"
+                },
+                {
+                    "osSeq": "510347",
+                    "model": "86QNED99JPA",
+                    "type": "Op",
+                    "fileId": "3",
+                    "filename": "webOS 6.0 EN_1.0_3.tar.gz"
+                }
+            ]
+        },
+        "86QNED99JQB": {
+            "description": "webOS 23 O ReNew",
+            "notice": [
+                {
+                    "osSeq": "511655",
+                    "model": "86QNED99JQB",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-6380_webOS 23 O_ReNew_240319.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "511655",
+                    "model": "86QNED99JQB",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS 23 O_ReNew_1.tar.gz"
+                },
+                {
+                    "osSeq": "511655",
+                    "model": "86QNED99JQB",
+                    "type": "Op",
+                    "fileId": "2",
+                    "filename": "webOS 23 O_ReNew_2.tar.gz"
+                },
+                {
+                    "osSeq": "511655",
+                    "model": "86QNED99JQB",
+                    "type": "Op",
+                    "fileId": "3",
+                    "filename": "webOS 23 O_ReNew_3.tar.gz"
+                }
+            ]
+        },
+        "86QNED99JRA": {
+            "description": "webOS 23 O(F) 1.0",
+            "notice": [
+                {
+                    "osSeq": "511214",
+                    "model": "86QNED99JRA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-4526_webOS 23 O_1.0_221220.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "511214",
+                    "model": "86QNED99JRA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS 23 O_1.0_1.tar.gz"
+                },
+                {
+                    "osSeq": "511214",
+                    "model": "86QNED99JRA",
+                    "type": "Op",
+                    "fileId": "2",
+                    "filename": "webOS 23 O_1.0_2.tar.gz"
+                },
+                {
+                    "osSeq": "511214",
+                    "model": "86QNED99JRA",
+                    "type": "Op",
+                    "fileId": "3",
+                    "filename": "webOS 23 O_1.0_3.tar.gz"
+                }
+            ]
+        },
+        "86QNED99KPA": {
+            "description": "webOS 6.0 EN 1.0",
+            "notice": [
+                {
+                    "osSeq": "510347",
+                    "model": "86QNED99KPA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-3254_webOS 6.0 EN_1.0_210223.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "510347",
+                    "model": "86QNED99KPA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS 6.0 EN_1.0_1.tar.gz"
+                },
+                {
+                    "osSeq": "510347",
+                    "model": "86QNED99KPA",
+                    "type": "Op",
+                    "fileId": "2",
+                    "filename": "webOS 6.0 EN_1.0_2.tar.gz"
+                },
+                {
+                    "osSeq": "510347",
+                    "model": "86QNED99KPA",
+                    "type": "Op",
+                    "fileId": "3",
+                    "filename": "webOS 6.0 EN_1.0_3.tar.gz"
+                }
+            ]
+        },
+        "86QNED99KQA": {
+            "description": "webOS 23 O ReNew",
+            "notice": [
+                {
+                    "osSeq": "511655",
+                    "model": "86QNED99KQA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-6380_webOS 23 O_ReNew_240319.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "511655",
+                    "model": "86QNED99KQA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS 23 O_ReNew_1.tar.gz"
+                },
+                {
+                    "osSeq": "511655",
+                    "model": "86QNED99KQA",
+                    "type": "Op",
+                    "fileId": "2",
+                    "filename": "webOS 23 O_ReNew_2.tar.gz"
+                },
+                {
+                    "osSeq": "511655",
+                    "model": "86QNED99KQA",
+                    "type": "Op",
+                    "fileId": "3",
+                    "filename": "webOS 23 O_ReNew_3.tar.gz"
+                }
+            ]
+        },
+        "86QNED99KRA": {
+            "description": "webOS 23 O(F) 1.0",
+            "notice": [
+                {
+                    "osSeq": "511214",
+                    "model": "86QNED99KRA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-4526_webOS 23 O_1.0_221220.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "511214",
+                    "model": "86QNED99KRA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS 23 O_1.0_1.tar.gz"
+                },
+                {
+                    "osSeq": "511214",
+                    "model": "86QNED99KRA",
+                    "type": "Op",
+                    "fileId": "2",
+                    "filename": "webOS 23 O_1.0_2.tar.gz"
+                },
+                {
+                    "osSeq": "511214",
+                    "model": "86QNED99KRA",
+                    "type": "Op",
+                    "fileId": "3",
+                    "filename": "webOS 23 O_1.0_3.tar.gz"
+                }
+            ]
+        },
+        "86QNED99SPA": {
+            "description": "webOS 6.0 EN 1.0",
+            "notice": [
+                {
+                    "osSeq": "510347",
+                    "model": "86QNED99SPA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-3254_webOS 6.0 EN_1.0_210223.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "510347",
+                    "model": "86QNED99SPA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS 6.0 EN_1.0_1.tar.gz"
+                },
+                {
+                    "osSeq": "510347",
+                    "model": "86QNED99SPA",
+                    "type": "Op",
+                    "fileId": "2",
+                    "filename": "webOS 6.0 EN_1.0_2.tar.gz"
+                },
+                {
+                    "osSeq": "510347",
+                    "model": "86QNED99SPA",
+                    "type": "Op",
+                    "fileId": "3",
+                    "filename": "webOS 6.0 EN_1.0_3.tar.gz"
+                }
+            ]
+        }
+    }
+}

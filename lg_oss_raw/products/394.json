@@ -1,0 +1,193 @@
+{
+    "TV/AV>TV": {
+        "49UF7700-SA": {
+            "description": "webOS BLMU LGE Open Source2",
+            "notice": [
+                {
+                    "osSeq": "506703",
+                    "model": "49UF7700-SA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-160509-webOSBLMU-3.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "506703",
+                    "model": "49UF7700-SA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "BLMU-r3160-2.tar.gz"
+                }
+            ]
+        },
+        "49UF7700-SD": {
+            "description": "webOS BLMA LGE Open Source2",
+            "notice": [
+                {
+                    "osSeq": "506701",
+                    "model": "49UF7700-SD",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-160509-webOSBLMA-5.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "506701",
+                    "model": "49UF7700-SD",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "BLMA-r3161-2.tar.gz"
+                }
+            ]
+        },
+        "49UF7702-CC": {
+            "description": "webOS BLMA LGE Open Source2",
+            "notice": [
+                {
+                    "osSeq": "506701",
+                    "model": "49UF7702-CC",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-160509-webOSBLMA-5.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "506701",
+                    "model": "49UF7702-CC",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "BLMA-r3161-2.tar.gz"
+                }
+            ]
+        },
+        "49UF7707-ZB": {
+            "description": "webOS BLMU LGE Open Source2",
+            "notice": [
+                {
+                    "osSeq": "506703",
+                    "model": "49UF7707-ZB",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-160509-webOSBLMU-3.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "506703",
+                    "model": "49UF7707-ZB",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "BLMU-r3160-2.tar.gz"
+                }
+            ]
+        },
+        "49UF7707-ZL": {
+            "description": "webOS BLMA LGE Open Source2",
+            "notice": [
+                {
+                    "osSeq": "506701",
+                    "model": "49UF7707-ZL",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-160509-webOSBLMA-5.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "506701",
+                    "model": "49UF7707-ZL",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "BLMA-r3161-2.tar.gz"
+                }
+            ]
+        },
+        "49UF7709-ZB": {
+            "description": "webOS BLMU LGE Open Source2",
+            "notice": [
+                {
+                    "osSeq": "506703",
+                    "model": "49UF7709-ZB",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-160509-webOSBLMU-3.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "506703",
+                    "model": "49UF7709-ZB",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "BLMU-r3160-2.tar.gz"
+                }
+            ]
+        },
+        "49UF7709-ZL": {
+            "description": "webOS BLMA LGE Open Source2",
+            "notice": [
+                {
+                    "osSeq": "506701",
+                    "model": "49UF7709-ZL",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-160509-webOSBLMA-5.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "506701",
+                    "model": "49UF7709-ZL",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "BLMA-r3161-2.tar.gz"
+                }
+            ]
+        },
+        "49UF770T-DA": {
+            "description": "webOS BLMU LGE Open Source2",
+            "notice": [
+                {
+                    "osSeq": "506703",
+                    "model": "49UF770T-DA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-160509-webOSBLMU-3.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "506703",
+                    "model": "49UF770T-DA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "BLMU-r3160-2.tar.gz"
+                }
+            ]
+        },
+        "49UF770T-DD": {
+            "description": "webOS BLMA LGE Open Source2",
+            "notice": [
+                {
+                    "osSeq": "506701",
+                    "model": "49UF770T-DD",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-160509-webOSBLMA-5.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "506701",
+                    "model": "49UF770T-DD",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "BLMA-r3161-2.tar.gz"
+                }
+            ]
+        }
+    }
+}

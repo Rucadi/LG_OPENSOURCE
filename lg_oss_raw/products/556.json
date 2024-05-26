@@ -1,0 +1,153 @@
+{
+    "TV/AV>TV": {
+        "55EW960H-UB": {
+            "description": "webOS3.0_M16_CommercialTV_2",
+            "notice": [
+                {
+                    "osSeq": "507303",
+                    "model": "55EW960H-UB",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-160404-webOS3.0M16CommercialTV-2.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "507303",
+                    "model": "55EW960H-UB",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS3.0_M16_CTV_OpenSource_V1.0_2.zip"
+                }
+            ]
+        },
+        "55EW961H-TA": {
+            "description": "webOS3.0_M16_CommercialTV_2",
+            "notice": [
+                {
+                    "osSeq": "507303",
+                    "model": "55EW961H-TA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-160404-webOS3.0M16CommercialTV-2.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "507303",
+                    "model": "55EW961H-TA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS3.0_M16_CTV_OpenSource_V1.0_2.zip"
+                }
+            ]
+        },
+        "55EW961H-TB": {
+            "description": "webOS3.0_M16_CommercialTV_2",
+            "notice": [
+                {
+                    "osSeq": "507303",
+                    "model": "55EW961H-TB",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-160404-webOS3.0M16CommercialTV-2.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "507303",
+                    "model": "55EW961H-TB",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS3.0_M16_CTV_OpenSource_V1.0_2.zip"
+                }
+            ]
+        },
+        "55EW961H-ZA": {
+            "description": "webOS3.0_M16_CommercialTV_2",
+            "notice": [
+                {
+                    "osSeq": "507303",
+                    "model": "55EW961H-ZA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-160404-webOS3.0M16CommercialTV-2.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "507303",
+                    "model": "55EW961H-ZA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS3.0_M16_CTV_OpenSource_V1.0_2.zip"
+                }
+            ]
+        },
+        "55EW961H-ZB": {
+            "description": "webOS3.0_M16_CommercialTV_2",
+            "notice": [
+                {
+                    "osSeq": "507303",
+                    "model": "55EW961H-ZB",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-160404-webOS3.0M16CommercialTV-2.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "507303",
+                    "model": "55EW961H-ZB",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS3.0_M16_CTV_OpenSource_V1.0_2.zip"
+                }
+            ]
+        },
+        "55JL9100-ZQ": {
+            "description": "webOS BLMU LGE Open Source2",
+            "notice": [
+                {
+                    "osSeq": "506703",
+                    "model": "55JL9100-ZQ",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-160509-webOSBLMU-3.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "506703",
+                    "model": "55JL9100-ZQ",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "BLMU-r3160-2.tar.gz"
+                }
+            ]
+        }
+    },
+    "TV/AV>Monitor/Signage": {
+        "55KR5PJ-WX": {
+            "description": "webOS4.0+_M16++_Signage MR2",
+            "notice": [
+                {
+                    "osSeq": "510979",
+                    "model": "55KR5PJ-WX",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-4518_webOS4.0+_M16++_Signage_MR2_220616.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "510979",
+                    "model": "55KR5PJ-WX",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS4.0+_M16++_Signage_MR2.zip"
+                }
+            ]
+        }
+    }
+}

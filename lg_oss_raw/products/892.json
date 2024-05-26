@@ -1,0 +1,172 @@
+{
+    "TV/AV>TV": {
+        "65UF7702-CC": {
+            "description": "webOS BLMA LGE Open Source2",
+            "notice": [
+                {
+                    "osSeq": "506701",
+                    "model": "65UF7702-CC",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-160509-webOSBLMA-5.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "506701",
+                    "model": "65UF7702-CC",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "BLMA-r3161-2.tar.gz"
+                }
+            ]
+        },
+        "65UF7709-ZB": {
+            "description": "webOS BLMU LGE Open Source2",
+            "notice": [
+                {
+                    "osSeq": "506703",
+                    "model": "65UF7709-ZB",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-160509-webOSBLMU-3.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "506703",
+                    "model": "65UF7709-ZB",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "BLMU-r3160-2.tar.gz"
+                }
+            ]
+        },
+        "65UF7709-ZL": {
+            "description": "webOS BLMA LGE Open Source2",
+            "notice": [
+                {
+                    "osSeq": "506701",
+                    "model": "65UF7709-ZL",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-160509-webOSBLMA-5.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "506701",
+                    "model": "65UF7709-ZL",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "BLMA-r3161-2.tar.gz"
+                }
+            ]
+        },
+        "65UF770T-DA": {
+            "description": "webOS BLMU LGE Open Source2",
+            "notice": [
+                {
+                    "osSeq": "506703",
+                    "model": "65UF770T-DA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-160509-webOSBLMU-3.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "506703",
+                    "model": "65UF770T-DA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "BLMU-r3160-2.tar.gz"
+                }
+            ]
+        },
+        "65UF770T-DD": {
+            "description": "webOS BLMA LGE Open Source2",
+            "notice": [
+                {
+                    "osSeq": "506701",
+                    "model": "65UF770T-DD",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-160509-webOSBLMA-5.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "506701",
+                    "model": "65UF770T-DD",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "BLMA-r3161-2.tar.gz"
+                }
+            ]
+        },
+        "65UF770T-TA": {
+            "description": "webOS BLMU LGE Open Source2",
+            "notice": [
+                {
+                    "osSeq": "506703",
+                    "model": "65UF770T-TA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-160509-webOSBLMU-3.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "506703",
+                    "model": "65UF770T-TA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "BLMU-r3160-2.tar.gz"
+                }
+            ]
+        },
+        "65UF770T-TD": {
+            "description": "webOS BLMA LGE Open Source2",
+            "notice": [
+                {
+                    "osSeq": "506701",
+                    "model": "65UF770T-TD",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-160509-webOSBLMA-5.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "506701",
+                    "model": "65UF770T-TD",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "BLMA-r3161-2.tar.gz"
+                }
+            ]
+        },
+        "65UF770V-TA": {
+            "description": "webOS BLMU LGE Open Source2",
+            "notice": [
+                {
+                    "osSeq": "506703",
+                    "model": "65UF770V-TA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-160509-webOSBLMU-3.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "506703",
+                    "model": "65UF770V-TA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "BLMU-r3160-2.tar.gz"
+                }
+            ]
+        }
+    }
+}

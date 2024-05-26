@@ -1,0 +1,431 @@
+{
+    "TV/AV>Monitor/Signage": {
+        "24LK451V-PZ": {
+            "description": "M1AP(16) Platform_03_06",
+            "notice": [
+                {
+                    "osSeq": "507038",
+                    "model": "24LK451V-PZ",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-151202-L16_M1AP_MTV-1.pdf"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "507038",
+                    "model": "24LK451V-PZ",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "L16_M1AP_MTV_OpenSource_v1.1.zip"
+                }
+            ]
+        },
+        "24LK454A-PT": {
+            "description": "M8RR(16)_Platform",
+            "notice": [
+                {
+                    "osSeq": "506971",
+                    "model": "24LK454A-PT",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-140522-M8RR_MTV-1.pdf"
+                }
+            ],
+            "source": []
+        },
+        "24LM500S-PU": {
+            "description": "webOS DMR LGE Open Source",
+            "notice": [
+                {
+                    "osSeq": "507697",
+                    "model": "24LM500S-PU",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-161025-webOSDMR-1.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "507697",
+                    "model": "24LM500S-PU",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "DM2-r3147.tar.gz"
+                }
+            ]
+        },
+        "24LM520D-WU": {
+            "description": "M1LP(16) Platform_12_16",
+            "notice": [
+                {
+                    "osSeq": "507467",
+                    "model": "24LM520D-WU",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-160824-L16_M1LP_MTV-1.html"
+                }
+            ],
+            "source": []
+        },
+        "24LM520S-WU": {
+            "description": "webOS DMR LGE Open Source",
+            "notice": [
+                {
+                    "osSeq": "507697",
+                    "model": "24LM520S-WU",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-161025-webOSDMR-1.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "507697",
+                    "model": "24LM520S-WU",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "DM2-r3147.tar.gz"
+                }
+            ]
+        },
+        "24LM530S-PU": {
+            "description": "webOS DMR LGE Open Source",
+            "notice": [
+                {
+                    "osSeq": "507697",
+                    "model": "24LM530S-PU",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-161025-webOSDMR-1.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "507697",
+                    "model": "24LM530S-PU",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "DM2-r3147.tar.gz"
+                }
+            ]
+        },
+        "24LN510S-PZ": {
+            "description": "webOS 4.5 IMR monitor",
+            "notice": [
+                {
+                    "osSeq": "509536",
+                    "model": "24LN510S-PZ",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-2282_webOS 4.5 IMR monitor_191202.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "509536",
+                    "model": "24LN510S-PZ",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS 4.5 IMR monitor_1.tar.gz"
+                },
+                {
+                    "osSeq": "509536",
+                    "model": "24LN510S-PZ",
+                    "type": "Op",
+                    "fileId": "2",
+                    "filename": "webOS 4.5 IMR monitor_2.tar.gz"
+                }
+            ]
+        }
+    },
+    "TV/AV>TV": {
+        "24LN4100": {
+            "description": "5.0UL LGE MTV Open Source",
+            "notice": [
+                {
+                    "osSeq": "11241",
+                    "model": "24LN4100",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-140522-M8RR_MTV-1.pdf"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "11241",
+                    "model": "24LN4100",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "N/A"
+                }
+            ]
+        },
+        "24LN4100-DA": {
+            "description": "5.0UL LGE MTV Open Source",
+            "notice": [
+                {
+                    "osSeq": "11241",
+                    "model": "24LN4100-DA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-140522-M8RR_MTV-1.pdf"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "11241",
+                    "model": "24LN4100-DA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "N/A"
+                }
+            ]
+        },
+        "24LN4100-MA": {
+            "description": "5.0UL LGE MTV Open Source",
+            "notice": [
+                {
+                    "osSeq": "11241",
+                    "model": "24LN4100-MA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-140522-M8RR_MTV-1.pdf"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "11241",
+                    "model": "24LN4100-MA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "N/A"
+                }
+            ]
+        },
+        "24LN4100-TA": {
+            "description": "5.0UL LGE MTV Open Source",
+            "notice": [
+                {
+                    "osSeq": "11241",
+                    "model": "24LN4100-TA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-140522-M8RR_MTV-1.pdf"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "11241",
+                    "model": "24LN4100-TA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "N/A"
+                }
+            ]
+        },
+        "24LN4105-TA": {
+            "description": "5.0UL LGE MTV Open Source",
+            "notice": [
+                {
+                    "osSeq": "11241",
+                    "model": "24LN4105-TA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-140522-M8RR_MTV-1.pdf"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "11241",
+                    "model": "24LN4105-TA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "N/A"
+                }
+            ]
+        },
+        "24LN4110-TA": {
+            "description": "5.0UL LGE MTV Open Source",
+            "notice": [
+                {
+                    "osSeq": "11241",
+                    "model": "24LN4110-TA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-140522-M8RR_MTV-1.pdf"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "11241",
+                    "model": "24LN4110-TA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "N/A"
+                }
+            ]
+        },
+        "24LN4110-TB": {
+            "description": "5.0UL LGE MTV Open Source",
+            "notice": [
+                {
+                    "osSeq": "11241",
+                    "model": "24LN4110-TB",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-140522-M8RR_MTV-1.pdf"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "11241",
+                    "model": "24LN4110-TB",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "N/A"
+                }
+            ]
+        },
+        "24LN4130-TD": {
+            "description": "5.0UL LGE MTV Open Source",
+            "notice": [
+                {
+                    "osSeq": "11241",
+                    "model": "24LN4130-TD",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-140522-M8RR_MTV-1.pdf"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "11241",
+                    "model": "24LN4130-TD",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "N/A"
+                }
+            ]
+        },
+        "24LN4140-TE": {
+            "description": "5.0UL LGE MTV Open Source",
+            "notice": [
+                {
+                    "osSeq": "11241",
+                    "model": "24LN4140-TE",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-140522-M8RR_MTV-1.pdf"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "11241",
+                    "model": "24LN4140-TE",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "N/A"
+                }
+            ]
+        },
+        "24LN4145-TE": {
+            "description": "5.0UL LGE MTV Open Source",
+            "notice": [
+                {
+                    "osSeq": "11241",
+                    "model": "24LN4145-TE",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-140522-M8RR_MTV-1.pdf"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "11241",
+                    "model": "24LN4145-TE",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "N/A"
+                }
+            ]
+        },
+        "24LN4160-TG": {
+            "description": "5.0UL LGE MTV Open Source",
+            "notice": [
+                {
+                    "osSeq": "11241",
+                    "model": "24LN4160-TG",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-140522-M8RR_MTV-1.pdf"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "11241",
+                    "model": "24LN4160-TG",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "N/A"
+                }
+            ]
+        },
+        "24LN572M9UB": {
+            "description": "webOS22_K8HP_K8LP_CommercialTV",
+            "notice": [
+                {
+                    "osSeq": "510888",
+                    "model": "24LN572M9UB",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-4270_webOS22_K8HP_CommercialTV_220329.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "510888",
+                    "model": "24LN572M9UB",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS22_K8HP_CommercialTV_1.zip"
+                },
+                {
+                    "osSeq": "510888",
+                    "model": "24LN572M9UB",
+                    "type": "Op",
+                    "fileId": "2",
+                    "filename": "webOS22_K8HP_CommercialTV_2.zip"
+                }
+            ]
+        },
+        "24LN572MBUB": {
+            "description": "webOS22_K8HP_K8LP_CommercialTV",
+            "notice": [
+                {
+                    "osSeq": "510888",
+                    "model": "24LN572MBUB",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-4270_webOS22_K8HP_CommercialTV_220329.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "510888",
+                    "model": "24LN572MBUB",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS22_K8HP_CommercialTV_1.zip"
+                },
+                {
+                    "osSeq": "510888",
+                    "model": "24LN572MBUB",
+                    "type": "Op",
+                    "fileId": "2",
+                    "filename": "webOS22_K8HP_CommercialTV_2.zip"
+                }
+            ]
+        }
+    }
+}

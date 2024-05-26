@@ -1,0 +1,195 @@
+{
+    "TV/AV>TV": {
+        "49UX960H-GA": {
+            "description": "webOS2.0 LM15U Commercial TV Open Source 2",
+            "notice": [
+                {
+                    "osSeq": "506814",
+                    "model": "49UX960H-GA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-150818-webOS2.0LM15UCommercialTV-1.pdf"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "506814",
+                    "model": "49UX960H-GA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS_BLM_COMMERCIAL_FI_2-1.zip"
+                }
+            ]
+        },
+        "49UX960H-ZA": {
+            "description": "webOS2.0 LM15U Commercial TV Open Source 2",
+            "notice": [
+                {
+                    "osSeq": "506814",
+                    "model": "49UX960H-ZA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-150818-webOS2.0LM15UCommercialTV-1.pdf"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "506814",
+                    "model": "49UX960H-ZA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS_BLM_COMMERCIAL_FI_2-1.zip"
+                }
+            ]
+        },
+        "49UX970H-UA": {
+            "description": "webOS2.0 LM15U Commercial TV Open Source 2",
+            "notice": [
+                {
+                    "osSeq": "506814",
+                    "model": "49UX970H-UA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-150818-webOS2.0LM15UCommercialTV-1.pdf"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "506814",
+                    "model": "49UX970H-UA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS_BLM_COMMERCIAL_FI_2-1.zip"
+                }
+            ]
+        },
+        "49V540H-SB": {
+            "description": "L15_M1A_Commercial TV Open Source",
+            "notice": [
+                {
+                    "osSeq": "506326",
+                    "model": "49V540H-SB",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-150126-L15_M1A_CommercialTV-2.pdf"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "506326",
+                    "model": "49V540H-SB",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "L15_M1A_Commercial_Signage_Opensource_v1.0.zip"
+                }
+            ]
+        }
+    },
+    "TV/AV>Monitor/Signage": {
+        "49VH7B-BD": {
+            "description": "webOS2.0_LM15U_Signage_2",
+            "notice": [
+                {
+                    "osSeq": "506465",
+                    "model": "49VH7B-BD",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-151022-LM15U_Signage-4.pdf"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "506465",
+                    "model": "49VH7B-BD",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS_Commercial_Signage_OpenSource_version1.0.1_2.zip"
+                }
+            ]
+        },
+        "49VH7C-BD": {
+            "description": "webOS2.0_LM15U_Signage_2",
+            "notice": [
+                {
+                    "osSeq": "506465",
+                    "model": "49VH7C-BD",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-151022-LM15U_Signage-4.pdf"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "506465",
+                    "model": "49VH7C-BD",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS_Commercial_Signage_OpenSource_version1.0.1_2.zip"
+                }
+            ]
+        },
+        "49VH7E-AJ": {
+            "description": "webOS4.0_M16++_Signage",
+            "notice": [
+                {
+                    "osSeq": "508481",
+                    "model": "49VH7E-AJ",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-880_webOS4.0_M16++_Signage_180313.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "508481",
+                    "model": "49VH7E-AJ",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS4.0_M16++_Signage.zip"
+                }
+            ]
+        },
+        "49VL5B-BC": {
+            "description": "L14_M1A_Signage",
+            "notice": [
+                {
+                    "osSeq": "12880",
+                    "model": "49VL5B-BC",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-891_L14 M1A Signage_180122.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "12880",
+                    "model": "49VL5B-BC",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "L14 M1A Signage.zip"
+                }
+            ]
+        },
+        "49VL5B-XC": {
+            "description": "L14_M1A_Signage",
+            "notice": [
+                {
+                    "osSeq": "12880",
+                    "model": "49VL5B-XC",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-891_L14 M1A Signage_180122.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "12880",
+                    "model": "49VL5B-XC",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "L14 M1A Signage.zip"
+                }
+            ]
+        }
+    }
+}

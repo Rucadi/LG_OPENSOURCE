@@ -1,0 +1,269 @@
+{
+    "TV/AV>Monitor/Signage": {
+        "22TK420A-PT": {
+            "description": "M8RR(16)_Platform",
+            "notice": [
+                {
+                    "osSeq": "506971",
+                    "model": "22TK420A-PT",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-140522-M8RR_MTV-1.pdf"
+                }
+            ],
+            "source": []
+        },
+        "22TN410D-PH": {
+            "description": "M1A(15) Platform",
+            "notice": [
+                {
+                    "osSeq": "506436",
+                    "model": "22TN410D-PH",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-150304-L15_M1A_MTV-1.pdf"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "506436",
+                    "model": "22TN410D-PH",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "L15_L_LGE_MonitorTV_OpenSource_v1.1.zip"
+                }
+            ]
+        },
+        "22TN410V-PZ": {
+            "description": "18Y_M1AP_Platform",
+            "notice": [
+                {
+                    "osSeq": "508429",
+                    "model": "22TN410V-PZ",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-861_18Y_M1AP_Platform_180115.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "508429",
+                    "model": "22TN410V-PZ",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "18Y_M1AP_Platform.tar.gz"
+                }
+            ]
+        },
+        "22TN610D-PH": {
+            "description": "M1A(16) Platform_03_28",
+            "notice": [
+                {
+                    "osSeq": "507016",
+                    "model": "22TN610D-PH",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-151222-L16_M1A_MTV-1.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "507016",
+                    "model": "22TN610D-PH",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "L16_L_MTV_OpenSource_v1.0.zip"
+                }
+            ]
+        },
+        "22TN610D-PN": {
+            "description": "M1A(16) Platform_03_28",
+            "notice": [
+                {
+                    "osSeq": "507016",
+                    "model": "22TN610D-PN",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-151222-L16_M1A_MTV-1.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "507016",
+                    "model": "22TN610D-PN",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "L16_L_MTV_OpenSource_v1.0.zip"
+                }
+            ]
+        },
+        "22TN610D-WH": {
+            "description": "M1A(16) Platform_03_28",
+            "notice": [
+                {
+                    "osSeq": "507016",
+                    "model": "22TN610D-WH",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-151222-L16_M1A_MTV-1.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "507016",
+                    "model": "22TN610D-WH",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "L16_L_MTV_OpenSource_v1.0.zip"
+                }
+            ]
+        },
+        "22TN610V-PZ": {
+            "description": "M1AP(16) Platform_03_06",
+            "notice": [
+                {
+                    "osSeq": "507038",
+                    "model": "22TN610V-PZ",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-151202-L16_M1AP_MTV-1.pdf"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "507038",
+                    "model": "22TN610V-PZ",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "L16_M1AP_MTV_OpenSource_v1.1.zip"
+                }
+            ]
+        },
+        "22TP410D-PH": {
+            "description": "18Y_M1A_Platform",
+            "notice": [
+                {
+                    "osSeq": "508366",
+                    "model": "22TP410D-PH",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-856_18Y_M1A_Platform_180115.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "508366",
+                    "model": "22TP410D-PH",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "18Y_M1A_Platform.zip"
+                }
+            ]
+        },
+        "22TP610D-PH": {
+            "description": "18Y_M1A_Platform",
+            "notice": [
+                {
+                    "osSeq": "508366",
+                    "model": "22TP610D-PH",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-856_18Y_M1A_Platform_180115.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "508366",
+                    "model": "22TP610D-PH",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "18Y_M1A_Platform.zip"
+                }
+            ]
+        },
+        "22TP610V-PZ": {
+            "description": "18Y_M1AP_Platform",
+            "notice": [
+                {
+                    "osSeq": "508429",
+                    "model": "22TP610V-PZ",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-861_18Y_M1AP_Platform_180115.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "508429",
+                    "model": "22TP610V-PZ",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "18Y_M1AP_Platform.tar.gz"
+                }
+            ]
+        },
+        "22XE1J-BJ": {
+            "description": "webOS4.0+_M16++_Signage MR2",
+            "notice": [
+                {
+                    "osSeq": "510979",
+                    "model": "22XE1J-BJ",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-4518_webOS4.0+_M16++_Signage_MR2_220616.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "510979",
+                    "model": "22XE1J-BJ",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS4.0+_M16++_Signage_MR2.zip"
+                }
+            ]
+        },
+        "22XE1J-BM": {
+            "description": "webOS4.0+_M16++_Signage MR2",
+            "notice": [
+                {
+                    "osSeq": "510979",
+                    "model": "22XE1J-BM",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-4518_webOS4.0+_M16++_Signage_MR2_220616.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "510979",
+                    "model": "22XE1J-BM",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS4.0+_M16++_Signage_MR2.zip"
+                }
+            ]
+        },
+        "22XF1TJ-BJ": {
+            "description": "webOS4.0+_M16++_Signage MR",
+            "notice": [
+                {
+                    "osSeq": "510084",
+                    "model": "22XF1TJ-BJ",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-3048_webOS4.0+_M16++_Signage_MR_200924.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "510084",
+                    "model": "22XF1TJ-BJ",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS4.0+_M16++_Signage_MR.zip"
+                }
+            ]
+        }
+    }
+}

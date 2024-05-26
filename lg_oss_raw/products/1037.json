@@ -1,0 +1,410 @@
+{
+    "TV/AV>TV": {
+        "75NANO91VPA": {
+            "description": "webOS 6.0 LMUA 1.0",
+            "notice": [
+                {
+                    "osSeq": "510685",
+                    "model": "75NANO91VPA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-3037_webOS 6.0 LMUA_1.0_211116.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "510685",
+                    "model": "75NANO91VPA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS 6.0 LMUA_1.0_1.tar.gz"
+                },
+                {
+                    "osSeq": "510685",
+                    "model": "75NANO91VPA",
+                    "type": "Op",
+                    "fileId": "2",
+                    "filename": "webOS 6.0 LMUA_1.0_2.tar.gz"
+                },
+                {
+                    "osSeq": "510685",
+                    "model": "75NANO91VPA",
+                    "type": "Op",
+                    "fileId": "3",
+                    "filename": "webOS 6.0 LMUA_1.0_3.tar.gz"
+                }
+            ]
+        },
+        "75NANO91WNA": {
+            "description": "webOS 5.0 JKHP 2.0",
+            "notice": [
+                {
+                    "osSeq": "510776",
+                    "model": "75NANO91WNA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-3913_webOS 5.0 JKHP_2.0_220114.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "510776",
+                    "model": "75NANO91WNA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS 5.0 JKHP_2.0_1.tar.gz"
+                },
+                {
+                    "osSeq": "510776",
+                    "model": "75NANO91WNA",
+                    "type": "Op",
+                    "fileId": "2",
+                    "filename": "webOS 5.0 JKHP_2.0_2.tar.gz"
+                }
+            ]
+        },
+        "75NANO923PB": {
+            "description": "webOS 6.0 LMUA 1.0",
+            "notice": [
+                {
+                    "osSeq": "510685",
+                    "model": "75NANO923PB",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-3037_webOS 6.0 LMUA_1.0_211116.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "510685",
+                    "model": "75NANO923PB",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS 6.0 LMUA_1.0_1.tar.gz"
+                },
+                {
+                    "osSeq": "510685",
+                    "model": "75NANO923PB",
+                    "type": "Op",
+                    "fileId": "2",
+                    "filename": "webOS 6.0 LMUA_1.0_2.tar.gz"
+                },
+                {
+                    "osSeq": "510685",
+                    "model": "75NANO923PB",
+                    "type": "Op",
+                    "fileId": "3",
+                    "filename": "webOS 6.0 LMUA_1.0_3.tar.gz"
+                }
+            ]
+        },
+        "75NANO926PB": {
+            "description": "webOS 6.0 LMUA 1.0",
+            "notice": [
+                {
+                    "osSeq": "510685",
+                    "model": "75NANO926PB",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-3037_webOS 6.0 LMUA_1.0_211116.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "510685",
+                    "model": "75NANO926PB",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS 6.0 LMUA_1.0_1.tar.gz"
+                },
+                {
+                    "osSeq": "510685",
+                    "model": "75NANO926PB",
+                    "type": "Op",
+                    "fileId": "2",
+                    "filename": "webOS 6.0 LMUA_1.0_2.tar.gz"
+                },
+                {
+                    "osSeq": "510685",
+                    "model": "75NANO926PB",
+                    "type": "Op",
+                    "fileId": "3",
+                    "filename": "webOS 6.0 LMUA_1.0_3.tar.gz"
+                }
+            ]
+        },
+        "75NANO929PB": {
+            "description": "webOS 6.0 LMUA 1.0",
+            "notice": [
+                {
+                    "osSeq": "510685",
+                    "model": "75NANO929PB",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-3037_webOS 6.0 LMUA_1.0_211116.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "510685",
+                    "model": "75NANO929PB",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS 6.0 LMUA_1.0_1.tar.gz"
+                },
+                {
+                    "osSeq": "510685",
+                    "model": "75NANO929PB",
+                    "type": "Op",
+                    "fileId": "2",
+                    "filename": "webOS 6.0 LMUA_1.0_2.tar.gz"
+                },
+                {
+                    "osSeq": "510685",
+                    "model": "75NANO929PB",
+                    "type": "Op",
+                    "fileId": "3",
+                    "filename": "webOS 6.0 LMUA_1.0_3.tar.gz"
+                }
+            ]
+        },
+        "75NANO93KNB": {
+            "description": "webOS 5.0 JKHP 2.0",
+            "notice": [
+                {
+                    "osSeq": "510776",
+                    "model": "75NANO93KNB",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-3913_webOS 5.0 JKHP_2.0_220114.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "510776",
+                    "model": "75NANO93KNB",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS 5.0 JKHP_2.0_1.tar.gz"
+                },
+                {
+                    "osSeq": "510776",
+                    "model": "75NANO93KNB",
+                    "type": "Op",
+                    "fileId": "2",
+                    "filename": "webOS 5.0 JKHP_2.0_2.tar.gz"
+                }
+            ]
+        },
+        "75NANO93KPA": {
+            "description": "webOS 6.0 LMUA 1.0",
+            "notice": [
+                {
+                    "osSeq": "510685",
+                    "model": "75NANO93KPA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-3037_webOS 6.0 LMUA_1.0_211116.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "510685",
+                    "model": "75NANO93KPA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS 6.0 LMUA_1.0_1.tar.gz"
+                },
+                {
+                    "osSeq": "510685",
+                    "model": "75NANO93KPA",
+                    "type": "Op",
+                    "fileId": "2",
+                    "filename": "webOS 6.0 LMUA_1.0_2.tar.gz"
+                },
+                {
+                    "osSeq": "510685",
+                    "model": "75NANO93KPA",
+                    "type": "Op",
+                    "fileId": "3",
+                    "filename": "webOS 6.0 LMUA_1.0_3.tar.gz"
+                }
+            ]
+        },
+        "75NANO95CNA": {
+            "description": "webOS 6.0 ON 1.0",
+            "notice": [
+                {
+                    "osSeq": "510316",
+                    "model": "75NANO95CNA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-3255_webOS 6.0 ON_1.0_210203.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "510316",
+                    "model": "75NANO95CNA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS 6.0 ON_1.0_1.tar.gz"
+                },
+                {
+                    "osSeq": "510316",
+                    "model": "75NANO95CNA",
+                    "type": "Op",
+                    "fileId": "2",
+                    "filename": "webOS 6.0 ON_1.0_2.tar.gz"
+                },
+                {
+                    "osSeq": "510316",
+                    "model": "75NANO95CNA",
+                    "type": "Op",
+                    "fileId": "3",
+                    "filename": "webOS 6.0 ON_1.0_3.tar.gz"
+                }
+            ]
+        },
+        "75NANO95DNA": {
+            "description": "webOS 6.0 ON 1.0",
+            "notice": [
+                {
+                    "osSeq": "510316",
+                    "model": "75NANO95DNA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-3255_webOS 6.0 ON_1.0_210203.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "510316",
+                    "model": "75NANO95DNA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS 6.0 ON_1.0_1.tar.gz"
+                },
+                {
+                    "osSeq": "510316",
+                    "model": "75NANO95DNA",
+                    "type": "Op",
+                    "fileId": "2",
+                    "filename": "webOS 6.0 ON_1.0_2.tar.gz"
+                },
+                {
+                    "osSeq": "510316",
+                    "model": "75NANO95DNA",
+                    "type": "Op",
+                    "fileId": "3",
+                    "filename": "webOS 6.0 ON_1.0_3.tar.gz"
+                }
+            ]
+        },
+        "75NANO95SNA": {
+            "description": "webOS 5.0 JO 2.0",
+            "notice": [
+                {
+                    "osSeq": "511222",
+                    "model": "75NANO95SNA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-3894_webOS 5.0 JO_2.0_221228.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "511222",
+                    "model": "75NANO95SNA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS 5.0 JO_2.0_1.tar.gz"
+                },
+                {
+                    "osSeq": "511222",
+                    "model": "75NANO95SNA",
+                    "type": "Op",
+                    "fileId": "2",
+                    "filename": "webOS 5.0 JO_2.0_2.tar.gz"
+                },
+                {
+                    "osSeq": "511222",
+                    "model": "75NANO95SNA",
+                    "type": "Op",
+                    "fileId": "3",
+                    "filename": "webOS 5.0 JO_2.0_3.tar.gz"
+                }
+            ]
+        },
+        "75NANO95SPA": {
+            "description": "webOS 6.0 EN 1.0",
+            "notice": [
+                {
+                    "osSeq": "510347",
+                    "model": "75NANO95SPA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-3254_webOS 6.0 EN_1.0_210223.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "510347",
+                    "model": "75NANO95SPA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS 6.0 EN_1.0_1.tar.gz"
+                },
+                {
+                    "osSeq": "510347",
+                    "model": "75NANO95SPA",
+                    "type": "Op",
+                    "fileId": "2",
+                    "filename": "webOS 6.0 EN_1.0_2.tar.gz"
+                },
+                {
+                    "osSeq": "510347",
+                    "model": "75NANO95SPA",
+                    "type": "Op",
+                    "fileId": "3",
+                    "filename": "webOS 6.0 EN_1.0_3.tar.gz"
+                }
+            ]
+        },
+        "75NANO95TNA": {
+            "description": "webOS 5.0 JO 2.0",
+            "notice": [
+                {
+                    "osSeq": "511222",
+                    "model": "75NANO95TNA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-3894_webOS 5.0 JO_2.0_221228.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "511222",
+                    "model": "75NANO95TNA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS 5.0 JO_2.0_1.tar.gz"
+                },
+                {
+                    "osSeq": "511222",
+                    "model": "75NANO95TNA",
+                    "type": "Op",
+                    "fileId": "2",
+                    "filename": "webOS 5.0 JO_2.0_2.tar.gz"
+                },
+                {
+                    "osSeq": "511222",
+                    "model": "75NANO95TNA",
+                    "type": "Op",
+                    "fileId": "3",
+                    "filename": "webOS 5.0 JO_2.0_3.tar.gz"
+                }
+            ]
+        }
+    }
+}

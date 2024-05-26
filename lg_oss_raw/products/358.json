@@ -1,0 +1,405 @@
+{
+    "TV/AV>Monitor/Signage": {
+        "49LS75C-MH": {
+            "description": "webOS3.0_M16_Signage_2",
+            "notice": [
+                {
+                    "osSeq": "507279",
+                    "model": "49LS75C-MH",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-170214-webOS3.0M16Signage-5.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "507279",
+                    "model": "49LS75C-MH",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS3.2_3.0_M16_Signage_OpenSource_V1.0_2.zip"
+                }
+            ]
+        }
+    },
+    "TV/AV>TV": {
+        "49LT340C0CB": {
+            "description": "L18/L19 M1A CommercialTV",
+            "notice": [
+                {
+                    "osSeq": "508421",
+                    "model": "49LT340C0CB",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-915_L18 M1A CommercialTV_180213.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "508421",
+                    "model": "49LT340C0CB",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "L18 M1A CommercialTV.zip"
+                }
+            ]
+        },
+        "49LT340C0DB": {
+            "description": "L18/L19 M1A CommercialTV",
+            "notice": [
+                {
+                    "osSeq": "508421",
+                    "model": "49LT340C0DB",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-915_L18 M1A CommercialTV_180213.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "508421",
+                    "model": "49LT340C0DB",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "L18 M1A CommercialTV.zip"
+                }
+            ]
+        },
+        "49LT340C0GB": {
+            "description": "L18/L19 M1A CommercialTV",
+            "notice": [
+                {
+                    "osSeq": "508421",
+                    "model": "49LT340C0GB",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-915_L18 M1A CommercialTV_180213.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "508421",
+                    "model": "49LT340C0GB",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "L18 M1A CommercialTV.zip"
+                }
+            ]
+        },
+        "49LT340C0TB": {
+            "description": "L18/L19 M1A CommercialTV",
+            "notice": [
+                {
+                    "osSeq": "508421",
+                    "model": "49LT340C0TB",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-915_L18 M1A CommercialTV_180213.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "508421",
+                    "model": "49LT340C0TB",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "L18 M1A CommercialTV.zip"
+                }
+            ]
+        },
+        "49LT340C0UB": {
+            "description": "L18/L19 M1A CommercialTV",
+            "notice": [
+                {
+                    "osSeq": "508421",
+                    "model": "49LT340C0UB",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-915_L18 M1A CommercialTV_180213.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "508421",
+                    "model": "49LT340C0UB",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "L18 M1A CommercialTV.zip"
+                }
+            ]
+        },
+        "49LT340C0ZB": {
+            "description": "L18/L19 M1A CommercialTV",
+            "notice": [
+                {
+                    "osSeq": "508421",
+                    "model": "49LT340C0ZB",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-915_L18 M1A CommercialTV_180213.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "508421",
+                    "model": "49LT340C0ZB",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "L18 M1A CommercialTV.zip"
+                }
+            ]
+        },
+        "49LT340H0GA": {
+            "description": "L18/L19 M1A CommercialTV",
+            "notice": [
+                {
+                    "osSeq": "508421",
+                    "model": "49LT340H0GA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-915_L18 M1A CommercialTV_180213.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "508421",
+                    "model": "49LT340H0GA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "L18 M1A CommercialTV.zip"
+                }
+            ]
+        },
+        "49LT340H0GB": {
+            "description": "L18/L19 M1A CommercialTV",
+            "notice": [
+                {
+                    "osSeq": "508421",
+                    "model": "49LT340H0GB",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-915_L18 M1A CommercialTV_180213.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "508421",
+                    "model": "49LT340H0GB",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "L18 M1A CommercialTV.zip"
+                }
+            ]
+        },
+        "49LT340H0UA": {
+            "description": "L18/L19 M1A CommercialTV",
+            "notice": [
+                {
+                    "osSeq": "508421",
+                    "model": "49LT340H0UA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-915_L18 M1A CommercialTV_180213.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "508421",
+                    "model": "49LT340H0UA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "L18 M1A CommercialTV.zip"
+                }
+            ]
+        },
+        "49LT341H0ZA": {
+            "description": "L18/L19 M1A CommercialTV",
+            "notice": [
+                {
+                    "osSeq": "508421",
+                    "model": "49LT341H0ZA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-915_L18 M1A CommercialTV_180213.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "508421",
+                    "model": "49LT341H0ZA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "L18 M1A CommercialTV.zip"
+                }
+            ]
+        },
+        "49LT540H0NB": {
+            "description": "L18/L19 M1A CommercialTV",
+            "notice": [
+                {
+                    "osSeq": "508421",
+                    "model": "49LT540H0NB",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-915_L18 M1A CommercialTV_180213.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "508421",
+                    "model": "49LT540H0NB",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "L18 M1A CommercialTV.zip"
+                }
+            ]
+        },
+        "49LT560H0UA": {
+            "description": "L18/L19 M1A CommercialTV",
+            "notice": [
+                {
+                    "osSeq": "508421",
+                    "model": "49LT560H0UA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-915_L18 M1A CommercialTV_180213.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "508421",
+                    "model": "49LT560H0UA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "L18 M1A CommercialTV.zip"
+                }
+            ]
+        },
+        "49LT570H0UA": {
+            "description": "L18/L19 M1A CommercialTV",
+            "notice": [
+                {
+                    "osSeq": "508421",
+                    "model": "49LT570H0UA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-915_L18 M1A CommercialTV_180213.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "508421",
+                    "model": "49LT570H0UA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "L18 M1A CommercialTV.zip"
+                }
+            ]
+        },
+        "49LU340C-SB": {
+            "description": "L18/L19 M1A CommercialTV",
+            "notice": [
+                {
+                    "osSeq": "508421",
+                    "model": "49LU340C-SB",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-915_L18 M1A CommercialTV_180213.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "508421",
+                    "model": "49LU340C-SB",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "L18 M1A CommercialTV.zip"
+                }
+            ]
+        },
+        "49LU340C-TB": {
+            "description": "L18/L19 M1A CommercialTV",
+            "notice": [
+                {
+                    "osSeq": "508421",
+                    "model": "49LU340C-TB",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-915_L18 M1A CommercialTV_180213.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "508421",
+                    "model": "49LU340C-TB",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "L18 M1A CommercialTV.zip"
+                }
+            ]
+        },
+        "49LU341H-ZA": {
+            "description": "L18/L19 M1A CommercialTV",
+            "notice": [
+                {
+                    "osSeq": "508421",
+                    "model": "49LU341H-ZA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-915_L18 M1A CommercialTV_180213.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "508421",
+                    "model": "49LU341H-ZA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "L18 M1A CommercialTV.zip"
+                }
+            ]
+        },
+        "49LU341H-ZB": {
+            "description": "L18/L19 M1A CommercialTV",
+            "notice": [
+                {
+                    "osSeq": "508421",
+                    "model": "49LU341H-ZB",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-915_L18 M1A CommercialTV_180213.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "508421",
+                    "model": "49LU341H-ZB",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "L18 M1A CommercialTV.zip"
+                }
+            ]
+        },
+        "49LU540H-TB": {
+            "description": "L18/L19 M1A CommercialTV",
+            "notice": [
+                {
+                    "osSeq": "508421",
+                    "model": "49LU540H-TB",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-915_L18 M1A CommercialTV_180213.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "508421",
+                    "model": "49LU540H-TB",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "L18 M1A CommercialTV.zip"
+                }
+            ]
+        }
+    }
+}

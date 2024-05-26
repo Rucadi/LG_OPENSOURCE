@@ -1,0 +1,341 @@
+{
+    "TV/AV>Monitor/Signage": {
+        "28TQ525S-PZ": {
+            "description": "webOS 22 KAP for Monitor 2.0",
+            "notice": [
+                {
+                    "osSeq": "511404",
+                    "model": "28TQ525S-PZ",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-5503_webOS 22 KAP for Monitor_2.0_230615.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "511404",
+                    "model": "28TQ525S-PZ",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS 22 KAP for Monitor_2.0_1.tar.gz"
+                },
+                {
+                    "osSeq": "511404",
+                    "model": "28TQ525S-PZ",
+                    "type": "Op",
+                    "fileId": "2",
+                    "filename": "webOS 22 KAP for Monitor_2.0_2.tar.gz"
+                }
+            ]
+        },
+        "29KC5P2J-WG": {
+            "description": "Thermal Sensing Board - OrientationFaker",
+            "notice": [
+                {
+                    "osSeq": "510833",
+                    "model": "29KC5P2J-WG",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-4172_Thermal Sensing Board - OrientationFaker_220120.html"
+                }
+            ],
+            "source": []
+        },
+        "29LH300B-PS": {
+            "description": "M1A(16) Platform_03_28",
+            "notice": [
+                {
+                    "osSeq": "507016",
+                    "model": "29LH300B-PS",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-151222-L16_M1A_MTV-1.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "507016",
+                    "model": "29LH300B-PS",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "L16_L_MTV_OpenSource_v1.0.zip"
+                }
+            ]
+        },
+        "29MT40D-PZ": {
+            "description": "L14 Platform_MTV",
+            "notice": [
+                {
+                    "osSeq": "10340",
+                    "model": "29MT40D-PZ",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "140306-L14_M1A_MTV_v0.2.pdf"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "10340",
+                    "model": "29MT40D-PZ",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "20141223144029_5.0_L_CO_FI_2014_Monitor.zip"
+                }
+            ]
+        },
+        "29MT40D-PZR": {
+            "description": "L14 Platform_MTV",
+            "notice": [
+                {
+                    "osSeq": "10340",
+                    "model": "29MT40D-PZR",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "140306-L14_M1A_MTV_v0.2.pdf"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "10340",
+                    "model": "29MT40D-PZR",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "20141223144029_5.0_L_CO_FI_2014_Monitor.zip"
+                }
+            ]
+        },
+        "29MT44D-PZ": {
+            "description": "L14 Platform_MTV",
+            "notice": [
+                {
+                    "osSeq": "10340",
+                    "model": "29MT44D-PZ",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "140306-L14_M1A_MTV_v0.2.pdf"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "10340",
+                    "model": "29MT44D-PZ",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "20141223144029_5.0_L_CO_FI_2014_Monitor.zip"
+                }
+            ]
+        },
+        "29MT44D-PZR": {
+            "description": "L14 Platform_MTV",
+            "notice": [
+                {
+                    "osSeq": "10340",
+                    "model": "29MT44D-PZR",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "140306-L14_M1A_MTV_v0.2.pdf"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "10340",
+                    "model": "29MT44D-PZR",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "20141223144029_5.0_L_CO_FI_2014_Monitor.zip"
+                }
+            ]
+        },
+        "29MT45D": {
+            "description": "L14 Platform_MTV",
+            "notice": [
+                {
+                    "osSeq": "10340",
+                    "model": "29MT45D",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "140306-L14_M1A_MTV_v0.2.pdf"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "10340",
+                    "model": "29MT45D",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "20141223144029_5.0_L_CO_FI_2014_Monitor.zip"
+                }
+            ]
+        },
+        "29MT45D-PN": {
+            "description": "L14 Platform_MTV",
+            "notice": [
+                {
+                    "osSeq": "10340",
+                    "model": "29MT45D-PN",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "140306-L14_M1A_MTV_v0.2.pdf"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "10340",
+                    "model": "29MT45D-PN",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "20141223144029_5.0_L_CO_FI_2014_Monitor.zip"
+                }
+            ]
+        },
+        "29MT45D-PNR": {
+            "description": "L14 Platform_MTV",
+            "notice": [
+                {
+                    "osSeq": "10340",
+                    "model": "29MT45D-PNR",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "140306-L14_M1A_MTV_v0.2.pdf"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "10340",
+                    "model": "29MT45D-PNR",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "20141223144029_5.0_L_CO_FI_2014_Monitor.zip"
+                }
+            ]
+        },
+        "29MT45D-PR": {
+            "description": "L14 Platform_MTV",
+            "notice": [
+                {
+                    "osSeq": "10340",
+                    "model": "29MT45D-PR",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "140306-L14_M1A_MTV_v0.2.pdf"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "10340",
+                    "model": "29MT45D-PR",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "20141223144029_5.0_L_CO_FI_2014_Monitor.zip"
+                }
+            ]
+        },
+        "29MT45D-PRR": {
+            "description": "L14 Platform_MTV",
+            "notice": [
+                {
+                    "osSeq": "10340",
+                    "model": "29MT45D-PRR",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "140306-L14_M1A_MTV_v0.2.pdf"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "10340",
+                    "model": "29MT45D-PRR",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "20141223144029_5.0_L_CO_FI_2014_Monitor.zip"
+                }
+            ]
+        },
+        "29MT45D-PT": {
+            "description": "L14 Platform_MTV",
+            "notice": [
+                {
+                    "osSeq": "10340",
+                    "model": "29MT45D-PT",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "140306-L14_M1A_MTV_v0.2.pdf"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "10340",
+                    "model": "29MT45D-PT",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "20141223144029_5.0_L_CO_FI_2014_Monitor.zip"
+                }
+            ]
+        }
+    },
+    "TV/AV>TV": {
+        "29LN4100-MA": {
+            "description": "5.0UL LGE MTV Open Source",
+            "notice": [
+                {
+                    "osSeq": "11241",
+                    "model": "29LN4100-MA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-140522-M8RR_MTV-1.pdf"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "11241",
+                    "model": "29LN4100-MA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "N/A"
+                }
+            ]
+        },
+        "29LY340C-UA": {
+            "description": "L14_M1A_Commercial TV Lite",
+            "notice": [
+                {
+                    "osSeq": "13080",
+                    "model": "29LY340C-UA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-140818-L14_M1A_CommercialTVLite-1.pdf"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "13080",
+                    "model": "29LY340C-UA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "L14_M1A_OpenSource_v1.0.zip"
+                }
+            ]
+        },
+        "29LY570H-UA": {
+            "description": "L14_M1A_CTV_Interactive",
+            "notice": [
+                {
+                    "osSeq": "15621",
+                    "model": "29LY570H-UA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-141013-L14_M1A_CommercialTVInteractive-1.pdf"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "15621",
+                    "model": "29LY570H-UA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "L14_M1A_CTV_Interactive_OpenSource_v1.0.zip"
+                }
+            ]
+        }
+    }
+}

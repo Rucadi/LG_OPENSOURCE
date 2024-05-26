@@ -1,0 +1,228 @@
+{
+    "TV/AV>TV": {
+        "STB-6500-DB": {
+            "description": "webOS5.0_K6HP_CommercialTV 1.1",
+            "notice": [
+                {
+                    "osSeq": "510077",
+                    "model": "STB-6500-DB",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-2887_webOS5.0_K6HP_CommercialTV_1.1_200831.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "510077",
+                    "model": "STB-6500-DB",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS5.0_K6HP_CommercialTV_1.1_1.zip"
+                },
+                {
+                    "osSeq": "510077",
+                    "model": "STB-6500-DB",
+                    "type": "Op",
+                    "fileId": "2",
+                    "filename": "webOS5.0_K6HP_CommercialTV_1.1_2.zip"
+                }
+            ]
+        },
+        "STB-6500-GA": {
+            "description": "webOS5.0_K6HP_CommercialTV 1.1",
+            "notice": [
+                {
+                    "osSeq": "510077",
+                    "model": "STB-6500-GA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-2887_webOS5.0_K6HP_CommercialTV_1.1_200831.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "510077",
+                    "model": "STB-6500-GA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS5.0_K6HP_CommercialTV_1.1_1.zip"
+                },
+                {
+                    "osSeq": "510077",
+                    "model": "STB-6500-GA",
+                    "type": "Op",
+                    "fileId": "2",
+                    "filename": "webOS5.0_K6HP_CommercialTV_1.1_2.zip"
+                }
+            ]
+        },
+        "STB-6500-NA": {
+            "description": "webOS5.0_K6HP_CommercialTV 1.1",
+            "notice": [
+                {
+                    "osSeq": "510077",
+                    "model": "STB-6500-NA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-2887_webOS5.0_K6HP_CommercialTV_1.1_200831.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "510077",
+                    "model": "STB-6500-NA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS5.0_K6HP_CommercialTV_1.1_1.zip"
+                },
+                {
+                    "osSeq": "510077",
+                    "model": "STB-6500-NA",
+                    "type": "Op",
+                    "fileId": "2",
+                    "filename": "webOS5.0_K6HP_CommercialTV_1.1_2.zip"
+                }
+            ]
+        },
+        "STB-6500-TA": {
+            "description": "webOS5.0_K6HP_CommercialTV 1.1",
+            "notice": [
+                {
+                    "osSeq": "510077",
+                    "model": "STB-6500-TA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-2887_webOS5.0_K6HP_CommercialTV_1.1_200831.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "510077",
+                    "model": "STB-6500-TA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS5.0_K6HP_CommercialTV_1.1_1.zip"
+                },
+                {
+                    "osSeq": "510077",
+                    "model": "STB-6500-TA",
+                    "type": "Op",
+                    "fileId": "2",
+                    "filename": "webOS5.0_K6HP_CommercialTV_1.1_2.zip"
+                }
+            ]
+        },
+        "STB-6500-TB": {
+            "description": "webOS5.0_K6HP_CommercialTV 1.1",
+            "notice": [
+                {
+                    "osSeq": "510077",
+                    "model": "STB-6500-TB",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-2887_webOS5.0_K6HP_CommercialTV_1.1_200831.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "510077",
+                    "model": "STB-6500-TB",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS5.0_K6HP_CommercialTV_1.1_1.zip"
+                },
+                {
+                    "osSeq": "510077",
+                    "model": "STB-6500-TB",
+                    "type": "Op",
+                    "fileId": "2",
+                    "filename": "webOS5.0_K6HP_CommercialTV_1.1_2.zip"
+                }
+            ]
+        },
+        "STB-6500-UA": {
+            "description": "webOS5.0_K6HP_CommercialTV 1.1",
+            "notice": [
+                {
+                    "osSeq": "510077",
+                    "model": "STB-6500-UA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-2887_webOS5.0_K6HP_CommercialTV_1.1_200831.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "510077",
+                    "model": "STB-6500-UA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS5.0_K6HP_CommercialTV_1.1_1.zip"
+                },
+                {
+                    "osSeq": "510077",
+                    "model": "STB-6500-UA",
+                    "type": "Op",
+                    "fileId": "2",
+                    "filename": "webOS5.0_K6HP_CommercialTV_1.1_2.zip"
+                }
+            ]
+        },
+        "STB-6500-UB": {
+            "description": "webOS5.0_K6HP_CommercialTV 1.1",
+            "notice": [
+                {
+                    "osSeq": "510077",
+                    "model": "STB-6500-UB",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-2887_webOS5.0_K6HP_CommercialTV_1.1_200831.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "510077",
+                    "model": "STB-6500-UB",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS5.0_K6HP_CommercialTV_1.1_1.zip"
+                },
+                {
+                    "osSeq": "510077",
+                    "model": "STB-6500-UB",
+                    "type": "Op",
+                    "fileId": "2",
+                    "filename": "webOS5.0_K6HP_CommercialTV_1.1_2.zip"
+                }
+            ]
+        },
+        "STB-6500-ZA": {
+            "description": "webOS5.0_K6HP_CommercialTV 1.1",
+            "notice": [
+                {
+                    "osSeq": "510077",
+                    "model": "STB-6500-ZA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-2887_webOS5.0_K6HP_CommercialTV_1.1_200831.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "510077",
+                    "model": "STB-6500-ZA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS5.0_K6HP_CommercialTV_1.1_1.zip"
+                },
+                {
+                    "osSeq": "510077",
+                    "model": "STB-6500-ZA",
+                    "type": "Op",
+                    "fileId": "2",
+                    "filename": "webOS5.0_K6HP_CommercialTV_1.1_2.zip"
+                }
+            ]
+        }
+    }
+}

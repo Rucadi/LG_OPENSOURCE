@@ -1,0 +1,195 @@
+{
+    "TV/AV>TV": {
+        "55UG8709-ZA": {
+            "description": "webOS BLMU LGE Open Source2",
+            "notice": [
+                {
+                    "osSeq": "506703",
+                    "model": "55UG8709-ZA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-160509-webOSBLMU-3.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "506703",
+                    "model": "55UG8709-ZA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "BLMU-r3160-2.tar.gz"
+                }
+            ]
+        },
+        "55UG870T-DA": {
+            "description": "webOS BLMU LGE Open Source2",
+            "notice": [
+                {
+                    "osSeq": "506703",
+                    "model": "55UG870T-DA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-160509-webOSBLMU-3.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "506703",
+                    "model": "55UG870T-DA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "BLMU-r3160-2.tar.gz"
+                }
+            ]
+        },
+        "55UG870T-TA": {
+            "description": "webOS BLMU LGE Open Source2",
+            "notice": [
+                {
+                    "osSeq": "506703",
+                    "model": "55UG870T-TA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-160509-webOSBLMU-3.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "506703",
+                    "model": "55UG870T-TA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "BLMU-r3160-2.tar.gz"
+                }
+            ]
+        },
+        "55UG870V-ZA": {
+            "description": "webOS BLMU LGE Open Source2",
+            "notice": [
+                {
+                    "osSeq": "506703",
+                    "model": "55UG870V-ZA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-160509-webOSBLMU-3.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "506703",
+                    "model": "55UG870V-ZA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "BLMU-r3160-2.tar.gz"
+                }
+            ]
+        },
+        "55UG870Y-TA": {
+            "description": "webOS BLMU LGE Open Source2",
+            "notice": [
+                {
+                    "osSeq": "506703",
+                    "model": "55UG870Y-TA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-160509-webOSBLMU-3.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "506703",
+                    "model": "55UG870Y-TA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "BLMU-r3160-2.tar.gz"
+                }
+            ]
+        },
+        "55UH100V-ZA": {
+            "description": "webOS DM Lite LGE Open Source",
+            "notice": [
+                {
+                    "osSeq": "507032",
+                    "model": "55UH100V-ZA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-161108-webOSDML-3.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "507032",
+                    "model": "55UH100V-ZA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "DM-r3147.tar.gz"
+                }
+            ]
+        },
+        "55UH5300-CA": {
+            "description": "webOS DKLP LGE Open Source",
+            "notice": [
+                {
+                    "osSeq": "507044",
+                    "model": "55UH5300-CA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-161110-webOSDKLP-4.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "507044",
+                    "model": "55UH5300-CA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "DKLP-r3173.tar.gz"
+                }
+            ]
+        },
+        "55UH5300-NA": {
+            "description": "webOS DKLP LGE Open Source",
+            "notice": [
+                {
+                    "osSeq": "507044",
+                    "model": "55UH5300-NA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-161110-webOSDKLP-4.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "507044",
+                    "model": "55UH5300-NA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "DKLP-r3173.tar.gz"
+                }
+            ]
+        }
+    },
+    "TV/AV>Monitor/Signage": {
+        "55UH5B-BD": {
+            "description": "webOS2.0_LM15U_Signage_2",
+            "notice": [
+                {
+                    "osSeq": "506465",
+                    "model": "55UH5B-BD",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-151022-LM15U_Signage-4.pdf"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "506465",
+                    "model": "55UH5B-BD",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS_Commercial_Signage_OpenSource_version1.0.1_2.zip"
+                }
+            ]
+        }
+    }
+}

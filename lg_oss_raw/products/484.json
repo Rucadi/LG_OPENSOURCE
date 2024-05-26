@@ -1,0 +1,277 @@
+{
+    "TV/AV>TV": {
+        "50UF8300-NA": {
+            "description": "webOS BLMA LGE Open Source2",
+            "notice": [
+                {
+                    "osSeq": "506701",
+                    "model": "50UF8300-NA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-160509-webOSBLMA-5.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "506701",
+                    "model": "50UF8300-NA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "BLMA-r3161-2.tar.gz"
+                }
+            ]
+        },
+        "50UF8300-UA": {
+            "description": "webOS BLMA LGE Open Source2",
+            "notice": [
+                {
+                    "osSeq": "506701",
+                    "model": "50UF8300-UA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-160509-webOSBLMA-5.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "506701",
+                    "model": "50UF8300-UA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "BLMA-r3161-2.tar.gz"
+                }
+            ]
+        },
+        "50UF8307-ZA": {
+            "description": "webOS BLMA LGE Open Source2",
+            "notice": [
+                {
+                    "osSeq": "506701",
+                    "model": "50UF8307-ZA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-160509-webOSBLMA-5.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "506701",
+                    "model": "50UF8307-ZA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "BLMA-r3161-2.tar.gz"
+                }
+            ]
+        },
+        "50UF8309-ZA": {
+            "description": "webOS BLMA LGE Open Source2",
+            "notice": [
+                {
+                    "osSeq": "506701",
+                    "model": "50UF8309-ZA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-160509-webOSBLMA-5.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "506701",
+                    "model": "50UF8309-ZA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "BLMA-r3161-2.tar.gz"
+                }
+            ]
+        },
+        "50UF830T-TA": {
+            "description": "webOS BLMA LGE Open Source2",
+            "notice": [
+                {
+                    "osSeq": "506701",
+                    "model": "50UF830T-TA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-160509-webOSBLMA-5.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "506701",
+                    "model": "50UF830T-TA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "BLMA-r3161-2.tar.gz"
+                }
+            ]
+        },
+        "50UF830V-ZA": {
+            "description": "webOS BLMA LGE Open Source2",
+            "notice": [
+                {
+                    "osSeq": "506701",
+                    "model": "50UF830V-ZA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-160509-webOSBLMA-5.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "506701",
+                    "model": "50UF830V-ZA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "BLMA-r3161-2.tar.gz"
+                }
+            ]
+        },
+        "50UF830Y-TA": {
+            "description": "webOS BLMA LGE Open Source2",
+            "notice": [
+                {
+                    "osSeq": "506701",
+                    "model": "50UF830Y-TA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-160509-webOSBLMA-5.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "506701",
+                    "model": "50UF830Y-TA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "BLMA-r3161-2.tar.gz"
+                }
+            ]
+        },
+        "50UH5500-UA": {
+            "description": "webOS DKLP LGE Open Source",
+            "notice": [
+                {
+                    "osSeq": "507044",
+                    "model": "50UH5500-UA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-161110-webOSDKLP-4.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "507044",
+                    "model": "50UH5500-UA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "DKLP-r3173.tar.gz"
+                }
+            ]
+        },
+        "50UH5530-UB": {
+            "description": "webOS DKLP LGE Open Source",
+            "notice": [
+                {
+                    "osSeq": "507044",
+                    "model": "50UH5530-UB",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-161110-webOSDKLP-4.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "507044",
+                    "model": "50UH5530-UB",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "DKLP-r3173.tar.gz"
+                }
+            ]
+        },
+        "50UH6010-NA": {
+            "description": "webOS DKLP LGE Open Source",
+            "notice": [
+                {
+                    "osSeq": "507044",
+                    "model": "50UH6010-NA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-161110-webOSDKLP-4.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "507044",
+                    "model": "50UH6010-NA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "DKLP-r3173.tar.gz"
+                }
+            ]
+        },
+        "50UH6070-NA": {
+            "description": "webOS DKLP LGE Open Source",
+            "notice": [
+                {
+                    "osSeq": "507044",
+                    "model": "50UH6070-NA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-161110-webOSDKLP-4.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "507044",
+                    "model": "50UH6070-NA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "DKLP-r3173.tar.gz"
+                }
+            ]
+        },
+        "50UH6080-NA": {
+            "description": "webOS DKLP LGE Open Source",
+            "notice": [
+                {
+                    "osSeq": "507044",
+                    "model": "50UH6080-NA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-161110-webOSDKLP-4.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "507044",
+                    "model": "50UH6080-NA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "DKLP-r3173.tar.gz"
+                }
+            ]
+        },
+        "50UH6300-CA": {
+            "description": "webOS DM Lite LGE Open Source",
+            "notice": [
+                {
+                    "osSeq": "507032",
+                    "model": "50UH6300-CA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-161108-webOSDML-3.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "507032",
+                    "model": "50UH6300-CA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "DM-r3147.tar.gz"
+                }
+            ]
+        }
+    }
+}

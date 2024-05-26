@@ -1,0 +1,228 @@
+{
+    "TV/AV>Monitor/Signage": {
+        "LG E-CENTRIC": {
+            "description": "LG e-Centric 1.0",
+            "notice": [
+                {
+                    "osSeq": "511100",
+                    "model": "LG E-CENTRIC",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-4717_LG e-Centric_1.0_220922.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "511100",
+                    "model": "LG E-CENTRIC",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "LG e-Centric_1.0.zip"
+                }
+            ]
+        },
+        "LG MEDIA STUDIO": {
+            "description": "LG Media Studio",
+            "notice": [
+                {
+                    "osSeq": "507177",
+                    "model": "LG MEDIA STUDIO",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-160323-LGMediaStudio-2.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "507177",
+                    "model": "LG MEDIA STUDIO",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "MediaStudio_OpenSource.zip"
+                }
+            ]
+        },
+        "LG MOBILE+ MONITOR": {
+            "description": "LG Mobile+ Monitor_iOS App",
+            "notice": [
+                {
+                    "osSeq": "507517",
+                    "model": "LG MOBILE+ MONITOR",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-160930-LGMobile_Monitor-2.html"
+                }
+            ],
+            "source": []
+        },
+        "LG MONITOR APP INSTALLER": {
+            "description": "LG Monitor App Installer 1.0",
+            "notice": [
+                {
+                    "osSeq": "511584",
+                    "model": "LG MONITOR APP INSTALLER",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-6048_LG Monitor App Installer_1.0_240103.html"
+                }
+            ],
+            "source": []
+        },
+        "LG SCREEN MANAGER": {
+            "description": "LG Screen Manager",
+            "notice": [
+                {
+                    "osSeq": "507402",
+                    "model": "LG SCREEN MANAGER",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-2444_LG Screen Manager_200213.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "507402",
+                    "model": "LG SCREEN MANAGER",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "LG Screen Manager.zip"
+                }
+            ]
+        },
+        "LG SIMPLE EDITOR 3.21": {
+            "description": "LG Simple Editor 3.21",
+            "notice": [
+                {
+                    "osSeq": "508372",
+                    "model": "LG SIMPLE EDITOR 3.21",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-867_LG Simple Editor_3.21_180122.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "508372",
+                    "model": "LG SIMPLE EDITOR 3.21",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "LG Simple Editor_3.21.zip"
+                }
+            ]
+        }
+    },
+    "TV/AV>TV": {
+        "LG FITNESS": {
+            "description": "LG Fitness",
+            "notice": [
+                {
+                    "osSeq": "511451",
+                    "model": "LG FITNESS",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-5620_LG Fitness_230731.html"
+                }
+            ],
+            "source": []
+        },
+        "LG HYBRIDCAST": {
+            "description": "LG Hybridcast_App_iOS 1.1.12",
+            "notice": [
+                {
+                    "osSeq": "509286",
+                    "model": "LG HYBRIDCAST",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-1816_LG Hybridcast_App_iOS_1.1.12_190724.html"
+                }
+            ],
+            "source": []
+        }
+    },
+    "TV/AV>AV": {
+        "LG HBS-FL7": {
+            "description": "LG Tone Free 190813-",
+            "notice": [
+                {
+                    "osSeq": "509647",
+                    "model": "LG HBS-FL7",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-1974_LG Tone Free_190813.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "509647",
+                    "model": "LG HBS-FL7",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "LG Tone Free.rar"
+                }
+            ]
+        },
+        "LG HBS-PFL7": {
+            "description": "LG Tone Free 190813-",
+            "notice": [
+                {
+                    "osSeq": "509647",
+                    "model": "LG HBS-PFL7",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-1974_LG Tone Free_190813.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "509647",
+                    "model": "LG HBS-PFL7",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "LG Tone Free.rar"
+                }
+            ]
+        },
+        "LG HBS-PFL7P": {
+            "description": "LG Tone Free 190813-",
+            "notice": [
+                {
+                    "osSeq": "509647",
+                    "model": "LG HBS-PFL7P",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-1974_LG Tone Free_190813.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "509647",
+                    "model": "LG HBS-PFL7P",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "LG Tone Free.rar"
+                }
+            ]
+        },
+        "LG SOUND BAR FOR ANDROID": {
+            "description": "LG SOUND BAR for Android 1.4.02-",
+            "notice": [
+                {
+                    "osSeq": "511115",
+                    "model": "LG SOUND BAR FOR ANDROID",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-4841_LG SOUND BAR for Android_1.4.02-_221004.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "511115",
+                    "model": "LG SOUND BAR FOR ANDROID",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "LG SOUND BAR for Android_1.4.02-.zip"
+                }
+            ]
+        }
+    }
+}

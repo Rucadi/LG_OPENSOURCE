@@ -1,0 +1,298 @@
+{
+    "TV/AV>Monitor/Signage": {
+        "27MT57D-PT": {
+            "description": "M1A(15) Platform",
+            "notice": [
+                {
+                    "osSeq": "506436",
+                    "model": "27MT57D-PT",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-150304-L15_M1A_MTV-1.pdf"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "506436",
+                    "model": "27MT57D-PT",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "L15_L_LGE_MonitorTV_OpenSource_v1.1.zip"
+                }
+            ]
+        },
+        "27MT57D-PTS": {
+            "description": "M1A(15) Platform",
+            "notice": [
+                {
+                    "osSeq": "506436",
+                    "model": "27MT57D-PTS",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-150304-L15_M1A_MTV-1.pdf"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "506436",
+                    "model": "27MT57D-PTS",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "L15_L_LGE_MonitorTV_OpenSource_v1.1.zip"
+                }
+            ]
+        },
+        "27MT57D-PZ": {
+            "description": "M1A(15) Platform",
+            "notice": [
+                {
+                    "osSeq": "506436",
+                    "model": "27MT57D-PZ",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-150304-L15_M1A_MTV-1.pdf"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "506436",
+                    "model": "27MT57D-PZ",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "L15_L_LGE_MonitorTV_OpenSource_v1.1.zip"
+                }
+            ]
+        },
+        "27MT57D-PZS": {
+            "description": "M1A(15) Platform",
+            "notice": [
+                {
+                    "osSeq": "506436",
+                    "model": "27MT57D-PZS",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-150304-L15_M1A_MTV-1.pdf"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "506436",
+                    "model": "27MT57D-PZS",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "L15_L_LGE_MonitorTV_OpenSource_v1.1.zip"
+                }
+            ]
+        },
+        "27MT57D-WH": {
+            "description": "M1A(15) Platform",
+            "notice": [
+                {
+                    "osSeq": "506436",
+                    "model": "27MT57D-WH",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-150304-L15_M1A_MTV-1.pdf"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "506436",
+                    "model": "27MT57D-WH",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "L15_L_LGE_MonitorTV_OpenSource_v1.1.zip"
+                }
+            ]
+        },
+        "27MT57D-WHS": {
+            "description": "M1A(15) Platform",
+            "notice": [
+                {
+                    "osSeq": "506436",
+                    "model": "27MT57D-WHS",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-150304-L15_M1A_MTV-1.pdf"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "506436",
+                    "model": "27MT57D-WHS",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "L15_L_LGE_MonitorTV_OpenSource_v1.1.zip"
+                }
+            ]
+        },
+        "27MT57S-SHS": {
+            "description": "WebOS(15) Platform_09_14",
+            "notice": [
+                {
+                    "osSeq": "506753",
+                    "model": "27MT57S-SHS",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-150528-WebOS2.0_A5LR_MTV-1.pdf"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "506753",
+                    "model": "27MT57S-SHS",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS_BLA5_1.tar.gz"
+                }
+            ]
+        },
+        "27MT57V-PZ": {
+            "description": "M1A(15) Platform",
+            "notice": [
+                {
+                    "osSeq": "506436",
+                    "model": "27MT57V-PZ",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-150304-L15_M1A_MTV-1.pdf"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "506436",
+                    "model": "27MT57V-PZ",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "L15_L_LGE_MonitorTV_OpenSource_v1.1.zip"
+                }
+            ]
+        },
+        "27MT57V-PZS": {
+            "description": "M1A(15) Platform",
+            "notice": [
+                {
+                    "osSeq": "506436",
+                    "model": "27MT57V-PZS",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-150304-L15_M1A_MTV-1.pdf"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "506436",
+                    "model": "27MT57V-PZS",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "L15_L_LGE_MonitorTV_OpenSource_v1.1.zip"
+                }
+            ]
+        },
+        "27MT58DF-PH": {
+            "description": "M1A(16) Platform_02_14",
+            "notice": [
+                {
+                    "osSeq": "507061",
+                    "model": "27MT58DF-PH",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-151222-L16_M1A_MTV-1.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "507061",
+                    "model": "27MT58DF-PH",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "L16_L_MTV_OpenSource_v1.0.zip"
+                }
+            ]
+        },
+        "27MT58DF-PN": {
+            "description": "M1A(16) Platform_03_28",
+            "notice": [
+                {
+                    "osSeq": "507016",
+                    "model": "27MT58DF-PN",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-151222-L16_M1A_MTV-1.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "507016",
+                    "model": "27MT58DF-PN",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "L16_L_MTV_OpenSource_v1.0.zip"
+                }
+            ]
+        },
+        "27MT58DF-PZ": {
+            "description": "M1AP(16) Platform_03_06",
+            "notice": [
+                {
+                    "osSeq": "507038",
+                    "model": "27MT58DF-PZ",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-151202-L16_M1AP_MTV-1.pdf"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "507038",
+                    "model": "27MT58DF-PZ",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "L16_M1AP_MTV_OpenSource_v1.1.zip"
+                }
+            ]
+        },
+        "27MT58E-PNT": {
+            "description": "M1A(16) Platform_02_21",
+            "notice": [
+                {
+                    "osSeq": "507087",
+                    "model": "27MT58E-PNT",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-151222-L16_M1A_MTV-1.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "507087",
+                    "model": "27MT58E-PNT",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "L16_L_MTV_OpenSource_v1.0.zip"
+                }
+            ]
+        },
+        "27MT58VF-PZ": {
+            "description": "M1AP(16) Platform_03_06",
+            "notice": [
+                {
+                    "osSeq": "507038",
+                    "model": "27MT58VF-PZ",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-151202-L16_M1AP_MTV-1.pdf"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "507038",
+                    "model": "27MT58VF-PZ",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "L16_M1AP_MTV_OpenSource_v1.1.zip"
+                }
+            ]
+        }
+    }
+}

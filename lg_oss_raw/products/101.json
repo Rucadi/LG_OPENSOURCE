@@ -1,0 +1,130 @@
+{
+    "TV/AV>TV": {
+        "32LK610BYVA": {
+            "description": "webOS GM LGE TV Open Source",
+            "notice": [
+                {
+                    "osSeq": "508339",
+                    "model": "32LK610BYVA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-767_webOS_4.0_GM_20171027100707.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "508339",
+                    "model": "32LK610BYVA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "DM2-r3173.tar.gz"
+                }
+            ]
+        },
+        "32LK611C-SB": {
+            "description": "webOS GM LGE TV Open Source (Commercial)",
+            "notice": [
+                {
+                    "osSeq": "508863",
+                    "model": "32LK611C-SB",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-767_webOS_4.0_GM_20171027100707.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "508863",
+                    "model": "32LK611C-SB",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "DM2-r3173.tar.gz"
+                }
+            ]
+        },
+        "32LK612BPTB": {
+            "description": "webOS GM LGE TV Open Source",
+            "notice": [
+                {
+                    "osSeq": "508339",
+                    "model": "32LK612BPTB",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-767_webOS_4.0_GM_20171027100707.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "508339",
+                    "model": "32LK612BPTB",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "DM2-r3173.tar.gz"
+                }
+            ]
+        },
+        "32LK615BPLB": {
+            "description": "webOS GM LGE TV Open Source",
+            "notice": [
+                {
+                    "osSeq": "508339",
+                    "model": "32LK615BPLB",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-767_webOS_4.0_GM_20171027100707.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "508339",
+                    "model": "32LK615BPLB",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "DM2-r3173.tar.gz"
+                }
+            ]
+        },
+        "32LK615BPSB": {
+            "description": "webOS GM LGE TV Open Source",
+            "notice": [
+                {
+                    "osSeq": "508339",
+                    "model": "32LK615BPSB",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-767_webOS_4.0_GM_20171027100707.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "508339",
+                    "model": "32LK615BPSB",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "DM2-r3173.tar.gz"
+                }
+            ]
+        },
+        "32LK616BPTB": {
+            "description": "webOS GM LGE TV Open Source",
+            "notice": [
+                {
+                    "osSeq": "508339",
+                    "model": "32LK616BPTB",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-767_webOS_4.0_GM_20171027100707.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "508339",
+                    "model": "32LK616BPTB",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "DM2-r3173.tar.gz"
+                }
+            ]
+        }
+    }
+}

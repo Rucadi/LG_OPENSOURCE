@@ -1,0 +1,424 @@
+{
+    "TV/AV>Monitor/Signage": {
+        "24MT49VW-WZ": {
+            "description": "M1AP(16) Platform_03_06",
+            "notice": [
+                {
+                    "osSeq": "507038",
+                    "model": "24MT49VW-WZ",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-151202-L16_M1AP_MTV-1.pdf"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "507038",
+                    "model": "24MT49VW-WZ",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "L16_M1AP_MTV_OpenSource_v1.1.zip"
+                }
+            ]
+        },
+        "24MT55B": {
+            "description": "L14 Platform_MTV",
+            "notice": [
+                {
+                    "osSeq": "10340",
+                    "model": "24MT55B",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "140306-L14_M1A_MTV_v0.2.pdf"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "10340",
+                    "model": "24MT55B",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "20141223144029_5.0_L_CO_FI_2014_Monitor.zip"
+                }
+            ]
+        },
+        "24MT55B-PNR": {
+            "description": "L14 Platform_MTV",
+            "notice": [
+                {
+                    "osSeq": "10340",
+                    "model": "24MT55B-PNR",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "140306-L14_M1A_MTV_v0.2.pdf"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "10340",
+                    "model": "24MT55B-PNR",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "20141223144029_5.0_L_CO_FI_2014_Monitor.zip"
+                }
+            ]
+        },
+        "24MT55D": {
+            "description": "L14 Platform_MTV",
+            "notice": [
+                {
+                    "osSeq": "10340",
+                    "model": "24MT55D",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "140306-L14_M1A_MTV_v0.2.pdf"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "10340",
+                    "model": "24MT55D",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "20141223144029_5.0_L_CO_FI_2014_Monitor.zip"
+                }
+            ]
+        },
+        "24MT55D-14": {
+            "description": "L14 Platform_MTV",
+            "notice": [
+                {
+                    "osSeq": "10340",
+                    "model": "24MT55D-14",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "140306-L14_M1A_MTV_v0.2.pdf"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "10340",
+                    "model": "24MT55D-14",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "20141223144029_5.0_L_CO_FI_2014_Monitor.zip"
+                }
+            ]
+        },
+        "24MT55D-PH": {
+            "description": "L14 Platform_MTV",
+            "notice": [
+                {
+                    "osSeq": "10340",
+                    "model": "24MT55D-PH",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "140306-L14_M1A_MTV_v0.2.pdf"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "10340",
+                    "model": "24MT55D-PH",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "20141223144029_5.0_L_CO_FI_2014_Monitor.zip"
+                }
+            ]
+        },
+        "24MT55D-PHR": {
+            "description": "L14 Platform_MTV",
+            "notice": [
+                {
+                    "osSeq": "10340",
+                    "model": "24MT55D-PHR",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "140306-L14_M1A_MTV_v0.2.pdf"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "10340",
+                    "model": "24MT55D-PHR",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "20141223144029_5.0_L_CO_FI_2014_Monitor.zip"
+                }
+            ]
+        },
+        "24MT55D-PN": {
+            "description": "L14 Platform_MTV",
+            "notice": [
+                {
+                    "osSeq": "10340",
+                    "model": "24MT55D-PN",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "140306-L14_M1A_MTV_v0.2.pdf"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "10340",
+                    "model": "24MT55D-PN",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "20141223144029_5.0_L_CO_FI_2014_Monitor.zip"
+                }
+            ]
+        },
+        "24MT55D-PNR": {
+            "description": "L14 Platform_MTV",
+            "notice": [
+                {
+                    "osSeq": "10340",
+                    "model": "24MT55D-PNR",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "140306-L14_M1A_MTV_v0.2.pdf"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "10340",
+                    "model": "24MT55D-PNR",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "20141223144029_5.0_L_CO_FI_2014_Monitor.zip"
+                }
+            ]
+        },
+        "24MT55D-PR": {
+            "description": "L14 Platform_MTV",
+            "notice": [
+                {
+                    "osSeq": "10340",
+                    "model": "24MT55D-PR",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "140306-L14_M1A_MTV_v0.2.pdf"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "10340",
+                    "model": "24MT55D-PR",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "20141223144029_5.0_L_CO_FI_2014_Monitor.zip"
+                }
+            ]
+        },
+        "24MT55D-PRR": {
+            "description": "L14 Platform_MTV",
+            "notice": [
+                {
+                    "osSeq": "10340",
+                    "model": "24MT55D-PRR",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "140306-L14_M1A_MTV_v0.2.pdf"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "10340",
+                    "model": "24MT55D-PRR",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "20141223144029_5.0_L_CO_FI_2014_Monitor.zip"
+                }
+            ]
+        },
+        "24MT55D-PT": {
+            "description": "L14 Platform_MTV",
+            "notice": [
+                {
+                    "osSeq": "10340",
+                    "model": "24MT55D-PT",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "140306-L14_M1A_MTV_v0.2.pdf"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "10340",
+                    "model": "24MT55D-PT",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "20141223144029_5.0_L_CO_FI_2014_Monitor.zip"
+                }
+            ]
+        },
+        "24MT55D-PTR": {
+            "description": "L14 Platform_MTV",
+            "notice": [
+                {
+                    "osSeq": "10340",
+                    "model": "24MT55D-PTR",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "140306-L14_M1A_MTV_v0.2.pdf"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "10340",
+                    "model": "24MT55D-PTR",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "20141223144029_5.0_L_CO_FI_2014_Monitor.zip"
+                }
+            ]
+        },
+        "24MT55D-PZ": {
+            "description": "L14 Platform_MTV",
+            "notice": [
+                {
+                    "osSeq": "10340",
+                    "model": "24MT55D-PZ",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "140306-L14_M1A_MTV_v0.2.pdf"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "10340",
+                    "model": "24MT55D-PZ",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "20141223144029_5.0_L_CO_FI_2014_Monitor.zip"
+                }
+            ]
+        },
+        "24MT55D-PZR": {
+            "description": "L14 Platform_MTV",
+            "notice": [
+                {
+                    "osSeq": "10340",
+                    "model": "24MT55D-PZR",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "140306-L14_M1A_MTV_v0.2.pdf"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "10340",
+                    "model": "24MT55D-PZR",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "20141223144029_5.0_L_CO_FI_2014_Monitor.zip"
+                }
+            ]
+        },
+        "24MT55D-WH": {
+            "description": "L14 Platform_MTV",
+            "notice": [
+                {
+                    "osSeq": "10340",
+                    "model": "24MT55D-WH",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "140306-L14_M1A_MTV_v0.2.pdf"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "10340",
+                    "model": "24MT55D-WH",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "20141223144029_5.0_L_CO_FI_2014_Monitor.zip"
+                }
+            ]
+        },
+        "24MT55D-WHR": {
+            "description": "L14 Platform_MTV",
+            "notice": [
+                {
+                    "osSeq": "10340",
+                    "model": "24MT55D-WHR",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "140306-L14_M1A_MTV_v0.2.pdf"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "10340",
+                    "model": "24MT55D-WHR",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "20141223144029_5.0_L_CO_FI_2014_Monitor.zip"
+                }
+            ]
+        },
+        "24MT55D-WT": {
+            "description": "L14 Platform_MTV",
+            "notice": [
+                {
+                    "osSeq": "10340",
+                    "model": "24MT55D-WT",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "140306-L14_M1A_MTV_v0.2.pdf"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "10340",
+                    "model": "24MT55D-WT",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "20141223144029_5.0_L_CO_FI_2014_Monitor.zip"
+                }
+            ]
+        },
+        "24MT55D-WTR": {
+            "description": "L14 Platform_MTV",
+            "notice": [
+                {
+                    "osSeq": "10340",
+                    "model": "24MT55D-WTR",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "140306-L14_M1A_MTV_v0.2.pdf"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "10340",
+                    "model": "24MT55D-WTR",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "20141223144029_5.0_L_CO_FI_2014_Monitor.zip"
+                }
+            ]
+        },
+        "24MT55DW": {
+            "description": "L14 Platform_MTV",
+            "notice": [
+                {
+                    "osSeq": "10340",
+                    "model": "24MT55DW",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "140306-L14_M1A_MTV_v0.2.pdf"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "10340",
+                    "model": "24MT55DW",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "20141223144029_5.0_L_CO_FI_2014_Monitor.zip"
+                }
+            ]
+        }
+    }
+}

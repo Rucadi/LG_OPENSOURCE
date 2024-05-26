@@ -1,0 +1,326 @@
+{
+    "TV/AV>TV": {
+        "65WT980H0ZA": {
+            "description": "webOS4.0_M16++_CommercialTV_EU MR",
+            "notice": [
+                {
+                    "osSeq": "508909",
+                    "model": "65WT980H0ZA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-1468_webOS4.0_M16++_CommercialTV_EU_MR_190103.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "508909",
+                    "model": "65WT980H0ZA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS4.0_M16++_CommercialTV_EU_MR.zip"
+                }
+            ]
+        },
+        "65WU960H-GA": {
+            "description": "webOS4.0_M16++_CommercialTV_EU MR",
+            "notice": [
+                {
+                    "osSeq": "508909",
+                    "model": "65WU960H-GA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-1468_webOS4.0_M16++_CommercialTV_EU_MR_190103.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "508909",
+                    "model": "65WU960H-GA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS4.0_M16++_CommercialTV_EU_MR.zip"
+                }
+            ]
+        },
+        "65WU960H-TA": {
+            "description": "webOS4.0_M16++_CommercialTV_EU MR",
+            "notice": [
+                {
+                    "osSeq": "508909",
+                    "model": "65WU960H-TA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-1468_webOS4.0_M16++_CommercialTV_EU_MR_190103.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "508909",
+                    "model": "65WU960H-TA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS4.0_M16++_CommercialTV_EU_MR.zip"
+                }
+            ]
+        },
+        "65WU960H-UA": {
+            "description": "webOS4.0_M16++_CommercialTV MR",
+            "notice": [
+                {
+                    "osSeq": "508907",
+                    "model": "65WU960H-UA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-1407_webOS4.0_M16++_CommercialTV_MR_190107.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "508907",
+                    "model": "65WU960H-UA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS4.0_M16++_CommercialTV_MR.zip"
+                }
+            ]
+        },
+        "65WU960H-ZA": {
+            "description": "webOS4.0_M16++_CommercialTV_EU MR",
+            "notice": [
+                {
+                    "osSeq": "508909",
+                    "model": "65WU960H-ZA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-1468_webOS4.0_M16++_CommercialTV_EU_MR_190103.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "508909",
+                    "model": "65WU960H-ZA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS4.0_M16++_CommercialTV_EU_MR.zip"
+                }
+            ]
+        },
+        "70LF6050-UA": {
+            "description": "NAFTA DTV",
+            "notice": [
+                {
+                    "osSeq": "506718",
+                    "model": "70LF6050-UA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-150603-NAFTADTV-1.pdf"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "506718",
+                    "model": "70LF6050-UA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "OSS code.zip"
+                }
+            ]
+        },
+        "70LF7200-SA": {
+            "description": "webOS BM LGE Open Source-Chromium Source",
+            "notice": [
+                {
+                    "osSeq": "506623",
+                    "model": "70LF7200-SA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-150604-webOSBM-8.pdf"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "506623",
+                    "model": "70LF7200-SA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "Chromium.zip"
+                }
+            ]
+        },
+        "70NANO736RA": {
+            "description": "webOS 23 KLP(n) 1.0",
+            "notice": [
+                {
+                    "osSeq": "511217",
+                    "model": "70NANO736RA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-4665_webOS 23 KLP(n)_1.0_221220.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "511217",
+                    "model": "70NANO736RA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS 23 KLP(n)_1.0_1.tar.gz"
+                },
+                {
+                    "osSeq": "511217",
+                    "model": "70NANO736RA",
+                    "type": "Op",
+                    "fileId": "2",
+                    "filename": "webOS 23 KLP(n)_1.0_2.tar.gz"
+                },
+                {
+                    "osSeq": "511217",
+                    "model": "70NANO736RA",
+                    "type": "Op",
+                    "fileId": "3",
+                    "filename": "webOS 23 KLP(n)_1.0_3.tar.gz"
+                }
+            ]
+        },
+        "70NANO73CRA": {
+            "description": "webOS 23 KLP(n) 1.0",
+            "notice": [
+                {
+                    "osSeq": "511217",
+                    "model": "70NANO73CRA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-4665_webOS 23 KLP(n)_1.0_221220.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "511217",
+                    "model": "70NANO73CRA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS 23 KLP(n)_1.0_1.tar.gz"
+                },
+                {
+                    "osSeq": "511217",
+                    "model": "70NANO73CRA",
+                    "type": "Op",
+                    "fileId": "2",
+                    "filename": "webOS 23 KLP(n)_1.0_2.tar.gz"
+                },
+                {
+                    "osSeq": "511217",
+                    "model": "70NANO73CRA",
+                    "type": "Op",
+                    "fileId": "3",
+                    "filename": "webOS 23 KLP(n)_1.0_3.tar.gz"
+                }
+            ]
+        },
+        "70NANO73JRA": {
+            "description": "webOS 23 KLP(n) 1.0",
+            "notice": [
+                {
+                    "osSeq": "511217",
+                    "model": "70NANO73JRA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-4665_webOS 23 KLP(n)_1.0_221220.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "511217",
+                    "model": "70NANO73JRA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS 23 KLP(n)_1.0_1.tar.gz"
+                },
+                {
+                    "osSeq": "511217",
+                    "model": "70NANO73JRA",
+                    "type": "Op",
+                    "fileId": "2",
+                    "filename": "webOS 23 KLP(n)_1.0_2.tar.gz"
+                },
+                {
+                    "osSeq": "511217",
+                    "model": "70NANO73JRA",
+                    "type": "Op",
+                    "fileId": "3",
+                    "filename": "webOS 23 KLP(n)_1.0_3.tar.gz"
+                }
+            ]
+        },
+        "70NANO73KRA": {
+            "description": "webOS 23 KLP(n) 1.0",
+            "notice": [
+                {
+                    "osSeq": "511217",
+                    "model": "70NANO73KRA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-4665_webOS 23 KLP(n)_1.0_221220.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "511217",
+                    "model": "70NANO73KRA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS 23 KLP(n)_1.0_1.tar.gz"
+                },
+                {
+                    "osSeq": "511217",
+                    "model": "70NANO73KRA",
+                    "type": "Op",
+                    "fileId": "2",
+                    "filename": "webOS 23 KLP(n)_1.0_2.tar.gz"
+                },
+                {
+                    "osSeq": "511217",
+                    "model": "70NANO73KRA",
+                    "type": "Op",
+                    "fileId": "3",
+                    "filename": "webOS 23 KLP(n)_1.0_3.tar.gz"
+                }
+            ]
+        },
+        "70NANO73URA": {
+            "description": "webOS 23 KLP(n) 1.0",
+            "notice": [
+                {
+                    "osSeq": "511217",
+                    "model": "70NANO73URA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-4665_webOS 23 KLP(n)_1.0_221220.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "511217",
+                    "model": "70NANO73URA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS 23 KLP(n)_1.0_1.tar.gz"
+                },
+                {
+                    "osSeq": "511217",
+                    "model": "70NANO73URA",
+                    "type": "Op",
+                    "fileId": "2",
+                    "filename": "webOS 23 KLP(n)_1.0_2.tar.gz"
+                },
+                {
+                    "osSeq": "511217",
+                    "model": "70NANO73URA",
+                    "type": "Op",
+                    "fileId": "3",
+                    "filename": "webOS 23 KLP(n)_1.0_3.tar.gz"
+                }
+            ]
+        }
+    }
+}

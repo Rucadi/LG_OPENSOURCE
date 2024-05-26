@@ -1,0 +1,256 @@
+{
+    "TV/AV>Monitor/Signage": {
+        "49VL5PJ-HJ": {
+            "description": "webOS4.0+_M16++_Signage MR2",
+            "notice": [
+                {
+                    "osSeq": "510979",
+                    "model": "49VL5PJ-HJ",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-4518_webOS4.0+_M16++_Signage_MR2_220616.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "510979",
+                    "model": "49VL5PJ-HJ",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS4.0+_M16++_Signage_MR2.zip"
+                }
+            ]
+        },
+        "49VL7D-AE": {
+            "description": "L14_M1A_Signage",
+            "notice": [
+                {
+                    "osSeq": "12880",
+                    "model": "49VL7D-AE",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-891_L14 M1A Signage_180122.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "12880",
+                    "model": "49VL7D-AE",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "L14 M1A Signage.zip"
+                }
+            ]
+        },
+        "49VL7F-AK": {
+            "description": "L18/L19 M1A Signage",
+            "notice": [
+                {
+                    "osSeq": "508319",
+                    "model": "49VL7F-AK",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-820_L18 M1A Signage_171220.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "508319",
+                    "model": "49VL7F-AK",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "L18 M1A Signage.zip"
+                }
+            ]
+        },
+        "49VM5B-BD": {
+            "description": "webOS2.0_LM15U_Signage_2",
+            "notice": [
+                {
+                    "osSeq": "506465",
+                    "model": "49VM5B-BD",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-151022-LM15U_Signage-4.pdf"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "506465",
+                    "model": "49VM5B-BD",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS_Commercial_Signage_OpenSource_version1.0.1_2.zip"
+                }
+            ]
+        },
+        "49VM5C-AD": {
+            "description": "webOS2.0_LM15U_Signage_2",
+            "notice": [
+                {
+                    "osSeq": "506465",
+                    "model": "49VM5C-AD",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-151022-LM15U_Signage-4.pdf"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "506465",
+                    "model": "49VM5C-AD",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS_Commercial_Signage_OpenSource_version1.0.1_2.zip"
+                }
+            ]
+        },
+        "49VM5C-BD": {
+            "description": "webOS2.0_LM15U_Signage_2",
+            "notice": [
+                {
+                    "osSeq": "506465",
+                    "model": "49VM5C-BD",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-151022-LM15U_Signage-4.pdf"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "506465",
+                    "model": "49VM5C-BD",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS_Commercial_Signage_OpenSource_version1.0.1_2.zip"
+                }
+            ]
+        },
+        "49VM5E-AJ": {
+            "description": "webOS4.0_M16++_Signage",
+            "notice": [
+                {
+                    "osSeq": "508481",
+                    "model": "49VM5E-AJ",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-880_webOS4.0_M16++_Signage_180313.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "508481",
+                    "model": "49VM5E-AJ",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS4.0_M16++_Signage.zip"
+                }
+            ]
+        },
+        "49WDC-SB": {
+            "description": "webOS_M14_Signage_Flash",
+            "notice": [
+                {
+                    "osSeq": "506497",
+                    "model": "49WDC-SB",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-141212-webOS_M14_Signage_Flash-1.pdf"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "506497",
+                    "model": "49WDC-SB",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS_M14_Signage_Flash_OpenSource_v1.0.zip"
+                }
+            ]
+        },
+        "49WEC-CB": {
+            "description": "webOS_M14_Signage_Flash",
+            "notice": [
+                {
+                    "osSeq": "506497",
+                    "model": "49WEC-CB",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-141212-webOS_M14_Signage_Flash-1.pdf"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "506497",
+                    "model": "49WEC-CB",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS_M14_Signage_Flash_OpenSource_v1.0.zip"
+                }
+            ]
+        },
+        "49WL900G-BE": {
+            "description": "M_Odinson_Leona2_Nxp",
+            "notice": [
+                {
+                    "osSeq": "509858",
+                    "model": "49WL900G-BE",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-862_18Y_M_Odinson_4K_200324.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "509858",
+                    "model": "49WL900G-BE",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "18Y_M_Odinson_4K.zip"
+                }
+            ]
+        },
+        "49WL900G-BG": {
+            "description": "M_Odinson_Leona2_Nxp",
+            "notice": [
+                {
+                    "osSeq": "509858",
+                    "model": "49WL900G-BG",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-862_18Y_M_Odinson_4K_200324.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "509858",
+                    "model": "49WL900G-BG",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "18Y_M_Odinson_4K.zip"
+                }
+            ]
+        },
+        "49WL900G-BY": {
+            "description": "M_Odinson_Leona2_Nxp",
+            "notice": [
+                {
+                    "osSeq": "509858",
+                    "model": "49WL900G-BY",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-862_18Y_M_Odinson_4K_200324.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "509858",
+                    "model": "49WL900G-BY",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "18Y_M_Odinson_4K.zip"
+                }
+            ]
+        }
+    }
+}

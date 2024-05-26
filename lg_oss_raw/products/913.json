@@ -1,0 +1,403 @@
+{
+    "TV/AV>TV": {
+        "65UH8507-ZA": {
+            "description": "webOS DM LGE Open Source",
+            "notice": [
+                {
+                    "osSeq": "507010",
+                    "model": "65UH8507-ZA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-161108-webOSDM-10.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "507010",
+                    "model": "65UH8507-ZA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "DM-r3147.tar.gz"
+                }
+            ]
+        },
+        "65UH8509-ZA": {
+            "description": "webOS DM LGE Open Source",
+            "notice": [
+                {
+                    "osSeq": "507010",
+                    "model": "65UH8509-ZA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-161108-webOSDM-10.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "507010",
+                    "model": "65UH8509-ZA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "DM-r3147.tar.gz"
+                }
+            ]
+        },
+        "65UH850T-DA": {
+            "description": "webOS DM LGE Open Source",
+            "notice": [
+                {
+                    "osSeq": "507010",
+                    "model": "65UH850T-DA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-161108-webOSDM-10.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "507010",
+                    "model": "65UH850T-DA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "DM-r3147.tar.gz"
+                }
+            ]
+        },
+        "65UH850T-TA": {
+            "description": "webOS DM LGE Open Source",
+            "notice": [
+                {
+                    "osSeq": "507010",
+                    "model": "65UH850T-TA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-161108-webOSDM-10.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "507010",
+                    "model": "65UH850T-TA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "DM-r3147.tar.gz"
+                }
+            ]
+        },
+        "65UH850V-TA": {
+            "description": "webOS DM LGE Open Source",
+            "notice": [
+                {
+                    "osSeq": "507010",
+                    "model": "65UH850V-TA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-161108-webOSDM-10.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "507010",
+                    "model": "65UH850V-TA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "DM-r3147.tar.gz"
+                }
+            ]
+        },
+        "65UH850V-ZA": {
+            "description": "webOS DM LGE Open Source",
+            "notice": [
+                {
+                    "osSeq": "507010",
+                    "model": "65UH850V-ZA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-161108-webOSDM-10.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "507010",
+                    "model": "65UH850V-ZA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "DM-r3147.tar.gz"
+                }
+            ]
+        },
+        "65UH850Y-TA": {
+            "description": "webOS DM LGE Open Source",
+            "notice": [
+                {
+                    "osSeq": "507010",
+                    "model": "65UH850Y-TA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-161108-webOSDM-10.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "507010",
+                    "model": "65UH850Y-TA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "DM-r3147.tar.gz"
+                }
+            ]
+        },
+        "65UH8600-NA": {
+            "description": "webOS DM LGE Open Source",
+            "notice": [
+                {
+                    "osSeq": "507010",
+                    "model": "65UH8600-NA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-161108-webOSDM-10.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "507010",
+                    "model": "65UH8600-NA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "DM-r3147.tar.gz"
+                }
+            ]
+        },
+        "65UH8700-NA": {
+            "description": "webOS DKL LGE Open Source",
+            "notice": [
+                {
+                    "osSeq": "507043",
+                    "model": "65UH8700-NA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-161108-webOSDKL-7.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "507043",
+                    "model": "65UH8700-NA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "DKL-r3173.tar.gz"
+                }
+            ]
+        },
+        "65UH8800-CA": {
+            "description": "webOS DM Lite LGE Open Source",
+            "notice": [
+                {
+                    "osSeq": "507032",
+                    "model": "65UH8800-CA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-161108-webOSDML-3.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "507032",
+                    "model": "65UH8800-CA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "DM-r3147.tar.gz"
+                }
+            ]
+        },
+        "65UH8800-CC": {
+            "description": "webOS DM Lite LGE Open Source",
+            "notice": [
+                {
+                    "osSeq": "507032",
+                    "model": "65UH8800-CC",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-161108-webOSDML-3.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "507032",
+                    "model": "65UH8800-CC",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "DM-r3147.tar.gz"
+                }
+            ]
+        },
+        "65UH9000-NA": {
+            "description": "webOS DM LGE Open Source",
+            "notice": [
+                {
+                    "osSeq": "507010",
+                    "model": "65UH9000-NA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-161108-webOSDM-10.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "507010",
+                    "model": "65UH9000-NA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "DM-r3147.tar.gz"
+                }
+            ]
+        },
+        "65UH9300-NA": {
+            "description": "webOS DM LGE Open Source",
+            "notice": [
+                {
+                    "osSeq": "507010",
+                    "model": "65UH9300-NA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-161108-webOSDM-10.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "507010",
+                    "model": "65UH9300-NA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "DM-r3147.tar.gz"
+                }
+            ]
+        },
+        "65UH9500-CA": {
+            "description": "webOS DM LGE Open Source",
+            "notice": [
+                {
+                    "osSeq": "507010",
+                    "model": "65UH9500-CA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-161108-webOSDM-10.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "507010",
+                    "model": "65UH9500-CA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "DM-r3147.tar.gz"
+                }
+            ]
+        },
+        "65UH9500-SA": {
+            "description": "webOS DM LGE Open Source",
+            "notice": [
+                {
+                    "osSeq": "507010",
+                    "model": "65UH9500-SA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-161108-webOSDM-10.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "507010",
+                    "model": "65UH9500-SA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "DM-r3147.tar.gz"
+                }
+            ]
+        },
+        "65UH9500-UA": {
+            "description": "webOS DM LGE Open Source",
+            "notice": [
+                {
+                    "osSeq": "507010",
+                    "model": "65UH9500-UA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-161108-webOSDM-10.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "507010",
+                    "model": "65UH9500-UA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "DM-r3147.tar.gz"
+                }
+            ]
+        },
+        "65UH950T-DA": {
+            "description": "webOS DM LGE Open Source",
+            "notice": [
+                {
+                    "osSeq": "507010",
+                    "model": "65UH950T-DA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-161108-webOSDM-10.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "507010",
+                    "model": "65UH950T-DA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "DM-r3147.tar.gz"
+                }
+            ]
+        },
+        "65UH950T-TA": {
+            "description": "webOS DM LGE Open Source",
+            "notice": [
+                {
+                    "osSeq": "507010",
+                    "model": "65UH950T-TA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-161108-webOSDM-10.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "507010",
+                    "model": "65UH950T-TA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "DM-r3147.tar.gz"
+                }
+            ]
+        },
+        "65UH950V-TA": {
+            "description": "webOS DM LGE Open Source",
+            "notice": [
+                {
+                    "osSeq": "507010",
+                    "model": "65UH950V-TA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-161108-webOSDM-10.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "507010",
+                    "model": "65UH950V-TA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "DM-r3147.tar.gz"
+                }
+            ]
+        }
+    }
+}

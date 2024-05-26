@@ -1,0 +1,237 @@
+{
+    "TV/AV>Monitor/Signage": {
+        "55EF5F-PS": {
+            "description": "webOS4.0_M16++_Signage MR",
+            "notice": [
+                {
+                    "osSeq": "508876",
+                    "model": "55EF5F-PS",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-1360_webOS4.0_M16++_Signage_MR_190107.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "508876",
+                    "model": "55EF5F-PS",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS4.0_M16++_Signage_MR.zip"
+                }
+            ]
+        },
+        "55EF5F-SB": {
+            "description": "webOS4.0_M16++_Signage MR",
+            "notice": [
+                {
+                    "osSeq": "508876",
+                    "model": "55EF5F-SB",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-1360_webOS4.0_M16++_Signage_MR_190107.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "508876",
+                    "model": "55EF5F-SB",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS4.0_M16++_Signage_MR.zip"
+                }
+            ]
+        },
+        "55EF5G-L": {
+            "description": "webOS4.0_M16++_Signage MR",
+            "notice": [
+                {
+                    "osSeq": "508876",
+                    "model": "55EF5G-L",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-1360_webOS4.0_M16++_Signage_MR_190107.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "508876",
+                    "model": "55EF5G-L",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS4.0_M16++_Signage_MR.zip"
+                }
+            ]
+        },
+        "55EF5G-P": {
+            "description": "webOS4.0_M16++_Signage MR",
+            "notice": [
+                {
+                    "osSeq": "508876",
+                    "model": "55EF5G-P",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-1360_webOS4.0_M16++_Signage_MR_190107.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "508876",
+                    "model": "55EF5G-P",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS4.0_M16++_Signage_MR.zip"
+                }
+            ]
+        },
+        "55EF5G-PS": {
+            "description": "webOS4.0_M16++_Signage MR",
+            "notice": [
+                {
+                    "osSeq": "508876",
+                    "model": "55EF5G-PS",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-1360_webOS4.0_M16++_Signage_MR_190107.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "508876",
+                    "model": "55EF5G-PS",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS4.0_M16++_Signage_MR.zip"
+                }
+            ]
+        },
+        "55EF5K-L": {
+            "description": "webOS4.0_M16++_Signage MR",
+            "notice": [
+                {
+                    "osSeq": "508876",
+                    "model": "55EF5K-L",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-1360_webOS4.0_M16++_Signage_MR_190107.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "508876",
+                    "model": "55EF5K-L",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS4.0_M16++_Signage_MR.zip"
+                }
+            ]
+        },
+        "55EF5K-P": {
+            "description": "webOS4.0_M16++_Signage MR",
+            "notice": [
+                {
+                    "osSeq": "508876",
+                    "model": "55EF5K-P",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-1360_webOS4.0_M16++_Signage_MR_190107.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "508876",
+                    "model": "55EF5K-P",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS4.0_M16++_Signage_MR.zip"
+                }
+            ]
+        }
+    },
+    "TV/AV>TV": {
+        "55EF9500-NA": {
+            "description": "webOS BLMA LGE Open Source2",
+            "notice": [
+                {
+                    "osSeq": "506701",
+                    "model": "55EF9500-NA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-160509-webOSBLMA-5.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "506701",
+                    "model": "55EF9500-NA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "BLMA-r3161-2.tar.gz"
+                }
+            ]
+        },
+        "55EF9500-UA": {
+            "description": "webOS BLMA LGE Open Source2",
+            "notice": [
+                {
+                    "osSeq": "506701",
+                    "model": "55EF9500-UA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-160509-webOSBLMA-5.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "506701",
+                    "model": "55EF9500-UA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "BLMA-r3161-2.tar.gz"
+                }
+            ]
+        },
+        "55EF9509-ZA": {
+            "description": "webOS BLMA LGE Open Source2",
+            "notice": [
+                {
+                    "osSeq": "506701",
+                    "model": "55EF9509-ZA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-160509-webOSBLMA-5.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "506701",
+                    "model": "55EF9509-ZA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "BLMA-r3161-2.tar.gz"
+                }
+            ]
+        },
+        "55EF950T-TA": {
+            "description": "webOS BLMA LGE Open Source1",
+            "notice": [
+                {
+                    "osSeq": "506700",
+                    "model": "55EF950T-TA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-160509-webOSBLMA-5.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "506700",
+                    "model": "55EF950T-TA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "BLMA-r3173-1.tar.gz"
+                }
+            ]
+        }
+    }
+}

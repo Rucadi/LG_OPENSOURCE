@@ -1,0 +1,389 @@
+{
+    "TV/AV>TV": {
+        "86QNED863QA": {
+            "description": "webOS 22 KHP 2.0",
+            "notice": [
+                {
+                    "osSeq": "511326",
+                    "model": "86QNED863QA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-5241_webOS 22 KHP_2.0_230321.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "511326",
+                    "model": "86QNED863QA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS 22 KHP_2.0_1.tar.gz"
+                },
+                {
+                    "osSeq": "511326",
+                    "model": "86QNED863QA",
+                    "type": "Op",
+                    "fileId": "2",
+                    "filename": "webOS 22 KHP_2.0_2.tar.gz"
+                }
+            ]
+        },
+        "86QNED863RE": {
+            "description": "webOS 23 KHP+ 1.0",
+            "notice": [
+                {
+                    "osSeq": "511215",
+                    "model": "86QNED863RE",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-4668_webOS 23 KHP+_1.0_221220.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "511215",
+                    "model": "86QNED863RE",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS 23 KHP+_1.0_1.tar.gz"
+                },
+                {
+                    "osSeq": "511215",
+                    "model": "86QNED863RE",
+                    "type": "Op",
+                    "fileId": "2",
+                    "filename": "webOS 23 KHP+_1.0_2.tar.gz"
+                },
+                {
+                    "osSeq": "511215",
+                    "model": "86QNED863RE",
+                    "type": "Op",
+                    "fileId": "3",
+                    "filename": "webOS 23 KHP+_1.0_3.tar.gz"
+                }
+            ]
+        },
+        "86QNED866QA": {
+            "description": "webOS 22 KHP 2.0",
+            "notice": [
+                {
+                    "osSeq": "511326",
+                    "model": "86QNED866QA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-5241_webOS 22 KHP_2.0_230321.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "511326",
+                    "model": "86QNED866QA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS 22 KHP_2.0_1.tar.gz"
+                },
+                {
+                    "osSeq": "511326",
+                    "model": "86QNED866QA",
+                    "type": "Op",
+                    "fileId": "2",
+                    "filename": "webOS 22 KHP_2.0_2.tar.gz"
+                }
+            ]
+        },
+        "86QNED866RE": {
+            "description": "webOS 23 KHP+ 1.0",
+            "notice": [
+                {
+                    "osSeq": "511215",
+                    "model": "86QNED866RE",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-4668_webOS 23 KHP+_1.0_221220.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "511215",
+                    "model": "86QNED866RE",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS 23 KHP+_1.0_1.tar.gz"
+                },
+                {
+                    "osSeq": "511215",
+                    "model": "86QNED866RE",
+                    "type": "Op",
+                    "fileId": "2",
+                    "filename": "webOS 23 KHP+_1.0_2.tar.gz"
+                },
+                {
+                    "osSeq": "511215",
+                    "model": "86QNED866RE",
+                    "type": "Op",
+                    "fileId": "3",
+                    "filename": "webOS 23 KHP+_1.0_3.tar.gz"
+                }
+            ]
+        },
+        "86QNED869QA": {
+            "description": "webOS 22 KHP 2.0",
+            "notice": [
+                {
+                    "osSeq": "511326",
+                    "model": "86QNED869QA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-5241_webOS 22 KHP_2.0_230321.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "511326",
+                    "model": "86QNED869QA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS 22 KHP_2.0_1.tar.gz"
+                },
+                {
+                    "osSeq": "511326",
+                    "model": "86QNED869QA",
+                    "type": "Op",
+                    "fileId": "2",
+                    "filename": "webOS 22 KHP_2.0_2.tar.gz"
+                }
+            ]
+        },
+        "86QNED86SQA": {
+            "description": "webOS 22 KHP 2.0",
+            "notice": [
+                {
+                    "osSeq": "511326",
+                    "model": "86QNED86SQA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-5241_webOS 22 KHP_2.0_230321.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "511326",
+                    "model": "86QNED86SQA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS 22 KHP_2.0_1.tar.gz"
+                },
+                {
+                    "osSeq": "511326",
+                    "model": "86QNED86SQA",
+                    "type": "Op",
+                    "fileId": "2",
+                    "filename": "webOS 22 KHP_2.0_2.tar.gz"
+                }
+            ]
+        },
+        "86QNED86SRA": {
+            "description": "webOS 23 KHP+ 1.0",
+            "notice": [
+                {
+                    "osSeq": "511215",
+                    "model": "86QNED86SRA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-4668_webOS 23 KHP+_1.0_221220.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "511215",
+                    "model": "86QNED86SRA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS 23 KHP+_1.0_1.tar.gz"
+                },
+                {
+                    "osSeq": "511215",
+                    "model": "86QNED86SRA",
+                    "type": "Op",
+                    "fileId": "2",
+                    "filename": "webOS 23 KHP+_1.0_2.tar.gz"
+                },
+                {
+                    "osSeq": "511215",
+                    "model": "86QNED86SRA",
+                    "type": "Op",
+                    "fileId": "3",
+                    "filename": "webOS 23 KHP+_1.0_3.tar.gz"
+                }
+            ]
+        },
+        "86QNED86T3A": {
+            "description": "webOS 24 K 1.0_2303",
+            "notice": [
+                {
+                    "osSeq": "511664",
+                    "model": "86QNED86T3A",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-6514_webOS 24 K_1.0_2303_240328.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "511664",
+                    "model": "86QNED86T3A",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS 24 K_1.0_2303_1.zip"
+                },
+                {
+                    "osSeq": "511664",
+                    "model": "86QNED86T3A",
+                    "type": "Op",
+                    "fileId": "2",
+                    "filename": "webOS 24 K_1.0_2303_2.tar.gz"
+                },
+                {
+                    "osSeq": "511664",
+                    "model": "86QNED86T3A",
+                    "type": "Op",
+                    "fileId": "3",
+                    "filename": "webOS 24 K_1.0_2303_3.tar.gz"
+                }
+            ]
+        },
+        "86QNED86T6A": {
+            "description": "webOS 24 K 1.0_2303",
+            "notice": [
+                {
+                    "osSeq": "511664",
+                    "model": "86QNED86T6A",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-6514_webOS 24 K_1.0_2303_240328.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "511664",
+                    "model": "86QNED86T6A",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS 24 K_1.0_2303_1.zip"
+                },
+                {
+                    "osSeq": "511664",
+                    "model": "86QNED86T6A",
+                    "type": "Op",
+                    "fileId": "2",
+                    "filename": "webOS 24 K_1.0_2303_2.tar.gz"
+                },
+                {
+                    "osSeq": "511664",
+                    "model": "86QNED86T6A",
+                    "type": "Op",
+                    "fileId": "3",
+                    "filename": "webOS 24 K_1.0_2303_3.tar.gz"
+                }
+            ]
+        },
+        "86QNED86TCA": {
+            "description": "webOS 24 K 1.0_2303",
+            "notice": [
+                {
+                    "osSeq": "511664",
+                    "model": "86QNED86TCA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-6514_webOS 24 K_1.0_2303_240328.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "511664",
+                    "model": "86QNED86TCA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS 24 K_1.0_2303_1.zip"
+                },
+                {
+                    "osSeq": "511664",
+                    "model": "86QNED86TCA",
+                    "type": "Op",
+                    "fileId": "2",
+                    "filename": "webOS 24 K_1.0_2303_2.tar.gz"
+                },
+                {
+                    "osSeq": "511664",
+                    "model": "86QNED86TCA",
+                    "type": "Op",
+                    "fileId": "3",
+                    "filename": "webOS 24 K_1.0_2303_3.tar.gz"
+                }
+            ]
+        },
+        "86QNED86TSA": {
+            "description": "webOS 24 K 1.0_2303",
+            "notice": [
+                {
+                    "osSeq": "511664",
+                    "model": "86QNED86TSA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-6514_webOS 24 K_1.0_2303_240328.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "511664",
+                    "model": "86QNED86TSA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS 24 K_1.0_2303_1.zip"
+                },
+                {
+                    "osSeq": "511664",
+                    "model": "86QNED86TSA",
+                    "type": "Op",
+                    "fileId": "2",
+                    "filename": "webOS 24 K_1.0_2303_2.tar.gz"
+                },
+                {
+                    "osSeq": "511664",
+                    "model": "86QNED86TSA",
+                    "type": "Op",
+                    "fileId": "3",
+                    "filename": "webOS 24 K_1.0_2303_3.tar.gz"
+                }
+            ]
+        },
+        "86QNED873QB": {
+            "description": "webOS 22 KHP 1.0",
+            "notice": [
+                {
+                    "osSeq": "510780",
+                    "model": "86QNED873QB",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-3981_webOS 22 KHP_1.0_220118.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "510780",
+                    "model": "86QNED873QB",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS 22 KHP_1.0_1.tar.gz"
+                },
+                {
+                    "osSeq": "510780",
+                    "model": "86QNED873QB",
+                    "type": "Op",
+                    "fileId": "2",
+                    "filename": "webOS 22 KHP_1.0_2.tar.gz"
+                }
+            ]
+        }
+    }
+}

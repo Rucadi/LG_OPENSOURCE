@@ -1,0 +1,144 @@
+{
+    "TV/AV>TV": {
+        "55SK8000PWA": {
+            "description": "webOS 4.0 GMPP MR 2.0",
+            "notice": [
+                {
+                    "osSeq": "508643",
+                    "model": "55SK8000PWA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-1058_webOS 4.0 GMPP MR_2.0_180625.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "508643",
+                    "model": "55SK8000PWA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS 4.0 GMPP MR_2.0.tar.gz"
+                }
+            ]
+        },
+        "55SK8000YVA": {
+            "description": "webOS 4.5 IMP 4.0",
+            "notice": [
+                {
+                    "osSeq": "510773",
+                    "model": "55SK8000YVA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-4152_webOS 4.5 IMP_4.0_220113.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "510773",
+                    "model": "55SK8000YVA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS 4.5 IMP_4.0_1.tar.gz"
+                },
+                {
+                    "osSeq": "510773",
+                    "model": "55SK8000YVA",
+                    "type": "Op",
+                    "fileId": "2",
+                    "filename": "webOS 4.5 IMP_4.0_2.tar.gz"
+                }
+            ]
+        },
+        "55SK8009-ZA": {
+            "description": "webOS 4.0 GMPP MR 2.0",
+            "notice": [
+                {
+                    "osSeq": "508643",
+                    "model": "55SK8009-ZA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-1058_webOS 4.0 GMPP MR_2.0_180625.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "508643",
+                    "model": "55SK8009-ZA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS 4.0 GMPP MR_2.0.tar.gz"
+                }
+            ]
+        },
+        "55SK800T-TA": {
+            "description": "webOS 4.0 GMPP MR 2.0",
+            "notice": [
+                {
+                    "osSeq": "508643",
+                    "model": "55SK800T-TA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-1058_webOS 4.0 GMPP MR_2.0_180625.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "508643",
+                    "model": "55SK800T-TA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS 4.0 GMPP MR_2.0.tar.gz"
+                }
+            ]
+        },
+        "55SK800V-TA": {
+            "description": "webOS 4.0 GMPP MR 2.0",
+            "notice": [
+                {
+                    "osSeq": "508643",
+                    "model": "55SK800V-TA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-1058_webOS 4.0 GMPP MR_2.0_180625.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "508643",
+                    "model": "55SK800V-TA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS 4.0 GMPP MR_2.0.tar.gz"
+                }
+            ]
+        },
+        "55SK8050PUA": {
+            "description": "webOS 4.5 IMP 4.0",
+            "notice": [
+                {
+                    "osSeq": "510773",
+                    "model": "55SK8050PUA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-4152_webOS 4.5 IMP_4.0_220113.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "510773",
+                    "model": "55SK8050PUA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS 4.5 IMP_4.0_1.tar.gz"
+                },
+                {
+                    "osSeq": "510773",
+                    "model": "55SK8050PUA",
+                    "type": "Op",
+                    "fileId": "2",
+                    "filename": "webOS 4.5 IMP_4.0_2.tar.gz"
+                }
+            ]
+        }
+    }
+}

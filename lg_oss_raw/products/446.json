@@ -1,0 +1,312 @@
+{
+    "TV/AV>TV": {
+        "49UN7100PUA": {
+            "description": "webOS 5.0 JKHP 2.0",
+            "notice": [
+                {
+                    "osSeq": "510776",
+                    "model": "49UN7100PUA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-3913_webOS 5.0 JKHP_2.0_220114.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "510776",
+                    "model": "49UN7100PUA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS 5.0 JKHP_2.0_1.tar.gz"
+                },
+                {
+                    "osSeq": "510776",
+                    "model": "49UN7100PUA",
+                    "type": "Op",
+                    "fileId": "2",
+                    "filename": "webOS 5.0 JKHP_2.0_2.tar.gz"
+                }
+            ]
+        },
+        "49UN7100PVA": {
+            "description": "webOS 5.0 JKHP 2.0",
+            "notice": [
+                {
+                    "osSeq": "510776",
+                    "model": "49UN7100PVA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-3913_webOS 5.0 JKHP_2.0_220114.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "510776",
+                    "model": "49UN7100PVA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS 5.0 JKHP_2.0_1.tar.gz"
+                },
+                {
+                    "osSeq": "510776",
+                    "model": "49UN7100PVA",
+                    "type": "Op",
+                    "fileId": "2",
+                    "filename": "webOS 5.0 JKHP_2.0_2.tar.gz"
+                }
+            ]
+        },
+        "49UN711C0GA": {
+            "description": "webOS 5.0 JKHP 1.0 (Commercial)",
+            "notice": [
+                {
+                    "osSeq": "509941",
+                    "model": "49UN711C0GA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-2174_webOS 5.0 JKHP_1.0_200117.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "509941",
+                    "model": "49UN711C0GA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS 5.0 JKHP_1.0_1.tar.gz"
+                },
+                {
+                    "osSeq": "509941",
+                    "model": "49UN711C0GA",
+                    "type": "Op",
+                    "fileId": "2",
+                    "filename": "webOS 5.0 JKHP_1.0_2.tar.gz"
+                }
+            ]
+        },
+        "49UN711C0SA": {
+            "description": "webOS 5.0 JKHP 1.0 (Commercial)",
+            "notice": [
+                {
+                    "osSeq": "509941",
+                    "model": "49UN711C0SA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-2174_webOS 5.0 JKHP_1.0_200117.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "509941",
+                    "model": "49UN711C0SA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS 5.0 JKHP_1.0_1.tar.gz"
+                },
+                {
+                    "osSeq": "509941",
+                    "model": "49UN711C0SA",
+                    "type": "Op",
+                    "fileId": "2",
+                    "filename": "webOS 5.0 JKHP_1.0_2.tar.gz"
+                }
+            ]
+        },
+        "49UN711C0ZB": {
+            "description": "webOS 5.0 JKHP 1.0 (Commercial)",
+            "notice": [
+                {
+                    "osSeq": "509941",
+                    "model": "49UN711C0ZB",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-2174_webOS 5.0 JKHP_1.0_200117.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "509941",
+                    "model": "49UN711C0ZB",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS 5.0 JKHP_1.0_1.tar.gz"
+                },
+                {
+                    "osSeq": "509941",
+                    "model": "49UN711C0ZB",
+                    "type": "Op",
+                    "fileId": "2",
+                    "filename": "webOS 5.0 JKHP_1.0_2.tar.gz"
+                }
+            ]
+        },
+        "49UN7190PTA": {
+            "description": "webOS 5.0 JKHP 2.0",
+            "notice": [
+                {
+                    "osSeq": "510776",
+                    "model": "49UN7190PTA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-3913_webOS 5.0 JKHP_2.0_220114.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "510776",
+                    "model": "49UN7190PTA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS 5.0 JKHP_2.0_1.tar.gz"
+                },
+                {
+                    "osSeq": "510776",
+                    "model": "49UN7190PTA",
+                    "type": "Op",
+                    "fileId": "2",
+                    "filename": "webOS 5.0 JKHP_2.0_2.tar.gz"
+                }
+            ]
+        },
+        "49UN7200PTF": {
+            "description": "webOS 5.0 JKHP 2.0",
+            "notice": [
+                {
+                    "osSeq": "510776",
+                    "model": "49UN7200PTF",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-3913_webOS 5.0 JKHP_2.0_220114.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "510776",
+                    "model": "49UN7200PTF",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS 5.0 JKHP_2.0_1.tar.gz"
+                },
+                {
+                    "osSeq": "510776",
+                    "model": "49UN7200PTF",
+                    "type": "Op",
+                    "fileId": "2",
+                    "filename": "webOS 5.0 JKHP_2.0_2.tar.gz"
+                }
+            ]
+        },
+        "49UN7240PVG": {
+            "description": "webOS 5.0 JKHP 2.0",
+            "notice": [
+                {
+                    "osSeq": "510776",
+                    "model": "49UN7240PVG",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-3913_webOS 5.0 JKHP_2.0_220114.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "510776",
+                    "model": "49UN7240PVG",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS 5.0 JKHP_2.0_1.tar.gz"
+                },
+                {
+                    "osSeq": "510776",
+                    "model": "49UN7240PVG",
+                    "type": "Op",
+                    "fileId": "2",
+                    "filename": "webOS 5.0 JKHP_2.0_2.tar.gz"
+                }
+            ]
+        },
+        "49UN7290PTF": {
+            "description": "webOS 5.0 JKHP 2.0",
+            "notice": [
+                {
+                    "osSeq": "510776",
+                    "model": "49UN7290PTF",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-3913_webOS 5.0 JKHP_2.0_220114.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "510776",
+                    "model": "49UN7290PTF",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS 5.0 JKHP_2.0_1.tar.gz"
+                },
+                {
+                    "osSeq": "510776",
+                    "model": "49UN7290PTF",
+                    "type": "Op",
+                    "fileId": "2",
+                    "filename": "webOS 5.0 JKHP_2.0_2.tar.gz"
+                }
+            ]
+        },
+        "49UN73003LA": {
+            "description": "webOS 5.0 JKHP 2.0",
+            "notice": [
+                {
+                    "osSeq": "510776",
+                    "model": "49UN73003LA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-3913_webOS 5.0 JKHP_2.0_220114.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "510776",
+                    "model": "49UN73003LA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS 5.0 JKHP_2.0_1.tar.gz"
+                },
+                {
+                    "osSeq": "510776",
+                    "model": "49UN73003LA",
+                    "type": "Op",
+                    "fileId": "2",
+                    "filename": "webOS 5.0 JKHP_2.0_2.tar.gz"
+                }
+            ]
+        },
+        "49UN73006LA": {
+            "description": "webOS 5.0 JKHP 1.0",
+            "notice": [
+                {
+                    "osSeq": "510757",
+                    "model": "49UN73006LA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-2174_webOS 5.0 JKHP_1.0_220110.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "510757",
+                    "model": "49UN73006LA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS 5.0 JKHP_1.0_1.tar.gz"
+                },
+                {
+                    "osSeq": "510757",
+                    "model": "49UN73006LA",
+                    "type": "Op",
+                    "fileId": "2",
+                    "filename": "webOS 5.0 JKHP_1.0_2.tar.gz"
+                }
+            ]
+        }
+    }
+}

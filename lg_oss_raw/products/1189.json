@@ -1,0 +1,391 @@
+{
+    "TV/AV>TV": {
+        "HOTEL SOLUTION 4.0": {
+            "description": "Smart Hotel Room System_HSP_Web 4.0",
+            "notice": [
+                {
+                    "osSeq": "509861",
+                    "model": "HOTEL SOLUTION 4.0",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-2579_Smart Hotel Room System_HSP_Web_4.0_200506.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "509861",
+                    "model": "HOTEL SOLUTION 4.0",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "Smart Hotel Room System_HSP_Web_4.0.zip"
+                }
+            ]
+        },
+        "HOTEL SOLUTION 4.1": {
+            "description": "Smart Hotel Room System_HSP_MultiHotelManager 4.1",
+            "notice": [
+                {
+                    "osSeq": "510957",
+                    "model": "HOTEL SOLUTION 4.1",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-4318_Smart Hotel Room System_HSP_MultiHotelManager_4.1_220526.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "510957",
+                    "model": "HOTEL SOLUTION 4.1",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "Smart Hotel Room System_HSP_MultiHotelManager_4.1.zip"
+                }
+            ]
+        }
+    },
+    "TV/AV>Projector": {
+        "HU70LA-KR": {
+            "description": "webOS 4.5 Projector MR",
+            "notice": [
+                {
+                    "osSeq": "509479",
+                    "model": "HU70LA-KR",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-2229_webOS 4.5 Projector MR_191101.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "509479",
+                    "model": "HU70LA-KR",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS 4.5 Projector MR_1.tar.gz"
+                },
+                {
+                    "osSeq": "509479",
+                    "model": "HU70LA-KR",
+                    "type": "Op",
+                    "fileId": "2",
+                    "filename": "webOS 4.5 Projector MR_2.tar.gz"
+                }
+            ]
+        },
+        "HU70LA-NA": {
+            "description": "webOS 4.5 Projector MR",
+            "notice": [
+                {
+                    "osSeq": "509479",
+                    "model": "HU70LA-NA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-2229_webOS 4.5 Projector MR_191101.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "509479",
+                    "model": "HU70LA-NA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS 4.5 Projector MR_1.tar.gz"
+                },
+                {
+                    "osSeq": "509479",
+                    "model": "HU70LA-NA",
+                    "type": "Op",
+                    "fileId": "2",
+                    "filename": "webOS 4.5 Projector MR_2.tar.gz"
+                }
+            ]
+        },
+        "HU70LA-SP": {
+            "description": "webOS 4.5 Projector",
+            "notice": [
+                {
+                    "osSeq": "509121",
+                    "model": "HU70LA-SP",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-1592_webOS 4.5 Projector_190515.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "509121",
+                    "model": "HU70LA-SP",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS 4.5 Projector.tar.gz"
+                }
+            ]
+        },
+        "HU70LAB-NA": {
+            "description": "webOS 4.5 Projector MR",
+            "notice": [
+                {
+                    "osSeq": "509479",
+                    "model": "HU70LAB-NA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-2229_webOS 4.5 Projector MR_191101.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "509479",
+                    "model": "HU70LAB-NA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS 4.5 Projector MR_1.tar.gz"
+                },
+                {
+                    "osSeq": "509479",
+                    "model": "HU70LAB-NA",
+                    "type": "Op",
+                    "fileId": "2",
+                    "filename": "webOS 4.5 Projector MR_2.tar.gz"
+                }
+            ]
+        },
+        "HU70LG-GL": {
+            "description": "webOS 4.5 Projector",
+            "notice": [
+                {
+                    "osSeq": "509121",
+                    "model": "HU70LG-GL",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-1592_webOS 4.5 Projector_190515.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "509121",
+                    "model": "HU70LG-GL",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS 4.5 Projector.tar.gz"
+                }
+            ]
+        },
+        "HU70LS-EU": {
+            "description": "webOS 4.5 Projector",
+            "notice": [
+                {
+                    "osSeq": "509121",
+                    "model": "HU70LS-EU",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-1592_webOS 4.5 Projector_190515.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "509121",
+                    "model": "HU70LS-EU",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS 4.5 Projector.tar.gz"
+                }
+            ]
+        },
+        "HU70LS-JP": {
+            "description": "webOS 4.5 Projector",
+            "notice": [
+                {
+                    "osSeq": "509121",
+                    "model": "HU70LS-JP",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-1592_webOS 4.5 Projector_190515.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "509121",
+                    "model": "HU70LS-JP",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS 4.5 Projector.tar.gz"
+                }
+            ]
+        },
+        "HU70LS-KR": {
+            "description": "webOS 4.5 Projector MR",
+            "notice": [
+                {
+                    "osSeq": "509479",
+                    "model": "HU70LS-KR",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-2229_webOS 4.5 Projector MR_191101.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "509479",
+                    "model": "HU70LS-KR",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS 4.5 Projector MR_1.tar.gz"
+                },
+                {
+                    "osSeq": "509479",
+                    "model": "HU70LS-KR",
+                    "type": "Op",
+                    "fileId": "2",
+                    "filename": "webOS 4.5 Projector MR_2.tar.gz"
+                }
+            ]
+        },
+        "HU70LSB-EU": {
+            "description": "webOS 4.5 Projector",
+            "notice": [
+                {
+                    "osSeq": "509121",
+                    "model": "HU70LSB-EU",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-1592_webOS 4.5 Projector_190515.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "509121",
+                    "model": "HU70LSB-EU",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS 4.5 Projector.tar.gz"
+                }
+            ]
+        },
+        "HU70LSB-JP": {
+            "description": "webOS 4.5 Projector",
+            "notice": [
+                {
+                    "osSeq": "509121",
+                    "model": "HU70LSB-JP",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-1592_webOS 4.5 Projector_190515.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "509121",
+                    "model": "HU70LSB-JP",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS 4.5 Projector.tar.gz"
+                }
+            ]
+        },
+        "HU710PB-CH": {
+            "description": "webOS 6.0 Projector",
+            "notice": [
+                {
+                    "osSeq": "510544",
+                    "model": "HU710PB-CH",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-3652_webOS 6.0 Projector_210719.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "510544",
+                    "model": "HU710PB-CH",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS 6.0 Projector_1.tar.gz"
+                },
+                {
+                    "osSeq": "510544",
+                    "model": "HU710PB-CH",
+                    "type": "Op",
+                    "fileId": "2",
+                    "filename": "webOS 6.0 Projector_2.tar.gz"
+                },
+                {
+                    "osSeq": "510544",
+                    "model": "HU710PB-CH",
+                    "type": "Op",
+                    "fileId": "3",
+                    "filename": "webOS 6.0 Projector_3.tar.gz"
+                }
+            ]
+        },
+        "HU710PB-GL": {
+            "description": "webOS 6.0 Projector",
+            "notice": [
+                {
+                    "osSeq": "510544",
+                    "model": "HU710PB-GL",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-3652_webOS 6.0 Projector_210719.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "510544",
+                    "model": "HU710PB-GL",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS 6.0 Projector_1.tar.gz"
+                },
+                {
+                    "osSeq": "510544",
+                    "model": "HU710PB-GL",
+                    "type": "Op",
+                    "fileId": "2",
+                    "filename": "webOS 6.0 Projector_2.tar.gz"
+                },
+                {
+                    "osSeq": "510544",
+                    "model": "HU710PB-GL",
+                    "type": "Op",
+                    "fileId": "3",
+                    "filename": "webOS 6.0 Projector_3.tar.gz"
+                }
+            ]
+        },
+        "HU710PW-CH": {
+            "description": "webOS 6.0 Projector",
+            "notice": [
+                {
+                    "osSeq": "510544",
+                    "model": "HU710PW-CH",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-3652_webOS 6.0 Projector_210719.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "510544",
+                    "model": "HU710PW-CH",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS 6.0 Projector_1.tar.gz"
+                },
+                {
+                    "osSeq": "510544",
+                    "model": "HU710PW-CH",
+                    "type": "Op",
+                    "fileId": "2",
+                    "filename": "webOS 6.0 Projector_2.tar.gz"
+                },
+                {
+                    "osSeq": "510544",
+                    "model": "HU710PW-CH",
+                    "type": "Op",
+                    "fileId": "3",
+                    "filename": "webOS 6.0 Projector_3.tar.gz"
+                }
+            ]
+        }
+    }
+}

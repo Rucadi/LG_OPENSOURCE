@@ -1,0 +1,438 @@
+{
+    "TV/AV>TV": {
+        "50LF651V-TB": {
+            "description": "webOS BM LGE Open Source-Chromium Source",
+            "notice": [
+                {
+                    "osSeq": "506623",
+                    "model": "50LF651V-TB",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-150604-webOSBM-8.pdf"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "506623",
+                    "model": "50LF651V-TB",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "Chromium.zip"
+                }
+            ]
+        },
+        "50LF6529-ZA": {
+            "description": "webOS BM LGE Open Source-Chromium Source",
+            "notice": [
+                {
+                    "osSeq": "506623",
+                    "model": "50LF6529-ZA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-150604-webOSBM-8.pdf"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "506623",
+                    "model": "50LF6529-ZA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "Chromium.zip"
+                }
+            ]
+        },
+        "50LF652V-ZA": {
+            "description": "webOS BM LGE Open Source-Chromium Source",
+            "notice": [
+                {
+                    "osSeq": "506623",
+                    "model": "50LF652V-ZA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-150604-webOSBM-8.pdf"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "506623",
+                    "model": "50LF652V-ZA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "Chromium.zip"
+                }
+            ]
+        },
+        "50LF653V-ZC": {
+            "description": "webOS BM LGE Open Source-Chromium Source",
+            "notice": [
+                {
+                    "osSeq": "506623",
+                    "model": "50LF653V-ZC",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-150604-webOSBM-8.pdf"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "506623",
+                    "model": "50LF653V-ZC",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "Chromium.zip"
+                }
+            ]
+        },
+        "50LH5730-UA": {
+            "description": "SSPM LGE Open Source",
+            "notice": [
+                {
+                    "osSeq": "507094",
+                    "model": "50LH5730-UA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-160406-SSPM-4.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "507094",
+                    "model": "50LH5730-UA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "SSPM-r3026.tar.gz"
+                }
+            ]
+        },
+        "50LH5730-UB": {
+            "description": "SSPM LGE Open Source",
+            "notice": [
+                {
+                    "osSeq": "507094",
+                    "model": "50LH5730-UB",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-160406-SSPM-4.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "507094",
+                    "model": "50LH5730-UB",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "SSPM-r3026.tar.gz"
+                }
+            ]
+        },
+        "50LX330C-CA": {
+            "description": "L15_M1A_Commercial TV Open Source",
+            "notice": [
+                {
+                    "osSeq": "506326",
+                    "model": "50LX330C-CA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-150126-L15_M1A_CommercialTV-2.pdf"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "506326",
+                    "model": "50LX330C-CA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "L15_M1A_Commercial_Signage_Opensource_v1.0.zip"
+                }
+            ]
+        },
+        "50LX330C-NA": {
+            "description": "L15_M1A_Commercial TV Open Source",
+            "notice": [
+                {
+                    "osSeq": "506326",
+                    "model": "50LX330C-NA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-150126-L15_M1A_CommercialTV-2.pdf"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "506326",
+                    "model": "50LX330C-NA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "L15_M1A_Commercial_Signage_Opensource_v1.0.zip"
+                }
+            ]
+        },
+        "50LY340C-NA": {
+            "description": "L14_M1A_Commercial TV Lite",
+            "notice": [
+                {
+                    "osSeq": "13080",
+                    "model": "50LY340C-NA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-140818-L14_M1A_CommercialTVLite-1.pdf"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "13080",
+                    "model": "50LY340C-NA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "L14_M1A_OpenSource_v1.0.zip"
+                }
+            ]
+        },
+        "50NANO736RA": {
+            "description": "webOS 23 KLP(n) 1.0",
+            "notice": [
+                {
+                    "osSeq": "511217",
+                    "model": "50NANO736RA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-4665_webOS 23 KLP(n)_1.0_221220.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "511217",
+                    "model": "50NANO736RA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS 23 KLP(n)_1.0_1.tar.gz"
+                },
+                {
+                    "osSeq": "511217",
+                    "model": "50NANO736RA",
+                    "type": "Op",
+                    "fileId": "2",
+                    "filename": "webOS 23 KLP(n)_1.0_2.tar.gz"
+                },
+                {
+                    "osSeq": "511217",
+                    "model": "50NANO736RA",
+                    "type": "Op",
+                    "fileId": "3",
+                    "filename": "webOS 23 KLP(n)_1.0_3.tar.gz"
+                }
+            ]
+        },
+        "50NANO73JRA": {
+            "description": "webOS 23 KLP(n) 1.0",
+            "notice": [
+                {
+                    "osSeq": "511217",
+                    "model": "50NANO73JRA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-4665_webOS 23 KLP(n)_1.0_221220.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "511217",
+                    "model": "50NANO73JRA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS 23 KLP(n)_1.0_1.tar.gz"
+                },
+                {
+                    "osSeq": "511217",
+                    "model": "50NANO73JRA",
+                    "type": "Op",
+                    "fileId": "2",
+                    "filename": "webOS 23 KLP(n)_1.0_2.tar.gz"
+                },
+                {
+                    "osSeq": "511217",
+                    "model": "50NANO73JRA",
+                    "type": "Op",
+                    "fileId": "3",
+                    "filename": "webOS 23 KLP(n)_1.0_3.tar.gz"
+                }
+            ]
+        },
+        "50NANO73KRA": {
+            "description": "webOS 23 KLP(n) 1.0",
+            "notice": [
+                {
+                    "osSeq": "511217",
+                    "model": "50NANO73KRA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-4665_webOS 23 KLP(n)_1.0_221220.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "511217",
+                    "model": "50NANO73KRA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS 23 KLP(n)_1.0_1.tar.gz"
+                },
+                {
+                    "osSeq": "511217",
+                    "model": "50NANO73KRA",
+                    "type": "Op",
+                    "fileId": "2",
+                    "filename": "webOS 23 KLP(n)_1.0_2.tar.gz"
+                },
+                {
+                    "osSeq": "511217",
+                    "model": "50NANO73KRA",
+                    "type": "Op",
+                    "fileId": "3",
+                    "filename": "webOS 23 KLP(n)_1.0_3.tar.gz"
+                }
+            ]
+        },
+        "50NANO73URA": {
+            "description": "webOS 23 KLP(n) 1.0",
+            "notice": [
+                {
+                    "osSeq": "511217",
+                    "model": "50NANO73URA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-4665_webOS 23 KLP(n)_1.0_221220.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "511217",
+                    "model": "50NANO73URA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS 23 KLP(n)_1.0_1.tar.gz"
+                },
+                {
+                    "osSeq": "511217",
+                    "model": "50NANO73URA",
+                    "type": "Op",
+                    "fileId": "2",
+                    "filename": "webOS 23 KLP(n)_1.0_2.tar.gz"
+                },
+                {
+                    "osSeq": "511217",
+                    "model": "50NANO73URA",
+                    "type": "Op",
+                    "fileId": "3",
+                    "filename": "webOS 23 KLP(n)_1.0_3.tar.gz"
+                }
+            ]
+        },
+        "50NANO753PA": {
+            "description": "webOS 6.0 LMUA 1.0",
+            "notice": [
+                {
+                    "osSeq": "510685",
+                    "model": "50NANO753PA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-3037_webOS 6.0 LMUA_1.0_211116.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "510685",
+                    "model": "50NANO753PA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS 6.0 LMUA_1.0_1.tar.gz"
+                },
+                {
+                    "osSeq": "510685",
+                    "model": "50NANO753PA",
+                    "type": "Op",
+                    "fileId": "2",
+                    "filename": "webOS 6.0 LMUA_1.0_2.tar.gz"
+                },
+                {
+                    "osSeq": "510685",
+                    "model": "50NANO753PA",
+                    "type": "Op",
+                    "fileId": "3",
+                    "filename": "webOS 6.0 LMUA_1.0_3.tar.gz"
+                }
+            ]
+        },
+        "50NANO753PR": {
+            "description": "webOS 6.0 KLP 1.0",
+            "notice": [
+                {
+                    "osSeq": "510320",
+                    "model": "50NANO753PR",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-3253_webOS 6.0 KLP_1.0_210204.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "510320",
+                    "model": "50NANO753PR",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS 6.0 KLP_1.0_1.tar.gz"
+                },
+                {
+                    "osSeq": "510320",
+                    "model": "50NANO753PR",
+                    "type": "Op",
+                    "fileId": "2",
+                    "filename": "webOS 6.0 KLP_1.0_2.tar.gz"
+                },
+                {
+                    "osSeq": "510320",
+                    "model": "50NANO753PR",
+                    "type": "Op",
+                    "fileId": "3",
+                    "filename": "webOS 6.0 KLP_1.0_3.tar.gz"
+                }
+            ]
+        },
+        "50NANO756PA": {
+            "description": "webOS 6.0 LMUA 1.0",
+            "notice": [
+                {
+                    "osSeq": "510685",
+                    "model": "50NANO756PA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-3037_webOS 6.0 LMUA_1.0_211116.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "510685",
+                    "model": "50NANO756PA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS 6.0 LMUA_1.0_1.tar.gz"
+                },
+                {
+                    "osSeq": "510685",
+                    "model": "50NANO756PA",
+                    "type": "Op",
+                    "fileId": "2",
+                    "filename": "webOS 6.0 LMUA_1.0_2.tar.gz"
+                },
+                {
+                    "osSeq": "510685",
+                    "model": "50NANO756PA",
+                    "type": "Op",
+                    "fileId": "3",
+                    "filename": "webOS 6.0 LMUA_1.0_3.tar.gz"
+                }
+            ]
+        }
+    }
+}

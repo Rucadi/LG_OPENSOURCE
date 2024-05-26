@@ -1,0 +1,655 @@
+{
+    "TV/AV>TV": {
+        "86UP80006LA": {
+            "description": "webOS 6.0 LMUA 1.0",
+            "notice": [
+                {
+                    "osSeq": "510685",
+                    "model": "86UP80006LA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-3037_webOS 6.0 LMUA_1.0_211116.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "510685",
+                    "model": "86UP80006LA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS 6.0 LMUA_1.0_1.tar.gz"
+                },
+                {
+                    "osSeq": "510685",
+                    "model": "86UP80006LA",
+                    "type": "Op",
+                    "fileId": "2",
+                    "filename": "webOS 6.0 LMUA_1.0_2.tar.gz"
+                },
+                {
+                    "osSeq": "510685",
+                    "model": "86UP80006LA",
+                    "type": "Op",
+                    "fileId": "3",
+                    "filename": "webOS 6.0 LMUA_1.0_3.tar.gz"
+                }
+            ]
+        },
+        "86UP80009LA": {
+            "description": "webOS 6.0 LMUA 1.0",
+            "notice": [
+                {
+                    "osSeq": "510685",
+                    "model": "86UP80009LA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-3037_webOS 6.0 LMUA_1.0_211116.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "510685",
+                    "model": "86UP80009LA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS 6.0 LMUA_1.0_1.tar.gz"
+                },
+                {
+                    "osSeq": "510685",
+                    "model": "86UP80009LA",
+                    "type": "Op",
+                    "fileId": "2",
+                    "filename": "webOS 6.0 LMUA_1.0_2.tar.gz"
+                },
+                {
+                    "osSeq": "510685",
+                    "model": "86UP80009LA",
+                    "type": "Op",
+                    "fileId": "3",
+                    "filename": "webOS 6.0 LMUA_1.0_3.tar.gz"
+                }
+            ]
+        },
+        "86UP8000PTA": {
+            "description": "webOS 6.0 LMUA 1.0",
+            "notice": [
+                {
+                    "osSeq": "510685",
+                    "model": "86UP8000PTA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-3037_webOS 6.0 LMUA_1.0_211116.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "510685",
+                    "model": "86UP8000PTA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS 6.0 LMUA_1.0_1.tar.gz"
+                },
+                {
+                    "osSeq": "510685",
+                    "model": "86UP8000PTA",
+                    "type": "Op",
+                    "fileId": "2",
+                    "filename": "webOS 6.0 LMUA_1.0_2.tar.gz"
+                },
+                {
+                    "osSeq": "510685",
+                    "model": "86UP8000PTA",
+                    "type": "Op",
+                    "fileId": "3",
+                    "filename": "webOS 6.0 LMUA_1.0_3.tar.gz"
+                }
+            ]
+        },
+        "86UP8000PTB": {
+            "description": "webOS 6.0 LMUA 1.0",
+            "notice": [
+                {
+                    "osSeq": "510685",
+                    "model": "86UP8000PTB",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-3037_webOS 6.0 LMUA_1.0_211116.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "510685",
+                    "model": "86UP8000PTB",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS 6.0 LMUA_1.0_1.tar.gz"
+                },
+                {
+                    "osSeq": "510685",
+                    "model": "86UP8000PTB",
+                    "type": "Op",
+                    "fileId": "2",
+                    "filename": "webOS 6.0 LMUA_1.0_2.tar.gz"
+                },
+                {
+                    "osSeq": "510685",
+                    "model": "86UP8000PTB",
+                    "type": "Op",
+                    "fileId": "3",
+                    "filename": "webOS 6.0 LMUA_1.0_3.tar.gz"
+                }
+            ]
+        },
+        "86UP801C0GB": {
+            "description": "webOS 6.0 LMUA (Commercial)",
+            "notice": [
+                {
+                    "osSeq": "511295",
+                    "model": "86UP801C0GB",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-3642_webOS 6.0 LMUA (Commercial)_230307.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "511295",
+                    "model": "86UP801C0GB",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS 6.0 LMUA (Commercial)_1.tar.gz"
+                },
+                {
+                    "osSeq": "511295",
+                    "model": "86UP801C0GB",
+                    "type": "Op",
+                    "fileId": "2",
+                    "filename": "webOS 6.0 LMUA (Commercial)_2.tar.gz"
+                },
+                {
+                    "osSeq": "511295",
+                    "model": "86UP801C0GB",
+                    "type": "Op",
+                    "fileId": "3",
+                    "filename": "webOS 6.0 LMUA (Commercial)_3.tar.gz"
+                }
+            ]
+        },
+        "86UP801C0TB": {
+            "description": "webOS 6.0 LMUA (Commercial)",
+            "notice": [
+                {
+                    "osSeq": "511295",
+                    "model": "86UP801C0TB",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-3642_webOS 6.0 LMUA (Commercial)_230307.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "511295",
+                    "model": "86UP801C0TB",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS 6.0 LMUA (Commercial)_1.tar.gz"
+                },
+                {
+                    "osSeq": "511295",
+                    "model": "86UP801C0TB",
+                    "type": "Op",
+                    "fileId": "2",
+                    "filename": "webOS 6.0 LMUA (Commercial)_2.tar.gz"
+                },
+                {
+                    "osSeq": "511295",
+                    "model": "86UP801C0TB",
+                    "type": "Op",
+                    "fileId": "3",
+                    "filename": "webOS 6.0 LMUA (Commercial)_3.tar.gz"
+                }
+            ]
+        },
+        "86UP801C0ZA": {
+            "description": "webOS 6.0 LMUA (Commercial)",
+            "notice": [
+                {
+                    "osSeq": "511295",
+                    "model": "86UP801C0ZA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-3642_webOS 6.0 LMUA (Commercial)_230307.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "511295",
+                    "model": "86UP801C0ZA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS 6.0 LMUA (Commercial)_1.tar.gz"
+                },
+                {
+                    "osSeq": "511295",
+                    "model": "86UP801C0ZA",
+                    "type": "Op",
+                    "fileId": "2",
+                    "filename": "webOS 6.0 LMUA (Commercial)_2.tar.gz"
+                },
+                {
+                    "osSeq": "511295",
+                    "model": "86UP801C0ZA",
+                    "type": "Op",
+                    "fileId": "3",
+                    "filename": "webOS 6.0 LMUA (Commercial)_3.tar.gz"
+                }
+            ]
+        },
+        "86UP8050PSB": {
+            "description": "webOS 6.0 LMUA 1.0",
+            "notice": [
+                {
+                    "osSeq": "510685",
+                    "model": "86UP8050PSB",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-3037_webOS 6.0 LMUA_1.0_211116.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "510685",
+                    "model": "86UP8050PSB",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS 6.0 LMUA_1.0_1.tar.gz"
+                },
+                {
+                    "osSeq": "510685",
+                    "model": "86UP8050PSB",
+                    "type": "Op",
+                    "fileId": "2",
+                    "filename": "webOS 6.0 LMUA_1.0_2.tar.gz"
+                },
+                {
+                    "osSeq": "510685",
+                    "model": "86UP8050PSB",
+                    "type": "Op",
+                    "fileId": "3",
+                    "filename": "webOS 6.0 LMUA_1.0_3.tar.gz"
+                }
+            ]
+        },
+        "86UP8050PVA": {
+            "description": "webOS 6.0 LMUA 1.0",
+            "notice": [
+                {
+                    "osSeq": "510685",
+                    "model": "86UP8050PVA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-3037_webOS 6.0 LMUA_1.0_211116.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "510685",
+                    "model": "86UP8050PVA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS 6.0 LMUA_1.0_1.tar.gz"
+                },
+                {
+                    "osSeq": "510685",
+                    "model": "86UP8050PVA",
+                    "type": "Op",
+                    "fileId": "2",
+                    "filename": "webOS 6.0 LMUA_1.0_2.tar.gz"
+                },
+                {
+                    "osSeq": "510685",
+                    "model": "86UP8050PVA",
+                    "type": "Op",
+                    "fileId": "3",
+                    "filename": "webOS 6.0 LMUA_1.0_3.tar.gz"
+                }
+            ]
+        },
+        "86UP8050PVB": {
+            "description": "webOS 6.0 LMUA 1.0",
+            "notice": [
+                {
+                    "osSeq": "510685",
+                    "model": "86UP8050PVB",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-3037_webOS 6.0 LMUA_1.0_211116.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "510685",
+                    "model": "86UP8050PVB",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS 6.0 LMUA_1.0_1.tar.gz"
+                },
+                {
+                    "osSeq": "510685",
+                    "model": "86UP8050PVB",
+                    "type": "Op",
+                    "fileId": "2",
+                    "filename": "webOS 6.0 LMUA_1.0_2.tar.gz"
+                },
+                {
+                    "osSeq": "510685",
+                    "model": "86UP8050PVB",
+                    "type": "Op",
+                    "fileId": "3",
+                    "filename": "webOS 6.0 LMUA_1.0_3.tar.gz"
+                }
+            ]
+        },
+        "86UP81006LA": {
+            "description": "webOS 6.0 LMUA 1.0",
+            "notice": [
+                {
+                    "osSeq": "510685",
+                    "model": "86UP81006LA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-3037_webOS 6.0 LMUA_1.0_211116.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "510685",
+                    "model": "86UP81006LA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS 6.0 LMUA_1.0_1.tar.gz"
+                },
+                {
+                    "osSeq": "510685",
+                    "model": "86UP81006LA",
+                    "type": "Op",
+                    "fileId": "2",
+                    "filename": "webOS 6.0 LMUA_1.0_2.tar.gz"
+                },
+                {
+                    "osSeq": "510685",
+                    "model": "86UP81006LA",
+                    "type": "Op",
+                    "fileId": "3",
+                    "filename": "webOS 6.0 LMUA_1.0_3.tar.gz"
+                }
+            ]
+        },
+        "86UP8100PCB": {
+            "description": "webOS 6.0 LMUA 1.0",
+            "notice": [
+                {
+                    "osSeq": "510685",
+                    "model": "86UP8100PCB",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-3037_webOS 6.0 LMUA_1.0_211116.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "510685",
+                    "model": "86UP8100PCB",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS 6.0 LMUA_1.0_1.tar.gz"
+                },
+                {
+                    "osSeq": "510685",
+                    "model": "86UP8100PCB",
+                    "type": "Op",
+                    "fileId": "2",
+                    "filename": "webOS 6.0 LMUA_1.0_2.tar.gz"
+                },
+                {
+                    "osSeq": "510685",
+                    "model": "86UP8100PCB",
+                    "type": "Op",
+                    "fileId": "3",
+                    "filename": "webOS 6.0 LMUA_1.0_3.tar.gz"
+                }
+            ]
+        },
+        "86UP8100PTB": {
+            "description": "webOS 6.0 LMUA 1.0",
+            "notice": [
+                {
+                    "osSeq": "510685",
+                    "model": "86UP8100PTB",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-3037_webOS 6.0 LMUA_1.0_211116.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "510685",
+                    "model": "86UP8100PTB",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS 6.0 LMUA_1.0_1.tar.gz"
+                },
+                {
+                    "osSeq": "510685",
+                    "model": "86UP8100PTB",
+                    "type": "Op",
+                    "fileId": "2",
+                    "filename": "webOS 6.0 LMUA_1.0_2.tar.gz"
+                },
+                {
+                    "osSeq": "510685",
+                    "model": "86UP8100PTB",
+                    "type": "Op",
+                    "fileId": "3",
+                    "filename": "webOS 6.0 LMUA_1.0_3.tar.gz"
+                }
+            ]
+        },
+        "86UP8300KNA": {
+            "description": "webOS 6.0 LMUA 1.0",
+            "notice": [
+                {
+                    "osSeq": "510685",
+                    "model": "86UP8300KNA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-3037_webOS 6.0 LMUA_1.0_211116.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "510685",
+                    "model": "86UP8300KNA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS 6.0 LMUA_1.0_1.tar.gz"
+                },
+                {
+                    "osSeq": "510685",
+                    "model": "86UP8300KNA",
+                    "type": "Op",
+                    "fileId": "2",
+                    "filename": "webOS 6.0 LMUA_1.0_2.tar.gz"
+                },
+                {
+                    "osSeq": "510685",
+                    "model": "86UP8300KNA",
+                    "type": "Op",
+                    "fileId": "3",
+                    "filename": "webOS 6.0 LMUA_1.0_3.tar.gz"
+                }
+            ]
+        },
+        "86UP831C0NA": {
+            "description": "webOS 6.0 LMUA (Commercial)",
+            "notice": [
+                {
+                    "osSeq": "511295",
+                    "model": "86UP831C0NA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-3642_webOS 6.0 LMUA (Commercial)_230307.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "511295",
+                    "model": "86UP831C0NA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS 6.0 LMUA (Commercial)_1.tar.gz"
+                },
+                {
+                    "osSeq": "511295",
+                    "model": "86UP831C0NA",
+                    "type": "Op",
+                    "fileId": "2",
+                    "filename": "webOS 6.0 LMUA (Commercial)_2.tar.gz"
+                },
+                {
+                    "osSeq": "511295",
+                    "model": "86UP831C0NA",
+                    "type": "Op",
+                    "fileId": "3",
+                    "filename": "webOS 6.0 LMUA (Commercial)_3.tar.gz"
+                }
+            ]
+        },
+        "86UP83GC0NA": {
+            "description": "webOS 6.0 LMUA (Commercial)",
+            "notice": [
+                {
+                    "osSeq": "511295",
+                    "model": "86UP83GC0NA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-3642_webOS 6.0 LMUA (Commercial)_230307.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "511295",
+                    "model": "86UP83GC0NA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS 6.0 LMUA (Commercial)_1.tar.gz"
+                },
+                {
+                    "osSeq": "511295",
+                    "model": "86UP83GC0NA",
+                    "type": "Op",
+                    "fileId": "2",
+                    "filename": "webOS 6.0 LMUA (Commercial)_2.tar.gz"
+                },
+                {
+                    "osSeq": "511295",
+                    "model": "86UP83GC0NA",
+                    "type": "Op",
+                    "fileId": "3",
+                    "filename": "webOS 6.0 LMUA (Commercial)_3.tar.gz"
+                }
+            ]
+        },
+        "86UP8770PUA": {
+            "description": "webOS 6.0 LMUA 1.0",
+            "notice": [
+                {
+                    "osSeq": "510685",
+                    "model": "86UP8770PUA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-3037_webOS 6.0 LMUA_1.0_211116.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "510685",
+                    "model": "86UP8770PUA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS 6.0 LMUA_1.0_1.tar.gz"
+                },
+                {
+                    "osSeq": "510685",
+                    "model": "86UP8770PUA",
+                    "type": "Op",
+                    "fileId": "2",
+                    "filename": "webOS 6.0 LMUA_1.0_2.tar.gz"
+                },
+                {
+                    "osSeq": "510685",
+                    "model": "86UP8770PUA",
+                    "type": "Op",
+                    "fileId": "3",
+                    "filename": "webOS 6.0 LMUA_1.0_3.tar.gz"
+                }
+            ]
+        },
+        "86UQ7070ZUD": {
+            "description": "webOS 22 KHP 2.0",
+            "notice": [
+                {
+                    "osSeq": "511326",
+                    "model": "86UQ7070ZUD",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-5241_webOS 22 KHP_2.0_230321.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "511326",
+                    "model": "86UQ7070ZUD",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS 22 KHP_2.0_1.tar.gz"
+                },
+                {
+                    "osSeq": "511326",
+                    "model": "86UQ7070ZUD",
+                    "type": "Op",
+                    "fileId": "2",
+                    "filename": "webOS 22 KHP_2.0_2.tar.gz"
+                }
+            ]
+        },
+        "86UQ7590PUD": {
+            "description": "webOS 22 KHP 1.0",
+            "notice": [
+                {
+                    "osSeq": "510780",
+                    "model": "86UQ7590PUD",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-3981_webOS 22 KHP_1.0_220118.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "510780",
+                    "model": "86UQ7590PUD",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS 22 KHP_1.0_1.tar.gz"
+                },
+                {
+                    "osSeq": "510780",
+                    "model": "86UQ7590PUD",
+                    "type": "Op",
+                    "fileId": "2",
+                    "filename": "webOS 22 KHP_1.0_2.tar.gz"
+                }
+            ]
+        }
+    }
+}

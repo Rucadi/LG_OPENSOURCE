@@ -1,0 +1,338 @@
+{
+    "TV/AV>Monitor/Signage": {
+        "24LF4820-BU": {
+            "description": "WebOS2.0_ A5LR_MTV_08_14",
+            "notice": [
+                {
+                    "osSeq": "506695",
+                    "model": "24LF4820-BU",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-150528-WebOS2.0_A5LR_MTV-1.pdf"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "506695",
+                    "model": "24LF4820-BU",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS_BLA5_1.tar.gz"
+                }
+            ]
+        },
+        "24LF4820-WU": {
+            "description": "WebOS2.0_ A5LR_MTV_03_12",
+            "notice": [
+                {
+                    "osSeq": "507045",
+                    "model": "24LF4820-WU",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-150528-WebOS2.0_A5LR_MTV-1.pdf"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "507045",
+                    "model": "24LF4820-WU",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS_BLA5_1.tar.gz"
+                }
+            ]
+        },
+        "24LF515A-TH": {
+            "description": "M8RR Platform_04_17",
+            "notice": [
+                {
+                    "osSeq": "506503",
+                    "model": "24LF515A-TH",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-140522-M8RR_MTV-1.pdf"
+                }
+            ],
+            "source": []
+        },
+        "24LH450U-ZE": {
+            "description": "M1AP(16) Platform_04_08",
+            "notice": [
+                {
+                    "osSeq": "507161",
+                    "model": "24LH450U-ZE",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-151202-L16_M1AP_MTV-1.pdf"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "507161",
+                    "model": "24LH450U-ZE",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "L16_M1AP_MTV_OpenSource_v1.1.zip"
+                }
+            ]
+        },
+        "24LH451U-ZE": {
+            "description": "M1AP(16) Platform_09_08",
+            "notice": [
+                {
+                    "osSeq": "507433",
+                    "model": "24LH451U-ZE",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-151202-L16_M1AP_MTV-1.pdf"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "507433",
+                    "model": "24LH451U-ZE",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "L16_M1AP_MTV_OpenSource_v1.1.zip"
+                }
+            ]
+        },
+        "24LH452A-TB": {
+            "description": "M8RR(16)_Platform",
+            "notice": [
+                {
+                    "osSeq": "506971",
+                    "model": "24LH452A-TB",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-140522-M8RR_MTV-1.pdf"
+                }
+            ],
+            "source": []
+        },
+        "24LH452D-TB": {
+            "description": "M1AP(16) Platform_04_08",
+            "notice": [
+                {
+                    "osSeq": "507161",
+                    "model": "24LH452D-TB",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-151202-L16_M1AP_MTV-1.pdf"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "507161",
+                    "model": "24LH452D-TB",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "L16_M1AP_MTV_OpenSource_v1.1.zip"
+                }
+            ]
+        },
+        "24LH4530-PU": {
+            "description": "M1L(16) Platform_02_09",
+            "notice": [
+                {
+                    "osSeq": "506972",
+                    "model": "24LH4530-PU",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "131202-L14_NonOS_MTV-1.pdf"
+                }
+            ],
+            "source": []
+        },
+        "24LH454A-TA": {
+            "description": "M8RR(16)_Platform",
+            "notice": [
+                {
+                    "osSeq": "506971",
+                    "model": "24LH454A-TA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-140522-M8RR_MTV-1.pdf"
+                }
+            ],
+            "source": []
+        },
+        "24LH458A-TA": {
+            "description": "M8RR(16)_Platform",
+            "notice": [
+                {
+                    "osSeq": "506971",
+                    "model": "24LH458A-TA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-140522-M8RR_MTV-1.pdf"
+                }
+            ],
+            "source": []
+        },
+        "24LH480A-PT": {
+            "description": "M8RR(16)_Platform_06-17",
+            "notice": [
+                {
+                    "osSeq": "507200",
+                    "model": "24LH480A-PT",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-140522-M8RR_MTV-1.pdf"
+                }
+            ],
+            "source": []
+        },
+        "24LH480U-PZ": {
+            "description": "WebOS Lite Platform_05-30",
+            "notice": [
+                {
+                    "osSeq": "507194",
+                    "model": "24LH480U-PZ",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-150528-WebOS2.0_A5LR_MTV-1.pdf"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "507194",
+                    "model": "24LH480U-PZ",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS_BLA5_1.tar.gz"
+                }
+            ]
+        },
+        "24LH4830-PU": {
+            "description": "SSPM(16)_0912",
+            "notice": [
+                {
+                    "osSeq": "507372",
+                    "model": "24LH4830-PU",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-160629-SSPM-5.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "507372",
+                    "model": "24LH4830-PU",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "SSPM-r3026.tar.gz"
+                }
+            ]
+        },
+        "24LJ4540-PU": {
+            "description": "M1LP(16) Platform_12_16",
+            "notice": [
+                {
+                    "osSeq": "507467",
+                    "model": "24LJ4540-PU",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-160824-L16_M1LP_MTV-1.html"
+                }
+            ],
+            "source": []
+        },
+        "24LJ4540-WU": {
+            "description": "M1LP(16) Platform_12_16",
+            "notice": [
+                {
+                    "osSeq": "507467",
+                    "model": "24LJ4540-WU",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-160824-L16_M1LP_MTV-1.html"
+                }
+            ],
+            "source": []
+        },
+        "24LJ454B-PU": {
+            "description": "M1LP(16) Platform_12_16",
+            "notice": [
+                {
+                    "osSeq": "507467",
+                    "model": "24LJ454B-PU",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-160824-L16_M1LP_MTV-1.html"
+                }
+            ],
+            "source": []
+        },
+        "24LJ470A-TA": {
+            "description": "M8RR(16)_Platform",
+            "notice": [
+                {
+                    "osSeq": "506971",
+                    "model": "24LJ470A-TA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-140522-M8RR_MTV-1.pdf"
+                }
+            ],
+            "source": []
+        },
+        "24LJ480U-PZ": {
+            "description": "webOS DMR LGE Open Source",
+            "notice": [
+                {
+                    "osSeq": "507697",
+                    "model": "24LJ480U-PZ",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-161025-webOSDMR-1.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "507697",
+                    "model": "24LJ480U-PZ",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "DM2-r3147.tar.gz"
+                }
+            ]
+        },
+        "24LJ4840-WU": {
+            "description": "SSPM(16)_1007",
+            "notice": [
+                {
+                    "osSeq": "507471",
+                    "model": "24LJ4840-WU",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-160629-SSPM-5.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "507471",
+                    "model": "24LJ4840-WU",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "SSPM-r3026.tar.gz"
+                }
+            ]
+        }
+    },
+    "TV/AV>TV": {
+        "24LH458A-TC": {
+            "description": "L16 UMR LGE TV Open Source",
+            "notice": [
+                {
+                    "osSeq": "506953",
+                    "model": "24LH458A-TC",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-160513-L16UMR-2.html"
+                }
+            ],
+            "source": []
+        }
+    }
+}

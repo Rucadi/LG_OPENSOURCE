@@ -1,0 +1,256 @@
+{
+    "TV/AV>TV": {
+        "55LX545H-TA": {
+            "description": "L15_M1A_Commercial TV Open Source",
+            "notice": [
+                {
+                    "osSeq": "506326",
+                    "model": "55LX545H-TA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-150126-L15_M1A_CommercialTV-2.pdf"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "506326",
+                    "model": "55LX545H-TA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "L15_M1A_Commercial_Signage_Opensource_v1.0.zip"
+                }
+            ]
+        },
+        "55LX570H-UA": {
+            "description": "L15_M1A_Commercial TV Open Source",
+            "notice": [
+                {
+                    "osSeq": "506326",
+                    "model": "55LX570H-UA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-150126-L15_M1A_CommercialTV-2.pdf"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "506326",
+                    "model": "55LX570H-UA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "L15_M1A_Commercial_Signage_Opensource_v1.0.zip"
+                }
+            ]
+        },
+        "55LX570H-UF": {
+            "description": "L15_M1A_Commercial TV Open Source",
+            "notice": [
+                {
+                    "osSeq": "506326",
+                    "model": "55LX570H-UF",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-150126-L15_M1A_CommercialTV-2.pdf"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "506326",
+                    "model": "55LX570H-UF",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "L15_M1A_Commercial_Signage_Opensource_v1.0.zip"
+                }
+            ]
+        },
+        "55LX761H-CA": {
+            "description": "webOS2.0 M14+ Commercial TV Open Source",
+            "notice": [
+                {
+                    "osSeq": "506782",
+                    "model": "55LX761H-CA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-150827-webOS2.0M14_CommercialTV-2.pdf"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "506782",
+                    "model": "55LX761H-CA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS_COMMERCIAL_1.zip"
+                }
+            ]
+        },
+        "55LX761H-GA": {
+            "description": "webOS2.0 M14+ Commercial TV Open Source",
+            "notice": [
+                {
+                    "osSeq": "506782",
+                    "model": "55LX761H-GA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-150827-webOS2.0M14_CommercialTV-2.pdf"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "506782",
+                    "model": "55LX761H-GA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS_COMMERCIAL_1.zip"
+                }
+            ]
+        },
+        "55LX761H-NA": {
+            "description": "webOS2.0 M14+ Commercial TV Open Source",
+            "notice": [
+                {
+                    "osSeq": "506782",
+                    "model": "55LX761H-NA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-150827-webOS2.0M14_CommercialTV-2.pdf"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "506782",
+                    "model": "55LX761H-NA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS_COMMERCIAL_1.zip"
+                }
+            ]
+        },
+        "55LX761H-TA": {
+            "description": "webOS2.0 M14+ Commercial TV Open Source",
+            "notice": [
+                {
+                    "osSeq": "506782",
+                    "model": "55LX761H-TA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-150827-webOS2.0M14_CommercialTV-2.pdf"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "506782",
+                    "model": "55LX761H-TA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS_COMMERCIAL_1.zip"
+                }
+            ]
+        },
+        "55LX761H-ZA": {
+            "description": "webOS2.0 M14+ Commercial TV Open Source",
+            "notice": [
+                {
+                    "osSeq": "506782",
+                    "model": "55LX761H-ZA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-150827-webOS2.0M14_CommercialTV-2.pdf"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "506782",
+                    "model": "55LX761H-ZA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS_COMMERCIAL_1.zip"
+                }
+            ]
+        },
+        "55LX762V-ZA": {
+            "description": "webOS2.0 M14+ Commercial TV Open Source",
+            "notice": [
+                {
+                    "osSeq": "506782",
+                    "model": "55LX762V-ZA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-150827-webOS2.0M14_CommercialTV-2.pdf"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "506782",
+                    "model": "55LX762V-ZA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS_COMMERCIAL_1.zip"
+                }
+            ]
+        },
+        "55LX765H-GA": {
+            "description": "webOS2.0 M14+ Commercial TV Open Source",
+            "notice": [
+                {
+                    "osSeq": "506782",
+                    "model": "55LX765H-GA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-150827-webOS2.0M14_CommercialTV-2.pdf"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "506782",
+                    "model": "55LX765H-GA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS_COMMERCIAL_1.zip"
+                }
+            ]
+        },
+        "55LX765H-TA": {
+            "description": "webOS2.0 M14+ Commercial TV Open Source",
+            "notice": [
+                {
+                    "osSeq": "506782",
+                    "model": "55LX765H-TA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-150827-webOS2.0M14_CommercialTV-2.pdf"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "506782",
+                    "model": "55LX765H-TA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS_COMMERCIAL_1.zip"
+                }
+            ]
+        },
+        "55LX770H-UA": {
+            "description": "webOS2.0 M14+ Commercial TV HCAP Open Source",
+            "notice": [
+                {
+                    "osSeq": "506883",
+                    "model": "55LX770H-UA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-151006-webOS2.0CommercialTV-1.pdf"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "506883",
+                    "model": "55LX770H-UA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS2.0 Commercial TV_OpenSource(v2.2).zip"
+                }
+            ]
+        }
+    }
+}

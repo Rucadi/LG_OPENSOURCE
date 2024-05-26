@@ -1,0 +1,447 @@
+{
+    "TV/AV>TV": {
+        "60UX960H-GA": {
+            "description": "webOS2.0 LM15U Commercial TV Open Source 2",
+            "notice": [
+                {
+                    "osSeq": "506814",
+                    "model": "60UX960H-GA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-150818-webOS2.0LM15UCommercialTV-1.pdf"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "506814",
+                    "model": "60UX960H-GA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS_BLM_COMMERCIAL_FI_2-1.zip"
+                }
+            ]
+        },
+        "60UX960H-ZA": {
+            "description": "webOS2.0 LM15U Commercial TV Open Source 2",
+            "notice": [
+                {
+                    "osSeq": "506814",
+                    "model": "60UX960H-ZA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-150818-webOS2.0LM15UCommercialTV-1.pdf"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "506814",
+                    "model": "60UX960H-ZA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS_BLM_COMMERCIAL_FI_2-1.zip"
+                }
+            ]
+        },
+        "65AM960H0LD": {
+            "description": "webOS23_K8HP+_CommercialTV",
+            "notice": [
+                {
+                    "osSeq": "511320",
+                    "model": "65AM960H0LD",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-5181_webOS23_K8HP+_CommercialTV_230316.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "511320",
+                    "model": "65AM960H0LD",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS23_K8HP+_CommercialTV_1.zip"
+                },
+                {
+                    "osSeq": "511320",
+                    "model": "65AM960H0LD",
+                    "type": "Op",
+                    "fileId": "2",
+                    "filename": "webOS23_K8HP+_CommercialTV_2.zip"
+                }
+            ]
+        },
+        "65AM960H0SD": {
+            "description": "webOS23_K8HP+_CommercialTV",
+            "notice": [
+                {
+                    "osSeq": "511320",
+                    "model": "65AM960H0SD",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-5181_webOS23_K8HP+_CommercialTV_230316.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "511320",
+                    "model": "65AM960H0SD",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS23_K8HP+_CommercialTV_1.zip"
+                },
+                {
+                    "osSeq": "511320",
+                    "model": "65AM960H0SD",
+                    "type": "Op",
+                    "fileId": "2",
+                    "filename": "webOS23_K8HP+_CommercialTV_2.zip"
+                }
+            ]
+        },
+        "65AM960H0UD": {
+            "description": "webOS23_K8HP+_CommercialTV",
+            "notice": [
+                {
+                    "osSeq": "511320",
+                    "model": "65AM960H0UD",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-5181_webOS23_K8HP+_CommercialTV_230316.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "511320",
+                    "model": "65AM960H0UD",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS23_K8HP+_CommercialTV_1.zip"
+                },
+                {
+                    "osSeq": "511320",
+                    "model": "65AM960H0UD",
+                    "type": "Op",
+                    "fileId": "2",
+                    "filename": "webOS23_K8HP+_CommercialTV_2.zip"
+                }
+            ]
+        },
+        "65AN960H0CD": {
+            "description": "webOS22_K8HP_K8LP_CommercialTV",
+            "notice": [
+                {
+                    "osSeq": "510888",
+                    "model": "65AN960H0CD",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-4270_webOS22_K8HP_CommercialTV_220329.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "510888",
+                    "model": "65AN960H0CD",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS22_K8HP_CommercialTV_1.zip"
+                },
+                {
+                    "osSeq": "510888",
+                    "model": "65AN960H0CD",
+                    "type": "Op",
+                    "fileId": "2",
+                    "filename": "webOS22_K8HP_CommercialTV_2.zip"
+                }
+            ]
+        },
+        "65AN960H0LD": {
+            "description": "webOS22_K8HP_K8LP_CommercialTV",
+            "notice": [
+                {
+                    "osSeq": "510888",
+                    "model": "65AN960H0LD",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-4270_webOS22_K8HP_CommercialTV_220329.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "510888",
+                    "model": "65AN960H0LD",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS22_K8HP_CommercialTV_1.zip"
+                },
+                {
+                    "osSeq": "510888",
+                    "model": "65AN960H0LD",
+                    "type": "Op",
+                    "fileId": "2",
+                    "filename": "webOS22_K8HP_CommercialTV_2.zip"
+                }
+            ]
+        },
+        "65AN960H0SD": {
+            "description": "webOS22_K8HP_K8LP_CommercialTV",
+            "notice": [
+                {
+                    "osSeq": "510888",
+                    "model": "65AN960H0SD",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-4270_webOS22_K8HP_CommercialTV_220329.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "510888",
+                    "model": "65AN960H0SD",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS22_K8HP_CommercialTV_1.zip"
+                },
+                {
+                    "osSeq": "510888",
+                    "model": "65AN960H0SD",
+                    "type": "Op",
+                    "fileId": "2",
+                    "filename": "webOS22_K8HP_CommercialTV_2.zip"
+                }
+            ]
+        },
+        "65AN960H0UD": {
+            "description": "webOS22_K8HP_K8LP_CommercialTV",
+            "notice": [
+                {
+                    "osSeq": "510888",
+                    "model": "65AN960H0UD",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-4270_webOS22_K8HP_CommercialTV_220329.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "510888",
+                    "model": "65AN960H0UD",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS22_K8HP_CommercialTV_1.zip"
+                },
+                {
+                    "osSeq": "510888",
+                    "model": "65AN960H0UD",
+                    "type": "Op",
+                    "fileId": "2",
+                    "filename": "webOS22_K8HP_CommercialTV_2.zip"
+                }
+            ]
+        },
+        "65AN962H0NC": {
+            "description": "webOS22_K8HP_K8LP_CommercialTV",
+            "notice": [
+                {
+                    "osSeq": "510888",
+                    "model": "65AN962H0NC",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-4270_webOS22_K8HP_CommercialTV_220329.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "510888",
+                    "model": "65AN962H0NC",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS22_K8HP_CommercialTV_1.zip"
+                },
+                {
+                    "osSeq": "510888",
+                    "model": "65AN962H0NC",
+                    "type": "Op",
+                    "fileId": "2",
+                    "filename": "webOS22_K8HP_CommercialTV_2.zip"
+                }
+            ]
+        },
+        "65ART90AKPE": {
+            "description": "webOS 6.0 ON 1.0",
+            "notice": [
+                {
+                    "osSeq": "510316",
+                    "model": "65ART90AKPE",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-3255_webOS 6.0 ON_1.0_210203.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "510316",
+                    "model": "65ART90AKPE",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS 6.0 ON_1.0_1.tar.gz"
+                },
+                {
+                    "osSeq": "510316",
+                    "model": "65ART90AKPE",
+                    "type": "Op",
+                    "fileId": "2",
+                    "filename": "webOS 6.0 ON_1.0_2.tar.gz"
+                },
+                {
+                    "osSeq": "510316",
+                    "model": "65ART90AKPE",
+                    "type": "Op",
+                    "fileId": "3",
+                    "filename": "webOS 6.0 ON_1.0_3.tar.gz"
+                }
+            ]
+        },
+        "65ART90E6QA": {
+            "description": "webOS 6.0 ON 1.0",
+            "notice": [
+                {
+                    "osSeq": "510316",
+                    "model": "65ART90E6QA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-3255_webOS 6.0 ON_1.0_210203.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "510316",
+                    "model": "65ART90E6QA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS 6.0 ON_1.0_1.tar.gz"
+                },
+                {
+                    "osSeq": "510316",
+                    "model": "65ART90E6QA",
+                    "type": "Op",
+                    "fileId": "2",
+                    "filename": "webOS 6.0 ON_1.0_2.tar.gz"
+                },
+                {
+                    "osSeq": "510316",
+                    "model": "65ART90E6QA",
+                    "type": "Op",
+                    "fileId": "3",
+                    "filename": "webOS 6.0 ON_1.0_3.tar.gz"
+                }
+            ]
+        }
+    },
+    "TV/AV>Monitor/Signage": {
+        "60WL10ME-D": {
+            "description": "Signage_vs20 Series",
+            "notice": [
+                {
+                    "osSeq": "12680",
+                    "model": "60WL10ME-D",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-140731-Signage_vs20Series-1.pdf"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "12680",
+                    "model": "60WL10ME-D",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "Signage_vs20Series_OpenSource_v1.0.zip"
+                }
+            ]
+        },
+        "60WL10ME-DL": {
+            "description": "Signage_vs20 Series",
+            "notice": [
+                {
+                    "osSeq": "12680",
+                    "model": "60WL10ME-DL",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-140731-Signage_vs20Series-1.pdf"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "12680",
+                    "model": "60WL10ME-DL",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "Signage_vs20Series_OpenSource_v1.0.zip"
+                }
+            ]
+        },
+        "60WL30MS-BL": {
+            "description": "Signage_vs20 Series",
+            "notice": [
+                {
+                    "osSeq": "12680",
+                    "model": "60WL30MS-BL",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-140731-Signage_vs20Series-1.pdf"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "12680",
+                    "model": "60WL30MS-BL",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "Signage_vs20Series_OpenSource_v1.0.zip"
+                }
+            ]
+        },
+        "60WL30MS-D": {
+            "description": "Signage_vs20 Series",
+            "notice": [
+                {
+                    "osSeq": "12680",
+                    "model": "60WL30MS-D",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-140731-Signage_vs20Series-1.pdf"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "12680",
+                    "model": "60WL30MS-D",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "Signage_vs20Series_OpenSource_v1.0.zip"
+                }
+            ]
+        },
+        "60WL30MS-DL": {
+            "description": "Signage_vs20 Series",
+            "notice": [
+                {
+                    "osSeq": "12680",
+                    "model": "60WL30MS-DL",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-140731-Signage_vs20Series-1.pdf"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "12680",
+                    "model": "60WL30MS-DL",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "Signage_vs20Series_OpenSource_v1.0.zip"
+                }
+            ]
+        }
+    }
+}

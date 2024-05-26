@@ -1,0 +1,137 @@
+{
+    "TV/AV>Monitor/Signage": {
+        "75UL3J-EP": {
+            "description": "webOS6.0_M16P3_Signage MR6",
+            "notice": [
+                {
+                    "osSeq": "511528",
+                    "model": "75UL3J-EP",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-5907_webOS6.0_M16P3_Signage_MR6_231017.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "511528",
+                    "model": "75UL3J-EP",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS6.0_M16P3_Signage_MR6.zip"
+                }
+            ]
+        },
+        "75UL3J-MP": {
+            "description": "webOS6.0_M16P3_Signage MR6",
+            "notice": [
+                {
+                    "osSeq": "511528",
+                    "model": "75UL3J-MP",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-5907_webOS6.0_M16P3_Signage_MR6_231017.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "511528",
+                    "model": "75UL3J-MP",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS6.0_M16P3_Signage_MR6.zip"
+                }
+            ]
+        },
+        "75UL3J-NP": {
+            "description": "webOS6.0_M16P3_Signage MR6",
+            "notice": [
+                {
+                    "osSeq": "511528",
+                    "model": "75UL3J-NP",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-5907_webOS6.0_M16P3_Signage_MR6_231017.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "511528",
+                    "model": "75UL3J-NP",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS6.0_M16P3_Signage_MR6.zip"
+                }
+            ]
+        },
+        "75UM3C-BF": {
+            "description": "webOS2.0_H15_Signage_SCAP1.3",
+            "notice": [
+                {
+                    "osSeq": "507128",
+                    "model": "75UM3C-BF",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-160125-SCAP1.3-1.html"
+                }
+            ],
+            "source": []
+        },
+        "75UM3D-BF": {
+            "description": "webOS2.0_H15_Signage_SCAP1.3",
+            "notice": [
+                {
+                    "osSeq": "507128",
+                    "model": "75UM3D-BF",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-160125-SCAP1.3-1.html"
+                }
+            ],
+            "source": []
+        },
+        "75UM3DG-HJ": {
+            "description": "webOS4.0+_M16++_Signage MR2",
+            "notice": [
+                {
+                    "osSeq": "510979",
+                    "model": "75UM3DG-HJ",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-4518_webOS4.0+_M16++_Signage_MR2_220616.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "510979",
+                    "model": "75UM3DG-HJ",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS4.0+_M16++_Signage_MR2.zip"
+                }
+            ]
+        }
+    },
+    "TV/AV>TV": {
+        "75UM340E0UZ": {
+            "description": "Android TV",
+            "notice": [
+                {
+                    "osSeq": "511559",
+                    "model": "75UM340E0UZ",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-5851_Android TV_231204.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "511559",
+                    "model": "75UM340E0UZ",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "Android TV.zip"
+                }
+            ]
+        }
+    }
+}

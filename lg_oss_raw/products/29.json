@@ -1,0 +1,384 @@
+{
+    "TV/AV>Monitor/Signage": {
+        "24MT47D-WZ": {
+            "description": "M1A(15) Platform",
+            "notice": [
+                {
+                    "osSeq": "506436",
+                    "model": "24MT47D-WZ",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-150304-L15_M1A_MTV-1.pdf"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "506436",
+                    "model": "24MT47D-WZ",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "L15_L_LGE_MonitorTV_OpenSource_v1.1.zip"
+                }
+            ]
+        },
+        "24MT47D-WZS": {
+            "description": "M1A(15) Platform",
+            "notice": [
+                {
+                    "osSeq": "506436",
+                    "model": "24MT47D-WZS",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-150304-L15_M1A_MTV-1.pdf"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "506436",
+                    "model": "24MT47D-WZS",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "L15_L_LGE_MonitorTV_OpenSource_v1.1.zip"
+                }
+            ]
+        },
+        "24MT47DC-PN": {
+            "description": "M1A(15) Platform_07_05",
+            "notice": [
+                {
+                    "osSeq": "506591",
+                    "model": "24MT47DC-PN",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-150304-L15_M1A_MTV-1.pdf"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "506591",
+                    "model": "24MT47DC-PN",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "L15_L_LGE_MonitorTV_OpenSource_v1.1.zip"
+                }
+            ]
+        },
+        "24MT47DC-PZ": {
+            "description": "M1A(15) Platform_08_10",
+            "notice": [
+                {
+                    "osSeq": "506595",
+                    "model": "24MT47DC-PZ",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-150304-L15_M1A_MTV-1.pdf"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "506595",
+                    "model": "24MT47DC-PZ",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "L15_L_LGE_MonitorTV_OpenSource_v1.1.zip"
+                }
+            ]
+        },
+        "24MT47DC-WZ": {
+            "description": "M1A(15) Platform_07_05",
+            "notice": [
+                {
+                    "osSeq": "506591",
+                    "model": "24MT47DC-WZ",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-150304-L15_M1A_MTV-1.pdf"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "506591",
+                    "model": "24MT47DC-WZ",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "L15_L_LGE_MonitorTV_OpenSource_v1.1.zip"
+                }
+            ]
+        },
+        "24MT47G-PNS": {
+            "description": "M1A(15) Platform_06_08",
+            "notice": [
+                {
+                    "osSeq": "506538",
+                    "model": "24MT47G-PNS",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-150304-L15_M1A_MTV-1.pdf"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "506538",
+                    "model": "24MT47G-PNS",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "L15_L_LGE_MonitorTV_OpenSource_v1.1.zip"
+                }
+            ]
+        },
+        "24MT47U-PZS": {
+            "description": "M1A(15) Platform",
+            "notice": [
+                {
+                    "osSeq": "506436",
+                    "model": "24MT47U-PZS",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-150304-L15_M1A_MTV-1.pdf"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "506436",
+                    "model": "24MT47U-PZS",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "L15_L_LGE_MonitorTV_OpenSource_v1.1.zip"
+                }
+            ]
+        },
+        "24MT47V-BZ": {
+            "description": "M1A(15) Platform",
+            "notice": [
+                {
+                    "osSeq": "506436",
+                    "model": "24MT47V-BZ",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-150304-L15_M1A_MTV-1.pdf"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "506436",
+                    "model": "24MT47V-BZ",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "L15_L_LGE_MonitorTV_OpenSource_v1.1.zip"
+                }
+            ]
+        },
+        "24MT47V-BZS": {
+            "description": "M1A(15) Platform",
+            "notice": [
+                {
+                    "osSeq": "506436",
+                    "model": "24MT47V-BZS",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-150304-L15_M1A_MTV-1.pdf"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "506436",
+                    "model": "24MT47V-BZS",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "L15_L_LGE_MonitorTV_OpenSource_v1.1.zip"
+                }
+            ]
+        },
+        "24MT47V-PTS": {
+            "description": "M1A(15) Platform_03_11",
+            "notice": [
+                {
+                    "osSeq": "506381",
+                    "model": "24MT47V-PTS",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-150304-L15_M1A_MTV-1.pdf"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "506381",
+                    "model": "24MT47V-PTS",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "L15_L_LGE_MonitorTV_OpenSource_v1.1.zip"
+                }
+            ]
+        },
+        "24MT47V-PZ": {
+            "description": "M1A(15) Platform",
+            "notice": [
+                {
+                    "osSeq": "506436",
+                    "model": "24MT47V-PZ",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-150304-L15_M1A_MTV-1.pdf"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "506436",
+                    "model": "24MT47V-PZ",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "L15_L_LGE_MonitorTV_OpenSource_v1.1.zip"
+                }
+            ]
+        },
+        "24MT47V-PZS": {
+            "description": "M1A(15) Platform",
+            "notice": [
+                {
+                    "osSeq": "506436",
+                    "model": "24MT47V-PZS",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-150304-L15_M1A_MTV-1.pdf"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "506436",
+                    "model": "24MT47V-PZS",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "L15_L_LGE_MonitorTV_OpenSource_v1.1.zip"
+                }
+            ]
+        },
+        "24MT47V-WZ": {
+            "description": "M1A(15) Platform",
+            "notice": [
+                {
+                    "osSeq": "506436",
+                    "model": "24MT47V-WZ",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-150304-L15_M1A_MTV-1.pdf"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "506436",
+                    "model": "24MT47V-WZ",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "L15_L_LGE_MonitorTV_OpenSource_v1.1.zip"
+                }
+            ]
+        },
+        "24MT47V-WZS": {
+            "description": "M1A(15) Platform",
+            "notice": [
+                {
+                    "osSeq": "506436",
+                    "model": "24MT47V-WZS",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-150304-L15_M1A_MTV-1.pdf"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "506436",
+                    "model": "24MT47V-WZS",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "L15_L_LGE_MonitorTV_OpenSource_v1.1.zip"
+                }
+            ]
+        },
+        "24MT47VC-PZ": {
+            "description": "M1A(15) Platform_03_12",
+            "notice": [
+                {
+                    "osSeq": "506739",
+                    "model": "24MT47VC-PZ",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-150304-L15_M1A_MTV-1.pdf"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "506739",
+                    "model": "24MT47VC-PZ",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "L15_L_LGE_MonitorTV_OpenSource_v1.1.zip"
+                }
+            ]
+        },
+        "24MT48AF-PM": {
+            "description": "M8RR(16)_Platform",
+            "notice": [
+                {
+                    "osSeq": "506971",
+                    "model": "24MT48AF-PM",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-140522-M8RR_MTV-1.pdf"
+                }
+            ],
+            "source": []
+        },
+        "24MT48AF-PT": {
+            "description": "M8RR(16)_Platform",
+            "notice": [
+                {
+                    "osSeq": "506971",
+                    "model": "24MT48AF-PT",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-140522-M8RR_MTV-1.pdf"
+                }
+            ],
+            "source": []
+        },
+        "24MT48AF-WM": {
+            "description": "M8RR(16) Platform_0422",
+            "notice": [
+                {
+                    "osSeq": "507204",
+                    "model": "24MT48AF-WM",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-140522-M8RR_MTV-1.pdf"
+                }
+            ],
+            "source": []
+        },
+        "24MT48AM-PT": {
+            "description": "M8RR(16) Platform_02_20",
+            "notice": [
+                {
+                    "osSeq": "506984",
+                    "model": "24MT48AM-PT",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-140522-M8RR_MTV-1.pdf"
+                }
+            ],
+            "source": []
+        },
+        "24MT48AN-PT": {
+            "description": "M8RR(16) Platform_02_20",
+            "notice": [
+                {
+                    "osSeq": "506984",
+                    "model": "24MT48AN-PT",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-140522-M8RR_MTV-1.pdf"
+                }
+            ],
+            "source": []
+        }
+    }
+}

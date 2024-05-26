@@ -1,0 +1,222 @@
+{
+    "TV/AV>AV": {
+        "LG TONE FREE FOR IOS": {
+            "description": "LG Tone Free for iOS 1.6.09- (latest)",
+            "notice": [
+                {
+                    "osSeq": "511652",
+                    "model": "LG TONE FREE FOR IOS",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-6540_LG Tone Free for iOS_1.6.09-_240318.html"
+                }
+            ],
+            "source": []
+        },
+        "LG TONE&TALK FOR ANDROID": {
+            "description": "LG Tone&Talk for Android (latest)",
+            "notice": [
+                {
+                    "osSeq": "509665",
+                    "model": "LG TONE&TALK FOR ANDROID",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-2451_LG Tone&Talk for Android_3.0.72-_200206.html"
+                }
+            ],
+            "source": []
+        },
+        "LG TONE&TALK FOR IOS": {
+            "description": "LG Tone&Talk for iOS 1.0.42-",
+            "notice": [
+                {
+                    "osSeq": "509652",
+                    "model": "LG TONE&TALK FOR IOS",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-2004_ToneNTalk application for IOS_1.0.42_190823.html"
+                }
+            ],
+            "source": []
+        },
+        "LG ULTRAGEAR GAMING SPEAKER": {
+            "description": "LG UltraGear Gaming Speaker (latest)",
+            "notice": [
+                {
+                    "osSeq": "510788",
+                    "model": "LG ULTRAGEAR GAMING SPEAKER",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-4144_LG UltraGear Gaming Speaker for PC_1.0.2203.01-_220125.html"
+                }
+            ],
+            "source": []
+        },
+        "LG WI-FI SPEAKER FOR ANDROID": {
+            "description": "LG Wi-Fi Speaker for Android (latest)",
+            "notice": [
+                {
+                    "osSeq": "510296",
+                    "model": "LG WI-FI SPEAKER FOR ANDROID",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-3312_LG Wi-Fi Speaker (Android)_1.2.17-_210127.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "510296",
+                    "model": "LG WI-FI SPEAKER FOR ANDROID",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "LG Wi-Fi Speaker (Android)_1.2.17-.zip"
+                }
+            ]
+        },
+        "LG XBOOM FOR ANDROID": {
+            "description": "LG XBOOM for Android 1.2.0-",
+            "notice": [
+                {
+                    "osSeq": "509240",
+                    "model": "LG XBOOM FOR ANDROID",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-1836_LG Xboom APP_1.2.0-_190711.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "509240",
+                    "model": "LG XBOOM FOR ANDROID",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "LG Xboom APP_1.2.0-.zip"
+                }
+            ]
+        }
+    },
+    "TV/AV>Monitor/Signage": {
+        "LG TOUCH SCREEN 1.0": {
+            "description": "LG Touch Screen 1.0",
+            "notice": [
+                {
+                    "osSeq": "13100",
+                    "model": "LG TOUCH SCREEN 1.0",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "131209-BCPS10N-2.pdf"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "13100",
+                    "model": "LG TOUCH SCREEN 1.0",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "iOffice-OpenSourceCode-LGPL.zip"
+                }
+            ]
+        },
+        "LG TOUCH SCREEN 2.0": {
+            "description": "LG Touch Screen 2.0",
+            "notice": [
+                {
+                    "osSeq": "506257",
+                    "model": "LG TOUCH SCREEN 2.0",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-150406-LGTouchScreen2.0-3.pdf"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "506257",
+                    "model": "LG TOUCH SCREEN 2.0",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "LGTouchScreen2.0_OpenSource_v1.0.zip"
+                }
+            ]
+        },
+        "LG ULTRA GEAR CONTROL CENTER": {
+            "description": "LG UltraGear Control Center",
+            "notice": [
+                {
+                    "osSeq": "509024",
+                    "model": "LG ULTRA GEAR CONTROL CENTER",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-1534_LG UltraGear Control Center_190319.html"
+                }
+            ],
+            "source": []
+        },
+        "LG USB IMAGING UTILITY": {
+            "description": "LG USB Imaging Utility v1.0, v1.1, v1.2",
+            "notice": [
+                {
+                    "osSeq": "510451",
+                    "model": "LG USB IMAGING UTILITY",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-3517_LG USB Imaging Utility_210419.html"
+                }
+            ],
+            "source": []
+        }
+    },
+    "TV/AV>TV": {
+        "LG TV PLUS": {
+            "description": "LG TV Plus for iOS",
+            "notice": [
+                {
+                    "osSeq": "506734",
+                    "model": "LG TV PLUS",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-170124-LGTVPlusforiOS-6.html"
+                }
+            ],
+            "source": []
+        },
+        "LG TV PLUS 2018 ANDROID": {
+            "description": "LGTV Plus 2018 (Android) FEB",
+            "notice": [
+                {
+                    "osSeq": "508341",
+                    "model": "LG TV PLUS 2018 ANDROID",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-875_LGTV Plus 2018 (Android)_FEB_180108.html"
+                }
+            ],
+            "source": []
+        },
+        "LG TV PLUS 2018 IOS": {
+            "description": "LGTV Plus 2018 (iOS) FEB",
+            "notice": [
+                {
+                    "osSeq": "508349",
+                    "model": "LG TV PLUS 2018 IOS",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-881_LGTV Plus 2018 (iOS)_FEB_180109.html"
+                }
+            ],
+            "source": []
+        },
+        "LG WEBOS CONNECT": {
+            "description": "Android app - Show photo/video from smartphone on LG webOS TV",
+            "notice": [
+                {
+                    "osSeq": "507019",
+                    "model": "LG WEBOS CONNECT",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-151223-LGwebOSConnect-1.html"
+                }
+            ],
+            "source": []
+        }
+    }
+}

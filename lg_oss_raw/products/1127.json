@@ -1,0 +1,170 @@
+{
+    "TV/AV>Monitor/Signage": {
+        "84WS70MD-BF": {
+            "description": "webOS2.0_H15_Signage_SCAP1.3",
+            "notice": [
+                {
+                    "osSeq": "507128",
+                    "model": "84WS70MD-BF",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-160125-SCAP1.3-1.html"
+                }
+            ],
+            "source": []
+        },
+        "86BH5C-BF": {
+            "description": "webOS2.0_H15_Signage_SCAP1.3",
+            "notice": [
+                {
+                    "osSeq": "507128",
+                    "model": "86BH5C-BF",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-160125-SCAP1.3-1.html"
+                }
+            ],
+            "source": []
+        },
+        "86BH5D-BF": {
+            "description": "webOS2.0_H15_Signage_SCAP1.3",
+            "notice": [
+                {
+                    "osSeq": "507128",
+                    "model": "86BH5D-BF",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-160125-SCAP1.3-1.html"
+                }
+            ],
+            "source": []
+        },
+        "86BH5F-BJ": {
+            "description": "webOS4.0_M16++_Signage MR",
+            "notice": [
+                {
+                    "osSeq": "508876",
+                    "model": "86BH5F-BJ",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-1360_webOS4.0_M16++_Signage_MR_190107.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "508876",
+                    "model": "86BH5F-BJ",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS4.0_M16++_Signage_MR.zip"
+                }
+            ]
+        },
+        "86BH5F-MJ": {
+            "description": "webOS4.0_M16++_Signage MR",
+            "notice": [
+                {
+                    "osSeq": "508876",
+                    "model": "86BH5F-MJ",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-1360_webOS4.0_M16++_Signage_MR_190107.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "508876",
+                    "model": "86BH5F-MJ",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS4.0_M16++_Signage_MR.zip"
+                }
+            ]
+        },
+        "86BH7C-BF": {
+            "description": "webOS2.0_H15_Signage_SCAP1.3",
+            "notice": [
+                {
+                    "osSeq": "507128",
+                    "model": "86BH7C-BF",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-160125-SCAP1.3-1.html"
+                }
+            ],
+            "source": []
+        }
+    },
+    "TV/AV>TV": {
+        "86NANO71CPA": {
+            "description": "webOS 6.0 LMUA 1.0",
+            "notice": [
+                {
+                    "osSeq": "510685",
+                    "model": "86NANO71CPA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-3037_webOS 6.0 LMUA_1.0_211116.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "510685",
+                    "model": "86NANO71CPA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS 6.0 LMUA_1.0_1.tar.gz"
+                },
+                {
+                    "osSeq": "510685",
+                    "model": "86NANO71CPA",
+                    "type": "Op",
+                    "fileId": "2",
+                    "filename": "webOS 6.0 LMUA_1.0_2.tar.gz"
+                },
+                {
+                    "osSeq": "510685",
+                    "model": "86NANO71CPA",
+                    "type": "Op",
+                    "fileId": "3",
+                    "filename": "webOS 6.0 LMUA_1.0_3.tar.gz"
+                }
+            ]
+        },
+        "86NANO736RA": {
+            "description": "webOS 23 KHP+ 1.0",
+            "notice": [
+                {
+                    "osSeq": "511215",
+                    "model": "86NANO736RA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-4668_webOS 23 KHP+_1.0_221220.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "511215",
+                    "model": "86NANO736RA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS 23 KHP+_1.0_1.tar.gz"
+                },
+                {
+                    "osSeq": "511215",
+                    "model": "86NANO736RA",
+                    "type": "Op",
+                    "fileId": "2",
+                    "filename": "webOS 23 KHP+_1.0_2.tar.gz"
+                },
+                {
+                    "osSeq": "511215",
+                    "model": "86NANO736RA",
+                    "type": "Op",
+                    "fileId": "3",
+                    "filename": "webOS 23 KHP+_1.0_3.tar.gz"
+                }
+            ]
+        }
+    }
+}

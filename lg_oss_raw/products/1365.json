@@ -1,0 +1,354 @@
+{
+    "TV/AV>TV": {
+        "OLED77C3PCA": {
+            "description": "webOS 23 O(F) 1.0",
+            "notice": [
+                {
+                    "osSeq": "511214",
+                    "model": "OLED77C3PCA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-4526_webOS 23 O_1.0_221220.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "511214",
+                    "model": "OLED77C3PCA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS 23 O_1.0_1.tar.gz"
+                },
+                {
+                    "osSeq": "511214",
+                    "model": "OLED77C3PCA",
+                    "type": "Op",
+                    "fileId": "2",
+                    "filename": "webOS 23 O_1.0_2.tar.gz"
+                },
+                {
+                    "osSeq": "511214",
+                    "model": "OLED77C3PCA",
+                    "type": "Op",
+                    "fileId": "3",
+                    "filename": "webOS 23 O_1.0_3.tar.gz"
+                }
+            ]
+        },
+        "OLED77C3PCC": {
+            "description": "webOS 23 O(F) 1.0",
+            "notice": [
+                {
+                    "osSeq": "511214",
+                    "model": "OLED77C3PCC",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-4526_webOS 23 O_1.0_221220.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "511214",
+                    "model": "OLED77C3PCC",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS 23 O_1.0_1.tar.gz"
+                },
+                {
+                    "osSeq": "511214",
+                    "model": "OLED77C3PCC",
+                    "type": "Op",
+                    "fileId": "2",
+                    "filename": "webOS 23 O_1.0_2.tar.gz"
+                },
+                {
+                    "osSeq": "511214",
+                    "model": "OLED77C3PCC",
+                    "type": "Op",
+                    "fileId": "3",
+                    "filename": "webOS 23 O_1.0_3.tar.gz"
+                }
+            ]
+        },
+        "OLED77C3PJA": {
+            "description": "webOS 23 O(F) 1.0",
+            "notice": [
+                {
+                    "osSeq": "511214",
+                    "model": "OLED77C3PJA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-4526_webOS 23 O_1.0_221220.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "511214",
+                    "model": "OLED77C3PJA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS 23 O_1.0_1.tar.gz"
+                },
+                {
+                    "osSeq": "511214",
+                    "model": "OLED77C3PJA",
+                    "type": "Op",
+                    "fileId": "2",
+                    "filename": "webOS 23 O_1.0_2.tar.gz"
+                },
+                {
+                    "osSeq": "511214",
+                    "model": "OLED77C3PJA",
+                    "type": "Op",
+                    "fileId": "3",
+                    "filename": "webOS 23 O_1.0_3.tar.gz"
+                }
+            ]
+        },
+        "OLED77C3PSA": {
+            "description": "webOS 23 O(F) 1.0",
+            "notice": [
+                {
+                    "osSeq": "511214",
+                    "model": "OLED77C3PSA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-4526_webOS 23 O_1.0_221220.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "511214",
+                    "model": "OLED77C3PSA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS 23 O_1.0_1.tar.gz"
+                },
+                {
+                    "osSeq": "511214",
+                    "model": "OLED77C3PSA",
+                    "type": "Op",
+                    "fileId": "2",
+                    "filename": "webOS 23 O_1.0_2.tar.gz"
+                },
+                {
+                    "osSeq": "511214",
+                    "model": "OLED77C3PSA",
+                    "type": "Op",
+                    "fileId": "3",
+                    "filename": "webOS 23 O_1.0_3.tar.gz"
+                }
+            ]
+        },
+        "OLED77C3PSC": {
+            "description": "webOS 23 O(F) 1.0",
+            "notice": [
+                {
+                    "osSeq": "511214",
+                    "model": "OLED77C3PSC",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-4526_webOS 23 O_1.0_221220.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "511214",
+                    "model": "OLED77C3PSC",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS 23 O_1.0_1.tar.gz"
+                },
+                {
+                    "osSeq": "511214",
+                    "model": "OLED77C3PSC",
+                    "type": "Op",
+                    "fileId": "2",
+                    "filename": "webOS 23 O_1.0_2.tar.gz"
+                },
+                {
+                    "osSeq": "511214",
+                    "model": "OLED77C3PSC",
+                    "type": "Op",
+                    "fileId": "3",
+                    "filename": "webOS 23 O_1.0_3.tar.gz"
+                }
+            ]
+        },
+        "OLED77C3PUA": {
+            "description": "webOS 23 O(F) 1.0",
+            "notice": [
+                {
+                    "osSeq": "511214",
+                    "model": "OLED77C3PUA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-4526_webOS 23 O_1.0_221220.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "511214",
+                    "model": "OLED77C3PUA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS 23 O_1.0_1.tar.gz"
+                },
+                {
+                    "osSeq": "511214",
+                    "model": "OLED77C3PUA",
+                    "type": "Op",
+                    "fileId": "2",
+                    "filename": "webOS 23 O_1.0_2.tar.gz"
+                },
+                {
+                    "osSeq": "511214",
+                    "model": "OLED77C3PUA",
+                    "type": "Op",
+                    "fileId": "3",
+                    "filename": "webOS 23 O_1.0_3.tar.gz"
+                }
+            ]
+        },
+        "OLED77C3QNA": {
+            "description": "webOS 23 O(F) 1.0",
+            "notice": [
+                {
+                    "osSeq": "511214",
+                    "model": "OLED77C3QNA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-4526_webOS 23 O_1.0_221220.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "511214",
+                    "model": "OLED77C3QNA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS 23 O_1.0_1.tar.gz"
+                },
+                {
+                    "osSeq": "511214",
+                    "model": "OLED77C3QNA",
+                    "type": "Op",
+                    "fileId": "2",
+                    "filename": "webOS 23 O_1.0_2.tar.gz"
+                },
+                {
+                    "osSeq": "511214",
+                    "model": "OLED77C3QNA",
+                    "type": "Op",
+                    "fileId": "3",
+                    "filename": "webOS 23 O_1.0_3.tar.gz"
+                }
+            ]
+        },
+        "OLED77C3RLA": {
+            "description": "webOS 23 O(F) 1.0",
+            "notice": [
+                {
+                    "osSeq": "511214",
+                    "model": "OLED77C3RLA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-4526_webOS 23 O_1.0_221220.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "511214",
+                    "model": "OLED77C3RLA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS 23 O_1.0_1.tar.gz"
+                },
+                {
+                    "osSeq": "511214",
+                    "model": "OLED77C3RLA",
+                    "type": "Op",
+                    "fileId": "2",
+                    "filename": "webOS 23 O_1.0_2.tar.gz"
+                },
+                {
+                    "osSeq": "511214",
+                    "model": "OLED77C3RLA",
+                    "type": "Op",
+                    "fileId": "3",
+                    "filename": "webOS 23 O_1.0_3.tar.gz"
+                }
+            ]
+        },
+        "OLED77C3SNA": {
+            "description": "webOS 23 O(F) 1.0",
+            "notice": [
+                {
+                    "osSeq": "511214",
+                    "model": "OLED77C3SNA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-4526_webOS 23 O_1.0_221220.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "511214",
+                    "model": "OLED77C3SNA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS 23 O_1.0_1.tar.gz"
+                },
+                {
+                    "osSeq": "511214",
+                    "model": "OLED77C3SNA",
+                    "type": "Op",
+                    "fileId": "2",
+                    "filename": "webOS 23 O_1.0_2.tar.gz"
+                },
+                {
+                    "osSeq": "511214",
+                    "model": "OLED77C3SNA",
+                    "type": "Op",
+                    "fileId": "3",
+                    "filename": "webOS 23 O_1.0_3.tar.gz"
+                }
+            ]
+        },
+        "OLED77C3XNA": {
+            "description": "webOS 23 O(F) 1.0",
+            "notice": [
+                {
+                    "osSeq": "511214",
+                    "model": "OLED77C3XNA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-4526_webOS 23 O_1.0_221220.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "511214",
+                    "model": "OLED77C3XNA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS 23 O_1.0_1.tar.gz"
+                },
+                {
+                    "osSeq": "511214",
+                    "model": "OLED77C3XNA",
+                    "type": "Op",
+                    "fileId": "2",
+                    "filename": "webOS 23 O_1.0_2.tar.gz"
+                },
+                {
+                    "osSeq": "511214",
+                    "model": "OLED77C3XNA",
+                    "type": "Op",
+                    "fileId": "3",
+                    "filename": "webOS 23 O_1.0_3.tar.gz"
+                }
+            ]
+        }
+    }
+}

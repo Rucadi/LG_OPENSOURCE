@@ -1,0 +1,340 @@
+{
+    "TV/AV>TV": {
+        "60UQ81009LK": {
+            "description": "webOS 22 KLP 2.0",
+            "notice": [
+                {
+                    "osSeq": "511322",
+                    "model": "60UQ81009LK",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-5239_webOS 22 KLP_2.0_230321.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "511322",
+                    "model": "60UQ81009LK",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS 22 KLP_2.0_1.tar.gz"
+                },
+                {
+                    "osSeq": "511322",
+                    "model": "60UQ81009LK",
+                    "type": "Op",
+                    "fileId": "2",
+                    "filename": "webOS 22 KLP_2.0_2.tar.gz"
+                }
+            ]
+        },
+        "60UQ8150PSB": {
+            "description": "webOS 22 LMAN 2.0",
+            "notice": [
+                {
+                    "osSeq": "511325",
+                    "model": "60UQ8150PSB",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-5240_webOS 22 LMAN_2.0_230321.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "511325",
+                    "model": "60UQ8150PSB",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS 22 LMAN_2.0_1.tar.gz"
+                },
+                {
+                    "osSeq": "511325",
+                    "model": "60UQ8150PSB",
+                    "type": "Op",
+                    "fileId": "2",
+                    "filename": "webOS 22 LMAN_2.0_2.tar.gz"
+                },
+                {
+                    "osSeq": "511325",
+                    "model": "60UQ8150PSB",
+                    "type": "Op",
+                    "fileId": "3",
+                    "filename": "webOS 22 LMAN_2.0_3.tar.gz"
+                }
+            ]
+        },
+        "60UQ8150PSK": {
+            "description": "webOS 22 KLP 2.0",
+            "notice": [
+                {
+                    "osSeq": "511322",
+                    "model": "60UQ8150PSK",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-5239_webOS 22 KLP_2.0_230321.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "511322",
+                    "model": "60UQ8150PSK",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS 22 KLP_2.0_1.tar.gz"
+                },
+                {
+                    "osSeq": "511322",
+                    "model": "60UQ8150PSK",
+                    "type": "Op",
+                    "fileId": "2",
+                    "filename": "webOS 22 KLP_2.0_2.tar.gz"
+                }
+            ]
+        },
+        "60UQ90003LA": {
+            "description": "webOS 22 LMAN 2.0",
+            "notice": [
+                {
+                    "osSeq": "511325",
+                    "model": "60UQ90003LA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-5240_webOS 22 LMAN_2.0_230321.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "511325",
+                    "model": "60UQ90003LA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS 22 LMAN_2.0_1.tar.gz"
+                },
+                {
+                    "osSeq": "511325",
+                    "model": "60UQ90003LA",
+                    "type": "Op",
+                    "fileId": "2",
+                    "filename": "webOS 22 LMAN_2.0_2.tar.gz"
+                },
+                {
+                    "osSeq": "511325",
+                    "model": "60UQ90003LA",
+                    "type": "Op",
+                    "fileId": "3",
+                    "filename": "webOS 22 LMAN_2.0_3.tar.gz"
+                }
+            ]
+        },
+        "60UQ90006LA": {
+            "description": "webOS 22 LMAN 2.0",
+            "notice": [
+                {
+                    "osSeq": "511325",
+                    "model": "60UQ90006LA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-5240_webOS 22 LMAN_2.0_230321.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "511325",
+                    "model": "60UQ90006LA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS 22 LMAN_2.0_1.tar.gz"
+                },
+                {
+                    "osSeq": "511325",
+                    "model": "60UQ90006LA",
+                    "type": "Op",
+                    "fileId": "2",
+                    "filename": "webOS 22 LMAN_2.0_2.tar.gz"
+                },
+                {
+                    "osSeq": "511325",
+                    "model": "60UQ90006LA",
+                    "type": "Op",
+                    "fileId": "3",
+                    "filename": "webOS 22 LMAN_2.0_3.tar.gz"
+                }
+            ]
+        },
+        "60UQ90009LA": {
+            "description": "webOS 22 LMAN 2.0",
+            "notice": [
+                {
+                    "osSeq": "511325",
+                    "model": "60UQ90009LA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-5240_webOS 22 LMAN_2.0_230321.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "511325",
+                    "model": "60UQ90009LA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS 22 LMAN_2.0_1.tar.gz"
+                },
+                {
+                    "osSeq": "511325",
+                    "model": "60UQ90009LA",
+                    "type": "Op",
+                    "fileId": "2",
+                    "filename": "webOS 22 LMAN_2.0_2.tar.gz"
+                },
+                {
+                    "osSeq": "511325",
+                    "model": "60UQ90009LA",
+                    "type": "Op",
+                    "fileId": "3",
+                    "filename": "webOS 22 LMAN_2.0_3.tar.gz"
+                }
+            ]
+        },
+        "60UQ9000PSA": {
+            "description": "webOS 22 LMAN 2.0",
+            "notice": [
+                {
+                    "osSeq": "511325",
+                    "model": "60UQ9000PSA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-5240_webOS 22 LMAN_2.0_230321.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "511325",
+                    "model": "60UQ9000PSA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS 22 LMAN_2.0_1.tar.gz"
+                },
+                {
+                    "osSeq": "511325",
+                    "model": "60UQ9000PSA",
+                    "type": "Op",
+                    "fileId": "2",
+                    "filename": "webOS 22 LMAN_2.0_2.tar.gz"
+                },
+                {
+                    "osSeq": "511325",
+                    "model": "60UQ9000PSA",
+                    "type": "Op",
+                    "fileId": "3",
+                    "filename": "webOS 22 LMAN_2.0_3.tar.gz"
+                }
+            ]
+        },
+        "60UQ9000PSD": {
+            "description": "webOS 22 LMAN 2.0",
+            "notice": [
+                {
+                    "osSeq": "511325",
+                    "model": "60UQ9000PSD",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-5240_webOS 22 LMAN_2.0_230321.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "511325",
+                    "model": "60UQ9000PSD",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS 22 LMAN_2.0_1.tar.gz"
+                },
+                {
+                    "osSeq": "511325",
+                    "model": "60UQ9000PSD",
+                    "type": "Op",
+                    "fileId": "2",
+                    "filename": "webOS 22 LMAN_2.0_2.tar.gz"
+                },
+                {
+                    "osSeq": "511325",
+                    "model": "60UQ9000PSD",
+                    "type": "Op",
+                    "fileId": "3",
+                    "filename": "webOS 22 LMAN_2.0_3.tar.gz"
+                }
+            ]
+        },
+        "60UQ9000PUD": {
+            "description": "webOS 22 LMAN 2.0",
+            "notice": [
+                {
+                    "osSeq": "511325",
+                    "model": "60UQ9000PUD",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-5240_webOS 22 LMAN_2.0_230321.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "511325",
+                    "model": "60UQ9000PUD",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS 22 LMAN_2.0_1.tar.gz"
+                },
+                {
+                    "osSeq": "511325",
+                    "model": "60UQ9000PUD",
+                    "type": "Op",
+                    "fileId": "2",
+                    "filename": "webOS 22 LMAN_2.0_2.tar.gz"
+                },
+                {
+                    "osSeq": "511325",
+                    "model": "60UQ9000PUD",
+                    "type": "Op",
+                    "fileId": "3",
+                    "filename": "webOS 22 LMAN_2.0_3.tar.gz"
+                }
+            ]
+        },
+        "60UQ9050PSC": {
+            "description": "webOS 22 LMAN 2.0",
+            "notice": [
+                {
+                    "osSeq": "511325",
+                    "model": "60UQ9050PSC",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-5240_webOS 22 LMAN_2.0_230321.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "511325",
+                    "model": "60UQ9050PSC",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS 22 LMAN_2.0_1.tar.gz"
+                },
+                {
+                    "osSeq": "511325",
+                    "model": "60UQ9050PSC",
+                    "type": "Op",
+                    "fileId": "2",
+                    "filename": "webOS 22 LMAN_2.0_2.tar.gz"
+                },
+                {
+                    "osSeq": "511325",
+                    "model": "60UQ9050PSC",
+                    "type": "Op",
+                    "fileId": "3",
+                    "filename": "webOS 22 LMAN_2.0_3.tar.gz"
+                }
+            ]
+        }
+    }
+}

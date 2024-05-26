@@ -1,0 +1,130 @@
+{
+    "TV/AV>TV": {
+        "55UK681C-NC": {
+            "description": "webOS 4.0 GMPP MR 2.0",
+            "notice": [
+                {
+                    "osSeq": "508643",
+                    "model": "55UK681C-NC",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-1058_webOS 4.0 GMPP MR_2.0_180625.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "508643",
+                    "model": "55UK681C-NC",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS 4.0 GMPP MR_2.0.tar.gz"
+                }
+            ]
+        },
+        "55UK6820ENF": {
+            "description": "webOS 4.5 IMP 4.0",
+            "notice": [
+                {
+                    "osSeq": "510773",
+                    "model": "55UK6820ENF",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-4152_webOS 4.5 IMP_4.0_220113.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "510773",
+                    "model": "55UK6820ENF",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS 4.5 IMP_4.0_1.tar.gz"
+                },
+                {
+                    "osSeq": "510773",
+                    "model": "55UK6820ENF",
+                    "type": "Op",
+                    "fileId": "2",
+                    "filename": "webOS 4.5 IMP_4.0_2.tar.gz"
+                }
+            ]
+        },
+        "55UK6850BNF": {
+            "description": "webOS 4.5 IMP 4.0",
+            "notice": [
+                {
+                    "osSeq": "510773",
+                    "model": "55UK6850BNF",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-4152_webOS 4.5 IMP_4.0_220113.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "510773",
+                    "model": "55UK6850BNF",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS 4.5 IMP_4.0_1.tar.gz"
+                },
+                {
+                    "osSeq": "510773",
+                    "model": "55UK6850BNF",
+                    "type": "Op",
+                    "fileId": "2",
+                    "filename": "webOS 4.5 IMP_4.0_2.tar.gz"
+                }
+            ]
+        },
+        "55UK6860BNF": {
+            "description": "webOS 4.5 IMP 4.0",
+            "notice": [
+                {
+                    "osSeq": "510773",
+                    "model": "55UK6860BNF",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-4152_webOS 4.5 IMP_4.0_220113.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "510773",
+                    "model": "55UK6860BNF",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS 4.5 IMP_4.0_1.tar.gz"
+                },
+                {
+                    "osSeq": "510773",
+                    "model": "55UK6860BNF",
+                    "type": "Op",
+                    "fileId": "2",
+                    "filename": "webOS 4.5 IMP_4.0_2.tar.gz"
+                }
+            ]
+        },
+        "55UK6900PTD": {
+            "description": "webOS 4.0 GLMA MR 2.0",
+            "notice": [
+                {
+                    "osSeq": "508638",
+                    "model": "55UK6900PTD",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-1061_webOS 4.0 GLMA MR_2.0_180622.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "508638",
+                    "model": "55UK6900PTD",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS 4.0 GLMA MR_2.0.tar.gz"
+                }
+            ]
+        }
+    }
+}

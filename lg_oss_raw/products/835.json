@@ -1,0 +1,459 @@
+{
+    "TV/AV>TV": {
+        "65NANO82T6B": {
+            "description": "webOS 24 KLPNN 1.0_2303",
+            "notice": [
+                {
+                    "osSeq": "511659",
+                    "model": "65NANO82T6B",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-6515_webOS 24 KLPNN_1.0_2303_240326.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "511659",
+                    "model": "65NANO82T6B",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS 24 KLPNN_1.0_2303_1.tar.gz"
+                },
+                {
+                    "osSeq": "511659",
+                    "model": "65NANO82T6B",
+                    "type": "Op",
+                    "fileId": "2",
+                    "filename": "webOS 24 KLPNN_1.0_2303_2.tar.gz"
+                },
+                {
+                    "osSeq": "511659",
+                    "model": "65NANO82T6B",
+                    "type": "Op",
+                    "fileId": "3",
+                    "filename": "webOS 24 KLPNN_1.0_2303_3.tar.gz"
+                }
+            ]
+        },
+        "65NANO83KNB": {
+            "description": "webOS 5.0 JKHP 2.0",
+            "notice": [
+                {
+                    "osSeq": "510776",
+                    "model": "65NANO83KNB",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-3913_webOS 5.0 JKHP_2.0_220114.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "510776",
+                    "model": "65NANO83KNB",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS 5.0 JKHP_2.0_1.tar.gz"
+                },
+                {
+                    "osSeq": "510776",
+                    "model": "65NANO83KNB",
+                    "type": "Op",
+                    "fileId": "2",
+                    "filename": "webOS 5.0 JKHP_2.0_2.tar.gz"
+                }
+            ]
+        },
+        "65NANO83KPA": {
+            "description": "webOS 6.0 LMUA 1.0",
+            "notice": [
+                {
+                    "osSeq": "510685",
+                    "model": "65NANO83KPA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-3037_webOS 6.0 LMUA_1.0_211116.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "510685",
+                    "model": "65NANO83KPA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS 6.0 LMUA_1.0_1.tar.gz"
+                },
+                {
+                    "osSeq": "510685",
+                    "model": "65NANO83KPA",
+                    "type": "Op",
+                    "fileId": "2",
+                    "filename": "webOS 6.0 LMUA_1.0_2.tar.gz"
+                },
+                {
+                    "osSeq": "510685",
+                    "model": "65NANO83KPA",
+                    "type": "Op",
+                    "fileId": "3",
+                    "filename": "webOS 6.0 LMUA_1.0_3.tar.gz"
+                }
+            ]
+        },
+        "65NANO83KQA": {
+            "description": "webOS 22 KLP 2.0",
+            "notice": [
+                {
+                    "osSeq": "511322",
+                    "model": "65NANO83KQA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-5239_webOS 22 KLP_2.0_230321.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "511322",
+                    "model": "65NANO83KQA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS 22 KLP_2.0_1.tar.gz"
+                },
+                {
+                    "osSeq": "511322",
+                    "model": "65NANO83KQA",
+                    "type": "Op",
+                    "fileId": "2",
+                    "filename": "webOS 22 KLP_2.0_2.tar.gz"
+                }
+            ]
+        },
+        "65NANO83TPZ": {
+            "description": "webOS 6.0 LMUA 1.0",
+            "notice": [
+                {
+                    "osSeq": "510685",
+                    "model": "65NANO83TPZ",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-3037_webOS 6.0 LMUA_1.0_211116.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "510685",
+                    "model": "65NANO83TPZ",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS 6.0 LMUA_1.0_1.tar.gz"
+                },
+                {
+                    "osSeq": "510685",
+                    "model": "65NANO83TPZ",
+                    "type": "Op",
+                    "fileId": "2",
+                    "filename": "webOS 6.0 LMUA_1.0_2.tar.gz"
+                },
+                {
+                    "osSeq": "510685",
+                    "model": "65NANO83TPZ",
+                    "type": "Op",
+                    "fileId": "3",
+                    "filename": "webOS 6.0 LMUA_1.0_3.tar.gz"
+                }
+            ]
+        },
+        "65NANO846QA": {
+            "description": "webOS 22 KLP 2.0",
+            "notice": [
+                {
+                    "osSeq": "511322",
+                    "model": "65NANO846QA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-5239_webOS 22 KLP_2.0_230321.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "511322",
+                    "model": "65NANO846QA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS 22 KLP_2.0_1.tar.gz"
+                },
+                {
+                    "osSeq": "511322",
+                    "model": "65NANO846QA",
+                    "type": "Op",
+                    "fileId": "2",
+                    "filename": "webOS 22 KLP_2.0_2.tar.gz"
+                }
+            ]
+        },
+        "65NANO84T6A": {
+            "description": "webOS 24 KLPNN 1.0_2303",
+            "notice": [
+                {
+                    "osSeq": "511659",
+                    "model": "65NANO84T6A",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-6515_webOS 24 KLPNN_1.0_2303_240326.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "511659",
+                    "model": "65NANO84T6A",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS 24 KLPNN_1.0_2303_1.tar.gz"
+                },
+                {
+                    "osSeq": "511659",
+                    "model": "65NANO84T6A",
+                    "type": "Op",
+                    "fileId": "2",
+                    "filename": "webOS 24 KLPNN_1.0_2303_2.tar.gz"
+                },
+                {
+                    "osSeq": "511659",
+                    "model": "65NANO84T6A",
+                    "type": "Op",
+                    "fileId": "3",
+                    "filename": "webOS 24 KLPNN_1.0_2303_3.tar.gz"
+                }
+            ]
+        },
+        "65NANO853PA": {
+            "description": "webOS 6.0 LMUA 1.0",
+            "notice": [
+                {
+                    "osSeq": "510685",
+                    "model": "65NANO853PA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-3037_webOS 6.0 LMUA_1.0_211116.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "510685",
+                    "model": "65NANO853PA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS 6.0 LMUA_1.0_1.tar.gz"
+                },
+                {
+                    "osSeq": "510685",
+                    "model": "65NANO853PA",
+                    "type": "Op",
+                    "fileId": "2",
+                    "filename": "webOS 6.0 LMUA_1.0_2.tar.gz"
+                },
+                {
+                    "osSeq": "510685",
+                    "model": "65NANO853PA",
+                    "type": "Op",
+                    "fileId": "3",
+                    "filename": "webOS 6.0 LMUA_1.0_3.tar.gz"
+                }
+            ]
+        },
+        "65NANO856PA": {
+            "description": "webOS 6.0 LMUA 1.0",
+            "notice": [
+                {
+                    "osSeq": "510685",
+                    "model": "65NANO856PA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-3037_webOS 6.0 LMUA_1.0_211116.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "510685",
+                    "model": "65NANO856PA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS 6.0 LMUA_1.0_1.tar.gz"
+                },
+                {
+                    "osSeq": "510685",
+                    "model": "65NANO856PA",
+                    "type": "Op",
+                    "fileId": "2",
+                    "filename": "webOS 6.0 LMUA_1.0_2.tar.gz"
+                },
+                {
+                    "osSeq": "510685",
+                    "model": "65NANO856PA",
+                    "type": "Op",
+                    "fileId": "3",
+                    "filename": "webOS 6.0 LMUA_1.0_3.tar.gz"
+                }
+            ]
+        },
+        "65NANO859PA": {
+            "description": "webOS 6.0 LMUA 1.0",
+            "notice": [
+                {
+                    "osSeq": "510685",
+                    "model": "65NANO859PA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-3037_webOS 6.0 LMUA_1.0_211116.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "510685",
+                    "model": "65NANO859PA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS 6.0 LMUA_1.0_1.tar.gz"
+                },
+                {
+                    "osSeq": "510685",
+                    "model": "65NANO859PA",
+                    "type": "Op",
+                    "fileId": "2",
+                    "filename": "webOS 6.0 LMUA_1.0_2.tar.gz"
+                },
+                {
+                    "osSeq": "510685",
+                    "model": "65NANO859PA",
+                    "type": "Op",
+                    "fileId": "3",
+                    "filename": "webOS 6.0 LMUA_1.0_3.tar.gz"
+                }
+            ]
+        },
+        "65NANO85APA": {
+            "description": "webOS 6.0 LMUA 1.0",
+            "notice": [
+                {
+                    "osSeq": "510685",
+                    "model": "65NANO85APA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-3037_webOS 6.0 LMUA_1.0_211116.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "510685",
+                    "model": "65NANO85APA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS 6.0 LMUA_1.0_1.tar.gz"
+                },
+                {
+                    "osSeq": "510685",
+                    "model": "65NANO85APA",
+                    "type": "Op",
+                    "fileId": "2",
+                    "filename": "webOS 6.0 LMUA_1.0_2.tar.gz"
+                },
+                {
+                    "osSeq": "510685",
+                    "model": "65NANO85APA",
+                    "type": "Op",
+                    "fileId": "3",
+                    "filename": "webOS 6.0 LMUA_1.0_3.tar.gz"
+                }
+            ]
+        },
+        "65NANO85SPA": {
+            "description": "webOS 6.0 LMUA 1.0",
+            "notice": [
+                {
+                    "osSeq": "510685",
+                    "model": "65NANO85SPA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-3037_webOS 6.0 LMUA_1.0_211116.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "510685",
+                    "model": "65NANO85SPA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS 6.0 LMUA_1.0_1.tar.gz"
+                },
+                {
+                    "osSeq": "510685",
+                    "model": "65NANO85SPA",
+                    "type": "Op",
+                    "fileId": "2",
+                    "filename": "webOS 6.0 LMUA_1.0_2.tar.gz"
+                },
+                {
+                    "osSeq": "510685",
+                    "model": "65NANO85SPA",
+                    "type": "Op",
+                    "fileId": "3",
+                    "filename": "webOS 6.0 LMUA_1.0_3.tar.gz"
+                }
+            ]
+        },
+        "65NANO85UNA": {
+            "description": "webOS 5.0 JKHP 2.0",
+            "notice": [
+                {
+                    "osSeq": "510776",
+                    "model": "65NANO85UNA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-3913_webOS 5.0 JKHP_2.0_220114.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "510776",
+                    "model": "65NANO85UNA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS 5.0 JKHP_2.0_1.tar.gz"
+                },
+                {
+                    "osSeq": "510776",
+                    "model": "65NANO85UNA",
+                    "type": "Op",
+                    "fileId": "2",
+                    "filename": "webOS 5.0 JKHP_2.0_2.tar.gz"
+                }
+            ]
+        },
+        "65NANO85UNF": {
+            "description": "webOS 5.0 JKHP 1.0",
+            "notice": [
+                {
+                    "osSeq": "510757",
+                    "model": "65NANO85UNF",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-2174_webOS 5.0 JKHP_1.0_220110.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "510757",
+                    "model": "65NANO85UNF",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS 5.0 JKHP_1.0_1.tar.gz"
+                },
+                {
+                    "osSeq": "510757",
+                    "model": "65NANO85UNF",
+                    "type": "Op",
+                    "fileId": "2",
+                    "filename": "webOS 5.0 JKHP_1.0_2.tar.gz"
+                }
+            ]
+        }
+    }
+}

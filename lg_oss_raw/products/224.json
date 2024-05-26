@@ -1,0 +1,482 @@
+{
+    "TV/AV>TV": {
+        "43NANO769QA": {
+            "description": "webOS 22 KLP 2.0",
+            "notice": [
+                {
+                    "osSeq": "511322",
+                    "model": "43NANO769QA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-5239_webOS 22 KLP_2.0_230321.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "511322",
+                    "model": "43NANO769QA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS 22 KLP_2.0_1.tar.gz"
+                },
+                {
+                    "osSeq": "511322",
+                    "model": "43NANO769QA",
+                    "type": "Op",
+                    "fileId": "2",
+                    "filename": "webOS 22 KLP_2.0_2.tar.gz"
+                }
+            ]
+        },
+        "43NANO76CPA": {
+            "description": "webOS 6.0 LMUA 1.0",
+            "notice": [
+                {
+                    "osSeq": "510685",
+                    "model": "43NANO76CPA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-3037_webOS 6.0 LMUA_1.0_211116.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "510685",
+                    "model": "43NANO76CPA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS 6.0 LMUA_1.0_1.tar.gz"
+                },
+                {
+                    "osSeq": "510685",
+                    "model": "43NANO76CPA",
+                    "type": "Op",
+                    "fileId": "2",
+                    "filename": "webOS 6.0 LMUA_1.0_2.tar.gz"
+                },
+                {
+                    "osSeq": "510685",
+                    "model": "43NANO76CPA",
+                    "type": "Op",
+                    "fileId": "3",
+                    "filename": "webOS 6.0 LMUA_1.0_3.tar.gz"
+                }
+            ]
+        },
+        "43NANO76CQA": {
+            "description": "webOS 22 KLP 2.0",
+            "notice": [
+                {
+                    "osSeq": "511322",
+                    "model": "43NANO76CQA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-5239_webOS 22 KLP_2.0_230321.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "511322",
+                    "model": "43NANO76CQA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS 22 KLP_2.0_1.tar.gz"
+                },
+                {
+                    "osSeq": "511322",
+                    "model": "43NANO76CQA",
+                    "type": "Op",
+                    "fileId": "2",
+                    "filename": "webOS 22 KLP_2.0_2.tar.gz"
+                }
+            ]
+        },
+        "43NANO76JPA": {
+            "description": "webOS 6.0 LMUA 1.0",
+            "notice": [
+                {
+                    "osSeq": "510685",
+                    "model": "43NANO76JPA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-3037_webOS 6.0 LMUA_1.0_211116.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "510685",
+                    "model": "43NANO76JPA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS 6.0 LMUA_1.0_1.tar.gz"
+                },
+                {
+                    "osSeq": "510685",
+                    "model": "43NANO76JPA",
+                    "type": "Op",
+                    "fileId": "2",
+                    "filename": "webOS 6.0 LMUA_1.0_2.tar.gz"
+                },
+                {
+                    "osSeq": "510685",
+                    "model": "43NANO76JPA",
+                    "type": "Op",
+                    "fileId": "3",
+                    "filename": "webOS 6.0 LMUA_1.0_3.tar.gz"
+                }
+            ]
+        },
+        "43NANO76SQA": {
+            "description": "webOS 22 KLP 2.0",
+            "notice": [
+                {
+                    "osSeq": "511322",
+                    "model": "43NANO76SQA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-5239_webOS 22 KLP_2.0_230321.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "511322",
+                    "model": "43NANO76SQA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS 22 KLP_2.0_1.tar.gz"
+                },
+                {
+                    "osSeq": "511322",
+                    "model": "43NANO76SQA",
+                    "type": "Op",
+                    "fileId": "2",
+                    "filename": "webOS 22 KLP_2.0_2.tar.gz"
+                }
+            ]
+        },
+        "43NANO773PA": {
+            "description": "webOS 6.0 LMUA 1.0",
+            "notice": [
+                {
+                    "osSeq": "510685",
+                    "model": "43NANO773PA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-3037_webOS 6.0 LMUA_1.0_211116.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "510685",
+                    "model": "43NANO773PA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS 6.0 LMUA_1.0_1.tar.gz"
+                },
+                {
+                    "osSeq": "510685",
+                    "model": "43NANO773PA",
+                    "type": "Op",
+                    "fileId": "2",
+                    "filename": "webOS 6.0 LMUA_1.0_2.tar.gz"
+                },
+                {
+                    "osSeq": "510685",
+                    "model": "43NANO773PA",
+                    "type": "Op",
+                    "fileId": "3",
+                    "filename": "webOS 6.0 LMUA_1.0_3.tar.gz"
+                }
+            ]
+        },
+        "43NANO776PA": {
+            "description": "webOS 6.0 LMUA 1.0",
+            "notice": [
+                {
+                    "osSeq": "510685",
+                    "model": "43NANO776PA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-3037_webOS 6.0 LMUA_1.0_211116.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "510685",
+                    "model": "43NANO776PA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS 6.0 LMUA_1.0_1.tar.gz"
+                },
+                {
+                    "osSeq": "510685",
+                    "model": "43NANO776PA",
+                    "type": "Op",
+                    "fileId": "2",
+                    "filename": "webOS 6.0 LMUA_1.0_2.tar.gz"
+                },
+                {
+                    "osSeq": "510685",
+                    "model": "43NANO776PA",
+                    "type": "Op",
+                    "fileId": "3",
+                    "filename": "webOS 6.0 LMUA_1.0_3.tar.gz"
+                }
+            ]
+        },
+        "43NANO776QA": {
+            "description": "webOS 22 KLP 2.0",
+            "notice": [
+                {
+                    "osSeq": "511322",
+                    "model": "43NANO776QA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-5239_webOS 22 KLP_2.0_230321.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "511322",
+                    "model": "43NANO776QA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS 22 KLP_2.0_1.tar.gz"
+                },
+                {
+                    "osSeq": "511322",
+                    "model": "43NANO776QA",
+                    "type": "Op",
+                    "fileId": "2",
+                    "filename": "webOS 22 KLP_2.0_2.tar.gz"
+                }
+            ]
+        },
+        "43NANO776RA": {
+            "description": "webOS 23 LMAN 1.0",
+            "notice": [
+                {
+                    "osSeq": "511216",
+                    "model": "43NANO776RA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-4669_webOS 23 LMAN_1.0_221220.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "511216",
+                    "model": "43NANO776RA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS 23 LMAN_1.0_1.tar.gz"
+                },
+                {
+                    "osSeq": "511216",
+                    "model": "43NANO776RA",
+                    "type": "Op",
+                    "fileId": "2",
+                    "filename": "webOS 23 LMAN_1.0_2.tar.gz"
+                },
+                {
+                    "osSeq": "511216",
+                    "model": "43NANO776RA",
+                    "type": "Op",
+                    "fileId": "3",
+                    "filename": "webOS 23 LMAN_1.0_3.tar.gz"
+                }
+            ]
+        },
+        "43NANO779PA": {
+            "description": "webOS 6.0 LMUA 1.0",
+            "notice": [
+                {
+                    "osSeq": "510685",
+                    "model": "43NANO779PA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-3037_webOS 6.0 LMUA_1.0_211116.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "510685",
+                    "model": "43NANO779PA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS 6.0 LMUA_1.0_1.tar.gz"
+                },
+                {
+                    "osSeq": "510685",
+                    "model": "43NANO779PA",
+                    "type": "Op",
+                    "fileId": "2",
+                    "filename": "webOS 6.0 LMUA_1.0_2.tar.gz"
+                },
+                {
+                    "osSeq": "510685",
+                    "model": "43NANO779PA",
+                    "type": "Op",
+                    "fileId": "3",
+                    "filename": "webOS 6.0 LMUA_1.0_3.tar.gz"
+                }
+            ]
+        },
+        "43NANO77CQA": {
+            "description": "webOS 22 KLP 2.0",
+            "notice": [
+                {
+                    "osSeq": "511322",
+                    "model": "43NANO77CQA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-5239_webOS 22 KLP_2.0_230321.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "511322",
+                    "model": "43NANO77CQA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS 22 KLP_2.0_1.tar.gz"
+                },
+                {
+                    "osSeq": "511322",
+                    "model": "43NANO77CQA",
+                    "type": "Op",
+                    "fileId": "2",
+                    "filename": "webOS 22 KLP_2.0_2.tar.gz"
+                }
+            ]
+        },
+        "43NANO77SRA": {
+            "description": "webOS 23 KLP(n) 1.0",
+            "notice": [
+                {
+                    "osSeq": "511217",
+                    "model": "43NANO77SRA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-4665_webOS 23 KLP(n)_1.0_221220.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "511217",
+                    "model": "43NANO77SRA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS 23 KLP(n)_1.0_1.tar.gz"
+                },
+                {
+                    "osSeq": "511217",
+                    "model": "43NANO77SRA",
+                    "type": "Op",
+                    "fileId": "2",
+                    "filename": "webOS 23 KLP(n)_1.0_2.tar.gz"
+                },
+                {
+                    "osSeq": "511217",
+                    "model": "43NANO77SRA",
+                    "type": "Op",
+                    "fileId": "3",
+                    "filename": "webOS 23 KLP(n)_1.0_3.tar.gz"
+                }
+            ]
+        },
+        "43NANO77TPA": {
+            "description": "webOS 6.0 LMUA 1.0",
+            "notice": [
+                {
+                    "osSeq": "510685",
+                    "model": "43NANO77TPA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-3037_webOS 6.0 LMUA_1.0_211116.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "510685",
+                    "model": "43NANO77TPA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS 6.0 LMUA_1.0_1.tar.gz"
+                },
+                {
+                    "osSeq": "510685",
+                    "model": "43NANO77TPA",
+                    "type": "Op",
+                    "fileId": "2",
+                    "filename": "webOS 6.0 LMUA_1.0_2.tar.gz"
+                },
+                {
+                    "osSeq": "510685",
+                    "model": "43NANO77TPA",
+                    "type": "Op",
+                    "fileId": "3",
+                    "filename": "webOS 6.0 LMUA_1.0_3.tar.gz"
+                }
+            ]
+        },
+        "43NANO783QA": {
+            "description": "webOS 22 KLP 1.0",
+            "notice": [
+                {
+                    "osSeq": "510782",
+                    "model": "43NANO783QA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-3983_webOS 22 KLP_1.0_220118.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "510782",
+                    "model": "43NANO783QA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS 22 KLP_1.0_1.tar.gz"
+                },
+                {
+                    "osSeq": "510782",
+                    "model": "43NANO783QA",
+                    "type": "Op",
+                    "fileId": "2",
+                    "filename": "webOS 22 KLP_1.0_2.tar.gz"
+                }
+            ]
+        }
+    },
+    "TV/AV>Monitor/Signage": {
+        "43NANO76SCA": {
+            "description": "webOS 22 KLP (Commercial) / Smart Monitor",
+            "notice": [
+                {
+                    "osSeq": "510887",
+                    "model": "43NANO76SCA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-4336_webOS 22 KLP (Commercial)_1.0_220330.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "510887",
+                    "model": "43NANO76SCA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS 22 KLP (Commercial)_1.0_1.tar.gz"
+                },
+                {
+                    "osSeq": "510887",
+                    "model": "43NANO76SCA",
+                    "type": "Op",
+                    "fileId": "2",
+                    "filename": "webOS 22 KLP (Commercial)_1.0_2.tar.gz"
+                }
+            ]
+        }
+    }
+}

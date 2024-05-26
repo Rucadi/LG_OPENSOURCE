@@ -1,0 +1,174 @@
+{
+    "TV/AV>TV": {
+        "55EG9A7V-TA": {
+            "description": "webOS BM LGE Open Source-Chromium Source",
+            "notice": [
+                {
+                    "osSeq": "506623",
+                    "model": "55EG9A7V-TA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-150604-webOSBM-8.pdf"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "506623",
+                    "model": "55EG9A7V-TA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "Chromium.zip"
+                }
+            ]
+        },
+        "55EG9A7V-ZB": {
+            "description": "webOS BM LGE Open Source-Chromium Source",
+            "notice": [
+                {
+                    "osSeq": "506623",
+                    "model": "55EG9A7V-ZB",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-150604-webOSBM-8.pdf"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "506623",
+                    "model": "55EG9A7V-ZB",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "Chromium.zip"
+                }
+            ]
+        },
+        "55EG9A7Y-TA": {
+            "description": "webOS BM LGE Open Source-Chromium Source",
+            "notice": [
+                {
+                    "osSeq": "506623",
+                    "model": "55EG9A7Y-TA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-150604-webOSBM-8.pdf"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "506623",
+                    "model": "55EG9A7Y-TA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "Chromium.zip"
+                }
+            ]
+        }
+    },
+    "TV/AV>Monitor/Signage": {
+        "55EH5C-SF": {
+            "description": "webOS3.0_M16_Signage_2",
+            "notice": [
+                {
+                    "osSeq": "507279",
+                    "model": "55EH5C-SF",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-170214-webOS3.0M16Signage-5.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "507279",
+                    "model": "55EH5C-SF",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS3.2_3.0_M16_Signage_OpenSource_V1.0_2.zip"
+                }
+            ]
+        },
+        "55EJ5C-BF": {
+            "description": "webOS3.0_M16_Signage_2",
+            "notice": [
+                {
+                    "osSeq": "507279",
+                    "model": "55EJ5C-BF",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-170214-webOS3.0M16Signage-5.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "507279",
+                    "model": "55EJ5C-BF",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS3.2_3.0_M16_Signage_OpenSource_V1.0_2.zip"
+                }
+            ]
+        },
+        "55EJ5D-BF": {
+            "description": "webOS3.2_M16_Signage_2",
+            "notice": [
+                {
+                    "osSeq": "507773",
+                    "model": "55EJ5D-BF",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-171011-webOS3.2M16Signage-2.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "507773",
+                    "model": "55EJ5D-BF",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS3.2_3.0_M16_Signage_OpenSource_V1.0_2.zip"
+                }
+            ]
+        },
+        "55EJ5E-BB": {
+            "description": "webOS3.2_M16_Signage_2",
+            "notice": [
+                {
+                    "osSeq": "507773",
+                    "model": "55EJ5E-BB",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-171011-webOS3.2M16Signage-2.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "507773",
+                    "model": "55EJ5E-BB",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS3.2_3.0_M16_Signage_OpenSource_V1.0_2.zip"
+                }
+            ]
+        },
+        "55EJ5E-BF": {
+            "description": "webOS3.2_M16_Signage_1",
+            "notice": [
+                {
+                    "osSeq": "507772",
+                    "model": "55EJ5E-BF",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-171011-webOS3.2M16Signage-2.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "507772",
+                    "model": "55EJ5E-BF",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS3.2_3.0_M16_Signage_OpenSource_V1.0.zip"
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,374 @@
+{
+    "TV/AV>Monitor/Signage": {
+        "29MT47D-PN": {
+            "description": "M1A(15) Platform_1502",
+            "notice": [
+                {
+                    "osSeq": "506325",
+                    "model": "29MT47D-PN",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-150304-L15_M1A_MTV-1.pdf"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "506325",
+                    "model": "29MT47D-PN",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "L15_L_LGE_MonitorTV_OpenSource_v1.1.zip"
+                }
+            ]
+        },
+        "29MT47D-PNS": {
+            "description": "M1A(15) Platform_07_05",
+            "notice": [
+                {
+                    "osSeq": "506591",
+                    "model": "29MT47D-PNS",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-150304-L15_M1A_MTV-1.pdf"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "506591",
+                    "model": "29MT47D-PNS",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "L15_L_LGE_MonitorTV_OpenSource_v1.1.zip"
+                }
+            ]
+        },
+        "29MT47D-PS": {
+            "description": "M1A(15) Platform",
+            "notice": [
+                {
+                    "osSeq": "506436",
+                    "model": "29MT47D-PS",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-150304-L15_M1A_MTV-1.pdf"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "506436",
+                    "model": "29MT47D-PS",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "L15_L_LGE_MonitorTV_OpenSource_v1.1.zip"
+                }
+            ]
+        },
+        "29MT47D-PSS": {
+            "description": "M1A(15) Platform",
+            "notice": [
+                {
+                    "osSeq": "506436",
+                    "model": "29MT47D-PSS",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-150304-L15_M1A_MTV-1.pdf"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "506436",
+                    "model": "29MT47D-PSS",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "L15_L_LGE_MonitorTV_OpenSource_v1.1.zip"
+                }
+            ]
+        },
+        "29MT47D-PT": {
+            "description": "M1A(15) Platform",
+            "notice": [
+                {
+                    "osSeq": "506436",
+                    "model": "29MT47D-PT",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-150304-L15_M1A_MTV-1.pdf"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "506436",
+                    "model": "29MT47D-PT",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "L15_L_LGE_MonitorTV_OpenSource_v1.1.zip"
+                }
+            ]
+        },
+        "29MT47D-PTS": {
+            "description": "M1A(15) Platform",
+            "notice": [
+                {
+                    "osSeq": "506436",
+                    "model": "29MT47D-PTS",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-150304-L15_M1A_MTV-1.pdf"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "506436",
+                    "model": "29MT47D-PTS",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "L15_L_LGE_MonitorTV_OpenSource_v1.1.zip"
+                }
+            ]
+        },
+        "29MT47D-PZ": {
+            "description": "M1A(15) Platform",
+            "notice": [
+                {
+                    "osSeq": "506436",
+                    "model": "29MT47D-PZ",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-150304-L15_M1A_MTV-1.pdf"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "506436",
+                    "model": "29MT47D-PZ",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "L15_L_LGE_MonitorTV_OpenSource_v1.1.zip"
+                }
+            ]
+        },
+        "29MT47D-PZS": {
+            "description": "M1A(15) Platform",
+            "notice": [
+                {
+                    "osSeq": "506436",
+                    "model": "29MT47D-PZS",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-150304-L15_M1A_MTV-1.pdf"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "506436",
+                    "model": "29MT47D-PZS",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "L15_L_LGE_MonitorTV_OpenSource_v1.1.zip"
+                }
+            ]
+        },
+        "29MT47V-BZ": {
+            "description": "M1A(15) Platform",
+            "notice": [
+                {
+                    "osSeq": "506436",
+                    "model": "29MT47V-BZ",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-150304-L15_M1A_MTV-1.pdf"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "506436",
+                    "model": "29MT47V-BZ",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "L15_L_LGE_MonitorTV_OpenSource_v1.1.zip"
+                }
+            ]
+        },
+        "29MT47V-BZS": {
+            "description": "M1A(15) Platform",
+            "notice": [
+                {
+                    "osSeq": "506436",
+                    "model": "29MT47V-BZS",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-150304-L15_M1A_MTV-1.pdf"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "506436",
+                    "model": "29MT47V-BZS",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "L15_L_LGE_MonitorTV_OpenSource_v1.1.zip"
+                }
+            ]
+        },
+        "29MT47V-PZ": {
+            "description": "M1A(15) Platform",
+            "notice": [
+                {
+                    "osSeq": "506436",
+                    "model": "29MT47V-PZ",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-150304-L15_M1A_MTV-1.pdf"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "506436",
+                    "model": "29MT47V-PZ",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "L15_L_LGE_MonitorTV_OpenSource_v1.1.zip"
+                }
+            ]
+        },
+        "29MT47V-PZS": {
+            "description": "M1A(15) Platform",
+            "notice": [
+                {
+                    "osSeq": "506436",
+                    "model": "29MT47V-PZS",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-150304-L15_M1A_MTV-1.pdf"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "506436",
+                    "model": "29MT47V-PZS",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "L15_L_LGE_MonitorTV_OpenSource_v1.1.zip"
+                }
+            ]
+        },
+        "29MT48AF-PT": {
+            "description": "M8RR(16)_Platform",
+            "notice": [
+                {
+                    "osSeq": "506971",
+                    "model": "29MT48AF-PT",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-140522-M8RR_MTV-1.pdf"
+                }
+            ],
+            "source": []
+        },
+        "29MT48DF-PN": {
+            "description": "M1A(16) Platform_04_04",
+            "notice": [
+                {
+                    "osSeq": "507153",
+                    "model": "29MT48DF-PN",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-151222-L16_M1A_MTV-1.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "507153",
+                    "model": "29MT48DF-PN",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "L16_L_MTV_OpenSource_v1.0.zip"
+                }
+            ]
+        },
+        "29MT48DF-PZ": {
+            "description": "M1AP(16) Platform_03_06",
+            "notice": [
+                {
+                    "osSeq": "507038",
+                    "model": "29MT48DF-PZ",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-151202-L16_M1AP_MTV-1.pdf"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "507038",
+                    "model": "29MT48DF-PZ",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "L16_M1AP_MTV_OpenSource_v1.1.zip"
+                }
+            ]
+        },
+        "29MT48T-PZT": {
+            "description": "M1AP(16) Platform_03_06",
+            "notice": [
+                {
+                    "osSeq": "507038",
+                    "model": "29MT48T-PZT",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-151202-L16_M1AP_MTV-1.pdf"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "507038",
+                    "model": "29MT48T-PZT",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "L16_M1AP_MTV_OpenSource_v1.1.zip"
+                }
+            ]
+        },
+        "29MT48VF-PZ": {
+            "description": "M1AP(16) Platform_03_06",
+            "notice": [
+                {
+                    "osSeq": "507038",
+                    "model": "29MT48VF-PZ",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-151202-L16_M1AP_MTV-1.pdf"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "507038",
+                    "model": "29MT48VF-PZ",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "L16_M1AP_MTV_OpenSource_v1.1.zip"
+                }
+            ]
+        },
+        "29MT49DF-PZ": {
+            "description": "M1AP(16) Platform_03_06",
+            "notice": [
+                {
+                    "osSeq": "507038",
+                    "model": "29MT49DF-PZ",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-151202-L16_M1AP_MTV-1.pdf"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "507038",
+                    "model": "29MT49DF-PZ",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "L16_M1AP_MTV_OpenSource_v1.1.zip"
+                }
+            ]
+        }
+    }
+}

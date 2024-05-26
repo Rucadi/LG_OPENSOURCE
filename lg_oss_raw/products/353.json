@@ -1,0 +1,172 @@
+{
+    "TV/AV>TV": {
+        "49LK5700PUA": {
+            "description": "webOS 4.0 GM MR 2.0",
+            "notice": [
+                {
+                    "osSeq": "510799",
+                    "model": "49LK5700PUA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-1060_webOS 4.0 GM MR_2.0_220207.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "510799",
+                    "model": "49LK5700PUA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS 4.0 GM MR_2.0_1.tar.gz"
+                },
+                {
+                    "osSeq": "510799",
+                    "model": "49LK5700PUA",
+                    "type": "Op",
+                    "fileId": "2",
+                    "filename": "webOS 4.0 GM MR_2.0_2.zip"
+                }
+            ]
+        },
+        "49LK5700PVC": {
+            "description": "webOS 4.0 GM MR 2.0",
+            "notice": [
+                {
+                    "osSeq": "510799",
+                    "model": "49LK5700PVC",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-1060_webOS 4.0 GM MR_2.0_220207.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "510799",
+                    "model": "49LK5700PVC",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS 4.0 GM MR_2.0_1.tar.gz"
+                },
+                {
+                    "osSeq": "510799",
+                    "model": "49LK5700PVC",
+                    "type": "Op",
+                    "fileId": "2",
+                    "filename": "webOS 4.0 GM MR_2.0_2.zip"
+                }
+            ]
+        },
+        "49LK5700PWA": {
+            "description": "webOS GM LGE TV Open Source",
+            "notice": [
+                {
+                    "osSeq": "508339",
+                    "model": "49LK5700PWA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-767_webOS_4.0_GM_20171027100707.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "508339",
+                    "model": "49LK5700PWA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "DM2-r3173.tar.gz"
+                }
+            ]
+        },
+        "49LK5700YVC": {
+            "description": "webOS 4.0 GM MR 2.0",
+            "notice": [
+                {
+                    "osSeq": "510799",
+                    "model": "49LK5700YVC",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-1060_webOS 4.0 GM MR_2.0_220207.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "510799",
+                    "model": "49LK5700YVC",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS 4.0 GM MR_2.0_1.tar.gz"
+                },
+                {
+                    "osSeq": "510799",
+                    "model": "49LK5700YVC",
+                    "type": "Op",
+                    "fileId": "2",
+                    "filename": "webOS 4.0 GM MR_2.0_2.zip"
+                }
+            ]
+        },
+        "49LK5730PVC": {
+            "description": "webOS GM LGE TV Open Source",
+            "notice": [
+                {
+                    "osSeq": "508339",
+                    "model": "49LK5730PVC",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-767_webOS_4.0_GM_20171027100707.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "508339",
+                    "model": "49LK5730PVC",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "DM2-r3173.tar.gz"
+                }
+            ]
+        },
+        "49LK5730YVA": {
+            "description": "webOS GM LGE TV Open Source",
+            "notice": [
+                {
+                    "osSeq": "508339",
+                    "model": "49LK5730YVA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-767_webOS_4.0_GM_20171027100707.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "508339",
+                    "model": "49LK5730YVA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "DM2-r3173.tar.gz"
+                }
+            ]
+        },
+        "49LK5750PDA": {
+            "description": "webOS 4.0 GM 1.0",
+            "notice": [
+                {
+                    "osSeq": "508410",
+                    "model": "49LK5750PDA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-767_webOS 4.0 GM_1.0_180206.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "508410",
+                    "model": "49LK5750PDA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS 4.0 GM_1.0.tar.gz"
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,445 @@
+{
+    "TV/AV>TV": {
+        "32LN340CBSD": {
+            "description": "webOS22_K8HP_K8LP_CommercialTV",
+            "notice": [
+                {
+                    "osSeq": "510888",
+                    "model": "32LN340CBSD",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-4270_webOS22_K8HP_CommercialTV_220329.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "510888",
+                    "model": "32LN340CBSD",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS22_K8HP_CommercialTV_1.zip"
+                },
+                {
+                    "osSeq": "510888",
+                    "model": "32LN340CBSD",
+                    "type": "Op",
+                    "fileId": "2",
+                    "filename": "webOS22_K8HP_CommercialTV_2.zip"
+                }
+            ]
+        },
+        "32LN340CBUD": {
+            "description": "webOS22_K8HP_K8LP_CommercialTV",
+            "notice": [
+                {
+                    "osSeq": "510888",
+                    "model": "32LN340CBUD",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-4270_webOS22_K8HP_CommercialTV_220329.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "510888",
+                    "model": "32LN340CBUD",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS22_K8HP_CommercialTV_1.zip"
+                },
+                {
+                    "osSeq": "510888",
+                    "model": "32LN340CBUD",
+                    "type": "Op",
+                    "fileId": "2",
+                    "filename": "webOS22_K8HP_CommercialTV_2.zip"
+                }
+            ]
+        },
+        "32LN340HBUA": {
+            "description": "webOS22_K8HP_K8LP_CommercialTV",
+            "notice": [
+                {
+                    "osSeq": "510888",
+                    "model": "32LN340HBUA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-4270_webOS22_K8HP_CommercialTV_220329.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "510888",
+                    "model": "32LN340HBUA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS22_K8HP_CommercialTV_1.zip"
+                },
+                {
+                    "osSeq": "510888",
+                    "model": "32LN340HBUA",
+                    "type": "Op",
+                    "fileId": "2",
+                    "filename": "webOS22_K8HP_CommercialTV_2.zip"
+                }
+            ]
+        },
+        "32LN4900-CA": {
+            "description": "L13 UL2 LGE TV Open Source",
+            "notice": [
+                {
+                    "osSeq": "15280",
+                    "model": "32LN4900-CA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-141010-L13_M8RR-1.pdf"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "15280",
+                    "model": "32LN4900-CA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "N/A"
+                }
+            ]
+        },
+        "32LN4900-TD": {
+            "description": "L13 UL2 LGE TV Open Source",
+            "notice": [
+                {
+                    "osSeq": "15280",
+                    "model": "32LN4900-TD",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-141010-L13_M8RR-1.pdf"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "15280",
+                    "model": "32LN4900-TD",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "N/A"
+                }
+            ]
+        },
+        "32LN490Y-TD": {
+            "description": "L13 UL2 LGE TV Open Source",
+            "notice": [
+                {
+                    "osSeq": "15280",
+                    "model": "32LN490Y-TD",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-141010-L13_M8RR-1.pdf"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "15280",
+                    "model": "32LN490Y-TD",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "N/A"
+                }
+            ]
+        },
+        "32LN4910-TF": {
+            "description": "L13 UL2 LGE TV Open Source",
+            "notice": [
+                {
+                    "osSeq": "15280",
+                    "model": "32LN4910-TF",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-141010-L13_M8RR-1.pdf"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "15280",
+                    "model": "32LN4910-TF",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "N/A"
+                }
+            ]
+        },
+        "32LN5100-CC": {
+            "description": "L13 UL2 LGE TV Open Source",
+            "notice": [
+                {
+                    "osSeq": "15280",
+                    "model": "32LN5100-CC",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-141010-L13_M8RR-1.pdf"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "15280",
+                    "model": "32LN5100-CC",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "N/A"
+                }
+            ]
+        },
+        "32LN5100-CP": {
+            "description": "L13 UL2 LGE TV Open Source",
+            "notice": [
+                {
+                    "osSeq": "15280",
+                    "model": "32LN5100-CP",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-141010-L13_M8RR-1.pdf"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "15280",
+                    "model": "32LN5100-CP",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "N/A"
+                }
+            ]
+        },
+        "32LN5100-MB": {
+            "description": "L13 UL2 LGE TV Open Source",
+            "notice": [
+                {
+                    "osSeq": "15280",
+                    "model": "32LN5100-MB",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-141010-L13_M8RR-1.pdf"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "15280",
+                    "model": "32LN5100-MB",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "N/A"
+                }
+            ]
+        },
+        "32LN5100-TA": {
+            "description": "L13 UL2 LGE TV Open Source",
+            "notice": [
+                {
+                    "osSeq": "15280",
+                    "model": "32LN5100-TA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-141010-L13_M8RR-1.pdf"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "15280",
+                    "model": "32LN5100-TA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "N/A"
+                }
+            ]
+        },
+        "32LN510Y-TA": {
+            "description": "L13 UL2 LGE TV Open Source",
+            "notice": [
+                {
+                    "osSeq": "15280",
+                    "model": "32LN510Y-TA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-141010-L13_M8RR-1.pdf"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "15280",
+                    "model": "32LN510Y-TA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "N/A"
+                }
+            ]
+        },
+        "32LN5110-TB": {
+            "description": "L13 UL2 LGE TV Open Source",
+            "notice": [
+                {
+                    "osSeq": "15280",
+                    "model": "32LN5110-TB",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-141010-L13_M8RR-1.pdf"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "15280",
+                    "model": "32LN5110-TB",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "N/A"
+                }
+            ]
+        },
+        "32LN511Y-TB": {
+            "description": "L13 UL2 LGE TV Open Source",
+            "notice": [
+                {
+                    "osSeq": "15280",
+                    "model": "32LN511Y-TB",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-141010-L13_M8RR-1.pdf"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "15280",
+                    "model": "32LN511Y-TB",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "N/A"
+                }
+            ]
+        },
+        "32LN5120-TC": {
+            "description": "L13 UL2 LGE TV Open Source",
+            "notice": [
+                {
+                    "osSeq": "15280",
+                    "model": "32LN5120-TC",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-141010-L13_M8RR-1.pdf"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "15280",
+                    "model": "32LN5120-TC",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "N/A"
+                }
+            ]
+        },
+        "32LN5130-TI": {
+            "description": "L13 UL2 LGE TV Open Source",
+            "notice": [
+                {
+                    "osSeq": "15280",
+                    "model": "32LN5130-TI",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-141010-L13_M8RR-1.pdf"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "15280",
+                    "model": "32LN5130-TI",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "N/A"
+                }
+            ]
+        },
+        "32LN513Y-TI": {
+            "description": "L13 UL2 LGE TV Open Source",
+            "notice": [
+                {
+                    "osSeq": "15280",
+                    "model": "32LN513Y-TI",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-141010-L13_M8RR-1.pdf"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "15280",
+                    "model": "32LN513Y-TI",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "N/A"
+                }
+            ]
+        },
+        "32LN5150-TL": {
+            "description": "L13 UL2 LGE TV Open Source",
+            "notice": [
+                {
+                    "osSeq": "15280",
+                    "model": "32LN5150-TL",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-141010-L13_M8RR-1.pdf"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "15280",
+                    "model": "32LN5150-TL",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "N/A"
+                }
+            ]
+        },
+        "32LN515Y-TL": {
+            "description": "L13 UL2 LGE TV Open Source",
+            "notice": [
+                {
+                    "osSeq": "15280",
+                    "model": "32LN515Y-TL",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-141010-L13_M8RR-1.pdf"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "15280",
+                    "model": "32LN515Y-TL",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "N/A"
+                }
+            ]
+        },
+        "32LN5170-CF": {
+            "description": "L13 UL2 LGE TV Open Source",
+            "notice": [
+                {
+                    "osSeq": "15280",
+                    "model": "32LN5170-CF",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-141010-L13_M8RR-1.pdf"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "15280",
+                    "model": "32LN5170-CF",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "N/A"
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,354 @@
+{
+    "TV/AV>TV": {
+        "OLED88ZXPJA": {
+            "description": "webOS 5.0 JO 2.0",
+            "notice": [
+                {
+                    "osSeq": "511222",
+                    "model": "OLED88ZXPJA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-3894_webOS 5.0 JO_2.0_221228.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "511222",
+                    "model": "OLED88ZXPJA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS 5.0 JO_2.0_1.tar.gz"
+                },
+                {
+                    "osSeq": "511222",
+                    "model": "OLED88ZXPJA",
+                    "type": "Op",
+                    "fileId": "2",
+                    "filename": "webOS 5.0 JO_2.0_2.tar.gz"
+                },
+                {
+                    "osSeq": "511222",
+                    "model": "OLED88ZXPJA",
+                    "type": "Op",
+                    "fileId": "3",
+                    "filename": "webOS 5.0 JO_2.0_3.tar.gz"
+                }
+            ]
+        },
+        "OLED88ZXPTA": {
+            "description": "webOS 5.0 JO 2.0",
+            "notice": [
+                {
+                    "osSeq": "511222",
+                    "model": "OLED88ZXPTA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-3894_webOS 5.0 JO_2.0_221228.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "511222",
+                    "model": "OLED88ZXPTA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS 5.0 JO_2.0_1.tar.gz"
+                },
+                {
+                    "osSeq": "511222",
+                    "model": "OLED88ZXPTA",
+                    "type": "Op",
+                    "fileId": "2",
+                    "filename": "webOS 5.0 JO_2.0_2.tar.gz"
+                },
+                {
+                    "osSeq": "511222",
+                    "model": "OLED88ZXPTA",
+                    "type": "Op",
+                    "fileId": "3",
+                    "filename": "webOS 5.0 JO_2.0_3.tar.gz"
+                }
+            ]
+        },
+        "OLED88ZXPUA": {
+            "description": "webOS 5.0 JO 2.0",
+            "notice": [
+                {
+                    "osSeq": "511222",
+                    "model": "OLED88ZXPUA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-3894_webOS 5.0 JO_2.0_221228.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "511222",
+                    "model": "OLED88ZXPUA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS 5.0 JO_2.0_1.tar.gz"
+                },
+                {
+                    "osSeq": "511222",
+                    "model": "OLED88ZXPUA",
+                    "type": "Op",
+                    "fileId": "2",
+                    "filename": "webOS 5.0 JO_2.0_2.tar.gz"
+                },
+                {
+                    "osSeq": "511222",
+                    "model": "OLED88ZXPUA",
+                    "type": "Op",
+                    "fileId": "3",
+                    "filename": "webOS 5.0 JO_2.0_3.tar.gz"
+                }
+            ]
+        },
+        "OLED88ZXPVA": {
+            "description": "webOS 5.0 JO 2.0",
+            "notice": [
+                {
+                    "osSeq": "511222",
+                    "model": "OLED88ZXPVA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-3894_webOS 5.0 JO_2.0_221228.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "511222",
+                    "model": "OLED88ZXPVA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS 5.0 JO_2.0_1.tar.gz"
+                },
+                {
+                    "osSeq": "511222",
+                    "model": "OLED88ZXPVA",
+                    "type": "Op",
+                    "fileId": "2",
+                    "filename": "webOS 5.0 JO_2.0_2.tar.gz"
+                },
+                {
+                    "osSeq": "511222",
+                    "model": "OLED88ZXPVA",
+                    "type": "Op",
+                    "fileId": "3",
+                    "filename": "webOS 5.0 JO_2.0_3.tar.gz"
+                }
+            ]
+        },
+        "OLED88ZXPWA": {
+            "description": "webOS 5.0 JO 2.0",
+            "notice": [
+                {
+                    "osSeq": "511222",
+                    "model": "OLED88ZXPWA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-3894_webOS 5.0 JO_2.0_221228.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "511222",
+                    "model": "OLED88ZXPWA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS 5.0 JO_2.0_1.tar.gz"
+                },
+                {
+                    "osSeq": "511222",
+                    "model": "OLED88ZXPWA",
+                    "type": "Op",
+                    "fileId": "2",
+                    "filename": "webOS 5.0 JO_2.0_2.tar.gz"
+                },
+                {
+                    "osSeq": "511222",
+                    "model": "OLED88ZXPWA",
+                    "type": "Op",
+                    "fileId": "3",
+                    "filename": "webOS 5.0 JO_2.0_3.tar.gz"
+                }
+            ]
+        },
+        "OLED97G26LA": {
+            "description": "webOS 23 O ReNew",
+            "notice": [
+                {
+                    "osSeq": "511655",
+                    "model": "OLED97G26LA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-6380_webOS 23 O_ReNew_240319.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "511655",
+                    "model": "OLED97G26LA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS 23 O_ReNew_1.tar.gz"
+                },
+                {
+                    "osSeq": "511655",
+                    "model": "OLED97G26LA",
+                    "type": "Op",
+                    "fileId": "2",
+                    "filename": "webOS 23 O_ReNew_2.tar.gz"
+                },
+                {
+                    "osSeq": "511655",
+                    "model": "OLED97G26LA",
+                    "type": "Op",
+                    "fileId": "3",
+                    "filename": "webOS 23 O_ReNew_3.tar.gz"
+                }
+            ]
+        },
+        "OLED97G29LA": {
+            "description": "webOS 23 O ReNew",
+            "notice": [
+                {
+                    "osSeq": "511655",
+                    "model": "OLED97G29LA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-6380_webOS 23 O_ReNew_240319.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "511655",
+                    "model": "OLED97G29LA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS 23 O_ReNew_1.tar.gz"
+                },
+                {
+                    "osSeq": "511655",
+                    "model": "OLED97G29LA",
+                    "type": "Op",
+                    "fileId": "2",
+                    "filename": "webOS 23 O_ReNew_2.tar.gz"
+                },
+                {
+                    "osSeq": "511655",
+                    "model": "OLED97G29LA",
+                    "type": "Op",
+                    "fileId": "3",
+                    "filename": "webOS 23 O_ReNew_3.tar.gz"
+                }
+            ]
+        },
+        "OLED97G2CSA": {
+            "description": "webOS 22 O (Commercial)",
+            "notice": [
+                {
+                    "osSeq": "511213",
+                    "model": "OLED97G2CSA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-5048_webOS 22 O (Commercial)_221220.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "511213",
+                    "model": "OLED97G2CSA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS 22 O_1.0_1.tar.gz"
+                },
+                {
+                    "osSeq": "511213",
+                    "model": "OLED97G2CSA",
+                    "type": "Op",
+                    "fileId": "2",
+                    "filename": "webOS 22 O_1.0_2.tar.gz"
+                },
+                {
+                    "osSeq": "511213",
+                    "model": "OLED97G2CSA",
+                    "type": "Op",
+                    "fileId": "3",
+                    "filename": "webOS 22 O_1.0_3.tar.gz"
+                }
+            ]
+        },
+        "OLED97G2CUA": {
+            "description": "webOS 22 O (Commercial)",
+            "notice": [
+                {
+                    "osSeq": "511213",
+                    "model": "OLED97G2CUA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-5048_webOS 22 O (Commercial)_221220.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "511213",
+                    "model": "OLED97G2CUA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS 22 O_1.0_1.tar.gz"
+                },
+                {
+                    "osSeq": "511213",
+                    "model": "OLED97G2CUA",
+                    "type": "Op",
+                    "fileId": "2",
+                    "filename": "webOS 22 O_1.0_2.tar.gz"
+                },
+                {
+                    "osSeq": "511213",
+                    "model": "OLED97G2CUA",
+                    "type": "Op",
+                    "fileId": "3",
+                    "filename": "webOS 22 O_1.0_3.tar.gz"
+                }
+            ]
+        },
+        "OLED97G2KNA": {
+            "description": "webOS 22 O 2.0",
+            "notice": [
+                {
+                    "osSeq": "511321",
+                    "model": "OLED97G2KNA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-5226_webOS 22 O_2.0_230313.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "511321",
+                    "model": "OLED97G2KNA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS 22 O_2.0_1.tar.gz"
+                },
+                {
+                    "osSeq": "511321",
+                    "model": "OLED97G2KNA",
+                    "type": "Op",
+                    "fileId": "2",
+                    "filename": "webOS 22 O_2.0_2.tar.gz"
+                },
+                {
+                    "osSeq": "511321",
+                    "model": "OLED97G2KNA",
+                    "type": "Op",
+                    "fileId": "3",
+                    "filename": "webOS 22 O_2.0_3.tar.gz"
+                }
+            ]
+        }
+    }
+}

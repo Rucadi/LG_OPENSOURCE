@@ -1,0 +1,174 @@
+{
+    "TV/AV>Monitor/Signage": {
+        "65EV5C-2E": {
+            "description": "webOS3.0_M16_Signage_2",
+            "notice": [
+                {
+                    "osSeq": "507279",
+                    "model": "65EV5C-2E",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-170214-webOS3.0M16Signage-5.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "507279",
+                    "model": "65EV5C-2E",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS3.2_3.0_M16_Signage_OpenSource_V1.0_2.zip"
+                }
+            ]
+        },
+        "65EV5C-3": {
+            "description": "webOS3.0_M16_Signage_2",
+            "notice": [
+                {
+                    "osSeq": "507279",
+                    "model": "65EV5C-3",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-170214-webOS3.0M16Signage-5.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "507279",
+                    "model": "65EV5C-3",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS3.2_3.0_M16_Signage_OpenSource_V1.0_2.zip"
+                }
+            ]
+        },
+        "65EV5E-2": {
+            "description": "webOS3.2_M16_Signage_2",
+            "notice": [
+                {
+                    "osSeq": "507773",
+                    "model": "65EV5E-2",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-171011-webOS3.2M16Signage-2.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "507773",
+                    "model": "65EV5E-2",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS3.2_3.0_M16_Signage_OpenSource_V1.0_2.zip"
+                }
+            ]
+        },
+        "65EV5E-2E": {
+            "description": "webOS3.2_M16_Signage_2",
+            "notice": [
+                {
+                    "osSeq": "507773",
+                    "model": "65EV5E-2E",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-171011-webOS3.2M16Signage-2.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "507773",
+                    "model": "65EV5E-2E",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS3.2_3.0_M16_Signage_OpenSource_V1.0_2.zip"
+                }
+            ]
+        },
+        "65EV5E-3": {
+            "description": "webOS3.2_M16_Signage_2",
+            "notice": [
+                {
+                    "osSeq": "507773",
+                    "model": "65EV5E-3",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-171011-webOS3.2M16Signage-2.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "507773",
+                    "model": "65EV5E-3",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS3.2_3.0_M16_Signage_OpenSource_V1.0_2.zip"
+                }
+            ]
+        }
+    },
+    "TV/AV>TV": {
+        "65EV960H-TA": {
+            "description": "webOS3.5_M16+_CommercialTV",
+            "notice": [
+                {
+                    "osSeq": "507936",
+                    "model": "65EV960H-TA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-537_webOS3.5 M16+ Commercial TV _170912.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "507936",
+                    "model": "65EV960H-TA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS3.5_M16+_CTV_OpenSource_V1.1.zip"
+                }
+            ]
+        },
+        "65EV960H-UA": {
+            "description": "webOS3.5_M16+_CommercialTV",
+            "notice": [
+                {
+                    "osSeq": "507936",
+                    "model": "65EV960H-UA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-537_webOS3.5 M16+ Commercial TV _170912.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "507936",
+                    "model": "65EV960H-UA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS3.5_M16+_CTV_OpenSource_V1.1.zip"
+                }
+            ]
+        },
+        "65EV960H-ZA": {
+            "description": "webOS3.5_M16+_CommercialTV",
+            "notice": [
+                {
+                    "osSeq": "507936",
+                    "model": "65EV960H-ZA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-537_webOS3.5 M16+ Commercial TV _170912.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "507936",
+                    "model": "65EV960H-ZA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS3.5_M16+_CTV_OpenSource_V1.1.zip"
+                }
+            ]
+        }
+    }
+}

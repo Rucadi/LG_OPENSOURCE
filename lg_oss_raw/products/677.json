@@ -1,0 +1,172 @@
+{
+    "TV/AV>TV": {
+        "55UK6100PTA": {
+            "description": "webOS DKLP3 LGE Open Source",
+            "notice": [
+                {
+                    "osSeq": "507694",
+                    "model": "55UK6100PTA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-170601-webOSDKL_3-1.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "507694",
+                    "model": "55UK6100PTA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "DKLP3-r3185.tar.gz"
+                }
+            ]
+        },
+        "55UK6100PVA": {
+            "description": "webOS DKLP3 LGE Open Source",
+            "notice": [
+                {
+                    "osSeq": "507694",
+                    "model": "55UK6100PVA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-170601-webOSDKL_3-1.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "507694",
+                    "model": "55UK6100PVA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "DKLP3-r3185.tar.gz"
+                }
+            ]
+        },
+        "55UK6100YVA": {
+            "description": "webOS DKLP3 LGE Open Source",
+            "notice": [
+                {
+                    "osSeq": "507694",
+                    "model": "55UK6100YVA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-170601-webOSDKL_3-1.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "507694",
+                    "model": "55UK6100YVA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "DKLP3-r3185.tar.gz"
+                }
+            ]
+        },
+        "55UK6200BNA": {
+            "description": "webOS 4.5 IMP 4.0",
+            "notice": [
+                {
+                    "osSeq": "510773",
+                    "model": "55UK6200BNA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-4152_webOS 4.5 IMP_4.0_220113.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "510773",
+                    "model": "55UK6200BNA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS 4.5 IMP_4.0_1.tar.gz"
+                },
+                {
+                    "osSeq": "510773",
+                    "model": "55UK6200BNA",
+                    "type": "Op",
+                    "fileId": "2",
+                    "filename": "webOS 4.5 IMP_4.0_2.tar.gz"
+                }
+            ]
+        },
+        "55UK6200ENA": {
+            "description": "webOS 4.5 IMP 4.0",
+            "notice": [
+                {
+                    "osSeq": "510773",
+                    "model": "55UK6200ENA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-4152_webOS 4.5 IMP_4.0_220113.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "510773",
+                    "model": "55UK6200ENA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS 4.5 IMP_4.0_1.tar.gz"
+                },
+                {
+                    "osSeq": "510773",
+                    "model": "55UK6200ENA",
+                    "type": "Op",
+                    "fileId": "2",
+                    "filename": "webOS 4.5 IMP_4.0_2.tar.gz"
+                }
+            ]
+        },
+        "55UK6200GNA": {
+            "description": "webOS 4.5 IMP 4.0",
+            "notice": [
+                {
+                    "osSeq": "510773",
+                    "model": "55UK6200GNA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-4152_webOS 4.5 IMP_4.0_220113.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "510773",
+                    "model": "55UK6200GNA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS 4.5 IMP_4.0_1.tar.gz"
+                },
+                {
+                    "osSeq": "510773",
+                    "model": "55UK6200GNA",
+                    "type": "Op",
+                    "fileId": "2",
+                    "filename": "webOS 4.5 IMP_4.0_2.tar.gz"
+                }
+            ]
+        },
+        "55UK6200PCA": {
+            "description": "webOS 4.0 GLMA 3.0",
+            "notice": [
+                {
+                    "osSeq": "510770",
+                    "model": "55UK6200PCA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-4062_webOS 4.0 GLMA_3.0_220113.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "510770",
+                    "model": "55UK6200PCA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS 4.0 GLMA_3.0.tar.gz"
+                }
+            ]
+        }
+    }
+}

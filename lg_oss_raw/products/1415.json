@@ -1,0 +1,344 @@
+{
+    "TV/AV>Monitor/Signage": {
+        "SDK_BEANVISER_3_0": {
+            "description": "Performance monitoring tool for webOS Signage",
+            "notice": [
+                {
+                    "osSeq": "509414",
+                    "model": "SDK_BEANVISER_3_0",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-2146_Beanviser_3.0_191126.html"
+                }
+            ],
+            "source": []
+        },
+        "SIGNAGE 365 CARE": {
+            "description": "Signage365Care Agent 2.9",
+            "notice": [
+                {
+                    "osSeq": "509428",
+                    "model": "SIGNAGE 365 CARE",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-2151_Signage365Care Agent_2.9_191104.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "509428",
+                    "model": "SIGNAGE 365 CARE",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "Signage365Care Agent_2.9.zip"
+                }
+            ]
+        }
+    },
+    "TV/AV>TV": {
+        "SDK_BEANVISER_CTV_1_0": {
+            "description": "Beanviser for CommercialTV 1.0",
+            "notice": [
+                {
+                    "osSeq": "509621",
+                    "model": "SDK_BEANVISER_CTV_1_0",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-2386_Beanviser for CommercialTV_1.0_200113.html"
+                }
+            ],
+            "source": []
+        }
+    },
+    "TV/AV>AV": {
+        "SE6S": {
+            "description": "23Y High-End SoundBar / 22Y High-EndSoundBar(SW MR) 2302160-",
+            "notice": [
+                {
+                    "osSeq": "511108",
+                    "model": "SE6S",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-4788_23Y High-End SoundBar_2209051-_220929.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "511108",
+                    "model": "SE6S",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "23Y High-End SoundBar_2209051-.zip"
+                }
+            ]
+        },
+        "SG10TY": {
+            "description": "24Y High-End SoundBar 230822-",
+            "notice": [
+                {
+                    "osSeq": "511524",
+                    "model": "SG10TY",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-5723_24Y High-End SoundBar_230822-_231016.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "511524",
+                    "model": "SG10TY",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "24Y High-End SoundBar_230822-.tar.gz"
+                }
+            ]
+        },
+        "SH7Q": {
+            "description": "22Y Normal SoundBar 211110-",
+            "notice": [
+                {
+                    "osSeq": "510681",
+                    "model": "SH7Q",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-3963_22Y Normal SoundBar_211110-_211110.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "510681",
+                    "model": "SH7Q",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "22Y Normal SoundBar_211110-.zip"
+                }
+            ]
+        },
+        "SH960S-AT": {
+            "description": "SH960S-AT_Android_Smartbox(Marshmallow)_OpenSource",
+            "notice": [
+                {
+                    "osSeq": "507473",
+                    "model": "SH960S-AT",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "NOTICE_SH960S-AT_160905.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "507473",
+                    "model": "SH960S-AT",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "SH960S-AT_Opensource_V1.1.zip"
+                }
+            ]
+        },
+        "SJ6": {
+            "description": "17Y_18Y_19Y_Multiroom_SoundBar (Google Cast 1.36) 200709-",
+            "notice": [
+                {
+                    "osSeq": "509947",
+                    "model": "SJ6",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-2740_17Y_18Y_19Y_Multiroom_SoundBar_200709-_240405.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "509947",
+                    "model": "SJ6",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "17Y_18Y_19Y_Multiroom_SoundBar_200709-_1.zip"
+                },
+                {
+                    "osSeq": "509947",
+                    "model": "SJ6",
+                    "type": "Op",
+                    "fileId": "2",
+                    "filename": "17Y_18Y_19Y_Multiroom_SoundBar_200709-_2.tar.gz"
+                }
+            ]
+        },
+        "SJ6B": {
+            "description": "17Y_18Y_19Y_Multiroom_SoundBar (Google Cast 1.36) 200709-",
+            "notice": [
+                {
+                    "osSeq": "509947",
+                    "model": "SJ6B",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-2740_17Y_18Y_19Y_Multiroom_SoundBar_200709-_240405.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "509947",
+                    "model": "SJ6B",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "17Y_18Y_19Y_Multiroom_SoundBar_200709-_1.zip"
+                },
+                {
+                    "osSeq": "509947",
+                    "model": "SJ6B",
+                    "type": "Op",
+                    "fileId": "2",
+                    "filename": "17Y_18Y_19Y_Multiroom_SoundBar_200709-_2.tar.gz"
+                }
+            ]
+        },
+        "SJ8": {
+            "description": "17Y_18Y_19Y_Multiroom_SoundBar (Google Cast 1.36) 200709-",
+            "notice": [
+                {
+                    "osSeq": "509947",
+                    "model": "SJ8",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-2740_17Y_18Y_19Y_Multiroom_SoundBar_200709-_240405.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "509947",
+                    "model": "SJ8",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "17Y_18Y_19Y_Multiroom_SoundBar_200709-_1.zip"
+                },
+                {
+                    "osSeq": "509947",
+                    "model": "SJ8",
+                    "type": "Op",
+                    "fileId": "2",
+                    "filename": "17Y_18Y_19Y_Multiroom_SoundBar_200709-_2.tar.gz"
+                }
+            ]
+        },
+        "SJ8S": {
+            "description": "17Y_18Y_19Y_Multiroom_SoundBar (Google Cast 1.36) 200709-",
+            "notice": [
+                {
+                    "osSeq": "509947",
+                    "model": "SJ8S",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-2740_17Y_18Y_19Y_Multiroom_SoundBar_200709-_240405.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "509947",
+                    "model": "SJ8S",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "17Y_18Y_19Y_Multiroom_SoundBar_200709-_1.zip"
+                },
+                {
+                    "osSeq": "509947",
+                    "model": "SJ8S",
+                    "type": "Op",
+                    "fileId": "2",
+                    "filename": "17Y_18Y_19Y_Multiroom_SoundBar_200709-_2.tar.gz"
+                }
+            ]
+        }
+    },
+    "TV/AV>Projector": {
+        "SGF410Q-KR": {
+            "description": "webOS 4.5 Projector",
+            "notice": [
+                {
+                    "osSeq": "509121",
+                    "model": "SGF410Q-KR",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-1592_webOS 4.5 Projector_190515.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "509121",
+                    "model": "SGF410Q-KR",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS 4.5 Projector.tar.gz"
+                }
+            ]
+        },
+        "SGU510N-KR": {
+            "description": "webOS 4.5 Projector",
+            "notice": [
+                {
+                    "osSeq": "509121",
+                    "model": "SGU510N-KR",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-1592_webOS 4.5 Projector_190515.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "509121",
+                    "model": "SGU510N-KR",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS 4.5 Projector.tar.gz"
+                }
+            ]
+        },
+        "SGU510RG-GL": {
+            "description": "Signage_Projector_M16P3_webOS6.0 MR4",
+            "notice": [
+                {
+                    "osSeq": "511209",
+                    "model": "SGU510RG-GL",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-4974_Signage_Projector_M16P3_webOS6.0_MR4_221216.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "511209",
+                    "model": "SGU510RG-GL",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "Signage_Projector_M16P3_webOS6.0_MR4_1.zip"
+                },
+                {
+                    "osSeq": "511209",
+                    "model": "SGU510RG-GL",
+                    "type": "Op",
+                    "fileId": "2",
+                    "filename": "Signage_Projector_M16P3_webOS6.0_MR4_2.zip"
+                }
+            ]
+        },
+        "SGU523P-KR": {
+            "description": "webOS 4.5 Projector",
+            "notice": [
+                {
+                    "osSeq": "509121",
+                    "model": "SGU523P-KR",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-1592_webOS 4.5 Projector_190515.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "509121",
+                    "model": "SGU523P-KR",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS 4.5 Projector.tar.gz"
+                }
+            ]
+        }
+    }
+}

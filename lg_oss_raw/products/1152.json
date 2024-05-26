@@ -1,0 +1,361 @@
+{
+    "TV/AV>TV": {
+        "86UH9500-CA": {
+            "description": "webOS DM LGE Open Source",
+            "notice": [
+                {
+                    "osSeq": "507010",
+                    "model": "86UH9500-CA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-161108-webOSDM-10.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "507010",
+                    "model": "86UH9500-CA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "DM-r3147.tar.gz"
+                }
+            ]
+        },
+        "86UH9500-SA": {
+            "description": "webOS DM LGE Open Source",
+            "notice": [
+                {
+                    "osSeq": "507010",
+                    "model": "86UH9500-SA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-161108-webOSDM-10.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "507010",
+                    "model": "86UH9500-SA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "DM-r3147.tar.gz"
+                }
+            ]
+        },
+        "86UH9500-UA": {
+            "description": "webOS DM LGE Open Source",
+            "notice": [
+                {
+                    "osSeq": "507010",
+                    "model": "86UH9500-UA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-161108-webOSDM-10.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "507010",
+                    "model": "86UH9500-UA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "DM-r3147.tar.gz"
+                }
+            ]
+        },
+        "86UH950T-DA": {
+            "description": "webOS DM LGE Open Source",
+            "notice": [
+                {
+                    "osSeq": "507010",
+                    "model": "86UH950T-DA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-161108-webOSDM-10.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "507010",
+                    "model": "86UH950T-DA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "DM-r3147.tar.gz"
+                }
+            ]
+        },
+        "86UH951C-CA": {
+            "description": "M16 Derivation Commercial TV",
+            "notice": [
+                {
+                    "osSeq": "507256",
+                    "model": "86UH951C-CA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-160406-webOSDM-8.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "507256",
+                    "model": "86UH951C-CA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "DM-r3051.tar.gz"
+                }
+            ]
+        },
+        "86UH9550-CA": {
+            "description": "webOS DM LGE Open Source",
+            "notice": [
+                {
+                    "osSeq": "507010",
+                    "model": "86UH9550-CA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-161108-webOSDM-10.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "507010",
+                    "model": "86UH9550-CA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "DM-r3147.tar.gz"
+                }
+            ]
+        },
+        "86UH9550-PA": {
+            "description": "webOS DM LGE Open Source",
+            "notice": [
+                {
+                    "osSeq": "507010",
+                    "model": "86UH9550-PA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-161108-webOSDM-10.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "507010",
+                    "model": "86UH9550-PA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "DM-r3147.tar.gz"
+                }
+            ]
+        },
+        "86UH9550-SA": {
+            "description": "webOS DM LGE Open Source",
+            "notice": [
+                {
+                    "osSeq": "507010",
+                    "model": "86UH9550-SA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-161108-webOSDM-10.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "507010",
+                    "model": "86UH9550-SA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "DM-r3147.tar.gz"
+                }
+            ]
+        },
+        "86UH955T-DA": {
+            "description": "webOS DM LGE Open Source",
+            "notice": [
+                {
+                    "osSeq": "507010",
+                    "model": "86UH955T-DA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-161108-webOSDM-10.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "507010",
+                    "model": "86UH955T-DA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "DM-r3147.tar.gz"
+                }
+            ]
+        },
+        "86UH955T-TA": {
+            "description": "webOS DM LGE Open Source",
+            "notice": [
+                {
+                    "osSeq": "507010",
+                    "model": "86UH955T-TA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-161108-webOSDM-10.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "507010",
+                    "model": "86UH955T-TA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "DM-r3147.tar.gz"
+                }
+            ]
+        },
+        "86UH955V-TA": {
+            "description": "webOS DM LGE Open Source",
+            "notice": [
+                {
+                    "osSeq": "507010",
+                    "model": "86UH955V-TA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-161108-webOSDM-10.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "507010",
+                    "model": "86UH955V-TA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "DM-r3147.tar.gz"
+                }
+            ]
+        },
+        "86UH955V-ZA": {
+            "description": "webOS DM LGE Open Source",
+            "notice": [
+                {
+                    "osSeq": "507010",
+                    "model": "86UH955V-ZA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-161108-webOSDM-10.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "507010",
+                    "model": "86UH955V-ZA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "DM-r3147.tar.gz"
+                }
+            ]
+        },
+        "86UH955Y-TA": {
+            "description": "webOS DM LGE Open Source",
+            "notice": [
+                {
+                    "osSeq": "507010",
+                    "model": "86UH955Y-TA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-161108-webOSDM-10.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "507010",
+                    "model": "86UH955Y-TA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "DM-r3147.tar.gz"
+                }
+            ]
+        },
+        "86UH9650-NA": {
+            "description": "webOS DM LGE Open Source",
+            "notice": [
+                {
+                    "osSeq": "507010",
+                    "model": "86UH9650-NA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-161108-webOSDM-10.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "507010",
+                    "model": "86UH9650-NA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "DM-r3147.tar.gz"
+                }
+            ]
+        },
+        "86UJ9870-NA": {
+            "description": "webOS DMP LGE Open Source",
+            "notice": [
+                {
+                    "osSeq": "507684",
+                    "model": "86UJ9870-NA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-170601-webOSDMP-4.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "507684",
+                    "model": "86UJ9870-NA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "DMP-r3186.tar.gz"
+                }
+            ]
+        },
+        "86UK6500PCB": {
+            "description": "webOS 4.0 GMPP MR 2.0",
+            "notice": [
+                {
+                    "osSeq": "508643",
+                    "model": "86UK6500PCB",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-1058_webOS 4.0 GMPP MR_2.0_180625.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "508643",
+                    "model": "86UK6500PCB",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS 4.0 GMPP MR_2.0.tar.gz"
+                }
+            ]
+        },
+        "86UK6500PLA": {
+            "description": "webOS 4.0 GMPP 3.0",
+            "notice": [
+                {
+                    "osSeq": "510764",
+                    "model": "86UK6500PLA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-4052_webOS 4.0 GMPP_3.0_220112.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "510764",
+                    "model": "86UK6500PLA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS 4.0 GMPP_3.0.tar.gz"
+                }
+            ]
+        }
+    }
+}

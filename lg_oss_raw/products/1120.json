@@ -1,0 +1,403 @@
+{
+    "TV/AV>TV": {
+        "79UF950Y-TA": {
+            "description": "webOS BLMU LGE Open Source2",
+            "notice": [
+                {
+                    "osSeq": "506703",
+                    "model": "79UF950Y-TA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-160509-webOSBLMU-3.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "506703",
+                    "model": "79UF950Y-TA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "BLMU-r3160-2.tar.gz"
+                }
+            ]
+        },
+        "79UH9000-CA": {
+            "description": "webOS DM LGE Open Source",
+            "notice": [
+                {
+                    "osSeq": "507010",
+                    "model": "79UH9000-CA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-161108-webOSDM-10.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "507010",
+                    "model": "79UH9000-CA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "DM-r3147.tar.gz"
+                }
+            ]
+        },
+        "79UH9000-NA": {
+            "description": "webOS DM LGE Open Source",
+            "notice": [
+                {
+                    "osSeq": "507010",
+                    "model": "79UH9000-NA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-161108-webOSDM-10.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "507010",
+                    "model": "79UH9000-NA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "DM-r3147.tar.gz"
+                }
+            ]
+        },
+        "79UH9500-CA": {
+            "description": "webOS DM LGE Open Source",
+            "notice": [
+                {
+                    "osSeq": "507010",
+                    "model": "79UH9500-CA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-161108-webOSDM-10.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "507010",
+                    "model": "79UH9500-CA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "DM-r3147.tar.gz"
+                }
+            ]
+        },
+        "79UH9500-SA": {
+            "description": "webOS DM LGE Open Source",
+            "notice": [
+                {
+                    "osSeq": "507010",
+                    "model": "79UH9500-SA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-161108-webOSDM-10.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "507010",
+                    "model": "79UH9500-SA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "DM-r3147.tar.gz"
+                }
+            ]
+        },
+        "79UH950T-DA": {
+            "description": "webOS DM LGE Open Source",
+            "notice": [
+                {
+                    "osSeq": "507010",
+                    "model": "79UH950T-DA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-161108-webOSDM-10.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "507010",
+                    "model": "79UH950T-DA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "DM-r3147.tar.gz"
+                }
+            ]
+        },
+        "79UH9530-CA": {
+            "description": "webOS DM LGE Open Source",
+            "notice": [
+                {
+                    "osSeq": "507010",
+                    "model": "79UH9530-CA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-161108-webOSDM-10.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "507010",
+                    "model": "79UH9530-CA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "DM-r3147.tar.gz"
+                }
+            ]
+        },
+        "79UH9530-PA": {
+            "description": "webOS DM LGE Open Source",
+            "notice": [
+                {
+                    "osSeq": "507010",
+                    "model": "79UH9530-PA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-161108-webOSDM-10.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "507010",
+                    "model": "79UH9530-PA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "DM-r3147.tar.gz"
+                }
+            ]
+        },
+        "79UH9530-SA": {
+            "description": "webOS DM LGE Open Source",
+            "notice": [
+                {
+                    "osSeq": "507010",
+                    "model": "79UH9530-SA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-161108-webOSDM-10.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "507010",
+                    "model": "79UH9530-SA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "DM-r3147.tar.gz"
+                }
+            ]
+        },
+        "79UH953T-DA": {
+            "description": "webOS DM LGE Open Source",
+            "notice": [
+                {
+                    "osSeq": "507010",
+                    "model": "79UH953T-DA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-161108-webOSDM-10.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "507010",
+                    "model": "79UH953T-DA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "DM-r3147.tar.gz"
+                }
+            ]
+        },
+        "79UH953T-TA": {
+            "description": "webOS DM LGE Open Source",
+            "notice": [
+                {
+                    "osSeq": "507010",
+                    "model": "79UH953T-TA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-161108-webOSDM-10.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "507010",
+                    "model": "79UH953T-TA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "DM-r3147.tar.gz"
+                }
+            ]
+        },
+        "79UH953V-TA": {
+            "description": "webOS DM LGE Open Source",
+            "notice": [
+                {
+                    "osSeq": "507010",
+                    "model": "79UH953V-TA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-161108-webOSDM-10.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "507010",
+                    "model": "79UH953V-TA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "DM-r3147.tar.gz"
+                }
+            ]
+        },
+        "79UH953Y-TA": {
+            "description": "webOS DM LGE Open Source",
+            "notice": [
+                {
+                    "osSeq": "507010",
+                    "model": "79UH953Y-TA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-161108-webOSDM-10.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "507010",
+                    "model": "79UH953Y-TA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "DM-r3147.tar.gz"
+                }
+            ]
+        },
+        "79UH9640-NA": {
+            "description": "webOS DM LGE Open Source",
+            "notice": [
+                {
+                    "osSeq": "507010",
+                    "model": "79UH9640-NA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-161108-webOSDM-10.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "507010",
+                    "model": "79UH9640-NA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "DM-r3147.tar.gz"
+                }
+            ]
+        },
+        "79UH9650-NA": {
+            "description": "webOS DM LGE Open Source",
+            "notice": [
+                {
+                    "osSeq": "507010",
+                    "model": "79UH9650-NA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-161108-webOSDM-10.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "507010",
+                    "model": "79UH9650-NA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "DM-r3147.tar.gz"
+                }
+            ]
+        },
+        "79UX340C-TA": {
+            "description": "L15_M1A_Commercial TV Open Source",
+            "notice": [
+                {
+                    "osSeq": "506326",
+                    "model": "79UX340C-TA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-150126-L15_M1A_CommercialTV-2.pdf"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "506326",
+                    "model": "79UX340C-TA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "L15_M1A_Commercial_Signage_Opensource_v1.0.zip"
+                }
+            ]
+        },
+        "79UX340C-UA": {
+            "description": "L15_M1A_Commercial TV Open Source",
+            "notice": [
+                {
+                    "osSeq": "506326",
+                    "model": "79UX340C-UA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-150126-L15_M1A_CommercialTV-2.pdf"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "506326",
+                    "model": "79UX340C-UA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "L15_M1A_Commercial_Signage_Opensource_v1.0.zip"
+                }
+            ]
+        },
+        "79UX340C-UF": {
+            "description": "L15_M1A_Commercial TV Open Source",
+            "notice": [
+                {
+                    "osSeq": "506326",
+                    "model": "79UX340C-UF",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-150126-L15_M1A_CommercialTV-2.pdf"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "506326",
+                    "model": "79UX340C-UF",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "L15_M1A_Commercial_Signage_Opensource_v1.0.zip"
+                }
+            ]
+        },
+        "79UX960H-GA": {
+            "description": "webOS2.0 LM15U Commercial TV Open Source 1",
+            "notice": [
+                {
+                    "osSeq": "506813",
+                    "model": "79UX960H-GA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-150818-webOS2.0LM15UCommercialTV-1.pdf"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "506813",
+                    "model": "79UX960H-GA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS_BLM_COMMERCIAL_FI_1-2.zip"
+                }
+            ]
+        }
+    }
+}

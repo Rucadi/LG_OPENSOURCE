@@ -1,0 +1,416 @@
+{
+    "TV/AV>TV": {
+        "32LH601T-TC": {
+            "description": "webOS DM2 LGE Open Source",
+            "notice": [
+                {
+                    "osSeq": "507012",
+                    "model": "32LH601T-TC",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-161108-webOSDM2-6.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "507012",
+                    "model": "32LH601T-TC",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "DM2-r3173.tar.gz"
+                }
+            ]
+        },
+        "32LH601V-ZA": {
+            "description": "webOS DM2 LGE Open Source",
+            "notice": [
+                {
+                    "osSeq": "507012",
+                    "model": "32LH601V-ZA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-161108-webOSDM2-6.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "507012",
+                    "model": "32LH601V-ZA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "DM2-r3173.tar.gz"
+                }
+            ]
+        },
+        "32LH601V-ZB": {
+            "description": "webOS DM2 LGE Open Source",
+            "notice": [
+                {
+                    "osSeq": "507012",
+                    "model": "32LH601V-ZB",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-161108-webOSDM2-6.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "507012",
+                    "model": "32LH601V-ZB",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "DM2-r3173.tar.gz"
+                }
+            ]
+        },
+        "32LH602D-TD": {
+            "description": "webOS DM2 LGE Open Source",
+            "notice": [
+                {
+                    "osSeq": "507012",
+                    "model": "32LH602D-TD",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-161108-webOSDM2-6.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "507012",
+                    "model": "32LH602D-TD",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "DM2-r3173.tar.gz"
+                }
+            ]
+        },
+        "32LH602T-TD": {
+            "description": "webOS DM2 LGE Open Source",
+            "notice": [
+                {
+                    "osSeq": "507012",
+                    "model": "32LH602T-TD",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-161108-webOSDM2-6.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "507012",
+                    "model": "32LH602T-TD",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "DM2-r3173.tar.gz"
+                }
+            ]
+        },
+        "32LH602U-TD": {
+            "description": "webOS DM2 LGE Open Source",
+            "notice": [
+                {
+                    "osSeq": "507012",
+                    "model": "32LH602U-TD",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-161108-webOSDM2-6.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "507012",
+                    "model": "32LH602U-TD",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "DM2-r3173.tar.gz"
+                }
+            ]
+        },
+        "32LH602V-ZF": {
+            "description": "webOS DM2 LGE Open Source",
+            "notice": [
+                {
+                    "osSeq": "507012",
+                    "model": "32LH602V-ZF",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-161108-webOSDM2-6.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "507012",
+                    "model": "32LH602V-ZF",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "DM2-r3173.tar.gz"
+                }
+            ]
+        },
+        "32LH602Z-TD": {
+            "description": "webOS DM2 LGE Open Source",
+            "notice": [
+                {
+                    "osSeq": "507012",
+                    "model": "32LH602Z-TD",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-161108-webOSDM2-6.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "507012",
+                    "model": "32LH602Z-TD",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "DM2-r3173.tar.gz"
+                }
+            ]
+        },
+        "32LH6040-CB": {
+            "description": "webOS DM2 LGE Open Source",
+            "notice": [
+                {
+                    "osSeq": "507012",
+                    "model": "32LH6040-CB",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-161108-webOSDM2-6.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "507012",
+                    "model": "32LH6040-CB",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "DM2-r3173.tar.gz"
+                }
+            ]
+        },
+        "32LH6047-ZB": {
+            "description": "webOS DM2 LGE Open Source",
+            "notice": [
+                {
+                    "osSeq": "507012",
+                    "model": "32LH6047-ZB",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-161108-webOSDM2-6.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "507012",
+                    "model": "32LH6047-ZB",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "DM2-r3173.tar.gz"
+                }
+            ]
+        },
+        "32LH604B-PB": {
+            "description": "webOS DM2 LGE Open Source",
+            "notice": [
+                {
+                    "osSeq": "507012",
+                    "model": "32LH604B-PB",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-161108-webOSDM2-6.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "507012",
+                    "model": "32LH604B-PB",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "DM2-r3173.tar.gz"
+                }
+            ]
+        },
+        "32LH604D-TB": {
+            "description": "webOS DM2 LGE Open Source",
+            "notice": [
+                {
+                    "osSeq": "507012",
+                    "model": "32LH604D-TB",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-161108-webOSDM2-6.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "507012",
+                    "model": "32LH604D-TB",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "DM2-r3173.tar.gz"
+                }
+            ]
+        },
+        "32LH604T-TB": {
+            "description": "webOS DM2 LGE Open Source",
+            "notice": [
+                {
+                    "osSeq": "507012",
+                    "model": "32LH604T-TB",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-161108-webOSDM2-6.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "507012",
+                    "model": "32LH604T-TB",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "DM2-r3173.tar.gz"
+                }
+            ]
+        },
+        "32LH604U-TB": {
+            "description": "webOS DM2 LGE Open Source",
+            "notice": [
+                {
+                    "osSeq": "507012",
+                    "model": "32LH604U-TB",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-161108-webOSDM2-6.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "507012",
+                    "model": "32LH604U-TB",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "DM2-r3173.tar.gz"
+                }
+            ]
+        },
+        "32LH604V-ZB": {
+            "description": "webOS DM2 LGE Open Source",
+            "notice": [
+                {
+                    "osSeq": "507012",
+                    "model": "32LH604V-ZB",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-161108-webOSDM2-6.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "507012",
+                    "model": "32LH604V-ZB",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "DM2-r3173.tar.gz"
+                }
+            ]
+        },
+        "32LH604Z-TB": {
+            "description": "webOS DM2 LGE Open Source",
+            "notice": [
+                {
+                    "osSeq": "507012",
+                    "model": "32LH604Z-TB",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-161108-webOSDM2-6.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "507012",
+                    "model": "32LH604Z-TB",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "DM2-r3173.tar.gz"
+                }
+            ]
+        },
+        "32LH608V-ZB": {
+            "description": "webOS DM2 LGE Open Source",
+            "notice": [
+                {
+                    "osSeq": "507012",
+                    "model": "32LH608V-ZB",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-161108-webOSDM2-6.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "507012",
+                    "model": "32LH608V-ZB",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "DM2-r3173.tar.gz"
+                }
+            ]
+        },
+        "32LH609V-ZF": {
+            "description": "webOS DM2 LGE Open Source",
+            "notice": [
+                {
+                    "osSeq": "507012",
+                    "model": "32LH609V-ZF",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-161108-webOSDM2-6.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "507012",
+                    "model": "32LH609V-ZF",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "DM2-r3173.tar.gz"
+                }
+            ]
+        },
+        "32LJ500A-PA": {
+            "description": "2017 LGE ODM Open Source (BO)",
+            "notice": [
+                {
+                    "osSeq": "507889",
+                    "model": "32LJ500A-PA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "No_OpenSource.txt"
+                }
+            ],
+            "source": []
+        },
+        "32LJ500B-SA": {
+            "description": "2017 LGE ODM Open Source (TP) - BR",
+            "notice": [
+                {
+                    "osSeq": "507624",
+                    "model": "32LJ500B-SA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-161205-LJ50_BR-1.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "507624",
+                    "model": "32LJ500B-SA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "Gemini17-r1.zip"
+                }
+            ]
+        }
+    }
+}

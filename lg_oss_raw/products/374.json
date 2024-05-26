@@ -1,0 +1,130 @@
+{
+    "TV/AV>TV": {
+        "49SK8500PCA": {
+            "description": "webOS 4.0 GMPP MR 2.0",
+            "notice": [
+                {
+                    "osSeq": "508643",
+                    "model": "49SK8500PCA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-1058_webOS 4.0 GMPP MR_2.0_180625.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "508643",
+                    "model": "49SK8500PCA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS 4.0 GMPP MR_2.0.tar.gz"
+                }
+            ]
+        },
+        "49SK8500PJA": {
+            "description": "webOS 4.0 GMPP MR 2.0",
+            "notice": [
+                {
+                    "osSeq": "508643",
+                    "model": "49SK8500PJA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-1058_webOS 4.0 GMPP MR_2.0_180625.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "508643",
+                    "model": "49SK8500PJA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS 4.0 GMPP MR_2.0.tar.gz"
+                }
+            ]
+        },
+        "49SK8500PLA": {
+            "description": "webOS 4.5 IMP 4.0",
+            "notice": [
+                {
+                    "osSeq": "510773",
+                    "model": "49SK8500PLA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-4152_webOS 4.5 IMP_4.0_220113.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "510773",
+                    "model": "49SK8500PLA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS 4.5 IMP_4.0_1.tar.gz"
+                },
+                {
+                    "osSeq": "510773",
+                    "model": "49SK8500PLA",
+                    "type": "Op",
+                    "fileId": "2",
+                    "filename": "webOS 4.5 IMP_4.0_2.tar.gz"
+                }
+            ]
+        },
+        "49SK8500PTA": {
+            "description": "webOS 4.5 IMP 4.0",
+            "notice": [
+                {
+                    "osSeq": "510773",
+                    "model": "49SK8500PTA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-4152_webOS 4.5 IMP_4.0_220113.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "510773",
+                    "model": "49SK8500PTA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS 4.5 IMP_4.0_1.tar.gz"
+                },
+                {
+                    "osSeq": "510773",
+                    "model": "49SK8500PTA",
+                    "type": "Op",
+                    "fileId": "2",
+                    "filename": "webOS 4.5 IMP_4.0_2.tar.gz"
+                }
+            ]
+        },
+        "49SK8500PVA": {
+            "description": "webOS 4.5 IMP 3.0",
+            "notice": [
+                {
+                    "osSeq": "509238",
+                    "model": "49SK8500PVA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-1835_webOS 4.5 IMP_3.0_190710.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "509238",
+                    "model": "49SK8500PVA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS 4.5 IMP_3.0_1.tar.gz"
+                },
+                {
+                    "osSeq": "509238",
+                    "model": "49SK8500PVA",
+                    "type": "Op",
+                    "fileId": "2",
+                    "filename": "webOS 4.5 IMP_3.0_2.tar.gz"
+                }
+            ]
+        }
+    }
+}

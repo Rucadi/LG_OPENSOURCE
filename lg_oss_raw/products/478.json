@@ -1,0 +1,496 @@
+{
+    "TV/AV>PDP": {
+        "50PB6900-UA": {
+            "description": "NetCast4.5 M LGE PDP TV Open Source-2",
+            "notice": [
+                {
+                    "osSeq": "11647",
+                    "model": "50PB6900-UA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "140214-PDP TV_NetCast4.5M-1.pdf"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "11647",
+                    "model": "50PB6900-UA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "NetCast4.5_M_CO_FI_PDP-2.zip"
+                }
+            ]
+        },
+        "50PB6909-ZC": {
+            "description": "NetCast4.5 M LGE PDP TV Open Source-2",
+            "notice": [
+                {
+                    "osSeq": "11647",
+                    "model": "50PB6909-ZC",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "140214-PDP TV_NetCast4.5M-1.pdf"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "11647",
+                    "model": "50PB6909-ZC",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "NetCast4.5_M_CO_FI_PDP-2.zip"
+                }
+            ]
+        },
+        "50PB690B-SD": {
+            "description": "NetCast4.5 M LGE PDP TV Open Source-2",
+            "notice": [
+                {
+                    "osSeq": "11647",
+                    "model": "50PB690B-SD",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "140214-PDP TV_NetCast4.5M-1.pdf"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "11647",
+                    "model": "50PB690B-SD",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "NetCast4.5_M_CO_FI_PDP-2.zip"
+                }
+            ]
+        },
+        "50PB690V-ZC": {
+            "description": "NetCast4.5 M LGE PDP TV Open Source-2",
+            "notice": [
+                {
+                    "osSeq": "11647",
+                    "model": "50PB690V-ZC",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "140214-PDP TV_NetCast4.5M-1.pdf"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "11647",
+                    "model": "50PB690V-ZC",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "NetCast4.5_M_CO_FI_PDP-2.zip"
+                }
+            ]
+        }
+    },
+    "TV/AV>TV": {
+        "50QNED753RA": {
+            "description": "webOS 23 M 1.0",
+            "notice": [
+                {
+                    "osSeq": "511218",
+                    "model": "50QNED753RA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-4664_webOS 23 M_1.0_221221.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "511218",
+                    "model": "50QNED753RA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS 23 M_1.0_1.tar.gz"
+                },
+                {
+                    "osSeq": "511218",
+                    "model": "50QNED753RA",
+                    "type": "Op",
+                    "fileId": "2",
+                    "filename": "webOS 23 M_1.0_2.tar.gz"
+                },
+                {
+                    "osSeq": "511218",
+                    "model": "50QNED753RA",
+                    "type": "Op",
+                    "fileId": "3",
+                    "filename": "webOS 23 M_1.0_3.tar.gz"
+                }
+            ]
+        },
+        "50QNED756RA": {
+            "description": "webOS 23 M 1.0",
+            "notice": [
+                {
+                    "osSeq": "511218",
+                    "model": "50QNED756RA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-4664_webOS 23 M_1.0_221221.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "511218",
+                    "model": "50QNED756RA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS 23 M_1.0_1.tar.gz"
+                },
+                {
+                    "osSeq": "511218",
+                    "model": "50QNED756RA",
+                    "type": "Op",
+                    "fileId": "2",
+                    "filename": "webOS 23 M_1.0_2.tar.gz"
+                },
+                {
+                    "osSeq": "511218",
+                    "model": "50QNED756RA",
+                    "type": "Op",
+                    "fileId": "3",
+                    "filename": "webOS 23 M_1.0_3.tar.gz"
+                }
+            ]
+        },
+        "50QNED756RB": {
+            "description": "webOS 23 M 1.0",
+            "notice": [
+                {
+                    "osSeq": "511218",
+                    "model": "50QNED756RB",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-4664_webOS 23 M_1.0_221221.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "511218",
+                    "model": "50QNED756RB",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS 23 M_1.0_1.tar.gz"
+                },
+                {
+                    "osSeq": "511218",
+                    "model": "50QNED756RB",
+                    "type": "Op",
+                    "fileId": "2",
+                    "filename": "webOS 23 M_1.0_2.tar.gz"
+                },
+                {
+                    "osSeq": "511218",
+                    "model": "50QNED756RB",
+                    "type": "Op",
+                    "fileId": "3",
+                    "filename": "webOS 23 M_1.0_3.tar.gz"
+                }
+            ]
+        },
+        "50QNED75ARA": {
+            "description": "webOS 23 M 1.0",
+            "notice": [
+                {
+                    "osSeq": "511218",
+                    "model": "50QNED75ARA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-4664_webOS 23 M_1.0_221221.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "511218",
+                    "model": "50QNED75ARA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS 23 M_1.0_1.tar.gz"
+                },
+                {
+                    "osSeq": "511218",
+                    "model": "50QNED75ARA",
+                    "type": "Op",
+                    "fileId": "2",
+                    "filename": "webOS 23 M_1.0_2.tar.gz"
+                },
+                {
+                    "osSeq": "511218",
+                    "model": "50QNED75ARA",
+                    "type": "Op",
+                    "fileId": "3",
+                    "filename": "webOS 23 M_1.0_3.tar.gz"
+                }
+            ]
+        },
+        "50QNED75CRA": {
+            "description": "webOS 23 KLP(n) 1.0",
+            "notice": [
+                {
+                    "osSeq": "511217",
+                    "model": "50QNED75CRA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-4665_webOS 23 KLP(n)_1.0_221220.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "511217",
+                    "model": "50QNED75CRA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS 23 KLP(n)_1.0_1.tar.gz"
+                },
+                {
+                    "osSeq": "511217",
+                    "model": "50QNED75CRA",
+                    "type": "Op",
+                    "fileId": "2",
+                    "filename": "webOS 23 KLP(n)_1.0_2.tar.gz"
+                },
+                {
+                    "osSeq": "511217",
+                    "model": "50QNED75CRA",
+                    "type": "Op",
+                    "fileId": "3",
+                    "filename": "webOS 23 KLP(n)_1.0_3.tar.gz"
+                }
+            ]
+        },
+        "50QNED75JRA": {
+            "description": "webOS 23 KLP(n) 1.0",
+            "notice": [
+                {
+                    "osSeq": "511217",
+                    "model": "50QNED75JRA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-4665_webOS 23 KLP(n)_1.0_221220.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "511217",
+                    "model": "50QNED75JRA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS 23 KLP(n)_1.0_1.tar.gz"
+                },
+                {
+                    "osSeq": "511217",
+                    "model": "50QNED75JRA",
+                    "type": "Op",
+                    "fileId": "2",
+                    "filename": "webOS 23 KLP(n)_1.0_2.tar.gz"
+                },
+                {
+                    "osSeq": "511217",
+                    "model": "50QNED75JRA",
+                    "type": "Op",
+                    "fileId": "3",
+                    "filename": "webOS 23 KLP(n)_1.0_3.tar.gz"
+                }
+            ]
+        },
+        "50QNED75KRA": {
+            "description": "webOS 23 KLP(n) 1.0",
+            "notice": [
+                {
+                    "osSeq": "511217",
+                    "model": "50QNED75KRA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-4665_webOS 23 KLP(n)_1.0_221220.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "511217",
+                    "model": "50QNED75KRA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS 23 KLP(n)_1.0_1.tar.gz"
+                },
+                {
+                    "osSeq": "511217",
+                    "model": "50QNED75KRA",
+                    "type": "Op",
+                    "fileId": "2",
+                    "filename": "webOS 23 KLP(n)_1.0_2.tar.gz"
+                },
+                {
+                    "osSeq": "511217",
+                    "model": "50QNED75KRA",
+                    "type": "Op",
+                    "fileId": "3",
+                    "filename": "webOS 23 KLP(n)_1.0_3.tar.gz"
+                }
+            ]
+        },
+        "50QNED75SRA": {
+            "description": "webOS 23 KLP(n) 1.0",
+            "notice": [
+                {
+                    "osSeq": "511217",
+                    "model": "50QNED75SRA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-4665_webOS 23 KLP(n)_1.0_221220.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "511217",
+                    "model": "50QNED75SRA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS 23 KLP(n)_1.0_1.tar.gz"
+                },
+                {
+                    "osSeq": "511217",
+                    "model": "50QNED75SRA",
+                    "type": "Op",
+                    "fileId": "2",
+                    "filename": "webOS 23 KLP(n)_1.0_2.tar.gz"
+                },
+                {
+                    "osSeq": "511217",
+                    "model": "50QNED75SRA",
+                    "type": "Op",
+                    "fileId": "3",
+                    "filename": "webOS 23 KLP(n)_1.0_3.tar.gz"
+                }
+            ]
+        },
+        "50QNED75SRT": {
+            "description": "webOS 23 KLP(n) 1.0",
+            "notice": [
+                {
+                    "osSeq": "511217",
+                    "model": "50QNED75SRT",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-4665_webOS 23 KLP(n)_1.0_221220.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "511217",
+                    "model": "50QNED75SRT",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS 23 KLP(n)_1.0_1.tar.gz"
+                },
+                {
+                    "osSeq": "511217",
+                    "model": "50QNED75SRT",
+                    "type": "Op",
+                    "fileId": "2",
+                    "filename": "webOS 23 KLP(n)_1.0_2.tar.gz"
+                },
+                {
+                    "osSeq": "511217",
+                    "model": "50QNED75SRT",
+                    "type": "Op",
+                    "fileId": "3",
+                    "filename": "webOS 23 KLP(n)_1.0_3.tar.gz"
+                }
+            ]
+        },
+        "50QNED75URA": {
+            "description": "webOS 23 M 1.0",
+            "notice": [
+                {
+                    "osSeq": "511218",
+                    "model": "50QNED75URA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-4664_webOS 23 M_1.0_221221.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "511218",
+                    "model": "50QNED75URA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS 23 M_1.0_1.tar.gz"
+                },
+                {
+                    "osSeq": "511218",
+                    "model": "50QNED75URA",
+                    "type": "Op",
+                    "fileId": "2",
+                    "filename": "webOS 23 M_1.0_2.tar.gz"
+                },
+                {
+                    "osSeq": "511218",
+                    "model": "50QNED75URA",
+                    "type": "Op",
+                    "fileId": "3",
+                    "filename": "webOS 23 M_1.0_3.tar.gz"
+                }
+            ]
+        },
+        "50QNED7S3QA": {
+            "description": "webOS 22 KLP 2.0",
+            "notice": [
+                {
+                    "osSeq": "511322",
+                    "model": "50QNED7S3QA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-5239_webOS 22 KLP_2.0_230321.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "511322",
+                    "model": "50QNED7S3QA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS 22 KLP_2.0_1.tar.gz"
+                },
+                {
+                    "osSeq": "511322",
+                    "model": "50QNED7S3QA",
+                    "type": "Op",
+                    "fileId": "2",
+                    "filename": "webOS 22 KLP_2.0_2.tar.gz"
+                }
+            ]
+        },
+        "50QNED7S6QA": {
+            "description": "webOS 22 KLP 1.0",
+            "notice": [
+                {
+                    "osSeq": "510782",
+                    "model": "50QNED7S6QA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-3983_webOS 22 KLP_1.0_220118.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "510782",
+                    "model": "50QNED7S6QA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS 22 KLP_1.0_1.tar.gz"
+                },
+                {
+                    "osSeq": "510782",
+                    "model": "50QNED7S6QA",
+                    "type": "Op",
+                    "fileId": "2",
+                    "filename": "webOS 22 KLP_1.0_2.tar.gz"
+                }
+            ]
+        }
+    }
+}

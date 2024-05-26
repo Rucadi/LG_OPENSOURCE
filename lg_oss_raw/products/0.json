@@ -1,0 +1,475 @@
+{
+    "TV/AV>Monitor/Signage": {
+        "105BM5N": {
+            "description": "Android Stretch Signage",
+            "notice": [
+                {
+                    "osSeq": "511597",
+                    "model": "105BM5N",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-6193_Android Stretch Signage_240112.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "511597",
+                    "model": "105BM5N",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "Android Stretch Signage.zip"
+                }
+            ]
+        },
+        "105BM5N-BG": {
+            "description": "Android Stretch Signage",
+            "notice": [
+                {
+                    "osSeq": "511597",
+                    "model": "105BM5N-BG",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-6193_Android Stretch Signage_240112.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "511597",
+                    "model": "105BM5N-BG",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "Android Stretch Signage.zip"
+                }
+            ]
+        },
+        "105BM5P-BG": {
+            "description": "Android Stretch Signage",
+            "notice": [
+                {
+                    "osSeq": "511597",
+                    "model": "105BM5P-BG",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-6193_Android Stretch Signage_240112.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "511597",
+                    "model": "105BM5P-BG",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "Android Stretch Signage.zip"
+                }
+            ]
+        },
+        "10HQ701G-BA": {
+            "description": "DXD Xilinx Platform",
+            "notice": [
+                {
+                    "osSeq": "510710",
+                    "model": "10HQ701G-BA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-3690_DXD Xilinx Platform_211207.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "510710",
+                    "model": "10HQ701G-BA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "DXD Xilinx Platform_1.zip"
+                },
+                {
+                    "osSeq": "510710",
+                    "model": "10HQ701G-BA",
+                    "type": "Op",
+                    "fileId": "2",
+                    "filename": "DXD Xilinx Platform_2.zip"
+                }
+            ]
+        },
+        "10HQ701G-BP": {
+            "description": "DXD Xilinx Platform",
+            "notice": [
+                {
+                    "osSeq": "510710",
+                    "model": "10HQ701G-BP",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-3690_DXD Xilinx Platform_211207.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "510710",
+                    "model": "10HQ701G-BP",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "DXD Xilinx Platform_1.zip"
+                },
+                {
+                    "osSeq": "510710",
+                    "model": "10HQ701G-BP",
+                    "type": "Op",
+                    "fileId": "2",
+                    "filename": "DXD Xilinx Platform_2.zip"
+                }
+            ]
+        },
+        "10SE3E-BE": {
+            "description": "L18/L19 M1A Signage",
+            "notice": [
+                {
+                    "osSeq": "508319",
+                    "model": "10SE3E-BE",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-820_L18 M1A Signage_171220.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "508319",
+                    "model": "10SE3E-BE",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "L18 M1A Signage.zip"
+                }
+            ]
+        },
+        "10SM3TB-BG": {
+            "description": "10SM3TB v.03",
+            "notice": [
+                {
+                    "osSeq": "507429",
+                    "model": "10SM3TB-BG",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "NOTICE-160520-10sm3tb.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "507429",
+                    "model": "10SM3TB-BG",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "10SM3TB_OpenSource_v03.zip"
+                }
+            ]
+        },
+        "110UM5J-BG": {
+            "description": "Android Standard Signage",
+            "notice": [
+                {
+                    "osSeq": "510673",
+                    "model": "110UM5J-BG",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-3937_Android Standard Signage_211105.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "510673",
+                    "model": "110UM5J-BG",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "Android Standard Signage.zip"
+                }
+            ]
+        },
+        "110UM5K-BP": {
+            "description": "webOS6.0_M16P3_Signage MR4",
+            "notice": [
+                {
+                    "osSeq": "511126",
+                    "model": "110UM5K-BP",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-4830_webOS6.0_M16P3_Signage_MR4_221007.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "511126",
+                    "model": "110UM5K-BP",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS6.0_M16P3_Signage_MR4_1.zip"
+                },
+                {
+                    "osSeq": "511126",
+                    "model": "110UM5K-BP",
+                    "type": "Op",
+                    "fileId": "2",
+                    "filename": "webOS6.0_M16P3_Signage_MR4_2.zip"
+                }
+            ]
+        },
+        "110UM5KSKD": {
+            "description": "webOS6.0_M16P3_Signage MR4",
+            "notice": [
+                {
+                    "osSeq": "511126",
+                    "model": "110UM5KSKD",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-4830_webOS6.0_M16P3_Signage_MR4_221007.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "511126",
+                    "model": "110UM5KSKD",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS6.0_M16P3_Signage_MR4_1.zip"
+                },
+                {
+                    "osSeq": "511126",
+                    "model": "110UM5KSKD",
+                    "type": "Op",
+                    "fileId": "2",
+                    "filename": "webOS6.0_M16P3_Signage_MR4_2.zip"
+                }
+            ]
+        },
+        "14HK701G-WA": {
+            "description": "DXD Detector",
+            "notice": [
+                {
+                    "osSeq": "508602",
+                    "model": "14HK701G-WA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-1070_DXD Detector_180605.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "508602",
+                    "model": "14HK701G-WA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "DXD Detector.zip"
+                }
+            ]
+        },
+        "14HK701G-WB": {
+            "description": "DXD Detector",
+            "notice": [
+                {
+                    "osSeq": "508602",
+                    "model": "14HK701G-WB",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-1070_DXD Detector_180605.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "508602",
+                    "model": "14HK701G-WB",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "DXD Detector.zip"
+                }
+            ]
+        },
+        "14HK701G-WP": {
+            "description": "DXD Detector",
+            "notice": [
+                {
+                    "osSeq": "508602",
+                    "model": "14HK701G-WP",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-1070_DXD Detector_180605.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "508602",
+                    "model": "14HK701G-WP",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "DXD Detector.zip"
+                }
+            ]
+        },
+        "14HQ701G-BA": {
+            "description": "DXD Xilinx Platform",
+            "notice": [
+                {
+                    "osSeq": "510710",
+                    "model": "14HQ701G-BA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-3690_DXD Xilinx Platform_211207.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "510710",
+                    "model": "14HQ701G-BA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "DXD Xilinx Platform_1.zip"
+                },
+                {
+                    "osSeq": "510710",
+                    "model": "14HQ701G-BA",
+                    "type": "Op",
+                    "fileId": "2",
+                    "filename": "DXD Xilinx Platform_2.zip"
+                }
+            ]
+        },
+        "14HQ701G-BP": {
+            "description": "DXD Xilinx Platform",
+            "notice": [
+                {
+                    "osSeq": "510710",
+                    "model": "14HQ701G-BP",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-3690_DXD Xilinx Platform_211207.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "510710",
+                    "model": "14HQ701G-BP",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "DXD Xilinx Platform_1.zip"
+                },
+                {
+                    "osSeq": "510710",
+                    "model": "14HQ701G-BP",
+                    "type": "Op",
+                    "fileId": "2",
+                    "filename": "DXD Xilinx Platform_2.zip"
+                }
+            ]
+        },
+        "14HQ721G-BA": {
+            "description": "DXD Xilinx Platform",
+            "notice": [
+                {
+                    "osSeq": "510710",
+                    "model": "14HQ721G-BA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-3690_DXD Xilinx Platform_211207.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "510710",
+                    "model": "14HQ721G-BA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "DXD Xilinx Platform_1.zip"
+                },
+                {
+                    "osSeq": "510710",
+                    "model": "14HQ721G-BA",
+                    "type": "Op",
+                    "fileId": "2",
+                    "filename": "DXD Xilinx Platform_2.zip"
+                }
+            ]
+        },
+        "14HQ901G-BA": {
+            "description": "DXD Xilinx Platform",
+            "notice": [
+                {
+                    "osSeq": "510710",
+                    "model": "14HQ901G-BA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-3690_DXD Xilinx Platform_211207.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "510710",
+                    "model": "14HQ901G-BA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "DXD Xilinx Platform_1.zip"
+                },
+                {
+                    "osSeq": "510710",
+                    "model": "14HQ901G-BA",
+                    "type": "Op",
+                    "fileId": "2",
+                    "filename": "DXD Xilinx Platform_2.zip"
+                }
+            ]
+        },
+        "14HQ901G-BP": {
+            "description": "DXD Xilinx Platform",
+            "notice": [
+                {
+                    "osSeq": "510710",
+                    "model": "14HQ901G-BP",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-3690_DXD Xilinx Platform_211207.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "510710",
+                    "model": "14HQ901G-BP",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "DXD Xilinx Platform_1.zip"
+                },
+                {
+                    "osSeq": "510710",
+                    "model": "14HQ901G-BP",
+                    "type": "Op",
+                    "fileId": "2",
+                    "filename": "DXD Xilinx Platform_2.zip"
+                }
+            ]
+        }
+    },
+    "TV/AV>TV": {
+        "15LN766A0UB": {
+            "description": "webOS22_K8HP_K8LP_CommercialTV",
+            "notice": [
+                {
+                    "osSeq": "510888",
+                    "model": "15LN766A0UB",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-4270_webOS22_K8HP_CommercialTV_220329.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "510888",
+                    "model": "15LN766A0UB",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS22_K8HP_CommercialTV_1.zip"
+                },
+                {
+                    "osSeq": "510888",
+                    "model": "15LN766A0UB",
+                    "type": "Op",
+                    "fileId": "2",
+                    "filename": "webOS22_K8HP_CommercialTV_2.zip"
+                }
+            ]
+        }
+    }
+}

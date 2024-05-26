@@ -1,0 +1,279 @@
+{
+    "TV/AV>TV": {
+        "65LG73CMECA": {
+            "description": "webOS 4.5 IKLP 4.0",
+            "notice": [
+                {
+                    "osSeq": "510775",
+                    "model": "65LG73CMECA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-4153_webOS 4.5 IKLP_4.0_220114.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "510775",
+                    "model": "65LG73CMECA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS 4.5 IKLP_4.0_1.tar.gz"
+                },
+                {
+                    "osSeq": "510775",
+                    "model": "65LG73CMECA",
+                    "type": "Op",
+                    "fileId": "2",
+                    "filename": "webOS 4.5 IKLP_4.0_2.tar.gz"
+                }
+            ]
+        },
+        "65LG73CNPCA": {
+            "description": "webOS 5.0 JKHP 2.0",
+            "notice": [
+                {
+                    "osSeq": "510776",
+                    "model": "65LG73CNPCA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-3913_webOS 5.0 JKHP_2.0_220114.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "510776",
+                    "model": "65LG73CNPCA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS 5.0 JKHP_2.0_1.tar.gz"
+                },
+                {
+                    "osSeq": "510776",
+                    "model": "65LG73CNPCA",
+                    "type": "Op",
+                    "fileId": "2",
+                    "filename": "webOS 5.0 JKHP_2.0_2.tar.gz"
+                }
+            ]
+        },
+        "65LG75CMECB": {
+            "description": "webOS 4.5 IKLP 4.0",
+            "notice": [
+                {
+                    "osSeq": "510775",
+                    "model": "65LG75CMECB",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-4153_webOS 4.5 IKLP_4.0_220114.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "510775",
+                    "model": "65LG75CMECB",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS 4.5 IKLP_4.0_1.tar.gz"
+                },
+                {
+                    "osSeq": "510775",
+                    "model": "65LG75CMECB",
+                    "type": "Op",
+                    "fileId": "2",
+                    "filename": "webOS 4.5 IKLP_4.0_2.tar.gz"
+                }
+            ]
+        },
+        "65LV570H-UA": {
+            "description": "L15_M1A_Commercial TV Open Source",
+            "notice": [
+                {
+                    "osSeq": "506326",
+                    "model": "65LV570H-UA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-150126-L15_M1A_CommercialTV-2.pdf"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "506326",
+                    "model": "65LV570H-UA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "L15_M1A_Commercial_Signage_Opensource_v1.0.zip"
+                }
+            ]
+        },
+        "65LW570H-UA": {
+            "description": "L15_M1A_Commercial TV Open Source",
+            "notice": [
+                {
+                    "osSeq": "506326",
+                    "model": "65LW570H-UA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-150126-L15_M1A_CommercialTV-2.pdf"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "506326",
+                    "model": "65LW570H-UA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "L15_M1A_Commercial_Signage_Opensource_v1.0.zip"
+                }
+            ]
+        },
+        "65LW731H-GA": {
+            "description": "webOS2.0 M14+ Commercial TV Open Source",
+            "notice": [
+                {
+                    "osSeq": "506782",
+                    "model": "65LW731H-GA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-150827-webOS2.0M14_CommercialTV-2.pdf"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "506782",
+                    "model": "65LW731H-GA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS_COMMERCIAL_1.zip"
+                }
+            ]
+        },
+        "65LX341C-TA": {
+            "description": "L15_M1A_Commercial TV Open Source",
+            "notice": [
+                {
+                    "osSeq": "506326",
+                    "model": "65LX341C-TA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-150126-L15_M1A_CommercialTV-2.pdf"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "506326",
+                    "model": "65LX341C-TA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "L15_M1A_Commercial_Signage_Opensource_v1.0.zip"
+                }
+            ]
+        }
+    },
+    "TV/AV>Monitor/Signage": {
+        "65LS33A-5B": {
+            "description": "L14_M1A_Signage",
+            "notice": [
+                {
+                    "osSeq": "12880",
+                    "model": "65LS33A-5B",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-891_L14 M1A Signage_180122.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "12880",
+                    "model": "65LS33A-5B",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "L14 M1A Signage.zip"
+                }
+            ]
+        },
+        "65LS33A-5BC": {
+            "description": "L14_M1A_Signage",
+            "notice": [
+                {
+                    "osSeq": "12880",
+                    "model": "65LS33A-5BC",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-891_L14 M1A Signage_180122.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "12880",
+                    "model": "65LS33A-5BC",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "L14 M1A Signage.zip"
+                }
+            ]
+        },
+        "65LS33A-5DC": {
+            "description": "L14_M1A_Signage",
+            "notice": [
+                {
+                    "osSeq": "12880",
+                    "model": "65LS33A-5DC",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-891_L14 M1A Signage_180122.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "12880",
+                    "model": "65LS33A-5DC",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "L14 M1A Signage.zip"
+                }
+            ]
+        },
+        "65LS53A-5BB": {
+            "description": "webOS_M14_Signage_Flash",
+            "notice": [
+                {
+                    "osSeq": "506497",
+                    "model": "65LS53A-5BB",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-141212-webOS_M14_Signage_Flash-1.pdf"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "506497",
+                    "model": "65LS53A-5BB",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS_M14_Signage_Flash_OpenSource_v1.0.zip"
+                }
+            ]
+        },
+        "65LS53A-5DB": {
+            "description": "webOS_M14_Signage_Flash",
+            "notice": [
+                {
+                    "osSeq": "506497",
+                    "model": "65LS53A-5DB",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-141212-webOS_M14_Signage_Flash-1.pdf"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "506497",
+                    "model": "65LS53A-5DB",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS_M14_Signage_Flash_OpenSource_v1.0.zip"
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,187 @@
+{
+    "TV/AV>TV": {
+        "49UF8579-ZH": {
+            "description": "webOS BLMU LGE Open Source2",
+            "notice": [
+                {
+                    "osSeq": "506703",
+                    "model": "49UF8579-ZH",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-160509-webOSBLMU-3.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "506703",
+                    "model": "49UF8579-ZH",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "BLMU-r3160-2.tar.gz"
+                }
+            ]
+        },
+        "49UF857V-ZH": {
+            "description": "webOS BLMU LGE Open Source2",
+            "notice": [
+                {
+                    "osSeq": "506703",
+                    "model": "49UF857V-ZH",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-160509-webOSBLMU-3.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "506703",
+                    "model": "49UF857V-ZH",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "BLMU-r3160-2.tar.gz"
+                }
+            ]
+        },
+        "49UH100V-ZA": {
+            "description": "webOS DM Lite LGE Open Source",
+            "notice": [
+                {
+                    "osSeq": "507032",
+                    "model": "49UH100V-ZA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-161108-webOSDML-3.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "507032",
+                    "model": "49UH100V-ZA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "DM-r3147.tar.gz"
+                }
+            ]
+        },
+        "49UH5300-CA": {
+            "description": "webOS DKLP LGE Open Source",
+            "notice": [
+                {
+                    "osSeq": "507044",
+                    "model": "49UH5300-CA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-161110-webOSDKLP-4.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "507044",
+                    "model": "49UH5300-CA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "DKLP-r3173.tar.gz"
+                }
+            ]
+        },
+        "49UH5300-NA": {
+            "description": "webOS DKLP LGE Open Source",
+            "notice": [
+                {
+                    "osSeq": "507044",
+                    "model": "49UH5300-NA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-161110-webOSDKLP-4.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "507044",
+                    "model": "49UH5300-NA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "DKLP-r3173.tar.gz"
+                }
+            ]
+        }
+    },
+    "TV/AV>Monitor/Signage": {
+        "49UH5B-BD": {
+            "description": "webOS2.0_LM15U_Signage_2",
+            "notice": [
+                {
+                    "osSeq": "506465",
+                    "model": "49UH5B-BD",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-151022-LM15U_Signage-4.pdf"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "506465",
+                    "model": "49UH5B-BD",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS_Commercial_Signage_OpenSource_version1.0.1_2.zip"
+                }
+            ]
+        },
+        "49UH5C-BF": {
+            "description": "webOS3.0_M16_Signage_2",
+            "notice": [
+                {
+                    "osSeq": "507279",
+                    "model": "49UH5C-BF",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-170214-webOS3.0M16Signage-5.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "507279",
+                    "model": "49UH5C-BF",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS3.2_3.0_M16_Signage_OpenSource_V1.0_2.zip"
+                }
+            ]
+        },
+        "49UH5E-BJ": {
+            "description": "webOS4.0_M16++_Signage MR3",
+            "notice": [
+                {
+                    "osSeq": "510978",
+                    "model": "49UH5E-BJ",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-4517_webOS4.0_M16++_Signage_MR3_220616.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "510978",
+                    "model": "49UH5E-BJ",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS4.0_M16++_Signage_MR3.zip"
+                }
+            ]
+        },
+        "49UH5F-BJ": {
+            "description": "SCAP API 1.6 / 1.7",
+            "notice": [
+                {
+                    "osSeq": "508373",
+                    "model": "49UH5F-BJ",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-897_SCAP API_180122.html"
+                }
+            ],
+            "source": []
+        }
+    }
+}

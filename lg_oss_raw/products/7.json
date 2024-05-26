@@ -1,0 +1,389 @@
+{
+    "TV/AV>TV": {
+        "22LW760M-UA": {
+            "description": "webOS2.0 M14+ Commercial TV Open Source",
+            "notice": [
+                {
+                    "osSeq": "506782",
+                    "model": "22LW760M-UA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-150827-webOS2.0M14_CommercialTV-2.pdf"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "506782",
+                    "model": "22LW760M-UA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS_COMMERCIAL_1.zip"
+                }
+            ]
+        },
+        "22LW760V-ZA": {
+            "description": "webOS2.0 M14+ Commercial TV Open Source",
+            "notice": [
+                {
+                    "osSeq": "506782",
+                    "model": "22LW760V-ZA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-150827-webOS2.0M14_CommercialTV-2.pdf"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "506782",
+                    "model": "22LW760V-ZA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS_COMMERCIAL_1.zip"
+                }
+            ]
+        },
+        "22LX320C-ZA": {
+            "description": "L15_M1A_Commercial TV Open Source",
+            "notice": [
+                {
+                    "osSeq": "506326",
+                    "model": "22LX320C-ZA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-150126-L15_M1A_CommercialTV-2.pdf"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "506326",
+                    "model": "22LX320C-ZA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "L15_M1A_Commercial_Signage_Opensource_v1.0.zip"
+                }
+            ]
+        },
+        "22LX330C-UA": {
+            "description": "L15_M1A_Commercial TV Open Source",
+            "notice": [
+                {
+                    "osSeq": "506326",
+                    "model": "22LX330C-UA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-150126-L15_M1A_CommercialTV-2.pdf"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "506326",
+                    "model": "22LX330C-UA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "L15_M1A_Commercial_Signage_Opensource_v1.0.zip"
+                }
+            ]
+        },
+        "22LX330C-ZA": {
+            "description": "L15_M1A_Commercial TV Open Source",
+            "notice": [
+                {
+                    "osSeq": "506326",
+                    "model": "22LX330C-ZA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-150126-L15_M1A_CommercialTV-2.pdf"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "506326",
+                    "model": "22LX330C-ZA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "L15_M1A_Commercial_Signage_Opensource_v1.0.zip"
+                }
+            ]
+        },
+        "22LX530H-ZA": {
+            "description": "L15_M1A_Commercial TV Open Source",
+            "notice": [
+                {
+                    "osSeq": "506326",
+                    "model": "22LX530H-ZA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-150126-L15_M1A_CommercialTV-2.pdf"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "506326",
+                    "model": "22LX530H-ZA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "L15_M1A_Commercial_Signage_Opensource_v1.0.zip"
+                }
+            ]
+        },
+        "22LX570M-UA": {
+            "description": "L15_M1A_Commercial TV Open Source",
+            "notice": [
+                {
+                    "osSeq": "506326",
+                    "model": "22LX570M-UA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-150126-L15_M1A_CommercialTV-2.pdf"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "506326",
+                    "model": "22LX570M-UA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "L15_M1A_Commercial_Signage_Opensource_v1.0.zip"
+                }
+            ]
+        },
+        "22LX570M-UF": {
+            "description": "L15_M1A_Commercial TV Open Source",
+            "notice": [
+                {
+                    "osSeq": "506326",
+                    "model": "22LX570M-UF",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-150126-L15_M1A_CommercialTV-2.pdf"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "506326",
+                    "model": "22LX570M-UF",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "L15_M1A_Commercial_Signage_Opensource_v1.0.zip"
+                }
+            ]
+        },
+        "22LX752V-ZA": {
+            "description": "NetCast3.0_MTK_CTV_Interactive Smart",
+            "notice": [
+                {
+                    "osSeq": "15640",
+                    "model": "22LX752V-ZA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-141020-NetCast3_0_MTK_Commercial_TVInteractiveSmart-1.pdf"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "15640",
+                    "model": "22LX752V-ZA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "NetCast3.0_MTK_CTV_Interactive Smart_OpenSource_v1.1.zip"
+                }
+            ]
+        },
+        "22LY330C-TA": {
+            "description": "L14_M1A_Commercial TV Lite",
+            "notice": [
+                {
+                    "osSeq": "13080",
+                    "model": "22LY330C-TA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-140818-L14_M1A_CommercialTVLite-1.pdf"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "13080",
+                    "model": "22LY330C-TA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "L14_M1A_OpenSource_v1.0.zip"
+                }
+            ]
+        },
+        "22LY330C-ZA": {
+            "description": "L14_M1A_Commercial TV Lite",
+            "notice": [
+                {
+                    "osSeq": "13080",
+                    "model": "22LY330C-ZA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-140818-L14_M1A_CommercialTVLite-1.pdf"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "13080",
+                    "model": "22LY330C-ZA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "L14_M1A_OpenSource_v1.0.zip"
+                }
+            ]
+        },
+        "22LY340C-UA": {
+            "description": "L14_M1A_Commercial TV Lite",
+            "notice": [
+                {
+                    "osSeq": "13080",
+                    "model": "22LY340C-UA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-140818-L14_M1A_CommercialTVLite-1.pdf"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "13080",
+                    "model": "22LY340C-UA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "L14_M1A_OpenSource_v1.0.zip"
+                }
+            ]
+        },
+        "22LY340C-ZA": {
+            "description": "L14_M1A_Commercial TV Lite",
+            "notice": [
+                {
+                    "osSeq": "13080",
+                    "model": "22LY340C-ZA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-140818-L14_M1A_CommercialTVLite-1.pdf"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "13080",
+                    "model": "22LY340C-ZA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "L14_M1A_OpenSource_v1.0.zip"
+                }
+            ]
+        },
+        "22LY540H-ZA": {
+            "description": "L14_M1A_CTV_Interactive",
+            "notice": [
+                {
+                    "osSeq": "15621",
+                    "model": "22LY540H-ZA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-141013-L14_M1A_CommercialTVInteractive-1.pdf"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "15621",
+                    "model": "22LY540H-ZA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "L14_M1A_CTV_Interactive_OpenSource_v1.0.zip"
+                }
+            ]
+        },
+        "22LY540M-ZA": {
+            "description": "L14_M1A_CTV_Interactive",
+            "notice": [
+                {
+                    "osSeq": "15621",
+                    "model": "22LY540M-ZA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-141013-L14_M1A_CommercialTVInteractive-1.pdf"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "15621",
+                    "model": "22LY540M-ZA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "L14_M1A_CTV_Interactive_OpenSource_v1.0.zip"
+                }
+            ]
+        },
+        "22LY560M-NA": {
+            "description": "L14_M1A_CTV_Interactive",
+            "notice": [
+                {
+                    "osSeq": "15621",
+                    "model": "22LY560M-NA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-141013-L14_M1A_CommercialTVInteractive-1.pdf"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "15621",
+                    "model": "22LY560M-NA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "L14_M1A_CTV_Interactive_OpenSource_v1.0.zip"
+                }
+            ]
+        },
+        "22LY560M-UA": {
+            "description": "L14_M1A_CTV_Interactive",
+            "notice": [
+                {
+                    "osSeq": "15621",
+                    "model": "22LY560M-UA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-141013-L14_M1A_CommercialTVInteractive-1.pdf"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "15621",
+                    "model": "22LY560M-UA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "L14_M1A_CTV_Interactive_OpenSource_v1.0.zip"
+                }
+            ]
+        }
+    },
+    "TV/AV>Monitor/Signage": {
+        "22MD4KA-BH": {
+            "description": "MD4KA",
+            "notice": [
+                {
+                    "osSeq": "507545",
+                    "model": "22MD4KA-BH",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-161018-22MD4KA-1.html"
+                }
+            ],
+            "source": []
+        },
+        "22MN47A-PT": {
+            "description": "M8RR Platform_05_06",
+            "notice": [
+                {
+                    "osSeq": "506490",
+                    "model": "22MN47A-PT",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-140522-M8RR_MTV-1.pdf"
+                }
+            ],
+            "source": []
+        }
+    }
+}

@@ -1,0 +1,185 @@
+{
+    "TV/AV>Monitor/Signage": {
+        "55EF5E-L": {
+            "description": "webOS3.2_M16_Signage_2",
+            "notice": [
+                {
+                    "osSeq": "507773",
+                    "model": "55EF5E-L",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-171011-webOS3.2M16Signage-2.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "507773",
+                    "model": "55EF5E-L",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS3.2_3.0_M16_Signage_OpenSource_V1.0_2.zip"
+                }
+            ]
+        },
+        "55EF5E-LS": {
+            "description": "webOS3.2_M16_Signage_2",
+            "notice": [
+                {
+                    "osSeq": "507773",
+                    "model": "55EF5E-LS",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-171011-webOS3.2M16Signage-2.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "507773",
+                    "model": "55EF5E-LS",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS3.2_3.0_M16_Signage_OpenSource_V1.0_2.zip"
+                }
+            ]
+        },
+        "55EF5E-P": {
+            "description": "webOS3.2_M16_Signage_2",
+            "notice": [
+                {
+                    "osSeq": "507773",
+                    "model": "55EF5E-P",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-171011-webOS3.2M16Signage-2.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "507773",
+                    "model": "55EF5E-P",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS3.2_3.0_M16_Signage_OpenSource_V1.0_2.zip"
+                }
+            ]
+        },
+        "55EF5E-PS": {
+            "description": "webOS3.2_M16_Signage_2",
+            "notice": [
+                {
+                    "osSeq": "507773",
+                    "model": "55EF5E-PS",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-171011-webOS3.2M16Signage-2.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "507773",
+                    "model": "55EF5E-PS",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS3.2_3.0_M16_Signage_OpenSource_V1.0_2.zip"
+                }
+            ]
+        },
+        "55EF5E-SB": {
+            "description": "webOS3.2_M16_Signage_2",
+            "notice": [
+                {
+                    "osSeq": "507773",
+                    "model": "55EF5E-SB",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-171011-webOS3.2M16Signage-2.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "507773",
+                    "model": "55EF5E-SB",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS3.2_3.0_M16_Signage_OpenSource_V1.0_2.zip"
+                }
+            ]
+        },
+        "55EF5F-L": {
+            "description": "webOS4.0_M16++_Signage MR",
+            "notice": [
+                {
+                    "osSeq": "508876",
+                    "model": "55EF5F-L",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-1360_webOS4.0_M16++_Signage_MR_190107.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "508876",
+                    "model": "55EF5F-L",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS4.0_M16++_Signage_MR.zip"
+                }
+            ]
+        },
+        "55EF5F-LS": {
+            "description": "webOS4.0_M16++_Signage MR",
+            "notice": [
+                {
+                    "osSeq": "508876",
+                    "model": "55EF5F-LS",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-1360_webOS4.0_M16++_Signage_MR_190107.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "508876",
+                    "model": "55EF5F-LS",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS4.0_M16++_Signage_MR.zip"
+                }
+            ]
+        },
+        "55EF5F-P": {
+            "description": "webOS4.0_M16++_Signage MR",
+            "notice": [
+                {
+                    "osSeq": "508876",
+                    "model": "55EF5F-P",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-1360_webOS4.0_M16++_Signage_MR_190107.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "508876",
+                    "model": "55EF5F-P",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS4.0_M16++_Signage_MR.zip"
+                }
+            ]
+        },
+        "55EF5F-PS": {
+            "description": "SCAP API 1.6 / 1.7",
+            "notice": [
+                {
+                    "osSeq": "508373",
+                    "model": "55EF5F-PS",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-897_SCAP API_180122.html"
+                }
+            ],
+            "source": []
+        }
+    }
+}

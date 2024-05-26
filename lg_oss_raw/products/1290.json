@@ -1,0 +1,424 @@
+{
+    "TV/AV>TV": {
+        "OLED65B6T-D": {
+            "description": "webOS DKL LGE Open Source",
+            "notice": [
+                {
+                    "osSeq": "507043",
+                    "model": "OLED65B6T-D",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-161108-webOSDKL-7.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "507043",
+                    "model": "OLED65B6T-D",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "DKL-r3173.tar.gz"
+                }
+            ]
+        },
+        "OLED65B6T-T": {
+            "description": "webOS DKL LGE Open Source",
+            "notice": [
+                {
+                    "osSeq": "507043",
+                    "model": "OLED65B6T-T",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-161108-webOSDKL-7.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "507043",
+                    "model": "OLED65B6T-T",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "DKL-r3173.tar.gz"
+                }
+            ]
+        },
+        "OLED65B6V-T": {
+            "description": "webOS DKL LGE Open Source",
+            "notice": [
+                {
+                    "osSeq": "507043",
+                    "model": "OLED65B6V-T",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-161108-webOSDKL-7.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "507043",
+                    "model": "OLED65B6V-T",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "DKL-r3173.tar.gz"
+                }
+            ]
+        },
+        "OLED65B6V-Z": {
+            "description": "webOS DKL LGE Open Source",
+            "notice": [
+                {
+                    "osSeq": "507043",
+                    "model": "OLED65B6V-Z",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-161108-webOSDKL-7.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "507043",
+                    "model": "OLED65B6V-Z",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "DKL-r3173.tar.gz"
+                }
+            ]
+        },
+        "OLED65B6Y-T": {
+            "description": "webOS DKL LGE Open Source",
+            "notice": [
+                {
+                    "osSeq": "507043",
+                    "model": "OLED65B6Y-T",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-161108-webOSDKL-7.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "507043",
+                    "model": "OLED65B6Y-T",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "DKL-r3173.tar.gz"
+                }
+            ]
+        },
+        "OLED65B7A-U": {
+            "description": "webOS DMP LGE Open Source",
+            "notice": [
+                {
+                    "osSeq": "507684",
+                    "model": "OLED65B7A-U",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-170601-webOSDMP-4.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "507684",
+                    "model": "OLED65B7A-U",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "DMP-r3186.tar.gz"
+                }
+            ]
+        },
+        "OLED65B7D-Z": {
+            "description": "webOS DMP LGE Open Source",
+            "notice": [
+                {
+                    "osSeq": "507684",
+                    "model": "OLED65B7D-Z",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-170601-webOSDMP-4.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "507684",
+                    "model": "OLED65B7D-Z",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "DMP-r3186.tar.gz"
+                }
+            ]
+        },
+        "OLED65B7F-N": {
+            "description": "webOS DMP LGE Open Source",
+            "notice": [
+                {
+                    "osSeq": "507684",
+                    "model": "OLED65B7F-N",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-170601-webOSDMP-4.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "507684",
+                    "model": "OLED65B7F-N",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "DMP-r3186.tar.gz"
+                }
+            ]
+        },
+        "OLED65B7K-N": {
+            "description": "webOS DMP LGE Open Source",
+            "notice": [
+                {
+                    "osSeq": "507684",
+                    "model": "OLED65B7K-N",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-170601-webOSDMP-4.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "507684",
+                    "model": "OLED65B7K-N",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "DMP-r3186.tar.gz"
+                }
+            ]
+        },
+        "OLED65B7L-N": {
+            "description": "webOS DMP LGE Open Source",
+            "notice": [
+                {
+                    "osSeq": "507684",
+                    "model": "OLED65B7L-N",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-170601-webOSDMP-4.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "507684",
+                    "model": "OLED65B7L-N",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "DMP-r3186.tar.gz"
+                }
+            ]
+        },
+        "OLED65B7M-U": {
+            "description": "webOS DMP LGE Open Source",
+            "notice": [
+                {
+                    "osSeq": "507684",
+                    "model": "OLED65B7M-U",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-170601-webOSDMP-4.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "507684",
+                    "model": "OLED65B7M-U",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "DMP-r3186.tar.gz"
+                }
+            ]
+        },
+        "OLED65B7P-J": {
+            "description": "webOS DMP LGE Open Source",
+            "notice": [
+                {
+                    "osSeq": "507684",
+                    "model": "OLED65B7P-J",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-170601-webOSDMP-4.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "507684",
+                    "model": "OLED65B7P-J",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "DMP-r3186.tar.gz"
+                }
+            ]
+        },
+        "OLED65B7P-P": {
+            "description": "webOS DMP LGE Open Source",
+            "notice": [
+                {
+                    "osSeq": "507684",
+                    "model": "OLED65B7P-P",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-170601-webOSDMP-4.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "507684",
+                    "model": "OLED65B7P-P",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "DMP-r3186.tar.gz"
+                }
+            ]
+        },
+        "OLED65B7P-S": {
+            "description": "webOS DMP LGE Open Source",
+            "notice": [
+                {
+                    "osSeq": "507684",
+                    "model": "OLED65B7P-S",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-170601-webOSDMP-4.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "507684",
+                    "model": "OLED65B7P-S",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "DMP-r3186.tar.gz"
+                }
+            ]
+        },
+        "OLED65B7P-U": {
+            "description": "webOS DMP LGE Open Source",
+            "notice": [
+                {
+                    "osSeq": "507684",
+                    "model": "OLED65B7P-U",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-170601-webOSDMP-4.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "507684",
+                    "model": "OLED65B7P-U",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "DMP-r3186.tar.gz"
+                }
+            ]
+        },
+        "OLED65B7T-D": {
+            "description": "webOS DMP LGE Open Source",
+            "notice": [
+                {
+                    "osSeq": "507684",
+                    "model": "OLED65B7T-D",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-170601-webOSDMP-4.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "507684",
+                    "model": "OLED65B7T-D",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "DMP-r3186.tar.gz"
+                }
+            ]
+        },
+        "OLED65B7T-T": {
+            "description": "webOS DMP LGE Open Source",
+            "notice": [
+                {
+                    "osSeq": "507684",
+                    "model": "OLED65B7T-T",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-170601-webOSDMP-4.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "507684",
+                    "model": "OLED65B7T-T",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "DMP-r3186.tar.gz"
+                }
+            ]
+        },
+        "OLED65B7V-T": {
+            "description": "webOS DMP LGE Open Source",
+            "notice": [
+                {
+                    "osSeq": "507684",
+                    "model": "OLED65B7V-T",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-170601-webOSDMP-4.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "507684",
+                    "model": "OLED65B7V-T",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "DMP-r3186.tar.gz"
+                }
+            ]
+        },
+        "OLED65B7V-Z": {
+            "description": "webOS DMP LGE Open Source",
+            "notice": [
+                {
+                    "osSeq": "507684",
+                    "model": "OLED65B7V-Z",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-170601-webOSDMP-4.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "507684",
+                    "model": "OLED65B7V-Z",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "DMP-r3186.tar.gz"
+                }
+            ]
+        },
+        "OLED65B7Y-T": {
+            "description": "webOS DMP LGE Open Source",
+            "notice": [
+                {
+                    "osSeq": "507684",
+                    "model": "OLED65B7Y-T",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-170601-webOSDMP-4.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "507684",
+                    "model": "OLED65B7Y-T",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "DMP-r3186.tar.gz"
+                }
+            ]
+        }
+    }
+}

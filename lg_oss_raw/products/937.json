@@ -1,0 +1,109 @@
+{
+    "TV/AV>TV": {
+        "65UK7700-UA": {
+            "description": "webOS 4.0 GLMA MR 2.0",
+            "notice": [
+                {
+                    "osSeq": "508638",
+                    "model": "65UK7700-UA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-1061_webOS 4.0 GLMA MR_2.0_180622.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "508638",
+                    "model": "65UK7700-UA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS 4.0 GLMA MR_2.0.tar.gz"
+                }
+            ]
+        },
+        "65UK7700AUB": {
+            "description": "webOS GLMA LGE TV Open Source",
+            "notice": [
+                {
+                    "osSeq": "508336",
+                    "model": "65UK7700AUB",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-784_webOS_4.0_GLMA_1.0_20171106163605.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "508336",
+                    "model": "65UK7700AUB",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "DM2-r3173.tar.gz"
+                }
+            ]
+        },
+        "65UK7700PTA": {
+            "description": "webOS GLMA LGE TV Open Source",
+            "notice": [
+                {
+                    "osSeq": "508336",
+                    "model": "65UK7700PTA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-784_webOS_4.0_GLMA_1.0_20171106163605.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "508336",
+                    "model": "65UK7700PTA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "DM2-r3173.tar.gz"
+                }
+            ]
+        },
+        "65UK7700PUD": {
+            "description": "webOS GLMA LGE TV Open Source",
+            "notice": [
+                {
+                    "osSeq": "508336",
+                    "model": "65UK7700PUD",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-784_webOS_4.0_GLMA_1.0_20171106163605.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "508336",
+                    "model": "65UK7700PUD",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "DM2-r3173.tar.gz"
+                }
+            ]
+        },
+        "65UK7800KNA": {
+            "description": "webOS 4.0 GMPP MR 2.0",
+            "notice": [
+                {
+                    "osSeq": "508643",
+                    "model": "65UK7800KNA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-1058_webOS 4.0 GMPP MR_2.0_180625.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "508643",
+                    "model": "65UK7800KNA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS 4.0 GMPP MR_2.0.tar.gz"
+                }
+            ]
+        }
+    }
+}

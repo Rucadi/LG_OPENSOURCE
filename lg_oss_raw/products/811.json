@@ -1,0 +1,599 @@
+{
+    "TV/AV>TV": {
+        "60UQ91006LA": {
+            "description": "webOS 22 LMAN 2.0",
+            "notice": [
+                {
+                    "osSeq": "511325",
+                    "model": "60UQ91006LA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-5240_webOS 22 LMAN_2.0_230321.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "511325",
+                    "model": "60UQ91006LA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS 22 LMAN_2.0_1.tar.gz"
+                },
+                {
+                    "osSeq": "511325",
+                    "model": "60UQ91006LA",
+                    "type": "Op",
+                    "fileId": "2",
+                    "filename": "webOS 22 LMAN_2.0_2.tar.gz"
+                },
+                {
+                    "osSeq": "511325",
+                    "model": "60UQ91006LA",
+                    "type": "Op",
+                    "fileId": "3",
+                    "filename": "webOS 22 LMAN_2.0_3.tar.gz"
+                }
+            ]
+        },
+        "60UQ91009LD": {
+            "description": "webOS 22 LMAN 2.0",
+            "notice": [
+                {
+                    "osSeq": "511325",
+                    "model": "60UQ91009LD",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-5240_webOS 22 LMAN_2.0_230321.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "511325",
+                    "model": "60UQ91009LD",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS 22 LMAN_2.0_1.tar.gz"
+                },
+                {
+                    "osSeq": "511325",
+                    "model": "60UQ91009LD",
+                    "type": "Op",
+                    "fileId": "2",
+                    "filename": "webOS 22 LMAN_2.0_2.tar.gz"
+                },
+                {
+                    "osSeq": "511325",
+                    "model": "60UQ91009LD",
+                    "type": "Op",
+                    "fileId": "3",
+                    "filename": "webOS 22 LMAN_2.0_3.tar.gz"
+                }
+            ]
+        },
+        "60UQ9100PSD": {
+            "description": "webOS 22 LMAN 2.0",
+            "notice": [
+                {
+                    "osSeq": "511325",
+                    "model": "60UQ9100PSD",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-5240_webOS 22 LMAN_2.0_230321.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "511325",
+                    "model": "60UQ9100PSD",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS 22 LMAN_2.0_1.tar.gz"
+                },
+                {
+                    "osSeq": "511325",
+                    "model": "60UQ9100PSD",
+                    "type": "Op",
+                    "fileId": "2",
+                    "filename": "webOS 22 LMAN_2.0_2.tar.gz"
+                },
+                {
+                    "osSeq": "511325",
+                    "model": "60UQ9100PSD",
+                    "type": "Op",
+                    "fileId": "3",
+                    "filename": "webOS 22 LMAN_2.0_3.tar.gz"
+                }
+            ]
+        },
+        "60UR7500PCA": {
+            "description": "webOS 23 KLP(n) 1.0",
+            "notice": [
+                {
+                    "osSeq": "511217",
+                    "model": "60UR7500PCA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-4665_webOS 23 KLP(n)_1.0_221220.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "511217",
+                    "model": "60UR7500PCA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS 23 KLP(n)_1.0_1.tar.gz"
+                },
+                {
+                    "osSeq": "511217",
+                    "model": "60UR7500PCA",
+                    "type": "Op",
+                    "fileId": "2",
+                    "filename": "webOS 23 KLP(n)_1.0_2.tar.gz"
+                },
+                {
+                    "osSeq": "511217",
+                    "model": "60UR7500PCA",
+                    "type": "Op",
+                    "fileId": "3",
+                    "filename": "webOS 23 KLP(n)_1.0_3.tar.gz"
+                }
+            ]
+        },
+        "60UR7500PJA": {
+            "description": "webOS 23 KLP(n) 1.0",
+            "notice": [
+                {
+                    "osSeq": "511217",
+                    "model": "60UR7500PJA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-4665_webOS 23 KLP(n)_1.0_221220.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "511217",
+                    "model": "60UR7500PJA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS 23 KLP(n)_1.0_1.tar.gz"
+                },
+                {
+                    "osSeq": "511217",
+                    "model": "60UR7500PJA",
+                    "type": "Op",
+                    "fileId": "2",
+                    "filename": "webOS 23 KLP(n)_1.0_2.tar.gz"
+                },
+                {
+                    "osSeq": "511217",
+                    "model": "60UR7500PJA",
+                    "type": "Op",
+                    "fileId": "3",
+                    "filename": "webOS 23 KLP(n)_1.0_3.tar.gz"
+                }
+            ]
+        },
+        "60UR7500PSC": {
+            "description": "webOS 23 KLP(n) 1.0",
+            "notice": [
+                {
+                    "osSeq": "511217",
+                    "model": "60UR7500PSC",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-4665_webOS 23 KLP(n)_1.0_221220.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "511217",
+                    "model": "60UR7500PSC",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS 23 KLP(n)_1.0_1.tar.gz"
+                },
+                {
+                    "osSeq": "511217",
+                    "model": "60UR7500PSC",
+                    "type": "Op",
+                    "fileId": "2",
+                    "filename": "webOS 23 KLP(n)_1.0_2.tar.gz"
+                },
+                {
+                    "osSeq": "511217",
+                    "model": "60UR7500PSC",
+                    "type": "Op",
+                    "fileId": "3",
+                    "filename": "webOS 23 KLP(n)_1.0_3.tar.gz"
+                }
+            ]
+        },
+        "60UR7500PUA": {
+            "description": "webOS 23 KLP(n) 1.0",
+            "notice": [
+                {
+                    "osSeq": "511217",
+                    "model": "60UR7500PUA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-4665_webOS 23 KLP(n)_1.0_221220.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "511217",
+                    "model": "60UR7500PUA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS 23 KLP(n)_1.0_1.tar.gz"
+                },
+                {
+                    "osSeq": "511217",
+                    "model": "60UR7500PUA",
+                    "type": "Op",
+                    "fileId": "2",
+                    "filename": "webOS 23 KLP(n)_1.0_2.tar.gz"
+                },
+                {
+                    "osSeq": "511217",
+                    "model": "60UR7500PUA",
+                    "type": "Op",
+                    "fileId": "3",
+                    "filename": "webOS 23 KLP(n)_1.0_3.tar.gz"
+                }
+            ]
+        },
+        "60UR7550PSC": {
+            "description": "webOS 23 KLP(n) 1.0",
+            "notice": [
+                {
+                    "osSeq": "511217",
+                    "model": "60UR7550PSC",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-4665_webOS 23 KLP(n)_1.0_221220.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "511217",
+                    "model": "60UR7550PSC",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS 23 KLP(n)_1.0_1.tar.gz"
+                },
+                {
+                    "osSeq": "511217",
+                    "model": "60UR7550PSC",
+                    "type": "Op",
+                    "fileId": "2",
+                    "filename": "webOS 23 KLP(n)_1.0_2.tar.gz"
+                },
+                {
+                    "osSeq": "511217",
+                    "model": "60UR7550PSC",
+                    "type": "Op",
+                    "fileId": "3",
+                    "filename": "webOS 23 KLP(n)_1.0_3.tar.gz"
+                }
+            ]
+        },
+        "60UR78003LK": {
+            "description": "webOS 23 LMAN 1.0",
+            "notice": [
+                {
+                    "osSeq": "511216",
+                    "model": "60UR78003LK",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-4669_webOS 23 LMAN_1.0_221220.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "511216",
+                    "model": "60UR78003LK",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS 23 LMAN_1.0_1.tar.gz"
+                },
+                {
+                    "osSeq": "511216",
+                    "model": "60UR78003LK",
+                    "type": "Op",
+                    "fileId": "2",
+                    "filename": "webOS 23 LMAN_1.0_2.tar.gz"
+                },
+                {
+                    "osSeq": "511216",
+                    "model": "60UR78003LK",
+                    "type": "Op",
+                    "fileId": "3",
+                    "filename": "webOS 23 LMAN_1.0_3.tar.gz"
+                }
+            ]
+        },
+        "60UR78006LA": {
+            "description": "webOS 23 LMAN 1.0",
+            "notice": [
+                {
+                    "osSeq": "511216",
+                    "model": "60UR78006LA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-4669_webOS 23 LMAN_1.0_221220.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "511216",
+                    "model": "60UR78006LA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS 23 LMAN_1.0_1.tar.gz"
+                },
+                {
+                    "osSeq": "511216",
+                    "model": "60UR78006LA",
+                    "type": "Op",
+                    "fileId": "2",
+                    "filename": "webOS 23 LMAN_1.0_2.tar.gz"
+                },
+                {
+                    "osSeq": "511216",
+                    "model": "60UR78006LA",
+                    "type": "Op",
+                    "fileId": "3",
+                    "filename": "webOS 23 LMAN_1.0_3.tar.gz"
+                }
+            ]
+        },
+        "60UR78006LK": {
+            "description": "webOS 23 LMAN 1.0",
+            "notice": [
+                {
+                    "osSeq": "511216",
+                    "model": "60UR78006LK",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-4669_webOS 23 LMAN_1.0_221220.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "511216",
+                    "model": "60UR78006LK",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS 23 LMAN_1.0_1.tar.gz"
+                },
+                {
+                    "osSeq": "511216",
+                    "model": "60UR78006LK",
+                    "type": "Op",
+                    "fileId": "2",
+                    "filename": "webOS 23 LMAN_1.0_2.tar.gz"
+                },
+                {
+                    "osSeq": "511216",
+                    "model": "60UR78006LK",
+                    "type": "Op",
+                    "fileId": "3",
+                    "filename": "webOS 23 LMAN_1.0_3.tar.gz"
+                }
+            ]
+        },
+        "60UR78006LL": {
+            "description": "webOS 23 LMAN 1.0",
+            "notice": [
+                {
+                    "osSeq": "511216",
+                    "model": "60UR78006LL",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-4669_webOS 23 LMAN_1.0_221220.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "511216",
+                    "model": "60UR78006LL",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS 23 LMAN_1.0_1.tar.gz"
+                },
+                {
+                    "osSeq": "511216",
+                    "model": "60UR78006LL",
+                    "type": "Op",
+                    "fileId": "2",
+                    "filename": "webOS 23 LMAN_1.0_2.tar.gz"
+                },
+                {
+                    "osSeq": "511216",
+                    "model": "60UR78006LL",
+                    "type": "Op",
+                    "fileId": "3",
+                    "filename": "webOS 23 LMAN_1.0_3.tar.gz"
+                }
+            ]
+        },
+        "60UR7800KNA": {
+            "description": "webOS 23 KLP(n) 1.0",
+            "notice": [
+                {
+                    "osSeq": "511217",
+                    "model": "60UR7800KNA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-4665_webOS 23 KLP(n)_1.0_221220.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "511217",
+                    "model": "60UR7800KNA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS 23 KLP(n)_1.0_1.tar.gz"
+                },
+                {
+                    "osSeq": "511217",
+                    "model": "60UR7800KNA",
+                    "type": "Op",
+                    "fileId": "2",
+                    "filename": "webOS 23 KLP(n)_1.0_2.tar.gz"
+                },
+                {
+                    "osSeq": "511217",
+                    "model": "60UR7800KNA",
+                    "type": "Op",
+                    "fileId": "3",
+                    "filename": "webOS 23 KLP(n)_1.0_3.tar.gz"
+                }
+            ]
+        },
+        "60UR7800PSB": {
+            "description": "webOS 23 KLP(n) 1.0",
+            "notice": [
+                {
+                    "osSeq": "511217",
+                    "model": "60UR7800PSB",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-4665_webOS 23 KLP(n)_1.0_221220.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "511217",
+                    "model": "60UR7800PSB",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS 23 KLP(n)_1.0_1.tar.gz"
+                },
+                {
+                    "osSeq": "511217",
+                    "model": "60UR7800PSB",
+                    "type": "Op",
+                    "fileId": "2",
+                    "filename": "webOS 23 KLP(n)_1.0_2.tar.gz"
+                },
+                {
+                    "osSeq": "511217",
+                    "model": "60UR7800PSB",
+                    "type": "Op",
+                    "fileId": "3",
+                    "filename": "webOS 23 KLP(n)_1.0_3.tar.gz"
+                }
+            ]
+        },
+        "60UR80003LJ": {
+            "description": "webOS 23 LMAN 1.0",
+            "notice": [
+                {
+                    "osSeq": "511216",
+                    "model": "60UR80003LJ",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-4669_webOS 23 LMAN_1.0_221220.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "511216",
+                    "model": "60UR80003LJ",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS 23 LMAN_1.0_1.tar.gz"
+                },
+                {
+                    "osSeq": "511216",
+                    "model": "60UR80003LJ",
+                    "type": "Op",
+                    "fileId": "2",
+                    "filename": "webOS 23 LMAN_1.0_2.tar.gz"
+                },
+                {
+                    "osSeq": "511216",
+                    "model": "60UR80003LJ",
+                    "type": "Op",
+                    "fileId": "3",
+                    "filename": "webOS 23 LMAN_1.0_3.tar.gz"
+                }
+            ]
+        },
+        "60UR80006LJ": {
+            "description": "webOS 23 LMAN 1.0",
+            "notice": [
+                {
+                    "osSeq": "511216",
+                    "model": "60UR80006LJ",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-4669_webOS 23 LMAN_1.0_221220.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "511216",
+                    "model": "60UR80006LJ",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS 23 LMAN_1.0_1.tar.gz"
+                },
+                {
+                    "osSeq": "511216",
+                    "model": "60UR80006LJ",
+                    "type": "Op",
+                    "fileId": "2",
+                    "filename": "webOS 23 LMAN_1.0_2.tar.gz"
+                },
+                {
+                    "osSeq": "511216",
+                    "model": "60UR80006LJ",
+                    "type": "Op",
+                    "fileId": "3",
+                    "filename": "webOS 23 LMAN_1.0_3.tar.gz"
+                }
+            ]
+        },
+        "60UR8000KNA": {
+            "description": "webOS 23 KLP(n) 1.0",
+            "notice": [
+                {
+                    "osSeq": "511217",
+                    "model": "60UR8000KNA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-4665_webOS 23 KLP(n)_1.0_221220.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "511217",
+                    "model": "60UR8000KNA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS 23 KLP(n)_1.0_1.tar.gz"
+                },
+                {
+                    "osSeq": "511217",
+                    "model": "60UR8000KNA",
+                    "type": "Op",
+                    "fileId": "2",
+                    "filename": "webOS 23 KLP(n)_1.0_2.tar.gz"
+                },
+                {
+                    "osSeq": "511217",
+                    "model": "60UR8000KNA",
+                    "type": "Op",
+                    "fileId": "3",
+                    "filename": "webOS 23 KLP(n)_1.0_3.tar.gz"
+                }
+            ]
+        }
+    }
+}

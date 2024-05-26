@@ -1,0 +1,424 @@
+{
+    "TV/AV>TV": {
+        "32LF550B-SD": {
+            "description": "L15 L LGE TV Open Source",
+            "notice": [
+                {
+                    "osSeq": "506657",
+                    "model": "32LF550B-SD",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-150304-L15L-1.pdf"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "506657",
+                    "model": "32LF550B-SD",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "L15_L_LGE_TV_OpenSource_v1.1.zip"
+                }
+            ]
+        },
+        "32LF550B-TA": {
+            "description": "L15 L LGE TV Open Source",
+            "notice": [
+                {
+                    "osSeq": "506657",
+                    "model": "32LF550B-TA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-150304-L15L-1.pdf"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "506657",
+                    "model": "32LF550B-TA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "L15_L_LGE_TV_OpenSource_v1.1.zip"
+                }
+            ]
+        },
+        "32LF550B-UA": {
+            "description": "L15 UL LGE TV Open Source",
+            "notice": [
+                {
+                    "osSeq": "15341",
+                    "model": "32LF550B-UA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-150304-L15UL-1.pdf"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "15341",
+                    "model": "32LF550B-UA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "N/A"
+                }
+            ]
+        },
+        "32LF550D-DD": {
+            "description": "L15 L LGE TV Open Source",
+            "notice": [
+                {
+                    "osSeq": "506657",
+                    "model": "32LF550D-DD",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-150304-L15L-1.pdf"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "506657",
+                    "model": "32LF550D-DD",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "L15_L_LGE_TV_OpenSource_v1.1.zip"
+                }
+            ]
+        },
+        "32LF550D-TA": {
+            "description": "L15 L LGE TV Open Source",
+            "notice": [
+                {
+                    "osSeq": "506657",
+                    "model": "32LF550D-TA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-150304-L15L-1.pdf"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "506657",
+                    "model": "32LF550D-TA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "L15_L_LGE_TV_OpenSource_v1.1.zip"
+                }
+            ]
+        },
+        "32LF550U-TA": {
+            "description": "L15 L LGE TV Open Source",
+            "notice": [
+                {
+                    "osSeq": "506657",
+                    "model": "32LF550U-TA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-150304-L15L-1.pdf"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "506657",
+                    "model": "32LF550U-TA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "L15_L_LGE_TV_OpenSource_v1.1.zip"
+                }
+            ]
+        },
+        "32LF550U-ZA": {
+            "description": "L15 L LGE TV Open Source",
+            "notice": [
+                {
+                    "osSeq": "506657",
+                    "model": "32LF550U-ZA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-150304-L15L-1.pdf"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "506657",
+                    "model": "32LF550U-ZA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "L15_L_LGE_TV_OpenSource_v1.1.zip"
+                }
+            ]
+        },
+        "32LF550Z-TA": {
+            "description": "L15 L LGE TV Open Source",
+            "notice": [
+                {
+                    "osSeq": "506657",
+                    "model": "32LF550Z-TA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-150304-L15L-1.pdf"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "506657",
+                    "model": "32LF550Z-TA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "L15_L_LGE_TV_OpenSource_v1.1.zip"
+                }
+            ]
+        },
+        "32LF551C-ZA": {
+            "description": "M1A Commercial TV Open Source",
+            "notice": [
+                {
+                    "osSeq": "506529",
+                    "model": "32LF551C-ZA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-150304-L15L-1.pdf"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "506529",
+                    "model": "32LF551C-ZA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "L15_L_LGE_TV_OpenSource_v1.1.zip"
+                }
+            ]
+        },
+        "32LF551U-TC": {
+            "description": "L15 L LGE TV Open Source",
+            "notice": [
+                {
+                    "osSeq": "506657",
+                    "model": "32LF551U-TC",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-150304-L15L-1.pdf"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "506657",
+                    "model": "32LF551U-TC",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "L15_L_LGE_TV_OpenSource_v1.1.zip"
+                }
+            ]
+        },
+        "32LF552A-TA": {
+            "description": "L15 UL2 LGE TV Open Source",
+            "notice": [
+                {
+                    "osSeq": "15340",
+                    "model": "32LF552A-TA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-150304-L15UL_2-1.pdf"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "15340",
+                    "model": "32LF552A-TA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "N/A"
+                }
+            ]
+        },
+        "32LF553A-TA": {
+            "description": "L15 UL2 LGE TV Open Source",
+            "notice": [
+                {
+                    "osSeq": "15340",
+                    "model": "32LF553A-TA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-150304-L15UL_2-1.pdf"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "15340",
+                    "model": "32LF553A-TA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "N/A"
+                }
+            ]
+        },
+        "32LF554A-TE": {
+            "description": "L15 UL2 LGE TV Open Source",
+            "notice": [
+                {
+                    "osSeq": "15340",
+                    "model": "32LF554A-TE",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-150304-L15UL_2-1.pdf"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "15340",
+                    "model": "32LF554A-TE",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "N/A"
+                }
+            ]
+        },
+        "32LF5600-CA": {
+            "description": "L15 L LGE TV Open Source",
+            "notice": [
+                {
+                    "osSeq": "506657",
+                    "model": "32LF5600-CA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-150304-L15L-1.pdf"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "506657",
+                    "model": "32LF5600-CA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "L15_L_LGE_TV_OpenSource_v1.1.zip"
+                }
+            ]
+        },
+        "32LF5600-CC": {
+            "description": "L15 L LGE TV Open Source",
+            "notice": [
+                {
+                    "osSeq": "506657",
+                    "model": "32LF5600-CC",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-150304-L15L-1.pdf"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "506657",
+                    "model": "32LF5600-CC",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "L15_L_LGE_TV_OpenSource_v1.1.zip"
+                }
+            ]
+        },
+        "32LF5600-SE": {
+            "description": "L15 L LGE TV Open Source",
+            "notice": [
+                {
+                    "osSeq": "506657",
+                    "model": "32LF5600-SE",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-150304-L15L-1.pdf"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "506657",
+                    "model": "32LF5600-SE",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "L15_L_LGE_TV_OpenSource_v1.1.zip"
+                }
+            ]
+        },
+        "32LF5600-TB": {
+            "description": "L15 L LGE TV Open Source",
+            "notice": [
+                {
+                    "osSeq": "506657",
+                    "model": "32LF5600-TB",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-150304-L15L-1.pdf"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "506657",
+                    "model": "32LF5600-TB",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "L15_L_LGE_TV_OpenSource_v1.1.zip"
+                }
+            ]
+        },
+        "32LF5600-UB": {
+            "description": "L15 UL LGE TV Open Source",
+            "notice": [
+                {
+                    "osSeq": "15341",
+                    "model": "32LF5600-UB",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-150304-L15UL-1.pdf"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "15341",
+                    "model": "32LF5600-UB",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "N/A"
+                }
+            ]
+        },
+        "32LF560B-DE": {
+            "description": "L15 L LGE TV Open Source",
+            "notice": [
+                {
+                    "osSeq": "506657",
+                    "model": "32LF560B-DE",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-150304-L15L-1.pdf"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "506657",
+                    "model": "32LF560B-DE",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "L15_L_LGE_TV_OpenSource_v1.1.zip"
+                }
+            ]
+        },
+        "32LF560B-SE": {
+            "description": "L15 L LGE TV Open Source",
+            "notice": [
+                {
+                    "osSeq": "506657",
+                    "model": "32LF560B-SE",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-150304-L15L-1.pdf"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "506657",
+                    "model": "32LF560B-SE",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "L15_L_LGE_TV_OpenSource_v1.1.zip"
+                }
+            ]
+        }
+    }
+}

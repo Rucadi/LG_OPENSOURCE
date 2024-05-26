@@ -1,0 +1,361 @@
+{
+    "TV/AV>TV": {
+        "40UB800T-TB": {
+            "description": "NetCast4.5 LM LGE TV Open Source",
+            "notice": [
+                {
+                    "osSeq": "506625",
+                    "model": "40UB800T-TB",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-140925-NetCast4_5LM-2.pdf"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "506625",
+                    "model": "40UB800T-TB",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "NetCast4.5_LM_CO_FI-4.zip"
+                }
+            ]
+        },
+        "40UB800V-ZA": {
+            "description": "NetCast4.5 LM LGE TV Open Source",
+            "notice": [
+                {
+                    "osSeq": "506625",
+                    "model": "40UB800V-ZA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-140925-NetCast4_5LM-2.pdf"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "506625",
+                    "model": "40UB800V-ZA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "NetCast4.5_LM_CO_FI-4.zip"
+                }
+            ]
+        },
+        "40UB8030-CA": {
+            "description": "NetCast4.5 LM LGE TV Open Source",
+            "notice": [
+                {
+                    "osSeq": "506625",
+                    "model": "40UB8030-CA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-140925-NetCast4_5LM-2.pdf"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "506625",
+                    "model": "40UB8030-CA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "NetCast4.5_LM_CO_FI-4.zip"
+                }
+            ]
+        },
+        "40UB809Y-TB": {
+            "description": "NetCast4.5 LM LGE TV Open Source",
+            "notice": [
+                {
+                    "osSeq": "506625",
+                    "model": "40UB809Y-TB",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-140925-NetCast4_5LM-2.pdf"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "506625",
+                    "model": "40UB809Y-TB",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "NetCast4.5_LM_CO_FI-4.zip"
+                }
+            ]
+        },
+        "40UF6700-CA": {
+            "description": "L15 L LGE TV Open Source",
+            "notice": [
+                {
+                    "osSeq": "506657",
+                    "model": "40UF6700-CA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-150304-L15L-1.pdf"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "506657",
+                    "model": "40UF6700-CA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "L15_L_LGE_TV_OpenSource_v1.1.zip"
+                }
+            ]
+        },
+        "40UF6700-CJ": {
+            "description": "L15 L LGE TV Open Source",
+            "notice": [
+                {
+                    "osSeq": "506657",
+                    "model": "40UF6700-CJ",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-150304-L15L-1.pdf"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "506657",
+                    "model": "40UF6700-CJ",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "L15_L_LGE_TV_OpenSource_v1.1.zip"
+                }
+            ]
+        },
+        "40UF6700-NJ": {
+            "description": "L15 L LGE TV Open Source",
+            "notice": [
+                {
+                    "osSeq": "506657",
+                    "model": "40UF6700-NJ",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-150304-L15L-1.pdf"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "506657",
+                    "model": "40UF6700-NJ",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "L15_L_LGE_TV_OpenSource_v1.1.zip"
+                }
+            ]
+        },
+        "40UF6700-NN": {
+            "description": "L15 L LGE TV Open Source",
+            "notice": [
+                {
+                    "osSeq": "506657",
+                    "model": "40UF6700-NN",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-150304-L15L-1.pdf"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "506657",
+                    "model": "40UF6700-NN",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "L15_L_LGE_TV_OpenSource_v1.1.zip"
+                }
+            ]
+        },
+        "40UF670T-TC": {
+            "description": "L15 L LGE TV Open Source",
+            "notice": [
+                {
+                    "osSeq": "506657",
+                    "model": "40UF670T-TC",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-150304-L15L-1.pdf"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "506657",
+                    "model": "40UF670T-TC",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "L15_L_LGE_TV_OpenSource_v1.1.zip"
+                }
+            ]
+        },
+        "40UF670V-TE": {
+            "description": "L15 L LGE TV Open Source",
+            "notice": [
+                {
+                    "osSeq": "506657",
+                    "model": "40UF670V-TE",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-150304-L15L-1.pdf"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "506657",
+                    "model": "40UF670V-TE",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "L15_L_LGE_TV_OpenSource_v1.1.zip"
+                }
+            ]
+        },
+        "40UF670V-ZC": {
+            "description": "L15 L LGE TV Open Source",
+            "notice": [
+                {
+                    "osSeq": "506657",
+                    "model": "40UF670V-ZC",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-150304-L15L-1.pdf"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "506657",
+                    "model": "40UF670V-ZC",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "L15_L_LGE_TV_OpenSource_v1.1.zip"
+                }
+            ]
+        },
+        "40UF6710-CJ": {
+            "description": "L15 L LGE TV Open Source",
+            "notice": [
+                {
+                    "osSeq": "506657",
+                    "model": "40UF6710-CJ",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-150304-L15L-1.pdf"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "506657",
+                    "model": "40UF6710-CJ",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "L15_L_LGE_TV_OpenSource_v1.1.zip"
+                }
+            ]
+        },
+        "40UF671T-TG": {
+            "description": "L15 L LGE TV Open Source",
+            "notice": [
+                {
+                    "osSeq": "506657",
+                    "model": "40UF671T-TG",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-150304-L15L-1.pdf"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "506657",
+                    "model": "40UF671T-TG",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "L15_L_LGE_TV_OpenSource_v1.1.zip"
+                }
+            ]
+        },
+        "40UF671V-ZJ": {
+            "description": "L15 L LGE TV Open Source",
+            "notice": [
+                {
+                    "osSeq": "506657",
+                    "model": "40UF671V-ZJ",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-150304-L15L-1.pdf"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "506657",
+                    "model": "40UF671V-ZJ",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "L15_L_LGE_TV_OpenSource_v1.1.zip"
+                }
+            ]
+        },
+        "40UF671Y-TG": {
+            "description": "L15 L LGE TV Open Source",
+            "notice": [
+                {
+                    "osSeq": "506657",
+                    "model": "40UF671Y-TG",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-150304-L15L-1.pdf"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "506657",
+                    "model": "40UF671Y-TG",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "L15_L_LGE_TV_OpenSource_v1.1.zip"
+                }
+            ]
+        },
+        "40UF672T-TR": {
+            "description": "L15 L LGE TV Open Source",
+            "notice": [
+                {
+                    "osSeq": "506657",
+                    "model": "40UF672T-TR",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-150304-L15L-1.pdf"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "506657",
+                    "model": "40UF672T-TR",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "L15_L_LGE_TV_OpenSource_v1.1.zip"
+                }
+            ]
+        },
+        "40UF673T-TK": {
+            "description": "L15 L LGE TV Open Source",
+            "notice": [
+                {
+                    "osSeq": "506657",
+                    "model": "40UF673T-TK",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-150304-L15L-1.pdf"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "506657",
+                    "model": "40UF673T-TK",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "L15_L_LGE_TV_OpenSource_v1.1.zip"
+                }
+            ]
+        }
+    }
+}

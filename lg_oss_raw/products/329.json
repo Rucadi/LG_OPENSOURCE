@@ -1,0 +1,377 @@
+{
+    "TV/AV>TV": {
+        "48ES961H0ZD": {
+            "description": "webOS5.0_K6HP_CommercialTV 1.1",
+            "notice": [
+                {
+                    "osSeq": "510077",
+                    "model": "48ES961H0ZD",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-2887_webOS5.0_K6HP_CommercialTV_1.1_200831.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "510077",
+                    "model": "48ES961H0ZD",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS5.0_K6HP_CommercialTV_1.1_1.zip"
+                },
+                {
+                    "osSeq": "510077",
+                    "model": "48ES961H0ZD",
+                    "type": "Op",
+                    "fileId": "2",
+                    "filename": "webOS5.0_K6HP_CommercialTV_1.1_2.zip"
+                }
+            ]
+        },
+        "48LX1Q3LA": {
+            "description": "webOS 22 O 2.0",
+            "notice": [
+                {
+                    "osSeq": "511321",
+                    "model": "48LX1Q3LA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-5226_webOS 22 O_2.0_230313.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "511321",
+                    "model": "48LX1Q3LA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS 22 O_2.0_1.tar.gz"
+                },
+                {
+                    "osSeq": "511321",
+                    "model": "48LX1Q3LA",
+                    "type": "Op",
+                    "fileId": "2",
+                    "filename": "webOS 22 O_2.0_2.tar.gz"
+                },
+                {
+                    "osSeq": "511321",
+                    "model": "48LX1Q3LA",
+                    "type": "Op",
+                    "fileId": "3",
+                    "filename": "webOS 22 O_2.0_3.tar.gz"
+                }
+            ]
+        },
+        "48LX1Q6LA": {
+            "description": "webOS 22 O 2.0",
+            "notice": [
+                {
+                    "osSeq": "511321",
+                    "model": "48LX1Q6LA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-5226_webOS 22 O_2.0_230313.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "511321",
+                    "model": "48LX1Q6LA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS 22 O_2.0_1.tar.gz"
+                },
+                {
+                    "osSeq": "511321",
+                    "model": "48LX1Q6LA",
+                    "type": "Op",
+                    "fileId": "2",
+                    "filename": "webOS 22 O_2.0_2.tar.gz"
+                },
+                {
+                    "osSeq": "511321",
+                    "model": "48LX1Q6LA",
+                    "type": "Op",
+                    "fileId": "3",
+                    "filename": "webOS 22 O_2.0_3.tar.gz"
+                }
+            ]
+        },
+        "48LX1Q9LA": {
+            "description": "webOS 22 O 2.0",
+            "notice": [
+                {
+                    "osSeq": "511321",
+                    "model": "48LX1Q9LA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-5226_webOS 22 O_2.0_230313.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "511321",
+                    "model": "48LX1Q9LA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS 22 O_2.0_1.tar.gz"
+                },
+                {
+                    "osSeq": "511321",
+                    "model": "48LX1Q9LA",
+                    "type": "Op",
+                    "fileId": "2",
+                    "filename": "webOS 22 O_2.0_2.tar.gz"
+                },
+                {
+                    "osSeq": "511321",
+                    "model": "48LX1Q9LA",
+                    "type": "Op",
+                    "fileId": "3",
+                    "filename": "webOS 22 O_2.0_3.tar.gz"
+                }
+            ]
+        },
+        "48LX1QKNA": {
+            "description": "webOS 22 O 2.0",
+            "notice": [
+                {
+                    "osSeq": "511321",
+                    "model": "48LX1QKNA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-5226_webOS 22 O_2.0_230313.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "511321",
+                    "model": "48LX1QKNA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS 22 O_2.0_1.tar.gz"
+                },
+                {
+                    "osSeq": "511321",
+                    "model": "48LX1QKNA",
+                    "type": "Op",
+                    "fileId": "2",
+                    "filename": "webOS 22 O_2.0_2.tar.gz"
+                },
+                {
+                    "osSeq": "511321",
+                    "model": "48LX1QKNA",
+                    "type": "Op",
+                    "fileId": "3",
+                    "filename": "webOS 22 O_2.0_3.tar.gz"
+                }
+            ]
+        },
+        "48LX1QPCA": {
+            "description": "webOS 23 O ReNew",
+            "notice": [
+                {
+                    "osSeq": "511655",
+                    "model": "48LX1QPCA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-6380_webOS 23 O_ReNew_240319.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "511655",
+                    "model": "48LX1QPCA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS 23 O_ReNew_1.tar.gz"
+                },
+                {
+                    "osSeq": "511655",
+                    "model": "48LX1QPCA",
+                    "type": "Op",
+                    "fileId": "2",
+                    "filename": "webOS 23 O_ReNew_2.tar.gz"
+                },
+                {
+                    "osSeq": "511655",
+                    "model": "48LX1QPCA",
+                    "type": "Op",
+                    "fileId": "3",
+                    "filename": "webOS 23 O_ReNew_3.tar.gz"
+                }
+            ]
+        },
+        "48LX1QPSA": {
+            "description": "webOS 23 O ReNew",
+            "notice": [
+                {
+                    "osSeq": "511655",
+                    "model": "48LX1QPSA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-6380_webOS 23 O_ReNew_240319.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "511655",
+                    "model": "48LX1QPSA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS 23 O_ReNew_1.tar.gz"
+                },
+                {
+                    "osSeq": "511655",
+                    "model": "48LX1QPSA",
+                    "type": "Op",
+                    "fileId": "2",
+                    "filename": "webOS 23 O_ReNew_2.tar.gz"
+                },
+                {
+                    "osSeq": "511655",
+                    "model": "48LX1QPSA",
+                    "type": "Op",
+                    "fileId": "3",
+                    "filename": "webOS 23 O_ReNew_3.tar.gz"
+                }
+            ]
+        },
+        "48LX1QPUA": {
+            "description": "webOS 22 O 2.0",
+            "notice": [
+                {
+                    "osSeq": "511321",
+                    "model": "48LX1QPUA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-5226_webOS 22 O_2.0_230313.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "511321",
+                    "model": "48LX1QPUA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS 22 O_2.0_1.tar.gz"
+                },
+                {
+                    "osSeq": "511321",
+                    "model": "48LX1QPUA",
+                    "type": "Op",
+                    "fileId": "2",
+                    "filename": "webOS 22 O_2.0_2.tar.gz"
+                },
+                {
+                    "osSeq": "511321",
+                    "model": "48LX1QPUA",
+                    "type": "Op",
+                    "fileId": "3",
+                    "filename": "webOS 22 O_2.0_3.tar.gz"
+                }
+            ]
+        },
+        "48LX1T3LA": {
+            "description": "webOS 24 ONN 1.0",
+            "notice": [
+                {
+                    "osSeq": "511586",
+                    "model": "48LX1T3LA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-5902_webOS 24 ONN_1.0_240109.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "511586",
+                    "model": "48LX1T3LA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS 24 ONN_1.0_1.tar.gz"
+                },
+                {
+                    "osSeq": "511586",
+                    "model": "48LX1T3LA",
+                    "type": "Op",
+                    "fileId": "2",
+                    "filename": "webOS 24 ONN_1.0_2.tar.gz"
+                },
+                {
+                    "osSeq": "511586",
+                    "model": "48LX1T3LA",
+                    "type": "Op",
+                    "fileId": "3",
+                    "filename": "webOS 24 ONN_1.0_3.tar.gz"
+                }
+            ]
+        }
+    },
+    "TV/AV>Monitor/Signage": {
+        "48GQ900-BB": {
+            "description": "M_Odinson_Leona2_Nxp",
+            "notice": [
+                {
+                    "osSeq": "509858",
+                    "model": "48GQ900-BB",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-862_18Y_M_Odinson_4K_200324.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "509858",
+                    "model": "48GQ900-BB",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "18Y_M_Odinson_4K.zip"
+                }
+            ]
+        },
+        "48GQ900-BY": {
+            "description": "M_Odinson_Leona2_Nxp",
+            "notice": [
+                {
+                    "osSeq": "509858",
+                    "model": "48GQ900-BY",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-862_18Y_M_Odinson_4K_200324.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "509858",
+                    "model": "48GQ900-BY",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "18Y_M_Odinson_4K.zip"
+                }
+            ]
+        },
+        "48GQ90B-BY": {
+            "description": "M_Odinson_Leona2_Nxp",
+            "notice": [
+                {
+                    "osSeq": "509858",
+                    "model": "48GQ90B-BY",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-862_18Y_M_Odinson_4K_200324.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "509858",
+                    "model": "48GQ90B-BY",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "18Y_M_Odinson_4K.zip"
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,153 @@
+{
+    "TV/AV>Monitor/Signage": {
+        "55SM5E-BJ": {
+            "description": "webOS4.0_M16++_Signage MR",
+            "notice": [
+                {
+                    "osSeq": "508876",
+                    "model": "55SM5E-BJ",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-1360_webOS4.0_M16++_Signage_MR_190107.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "508876",
+                    "model": "55SM5E-BJ",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS4.0_M16++_Signage_MR.zip"
+                }
+            ]
+        },
+        "55SM5KB-B": {
+            "description": "webOS2.0_LM15U_Signage_2",
+            "notice": [
+                {
+                    "osSeq": "506465",
+                    "model": "55SM5KB-B",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-151022-LM15U_Signage-4.pdf"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "506465",
+                    "model": "55SM5KB-B",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS_Commercial_Signage_OpenSource_version1.0.1_2.zip"
+                }
+            ]
+        },
+        "55SM5KB-BD": {
+            "description": "webOS2.0_LM15U_Signage_2",
+            "notice": [
+                {
+                    "osSeq": "506465",
+                    "model": "55SM5KB-BD",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-151022-LM15U_Signage-4.pdf"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "506465",
+                    "model": "55SM5KB-BD",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS_Commercial_Signage_OpenSource_version1.0.1_2.zip"
+                }
+            ]
+        },
+        "55SM5KC-BF": {
+            "description": "webOS3.0_M16_Signage_2",
+            "notice": [
+                {
+                    "osSeq": "507279",
+                    "model": "55SM5KC-BF",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-170214-webOS3.0M16Signage-5.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "507279",
+                    "model": "55SM5KC-BF",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS3.2_3.0_M16_Signage_OpenSource_V1.0_2.zip"
+                }
+            ]
+        },
+        "55SM5KD-BH": {
+            "description": "webOS3.2_M16_Signage_2",
+            "notice": [
+                {
+                    "osSeq": "507773",
+                    "model": "55SM5KD-BH",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-171011-webOS3.2M16Signage-2.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "507773",
+                    "model": "55SM5KD-BH",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS3.2_3.0_M16_Signage_OpenSource_V1.0_2.zip"
+                }
+            ]
+        },
+        "55SM5KE-BJ": {
+            "description": "webOS4.0_M16++_Signage MR3",
+            "notice": [
+                {
+                    "osSeq": "510978",
+                    "model": "55SM5KE-BJ",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-4517_webOS4.0_M16++_Signage_MR3_220616.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "510978",
+                    "model": "55SM5KE-BJ",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS4.0_M16++_Signage_MR3.zip"
+                }
+            ]
+        }
+    },
+    "TV/AV>TV": {
+        "55SM8000PLA": {
+            "description": "webOS 4.5 IKLP 2.0",
+            "notice": [
+                {
+                    "osSeq": "509012",
+                    "model": "55SM8000PLA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-1611_webOS 4.5 IKLP_2.0_190319.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "509012",
+                    "model": "55SM8000PLA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS 4.5 IKLP_2.0.tar.gz"
+                }
+            ]
+        }
+    }
+}

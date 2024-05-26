@@ -1,0 +1,326 @@
+{
+    "TV/AV>TV": {
+        "50UT340H9UA": {
+            "description": "webOS4.5_M16P3_CommercialTV",
+            "notice": [
+                {
+                    "osSeq": "509112",
+                    "model": "50UT340H9UA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-1526_webOS4.5_M16P3_CommercialTV_190513.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "509112",
+                    "model": "50UT340H9UA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS4.5_M16P3_CommercialTV.zip"
+                }
+            ]
+        },
+        "50UT343H0UA": {
+            "description": "webOS4.5_M16P3_CommercialTV",
+            "notice": [
+                {
+                    "osSeq": "509112",
+                    "model": "50UT343H0UA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-1526_webOS4.5_M16P3_CommercialTV_190513.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "509112",
+                    "model": "50UT343H0UA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS4.5_M16P3_CommercialTV.zip"
+                }
+            ]
+        },
+        "50UT560H9UA": {
+            "description": "webOS4.5_M16P3_CommercialTV",
+            "notice": [
+                {
+                    "osSeq": "509112",
+                    "model": "50UT560H9UA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-1526_webOS4.5_M16P3_CommercialTV_190513.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "509112",
+                    "model": "50UT560H9UA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS4.5_M16P3_CommercialTV.zip"
+                }
+            ]
+        },
+        "50UT570H0UA": {
+            "description": "webOS4.5_M16P3_CommercialTV",
+            "notice": [
+                {
+                    "osSeq": "509112",
+                    "model": "50UT570H0UA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-1526_webOS4.5_M16P3_CommercialTV_190513.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "509112",
+                    "model": "50UT570H0UA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS4.5_M16P3_CommercialTV.zip"
+                }
+            ]
+        },
+        "50UT570H9UA": {
+            "description": "webOS4.5_M16P3_CommercialTV",
+            "notice": [
+                {
+                    "osSeq": "509112",
+                    "model": "50UT570H9UA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-1526_webOS4.5_M16P3_CommercialTV_190513.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "509112",
+                    "model": "50UT570H9UA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS4.5_M16P3_CommercialTV.zip"
+                }
+            ]
+        },
+        "50UT662M0GC": {
+            "description": "webOS4.5_M16P3_CommercialTV",
+            "notice": [
+                {
+                    "osSeq": "509112",
+                    "model": "50UT662M0GC",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-1526_webOS4.5_M16P3_CommercialTV_190513.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "509112",
+                    "model": "50UT662M0GC",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS4.5_M16P3_CommercialTV.zip"
+                }
+            ]
+        },
+        "50UT672M0UB": {
+            "description": "webOS4.5_M16P3_CommercialTV",
+            "notice": [
+                {
+                    "osSeq": "509112",
+                    "model": "50UT672M0UB",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-1526_webOS4.5_M16P3_CommercialTV_190513.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "509112",
+                    "model": "50UT672M0UB",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS4.5_M16P3_CommercialTV.zip"
+                }
+            ]
+        },
+        "50UT73003LA": {
+            "description": "webOS 24 KLPNN 1.0_2303",
+            "notice": [
+                {
+                    "osSeq": "511659",
+                    "model": "50UT73003LA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-6515_webOS 24 KLPNN_1.0_2303_240326.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "511659",
+                    "model": "50UT73003LA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS 24 KLPNN_1.0_2303_1.tar.gz"
+                },
+                {
+                    "osSeq": "511659",
+                    "model": "50UT73003LA",
+                    "type": "Op",
+                    "fileId": "2",
+                    "filename": "webOS 24 KLPNN_1.0_2303_2.tar.gz"
+                },
+                {
+                    "osSeq": "511659",
+                    "model": "50UT73003LA",
+                    "type": "Op",
+                    "fileId": "3",
+                    "filename": "webOS 24 KLPNN_1.0_2303_3.tar.gz"
+                }
+            ]
+        },
+        "50UT73006LA": {
+            "description": "webOS 24 KLPNN 1.0_2303",
+            "notice": [
+                {
+                    "osSeq": "511659",
+                    "model": "50UT73006LA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-6515_webOS 24 KLPNN_1.0_2303_240326.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "511659",
+                    "model": "50UT73006LA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS 24 KLPNN_1.0_2303_1.tar.gz"
+                },
+                {
+                    "osSeq": "511659",
+                    "model": "50UT73006LA",
+                    "type": "Op",
+                    "fileId": "2",
+                    "filename": "webOS 24 KLPNN_1.0_2303_2.tar.gz"
+                },
+                {
+                    "osSeq": "511659",
+                    "model": "50UT73006LA",
+                    "type": "Op",
+                    "fileId": "3",
+                    "filename": "webOS 24 KLPNN_1.0_2303_3.tar.gz"
+                }
+            ]
+        },
+        "50UT7300PSA": {
+            "description": "webOS 24 KLPNN 1.0_2303",
+            "notice": [
+                {
+                    "osSeq": "511659",
+                    "model": "50UT7300PSA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-6515_webOS 24 KLPNN_1.0_2303_240326.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "511659",
+                    "model": "50UT7300PSA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS 24 KLPNN_1.0_2303_1.tar.gz"
+                },
+                {
+                    "osSeq": "511659",
+                    "model": "50UT7300PSA",
+                    "type": "Op",
+                    "fileId": "2",
+                    "filename": "webOS 24 KLPNN_1.0_2303_2.tar.gz"
+                },
+                {
+                    "osSeq": "511659",
+                    "model": "50UT7300PSA",
+                    "type": "Op",
+                    "fileId": "3",
+                    "filename": "webOS 24 KLPNN_1.0_2303_3.tar.gz"
+                }
+            ]
+        },
+        "50UT7550AUA": {
+            "description": "webOS 24 KLPNN 1.0_2303",
+            "notice": [
+                {
+                    "osSeq": "511659",
+                    "model": "50UT7550AUA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-6515_webOS 24 KLPNN_1.0_2303_240326.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "511659",
+                    "model": "50UT7550AUA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS 24 KLPNN_1.0_2303_1.tar.gz"
+                },
+                {
+                    "osSeq": "511659",
+                    "model": "50UT7550AUA",
+                    "type": "Op",
+                    "fileId": "2",
+                    "filename": "webOS 24 KLPNN_1.0_2303_2.tar.gz"
+                },
+                {
+                    "osSeq": "511659",
+                    "model": "50UT7550AUA",
+                    "type": "Op",
+                    "fileId": "3",
+                    "filename": "webOS 24 KLPNN_1.0_2303_3.tar.gz"
+                }
+            ]
+        },
+        "50UT7570PUB": {
+            "description": "webOS 24 KLPNN 1.0_2303",
+            "notice": [
+                {
+                    "osSeq": "511659",
+                    "model": "50UT7570PUB",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-6515_webOS 24 KLPNN_1.0_2303_240326.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "511659",
+                    "model": "50UT7570PUB",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS 24 KLPNN_1.0_2303_1.tar.gz"
+                },
+                {
+                    "osSeq": "511659",
+                    "model": "50UT7570PUB",
+                    "type": "Op",
+                    "fileId": "2",
+                    "filename": "webOS 24 KLPNN_1.0_2303_2.tar.gz"
+                },
+                {
+                    "osSeq": "511659",
+                    "model": "50UT7570PUB",
+                    "type": "Op",
+                    "fileId": "3",
+                    "filename": "webOS 24 KLPNN_1.0_2303_3.tar.gz"
+                }
+            ]
+        }
+    }
+}

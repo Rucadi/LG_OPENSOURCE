@@ -1,0 +1,326 @@
+{
+    "TV/AV>TV": {
+        "OLED65E9PTA": {
+            "description": "webOS 4.5 IO 4.0",
+            "notice": [
+                {
+                    "osSeq": "510772",
+                    "model": "OLED65E9PTA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-4151_webOS 4.5 IO_4.0_220113.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "510772",
+                    "model": "OLED65E9PTA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS 4.5 IO_4.0_1.tar.gz"
+                },
+                {
+                    "osSeq": "510772",
+                    "model": "OLED65E9PTA",
+                    "type": "Op",
+                    "fileId": "2",
+                    "filename": "webOS 4.5 IO_4.0_2.tar.gz"
+                }
+            ]
+        },
+        "OLED65E9PUA": {
+            "description": "webOS 4.5 IO 4.0",
+            "notice": [
+                {
+                    "osSeq": "510772",
+                    "model": "OLED65E9PUA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-4151_webOS 4.5 IO_4.0_220113.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "510772",
+                    "model": "OLED65E9PUA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS 4.5 IO_4.0_1.tar.gz"
+                },
+                {
+                    "osSeq": "510772",
+                    "model": "OLED65E9PUA",
+                    "type": "Op",
+                    "fileId": "2",
+                    "filename": "webOS 4.5 IO_4.0_2.tar.gz"
+                }
+            ]
+        },
+        "OLED65E9PVA": {
+            "description": "webOS 4.5 IO 4.0",
+            "notice": [
+                {
+                    "osSeq": "510772",
+                    "model": "OLED65E9PVA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-4151_webOS 4.5 IO_4.0_220113.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "510772",
+                    "model": "OLED65E9PVA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS 4.5 IO_4.0_1.tar.gz"
+                },
+                {
+                    "osSeq": "510772",
+                    "model": "OLED65E9PVA",
+                    "type": "Op",
+                    "fileId": "2",
+                    "filename": "webOS 4.5 IO_4.0_2.tar.gz"
+                }
+            ]
+        },
+        "OLED65E9PWA": {
+            "description": "webOS 4.5 IO 4.0",
+            "notice": [
+                {
+                    "osSeq": "510772",
+                    "model": "OLED65E9PWA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-4151_webOS 4.5 IO_4.0_220113.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "510772",
+                    "model": "OLED65E9PWA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS 4.5 IO_4.0_1.tar.gz"
+                },
+                {
+                    "osSeq": "510772",
+                    "model": "OLED65E9PWA",
+                    "type": "Op",
+                    "fileId": "2",
+                    "filename": "webOS 4.5 IO_4.0_2.tar.gz"
+                }
+            ]
+        },
+        "OLED65G13LA": {
+            "description": "webOS 6.0 ON 1.0",
+            "notice": [
+                {
+                    "osSeq": "510316",
+                    "model": "OLED65G13LA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-3255_webOS 6.0 ON_1.0_210203.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "510316",
+                    "model": "OLED65G13LA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS 6.0 ON_1.0_1.tar.gz"
+                },
+                {
+                    "osSeq": "510316",
+                    "model": "OLED65G13LA",
+                    "type": "Op",
+                    "fileId": "2",
+                    "filename": "webOS 6.0 ON_1.0_2.tar.gz"
+                },
+                {
+                    "osSeq": "510316",
+                    "model": "OLED65G13LA",
+                    "type": "Op",
+                    "fileId": "3",
+                    "filename": "webOS 6.0 ON_1.0_3.tar.gz"
+                }
+            ]
+        },
+        "OLED65G16LA": {
+            "description": "webOS 6.0 ON 1.0",
+            "notice": [
+                {
+                    "osSeq": "510316",
+                    "model": "OLED65G16LA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-3255_webOS 6.0 ON_1.0_210203.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "510316",
+                    "model": "OLED65G16LA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS 6.0 ON_1.0_1.tar.gz"
+                },
+                {
+                    "osSeq": "510316",
+                    "model": "OLED65G16LA",
+                    "type": "Op",
+                    "fileId": "2",
+                    "filename": "webOS 6.0 ON_1.0_2.tar.gz"
+                },
+                {
+                    "osSeq": "510316",
+                    "model": "OLED65G16LA",
+                    "type": "Op",
+                    "fileId": "3",
+                    "filename": "webOS 6.0 ON_1.0_3.tar.gz"
+                }
+            ]
+        },
+        "OLED65G19LA": {
+            "description": "webOS 6.0 ON 1.0",
+            "notice": [
+                {
+                    "osSeq": "510316",
+                    "model": "OLED65G19LA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-3255_webOS 6.0 ON_1.0_210203.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "510316",
+                    "model": "OLED65G19LA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS 6.0 ON_1.0_1.tar.gz"
+                },
+                {
+                    "osSeq": "510316",
+                    "model": "OLED65G19LA",
+                    "type": "Op",
+                    "fileId": "2",
+                    "filename": "webOS 6.0 ON_1.0_2.tar.gz"
+                },
+                {
+                    "osSeq": "510316",
+                    "model": "OLED65G19LA",
+                    "type": "Op",
+                    "fileId": "3",
+                    "filename": "webOS 6.0 ON_1.0_3.tar.gz"
+                }
+            ]
+        },
+        "OLED65G1AUA": {
+            "description": "webOS 6.0 ON 1.0",
+            "notice": [
+                {
+                    "osSeq": "510316",
+                    "model": "OLED65G1AUA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-3255_webOS 6.0 ON_1.0_210203.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "510316",
+                    "model": "OLED65G1AUA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS 6.0 ON_1.0_1.tar.gz"
+                },
+                {
+                    "osSeq": "510316",
+                    "model": "OLED65G1AUA",
+                    "type": "Op",
+                    "fileId": "2",
+                    "filename": "webOS 6.0 ON_1.0_2.tar.gz"
+                },
+                {
+                    "osSeq": "510316",
+                    "model": "OLED65G1AUA",
+                    "type": "Op",
+                    "fileId": "3",
+                    "filename": "webOS 6.0 ON_1.0_3.tar.gz"
+                }
+            ]
+        },
+        "OLED65G1KNA": {
+            "description": "webOS 6.0 ON 1.0",
+            "notice": [
+                {
+                    "osSeq": "510316",
+                    "model": "OLED65G1KNA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-3255_webOS 6.0 ON_1.0_210203.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "510316",
+                    "model": "OLED65G1KNA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS 6.0 ON_1.0_1.tar.gz"
+                },
+                {
+                    "osSeq": "510316",
+                    "model": "OLED65G1KNA",
+                    "type": "Op",
+                    "fileId": "2",
+                    "filename": "webOS 6.0 ON_1.0_2.tar.gz"
+                },
+                {
+                    "osSeq": "510316",
+                    "model": "OLED65G1KNA",
+                    "type": "Op",
+                    "fileId": "3",
+                    "filename": "webOS 6.0 ON_1.0_3.tar.gz"
+                }
+            ]
+        },
+        "OLED65G1PCA": {
+            "description": "webOS 6.0 ON 1.0",
+            "notice": [
+                {
+                    "osSeq": "510316",
+                    "model": "OLED65G1PCA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-3255_webOS 6.0 ON_1.0_210203.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "510316",
+                    "model": "OLED65G1PCA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS 6.0 ON_1.0_1.tar.gz"
+                },
+                {
+                    "osSeq": "510316",
+                    "model": "OLED65G1PCA",
+                    "type": "Op",
+                    "fileId": "2",
+                    "filename": "webOS 6.0 ON_1.0_2.tar.gz"
+                },
+                {
+                    "osSeq": "510316",
+                    "model": "OLED65G1PCA",
+                    "type": "Op",
+                    "fileId": "3",
+                    "filename": "webOS 6.0 ON_1.0_3.tar.gz"
+                }
+            ]
+        }
+    }
+}

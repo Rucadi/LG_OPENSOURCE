@@ -1,0 +1,424 @@
+{
+    "TV/AV>TV": {
+        "55UH755T-TC": {
+            "description": "webOS DM Lite LGE Open Source",
+            "notice": [
+                {
+                    "osSeq": "507032",
+                    "model": "55UH755T-TC",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-161108-webOSDML-3.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "507032",
+                    "model": "55UH755T-TC",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "DM-r3147.tar.gz"
+                }
+            ]
+        },
+        "55UH755V-TC": {
+            "description": "webOS DM Lite LGE Open Source",
+            "notice": [
+                {
+                    "osSeq": "507032",
+                    "model": "55UH755V-TC",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-161108-webOSDML-3.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "507032",
+                    "model": "55UH755V-TC",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "DM-r3147.tar.gz"
+                }
+            ]
+        },
+        "55UH755V-ZD": {
+            "description": "webOS DM Lite LGE Open Source",
+            "notice": [
+                {
+                    "osSeq": "507032",
+                    "model": "55UH755V-ZD",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-161108-webOSDML-3.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "507032",
+                    "model": "55UH755V-ZD",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "DM-r3147.tar.gz"
+                }
+            ]
+        },
+        "55UH755Y-TC": {
+            "description": "webOS DM Lite LGE Open Source",
+            "notice": [
+                {
+                    "osSeq": "507032",
+                    "model": "55UH755Y-TC",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-161108-webOSDML-3.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "507032",
+                    "model": "55UH755Y-TC",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "DM-r3147.tar.gz"
+                }
+            ]
+        },
+        "55UH7600-NA": {
+            "description": "webOS DM Lite LGE Open Source",
+            "notice": [
+                {
+                    "osSeq": "507032",
+                    "model": "55UH7600-NA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-161108-webOSDML-3.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "507032",
+                    "model": "55UH7600-NA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "DM-r3147.tar.gz"
+                }
+            ]
+        },
+        "55UH7650-SA": {
+            "description": "webOS DKL LGE Open Source",
+            "notice": [
+                {
+                    "osSeq": "507043",
+                    "model": "55UH7650-SA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-161108-webOSDKL-7.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "507043",
+                    "model": "55UH7650-SA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "DKL-r3173.tar.gz"
+                }
+            ]
+        },
+        "55UH7650-UA": {
+            "description": "webOS DKL LGE Open Source",
+            "notice": [
+                {
+                    "osSeq": "507043",
+                    "model": "55UH7650-UA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-161108-webOSDKL-7.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "507043",
+                    "model": "55UH7650-UA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "DKL-r3173.tar.gz"
+                }
+            ]
+        },
+        "55UH765T-DA": {
+            "description": "webOS DKL LGE Open Source",
+            "notice": [
+                {
+                    "osSeq": "507043",
+                    "model": "55UH765T-DA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-161108-webOSDKL-7.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "507043",
+                    "model": "55UH765T-DA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "DKL-r3173.tar.gz"
+                }
+            ]
+        },
+        "55UH7670-NC": {
+            "description": "webOS DM Lite LGE Open Source",
+            "notice": [
+                {
+                    "osSeq": "507032",
+                    "model": "55UH7670-NC",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-161108-webOSDML-3.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "507032",
+                    "model": "55UH7670-NC",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "DM-r3147.tar.gz"
+                }
+            ]
+        },
+        "55UH7700-CA": {
+            "description": "webOS DKL LGE Open Source",
+            "notice": [
+                {
+                    "osSeq": "507043",
+                    "model": "55UH7700-CA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-161108-webOSDKL-7.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "507043",
+                    "model": "55UH7700-CA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "DKL-r3173.tar.gz"
+                }
+            ]
+        },
+        "55UH7700-CB": {
+            "description": "webOS DKL LGE Open Source",
+            "notice": [
+                {
+                    "osSeq": "507043",
+                    "model": "55UH7700-CB",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-161108-webOSDKL-7.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "507043",
+                    "model": "55UH7700-CB",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "DKL-r3173.tar.gz"
+                }
+            ]
+        },
+        "55UH7700-JA": {
+            "description": "webOS DKL LGE Open Source",
+            "notice": [
+                {
+                    "osSeq": "507043",
+                    "model": "55UH7700-JA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-161108-webOSDKL-7.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "507043",
+                    "model": "55UH7700-JA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "DKL-r3173.tar.gz"
+                }
+            ]
+        },
+        "55UH7700-PA": {
+            "description": "webOS DKL LGE Open Source",
+            "notice": [
+                {
+                    "osSeq": "507043",
+                    "model": "55UH7700-PA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-161108-webOSDKL-7.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "507043",
+                    "model": "55UH7700-PA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "DKL-r3173.tar.gz"
+                }
+            ]
+        },
+        "55UH7700-SA": {
+            "description": "webOS DKL LGE Open Source",
+            "notice": [
+                {
+                    "osSeq": "507043",
+                    "model": "55UH7700-SA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-161108-webOSDKL-7.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "507043",
+                    "model": "55UH7700-SA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "DKL-r3173.tar.gz"
+                }
+            ]
+        },
+        "55UH7700-UB": {
+            "description": "webOS DKL LGE Open Source",
+            "notice": [
+                {
+                    "osSeq": "507043",
+                    "model": "55UH7700-UB",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-161108-webOSDKL-7.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "507043",
+                    "model": "55UH7700-UB",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "DKL-r3173.tar.gz"
+                }
+            ]
+        },
+        "55UH7707-ZA": {
+            "description": "webOS DKL LGE Open Source",
+            "notice": [
+                {
+                    "osSeq": "507043",
+                    "model": "55UH7707-ZA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-161108-webOSDKL-7.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "507043",
+                    "model": "55UH7707-ZA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "DKL-r3173.tar.gz"
+                }
+            ]
+        },
+        "55UH7709-ZA": {
+            "description": "webOS DKL LGE Open Source",
+            "notice": [
+                {
+                    "osSeq": "507043",
+                    "model": "55UH7709-ZA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-161108-webOSDKL-7.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "507043",
+                    "model": "55UH7709-ZA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "DKL-r3173.tar.gz"
+                }
+            ]
+        },
+        "55UH770T-DA": {
+            "description": "webOS DKL LGE Open Source",
+            "notice": [
+                {
+                    "osSeq": "507043",
+                    "model": "55UH770T-DA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-161108-webOSDKL-7.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "507043",
+                    "model": "55UH770T-DA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "DKL-r3173.tar.gz"
+                }
+            ]
+        },
+        "55UH770T-TA": {
+            "description": "webOS DKL LGE Open Source",
+            "notice": [
+                {
+                    "osSeq": "507043",
+                    "model": "55UH770T-TA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-161108-webOSDKL-7.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "507043",
+                    "model": "55UH770T-TA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "DKL-r3173.tar.gz"
+                }
+            ]
+        },
+        "55UH770V-TA": {
+            "description": "webOS DKL LGE Open Source",
+            "notice": [
+                {
+                    "osSeq": "507043",
+                    "model": "55UH770V-TA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-161108-webOSDKL-7.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "507043",
+                    "model": "55UH770V-TA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "DKL-r3173.tar.gz"
+                }
+            ]
+        }
+    }
+}

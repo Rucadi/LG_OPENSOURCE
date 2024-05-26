@@ -1,0 +1,107 @@
+{
+    "TV/AV>AV": {
+        "LG SOUND BAR FOR IOS": {
+            "description": "LG SOUND BAR for iOS 1.5.02-",
+            "notice": [
+                {
+                    "osSeq": "511259",
+                    "model": "LG SOUND BAR FOR IOS",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-5121_LG SOUND BAR for iOS_1.5.02-_230131.html"
+                }
+            ],
+            "source": []
+        },
+        "LG SOUNDBAR FOR ANDROID": {
+            "description": "LG Soundbar for Android 1.5.02- (latest)",
+            "notice": [
+                {
+                    "osSeq": "511543",
+                    "model": "LG SOUNDBAR FOR ANDROID",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-5118_LG Soundbar for Android_1.5.02-_231109.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "511543",
+                    "model": "LG SOUNDBAR FOR ANDROID",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "LG Soundbar for Android_1.5.02-.zip"
+                }
+            ]
+        },
+        "LG SOUNDBAR FOR IOS": {
+            "description": "LG Soundbar for iOS 1.5.17- (latest)",
+            "notice": [
+                {
+                    "osSeq": "511541",
+                    "model": "LG SOUNDBAR FOR IOS",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-5746_LG Soundbar for iOS_1.5.17-_231108.html"
+                }
+            ],
+            "source": []
+        },
+        "LG TONE FREE FOR ANDROID": {
+            "description": "LG Tone Free for Android 1.4.13- (latest)",
+            "notice": [
+                {
+                    "osSeq": "511694",
+                    "model": "LG TONE FREE FOR ANDROID",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-6702_LG Tone Free for Android_1.4.13-_240419.html"
+                }
+            ],
+            "source": []
+        }
+    },
+    "TV/AV>TV": {
+        "LG SPORT 1.0": {
+            "description": "LG Sports (\u0412\u0435\u0441\u044c C\u043f\u043e\u0440\u0442) 1.0: Sports broadcast aggregator",
+            "notice": [
+                {
+                    "osSeq": "510477",
+                    "model": "LG SPORT 1.0",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-2922_LG Sport_201102.html"
+                }
+            ],
+            "source": []
+        },
+        "LG SPORT ADMIN 1.0": {
+            "description": "LG Sports (\u0412\u0435\u0441\u044c C\u043f\u043e\u0440\u0442) Admin 1.0: Content Management System for LG Sports (\u0412\u0435\u0441\u044c C\u043f\u043e\u0440\u0442) application",
+            "notice": [
+                {
+                    "osSeq": "510476",
+                    "model": "LG SPORT ADMIN 1.0",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-3189_LG Sport Admin_1.0_201103.html"
+                }
+            ],
+            "source": []
+        }
+    },
+    "TV/AV>Monitor/Signage": {
+        "LG SWITCH": {
+            "description": "On Screen Control (windows) 2.1",
+            "notice": [
+                {
+                    "osSeq": "509114",
+                    "model": "LG SWITCH",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-1701_On Screen Control (windows)_2.1_190515.html"
+                }
+            ],
+            "source": []
+        }
+    }
+}

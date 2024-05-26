@@ -1,0 +1,185 @@
+{
+    "TV/AV>Monitor/Signage": {
+        "49VL5B-XE": {
+            "description": "L14_M1A_Signage",
+            "notice": [
+                {
+                    "osSeq": "12880",
+                    "model": "49VL5B-XE",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-891_L14 M1A Signage_180122.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "12880",
+                    "model": "49VL5B-XE",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "L14 M1A Signage.zip"
+                }
+            ]
+        },
+        "49VL5D-BH": {
+            "description": "webOS3.2_M16_Signage_2",
+            "notice": [
+                {
+                    "osSeq": "507773",
+                    "model": "49VL5D-BH",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-171011-webOS3.2M16Signage-2.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "507773",
+                    "model": "49VL5D-BH",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS3.2_3.0_M16_Signage_OpenSource_V1.0_2.zip"
+                }
+            ]
+        },
+        "49VL5F-AK": {
+            "description": "L18/L19 M1A Signage",
+            "notice": [
+                {
+                    "osSeq": "508319",
+                    "model": "49VL5F-AK",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-820_L18 M1A Signage_171220.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "508319",
+                    "model": "49VL5F-AK",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "L18 M1A Signage.zip"
+                }
+            ]
+        },
+        "49VL5G-AK": {
+            "description": "L18/L19 M1A Signage",
+            "notice": [
+                {
+                    "osSeq": "508319",
+                    "model": "49VL5G-AK",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-820_L18 M1A Signage_171220.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "508319",
+                    "model": "49VL5G-AK",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "L18 M1A Signage.zip"
+                }
+            ]
+        },
+        "49VL5G-MK": {
+            "description": "L18/L19 M1A Signage",
+            "notice": [
+                {
+                    "osSeq": "508319",
+                    "model": "49VL5G-MK",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-820_L18 M1A Signage_171220.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "508319",
+                    "model": "49VL5G-MK",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "L18 M1A Signage.zip"
+                }
+            ]
+        },
+        "49VL5P-HJ": {
+            "description": "webOS4.0+_M16++_Signage MR2",
+            "notice": [
+                {
+                    "osSeq": "510979",
+                    "model": "49VL5P-HJ",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-4518_webOS4.0+_M16++_Signage_MR2_220616.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "510979",
+                    "model": "49VL5P-HJ",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS4.0+_M16++_Signage_MR2.zip"
+                }
+            ]
+        },
+        "49VL5PF-AH": {
+            "description": "webOS3.2_M16_Signage_2",
+            "notice": [
+                {
+                    "osSeq": "507773",
+                    "model": "49VL5PF-AH",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-171011-webOS3.2M16Signage-2.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "507773",
+                    "model": "49VL5PF-AH",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS3.2_3.0_M16_Signage_OpenSource_V1.0_2.zip"
+                }
+            ]
+        },
+        "49VL5PJ-AJ": {
+            "description": "webOS4.0+_M16++_Signage MR2",
+            "notice": [
+                {
+                    "osSeq": "510979",
+                    "model": "49VL5PJ-AJ",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-4518_webOS4.0+_M16++_Signage_MR2_220616.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "510979",
+                    "model": "49VL5PJ-AJ",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS4.0+_M16++_Signage_MR2.zip"
+                }
+            ]
+        },
+        "49VL5PJ-HJ": {
+            "description": "SCAP API 1.6 / 1.7",
+            "notice": [
+                {
+                    "osSeq": "508373",
+                    "model": "49VL5PJ-HJ",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-897_SCAP API_180122.html"
+                }
+            ],
+            "source": []
+        }
+    }
+}

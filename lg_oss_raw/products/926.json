@@ -1,0 +1,137 @@
+{
+    "TV/AV>TV": {
+        "65UK6430KNH": {
+            "description": "webOS 4.5 IMP 4.0",
+            "notice": [
+                {
+                    "osSeq": "510773",
+                    "model": "65UK6430KNH",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-4152_webOS 4.5 IMP_4.0_220113.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "510773",
+                    "model": "65UK6430KNH",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS 4.5 IMP_4.0_1.tar.gz"
+                },
+                {
+                    "osSeq": "510773",
+                    "model": "65UK6430KNH",
+                    "type": "Op",
+                    "fileId": "2",
+                    "filename": "webOS 4.5 IMP_4.0_2.tar.gz"
+                }
+            ]
+        },
+        "65UK6450PLC": {
+            "description": "webOS GLMA LGE TV Open Source",
+            "notice": [
+                {
+                    "osSeq": "508336",
+                    "model": "65UK6450PLC",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-784_webOS_4.0_GLMA_1.0_20171106163605.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "508336",
+                    "model": "65UK6450PLC",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "DM2-r3173.tar.gz"
+                }
+            ]
+        },
+        "65UK6470PLC": {
+            "description": "webOS GLMA LGE TV Open Source",
+            "notice": [
+                {
+                    "osSeq": "508336",
+                    "model": "65UK6470PLC",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-784_webOS_4.0_GLMA_1.0_20171106163605.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "508336",
+                    "model": "65UK6470PLC",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "DM2-r3173.tar.gz"
+                }
+            ]
+        },
+        "65UK6500AUA": {
+            "description": "webOS GLMA LGE TV Open Source",
+            "notice": [
+                {
+                    "osSeq": "508336",
+                    "model": "65UK6500AUA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-784_webOS_4.0_GLMA_1.0_20171106163605.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "508336",
+                    "model": "65UK6500AUA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "DM2-r3173.tar.gz"
+                }
+            ]
+        },
+        "65UK6500EJD": {
+            "description": "webOS 4.0 GMPP MR 2.0",
+            "notice": [
+                {
+                    "osSeq": "508643",
+                    "model": "65UK6500EJD",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-1058_webOS 4.0 GMPP MR_2.0_180625.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "508643",
+                    "model": "65UK6500EJD",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS 4.0 GMPP MR_2.0.tar.gz"
+                }
+            ]
+        },
+        "65UK6500LLA": {
+            "description": "webOS 4.0 GLMA 3.0",
+            "notice": [
+                {
+                    "osSeq": "510770",
+                    "model": "65UK6500LLA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-4062_webOS 4.0 GLMA_3.0_220113.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "510770",
+                    "model": "65UK6500LLA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS 4.0 GLMA_3.0.tar.gz"
+                }
+            ]
+        }
+    }
+}

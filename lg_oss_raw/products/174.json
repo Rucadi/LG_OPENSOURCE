@@ -1,0 +1,384 @@
+{
+    "TV/AV>TV": {
+        "42UB8230-CH": {
+            "description": "NetCast4.5 LM LGE TV Open Source",
+            "notice": [
+                {
+                    "osSeq": "506625",
+                    "model": "42UB8230-CH",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-140925-NetCast4_5LM-2.pdf"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "506625",
+                    "model": "42UB8230-CH",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "NetCast4.5_LM_CO_FI-4.zip"
+                }
+            ]
+        },
+        "42UB8280-CH": {
+            "description": "NetCast4.5 LM LGE TV Open Source",
+            "notice": [
+                {
+                    "osSeq": "506625",
+                    "model": "42UB8280-CH",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-140925-NetCast4_5LM-2.pdf"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "506625",
+                    "model": "42UB8280-CH",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "NetCast4.5_LM_CO_FI-4.zip"
+                }
+            ]
+        },
+        "42UB829Y-TH": {
+            "description": "NetCast4.5 LM LGE TV Open Source",
+            "notice": [
+                {
+                    "osSeq": "506625",
+                    "model": "42UB829Y-TH",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-140925-NetCast4_5LM-2.pdf"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "506625",
+                    "model": "42UB829Y-TH",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "NetCast4.5_LM_CO_FI-4.zip"
+                }
+            ]
+        },
+        "42UH100V-ZA": {
+            "description": "webOS DM Lite LGE Open Source",
+            "notice": [
+                {
+                    "osSeq": "507032",
+                    "model": "42UH100V-ZA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-161108-webOSDML-3.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "507032",
+                    "model": "42UH100V-ZA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "DM-r3147.tar.gz"
+                }
+            ]
+        }
+    },
+    "TV/AV>Monitor/Signage": {
+        "42VS20-BAAJ": {
+            "description": "Signage_vs20 Series",
+            "notice": [
+                {
+                    "osSeq": "12680",
+                    "model": "42VS20-BAAJ",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-140731-Signage_vs20Series-1.pdf"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "12680",
+                    "model": "42VS20-BAAJ",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "Signage_vs20Series_OpenSource_v1.0.zip"
+                }
+            ]
+        },
+        "42VS20-BAAL": {
+            "description": "Signage_vs20 Series",
+            "notice": [
+                {
+                    "osSeq": "12680",
+                    "model": "42VS20-BAAL",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-140731-Signage_vs20Series-1.pdf"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "12680",
+                    "model": "42VS20-BAAL",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "Signage_vs20Series_OpenSource_v1.0.zip"
+                }
+            ]
+        },
+        "42VS20-BAP": {
+            "description": "Signage_vs20 Series",
+            "notice": [
+                {
+                    "osSeq": "12680",
+                    "model": "42VS20-BAP",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-140731-Signage_vs20Series-1.pdf"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "12680",
+                    "model": "42VS20-BAP",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "Signage_vs20Series_OpenSource_v1.0.zip"
+                }
+            ]
+        },
+        "42VS20-BAPL": {
+            "description": "Signage_vs20 Series",
+            "notice": [
+                {
+                    "osSeq": "12680",
+                    "model": "42VS20-BAPL",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-140731-Signage_vs20Series-1.pdf"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "12680",
+                    "model": "42VS20-BAPL",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "Signage_vs20Series_OpenSource_v1.0.zip"
+                }
+            ]
+        },
+        "42VS20-BAXL": {
+            "description": "Signage_vs20 Series",
+            "notice": [
+                {
+                    "osSeq": "12680",
+                    "model": "42VS20-BAXL",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-140731-Signage_vs20Series-1.pdf"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "12680",
+                    "model": "42VS20-BAXL",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "Signage_vs20Series_OpenSource_v1.0.zip"
+                }
+            ]
+        },
+        "42WL10ME-BL": {
+            "description": "Signage_vs20 Series",
+            "notice": [
+                {
+                    "osSeq": "12680",
+                    "model": "42WL10ME-BL",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-140731-Signage_vs20Series-1.pdf"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "12680",
+                    "model": "42WL10ME-BL",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "Signage_vs20Series_OpenSource_v1.0.zip"
+                }
+            ]
+        },
+        "42WL10MS-BL": {
+            "description": "Signage_vs20 Series",
+            "notice": [
+                {
+                    "osSeq": "12680",
+                    "model": "42WL10MS-BL",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-140731-Signage_vs20Series-1.pdf"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "12680",
+                    "model": "42WL10MS-BL",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "Signage_vs20Series_OpenSource_v1.0.zip"
+                }
+            ]
+        },
+        "42WL30MS-BL": {
+            "description": "Signage_vs20 Series",
+            "notice": [
+                {
+                    "osSeq": "12680",
+                    "model": "42WL30MS-BL",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-140731-Signage_vs20Series-1.pdf"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "12680",
+                    "model": "42WL30MS-BL",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "Signage_vs20Series_OpenSource_v1.0.zip"
+                }
+            ]
+        },
+        "42WL30MS-DL": {
+            "description": "Signage_vs20 Series",
+            "notice": [
+                {
+                    "osSeq": "12680",
+                    "model": "42WL30MS-DL",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-140731-Signage_vs20Series-1.pdf"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "12680",
+                    "model": "42WL30MS-DL",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "Signage_vs20Series_OpenSource_v1.0.zip"
+                }
+            ]
+        },
+        "42WS10-BAAL": {
+            "description": "Signage_vs20 Series",
+            "notice": [
+                {
+                    "osSeq": "12680",
+                    "model": "42WS10-BAAL",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-140731-Signage_vs20Series-1.pdf"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "12680",
+                    "model": "42WS10-BAAL",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "Signage_vs20Series_OpenSource_v1.0.zip"
+                }
+            ]
+        },
+        "42WS10-BAP": {
+            "description": "Signage_vs20 Series",
+            "notice": [
+                {
+                    "osSeq": "12680",
+                    "model": "42WS10-BAP",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-140731-Signage_vs20Series-1.pdf"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "12680",
+                    "model": "42WS10-BAP",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "Signage_vs20Series_OpenSource_v1.0.zip"
+                }
+            ]
+        },
+        "42WS10-BAPL": {
+            "description": "Signage_vs20 Series",
+            "notice": [
+                {
+                    "osSeq": "12680",
+                    "model": "42WS10-BAPL",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-140731-Signage_vs20Series-1.pdf"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "12680",
+                    "model": "42WS10-BAPL",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "Signage_vs20Series_OpenSource_v1.0.zip"
+                }
+            ]
+        },
+        "42WS50BS-B": {
+            "description": "Signage_vs20 Series",
+            "notice": [
+                {
+                    "osSeq": "12680",
+                    "model": "42WS50BS-B",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-140731-Signage_vs20Series-1.pdf"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "12680",
+                    "model": "42WS50BS-B",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "Signage_vs20Series_OpenSource_v1.0.zip"
+                }
+            ]
+        },
+        "42WS50BS-BL": {
+            "description": "Signage_vs20 Series",
+            "notice": [
+                {
+                    "osSeq": "12680",
+                    "model": "42WS50BS-BL",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-140731-Signage_vs20Series-1.pdf"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "12680",
+                    "model": "42WS50BS-BL",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "Signage_vs20Series_OpenSource_v1.0.zip"
+                }
+            ]
+        }
+    }
+}

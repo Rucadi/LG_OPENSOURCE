@@ -1,0 +1,494 @@
+{
+    "TV/AV>TV": {
+        "OLED83M4KNA": {
+            "description": "webOS 24 O 1.0_2303",
+            "notice": [
+                {
+                    "osSeq": "511646",
+                    "model": "OLED83M4KNA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-6351_webOS24 O_1.0_2303_240311.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "511646",
+                    "model": "OLED83M4KNA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS24 O_1.0_2303_1.tar.gz"
+                },
+                {
+                    "osSeq": "511646",
+                    "model": "OLED83M4KNA",
+                    "type": "Op",
+                    "fileId": "2",
+                    "filename": "webOS24 O_1.0_2303_2.tar.gz"
+                },
+                {
+                    "osSeq": "511646",
+                    "model": "OLED83M4KNA",
+                    "type": "Op",
+                    "fileId": "3",
+                    "filename": "webOS24 O_1.0_2303_3.tar.gz"
+                }
+            ]
+        },
+        "OLED83M4PCA": {
+            "description": "webOS 24 O 1.0_2303",
+            "notice": [
+                {
+                    "osSeq": "511646",
+                    "model": "OLED83M4PCA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-6351_webOS24 O_1.0_2303_240311.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "511646",
+                    "model": "OLED83M4PCA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS24 O_1.0_2303_1.tar.gz"
+                },
+                {
+                    "osSeq": "511646",
+                    "model": "OLED83M4PCA",
+                    "type": "Op",
+                    "fileId": "2",
+                    "filename": "webOS24 O_1.0_2303_2.tar.gz"
+                },
+                {
+                    "osSeq": "511646",
+                    "model": "OLED83M4PCA",
+                    "type": "Op",
+                    "fileId": "3",
+                    "filename": "webOS24 O_1.0_2303_3.tar.gz"
+                }
+            ]
+        },
+        "OLED83M4PSA": {
+            "description": "webOS 24 O 1.0_2303",
+            "notice": [
+                {
+                    "osSeq": "511646",
+                    "model": "OLED83M4PSA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-6351_webOS24 O_1.0_2303_240311.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "511646",
+                    "model": "OLED83M4PSA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS24 O_1.0_2303_1.tar.gz"
+                },
+                {
+                    "osSeq": "511646",
+                    "model": "OLED83M4PSA",
+                    "type": "Op",
+                    "fileId": "2",
+                    "filename": "webOS24 O_1.0_2303_2.tar.gz"
+                },
+                {
+                    "osSeq": "511646",
+                    "model": "OLED83M4PSA",
+                    "type": "Op",
+                    "fileId": "3",
+                    "filename": "webOS24 O_1.0_2303_3.tar.gz"
+                }
+            ]
+        },
+        "OLED83M4PUA": {
+            "description": "webOS 24 O 1.0_2303",
+            "notice": [
+                {
+                    "osSeq": "511646",
+                    "model": "OLED83M4PUA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-6351_webOS24 O_1.0_2303_240311.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "511646",
+                    "model": "OLED83M4PUA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS24 O_1.0_2303_1.tar.gz"
+                },
+                {
+                    "osSeq": "511646",
+                    "model": "OLED83M4PUA",
+                    "type": "Op",
+                    "fileId": "2",
+                    "filename": "webOS24 O_1.0_2303_2.tar.gz"
+                },
+                {
+                    "osSeq": "511646",
+                    "model": "OLED83M4PUA",
+                    "type": "Op",
+                    "fileId": "3",
+                    "filename": "webOS24 O_1.0_2303_3.tar.gz"
+                }
+            ]
+        },
+        "OLED88Z19LA": {
+            "description": "webOS 6.0 EN 1.0",
+            "notice": [
+                {
+                    "osSeq": "510347",
+                    "model": "OLED88Z19LA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-3254_webOS 6.0 EN_1.0_210223.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "510347",
+                    "model": "OLED88Z19LA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS 6.0 EN_1.0_1.tar.gz"
+                },
+                {
+                    "osSeq": "510347",
+                    "model": "OLED88Z19LA",
+                    "type": "Op",
+                    "fileId": "2",
+                    "filename": "webOS 6.0 EN_1.0_2.tar.gz"
+                },
+                {
+                    "osSeq": "510347",
+                    "model": "OLED88Z19LA",
+                    "type": "Op",
+                    "fileId": "3",
+                    "filename": "webOS 6.0 EN_1.0_3.tar.gz"
+                }
+            ]
+        },
+        "OLED88Z1KNA": {
+            "description": "webOS 6.0 EN 1.0",
+            "notice": [
+                {
+                    "osSeq": "510347",
+                    "model": "OLED88Z1KNA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-3254_webOS 6.0 EN_1.0_210223.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "510347",
+                    "model": "OLED88Z1KNA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS 6.0 EN_1.0_1.tar.gz"
+                },
+                {
+                    "osSeq": "510347",
+                    "model": "OLED88Z1KNA",
+                    "type": "Op",
+                    "fileId": "2",
+                    "filename": "webOS 6.0 EN_1.0_2.tar.gz"
+                },
+                {
+                    "osSeq": "510347",
+                    "model": "OLED88Z1KNA",
+                    "type": "Op",
+                    "fileId": "3",
+                    "filename": "webOS 6.0 EN_1.0_3.tar.gz"
+                }
+            ]
+        },
+        "OLED88Z1PCA": {
+            "description": "webOS 6.0 EN 1.0",
+            "notice": [
+                {
+                    "osSeq": "510347",
+                    "model": "OLED88Z1PCA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-3254_webOS 6.0 EN_1.0_210223.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "510347",
+                    "model": "OLED88Z1PCA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS 6.0 EN_1.0_1.tar.gz"
+                },
+                {
+                    "osSeq": "510347",
+                    "model": "OLED88Z1PCA",
+                    "type": "Op",
+                    "fileId": "2",
+                    "filename": "webOS 6.0 EN_1.0_2.tar.gz"
+                },
+                {
+                    "osSeq": "510347",
+                    "model": "OLED88Z1PCA",
+                    "type": "Op",
+                    "fileId": "3",
+                    "filename": "webOS 6.0 EN_1.0_3.tar.gz"
+                }
+            ]
+        },
+        "OLED88Z1PJA": {
+            "description": "webOS 6.0 EN 1.0",
+            "notice": [
+                {
+                    "osSeq": "510347",
+                    "model": "OLED88Z1PJA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-3254_webOS 6.0 EN_1.0_210223.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "510347",
+                    "model": "OLED88Z1PJA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS 6.0 EN_1.0_1.tar.gz"
+                },
+                {
+                    "osSeq": "510347",
+                    "model": "OLED88Z1PJA",
+                    "type": "Op",
+                    "fileId": "2",
+                    "filename": "webOS 6.0 EN_1.0_2.tar.gz"
+                },
+                {
+                    "osSeq": "510347",
+                    "model": "OLED88Z1PJA",
+                    "type": "Op",
+                    "fileId": "3",
+                    "filename": "webOS 6.0 EN_1.0_3.tar.gz"
+                }
+            ]
+        },
+        "OLED88Z1PSA": {
+            "description": "webOS 6.0 EN 1.0",
+            "notice": [
+                {
+                    "osSeq": "510347",
+                    "model": "OLED88Z1PSA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-3254_webOS 6.0 EN_1.0_210223.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "510347",
+                    "model": "OLED88Z1PSA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS 6.0 EN_1.0_1.tar.gz"
+                },
+                {
+                    "osSeq": "510347",
+                    "model": "OLED88Z1PSA",
+                    "type": "Op",
+                    "fileId": "2",
+                    "filename": "webOS 6.0 EN_1.0_2.tar.gz"
+                },
+                {
+                    "osSeq": "510347",
+                    "model": "OLED88Z1PSA",
+                    "type": "Op",
+                    "fileId": "3",
+                    "filename": "webOS 6.0 EN_1.0_3.tar.gz"
+                }
+            ]
+        },
+        "OLED88Z1PTA": {
+            "description": "webOS 6.0 EN 1.0",
+            "notice": [
+                {
+                    "osSeq": "510347",
+                    "model": "OLED88Z1PTA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-3254_webOS 6.0 EN_1.0_210223.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "510347",
+                    "model": "OLED88Z1PTA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS 6.0 EN_1.0_1.tar.gz"
+                },
+                {
+                    "osSeq": "510347",
+                    "model": "OLED88Z1PTA",
+                    "type": "Op",
+                    "fileId": "2",
+                    "filename": "webOS 6.0 EN_1.0_2.tar.gz"
+                },
+                {
+                    "osSeq": "510347",
+                    "model": "OLED88Z1PTA",
+                    "type": "Op",
+                    "fileId": "3",
+                    "filename": "webOS 6.0 EN_1.0_3.tar.gz"
+                }
+            ]
+        },
+        "OLED88Z1PTZ": {
+            "description": "webOS 6.0 EN 1.0",
+            "notice": [
+                {
+                    "osSeq": "510347",
+                    "model": "OLED88Z1PTZ",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-3254_webOS 6.0 EN_1.0_210223.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "510347",
+                    "model": "OLED88Z1PTZ",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS 6.0 EN_1.0_1.tar.gz"
+                },
+                {
+                    "osSeq": "510347",
+                    "model": "OLED88Z1PTZ",
+                    "type": "Op",
+                    "fileId": "2",
+                    "filename": "webOS 6.0 EN_1.0_2.tar.gz"
+                },
+                {
+                    "osSeq": "510347",
+                    "model": "OLED88Z1PTZ",
+                    "type": "Op",
+                    "fileId": "3",
+                    "filename": "webOS 6.0 EN_1.0_3.tar.gz"
+                }
+            ]
+        },
+        "OLED88Z1PVA": {
+            "description": "webOS 6.0 EN 1.0",
+            "notice": [
+                {
+                    "osSeq": "510347",
+                    "model": "OLED88Z1PVA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-3254_webOS 6.0 EN_1.0_210223.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "510347",
+                    "model": "OLED88Z1PVA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS 6.0 EN_1.0_1.tar.gz"
+                },
+                {
+                    "osSeq": "510347",
+                    "model": "OLED88Z1PVA",
+                    "type": "Op",
+                    "fileId": "2",
+                    "filename": "webOS 6.0 EN_1.0_2.tar.gz"
+                },
+                {
+                    "osSeq": "510347",
+                    "model": "OLED88Z1PVA",
+                    "type": "Op",
+                    "fileId": "3",
+                    "filename": "webOS 6.0 EN_1.0_3.tar.gz"
+                }
+            ]
+        },
+        "OLED88Z26LA": {
+            "description": "webOS 23 O ReNew",
+            "notice": [
+                {
+                    "osSeq": "511655",
+                    "model": "OLED88Z26LA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-6380_webOS 23 O_ReNew_240319.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "511655",
+                    "model": "OLED88Z26LA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS 23 O_ReNew_1.tar.gz"
+                },
+                {
+                    "osSeq": "511655",
+                    "model": "OLED88Z26LA",
+                    "type": "Op",
+                    "fileId": "2",
+                    "filename": "webOS 23 O_ReNew_2.tar.gz"
+                },
+                {
+                    "osSeq": "511655",
+                    "model": "OLED88Z26LA",
+                    "type": "Op",
+                    "fileId": "3",
+                    "filename": "webOS 23 O_ReNew_3.tar.gz"
+                }
+            ]
+        },
+        "OLED88Z29LA": {
+            "description": "webOS 22 O 2.0",
+            "notice": [
+                {
+                    "osSeq": "511321",
+                    "model": "OLED88Z29LA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-5226_webOS 22 O_2.0_230313.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "511321",
+                    "model": "OLED88Z29LA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS 22 O_2.0_1.tar.gz"
+                },
+                {
+                    "osSeq": "511321",
+                    "model": "OLED88Z29LA",
+                    "type": "Op",
+                    "fileId": "2",
+                    "filename": "webOS 22 O_2.0_2.tar.gz"
+                },
+                {
+                    "osSeq": "511321",
+                    "model": "OLED88Z29LA",
+                    "type": "Op",
+                    "fileId": "3",
+                    "filename": "webOS 22 O_2.0_3.tar.gz"
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,419 @@
+{
+    "TV/AV>Monitor/Signage": {
+        "28LN500B-PQ": {
+            "description": "L14 Platform_MTV",
+            "notice": [
+                {
+                    "osSeq": "10340",
+                    "model": "28LN500B-PQ",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "140306-L14_M1A_MTV_v0.2.pdf"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "10340",
+                    "model": "28LN500B-PQ",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "20141223144029_5.0_L_CO_FI_2014_Monitor.zip"
+                }
+            ]
+        },
+        "28LN500B-PS": {
+            "description": "L14 Platform_MTV",
+            "notice": [
+                {
+                    "osSeq": "10340",
+                    "model": "28LN500B-PS",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "140306-L14_M1A_MTV_v0.2.pdf"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "10340",
+                    "model": "28LN500B-PS",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "20141223144029_5.0_L_CO_FI_2014_Monitor.zip"
+                }
+            ]
+        },
+        "28LN500B-PX": {
+            "description": "L14 Platform_MTV",
+            "notice": [
+                {
+                    "osSeq": "10340",
+                    "model": "28LN500B-PX",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "140306-L14_M1A_MTV_v0.2.pdf"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "10340",
+                    "model": "28LN500B-PX",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "20141223144029_5.0_L_CO_FI_2014_Monitor.zip"
+                }
+            ]
+        },
+        "28LN515S-PZ": {
+            "description": "webOS 4.5 IMR monitor",
+            "notice": [
+                {
+                    "osSeq": "509536",
+                    "model": "28LN515S-PZ",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-2282_webOS 4.5 IMR monitor_191202.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "509536",
+                    "model": "28LN515S-PZ",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS 4.5 IMR monitor_1.tar.gz"
+                },
+                {
+                    "osSeq": "509536",
+                    "model": "28LN515S-PZ",
+                    "type": "Op",
+                    "fileId": "2",
+                    "filename": "webOS 4.5 IMR monitor_2.tar.gz"
+                }
+            ]
+        },
+        "28LN525V-PZ": {
+            "description": "18Y_M1AP_Platform",
+            "notice": [
+                {
+                    "osSeq": "508429",
+                    "model": "28LN525V-PZ",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-861_18Y_M1AP_Platform_180115.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "508429",
+                    "model": "28LN525V-PZ",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "18Y_M1AP_Platform.tar.gz"
+                }
+            ]
+        }
+    },
+    "TV/AV>TV": {
+        "28LN572MBUB": {
+            "description": "webOS22_K8HP_K8LP_CommercialTV",
+            "notice": [
+                {
+                    "osSeq": "510888",
+                    "model": "28LN572MBUB",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-4270_webOS22_K8HP_CommercialTV_220329.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "510888",
+                    "model": "28LN572MBUB",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS22_K8HP_CommercialTV_1.zip"
+                },
+                {
+                    "osSeq": "510888",
+                    "model": "28LN572MBUB",
+                    "type": "Op",
+                    "fileId": "2",
+                    "filename": "webOS22_K8HP_CommercialTV_2.zip"
+                }
+            ]
+        },
+        "28LN661HBLD": {
+            "description": "webOS22_K8HP_K8LP_CommercialTV",
+            "notice": [
+                {
+                    "osSeq": "510888",
+                    "model": "28LN661HBLD",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-4270_webOS22_K8HP_CommercialTV_220329.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "510888",
+                    "model": "28LN661HBLD",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS22_K8HP_CommercialTV_1.zip"
+                },
+                {
+                    "osSeq": "510888",
+                    "model": "28LN661HBLD",
+                    "type": "Op",
+                    "fileId": "2",
+                    "filename": "webOS22_K8HP_CommercialTV_2.zip"
+                }
+            ]
+        },
+        "28LN662VBLB": {
+            "description": "webOS22_K8HP_K8LP_CommercialTV",
+            "notice": [
+                {
+                    "osSeq": "510888",
+                    "model": "28LN662VBLB",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-4270_webOS22_K8HP_CommercialTV_220329.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "510888",
+                    "model": "28LN662VBLB",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS22_K8HP_CommercialTV_1.zip"
+                },
+                {
+                    "osSeq": "510888",
+                    "model": "28LN662VBLB",
+                    "type": "Op",
+                    "fileId": "2",
+                    "filename": "webOS22_K8HP_CommercialTV_2.zip"
+                }
+            ]
+        },
+        "28LN662VBUC": {
+            "description": "webOS22_K8HP_K8LP_CommercialTV",
+            "notice": [
+                {
+                    "osSeq": "510888",
+                    "model": "28LN662VBUC",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-4270_webOS22_K8HP_CommercialTV_220329.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "510888",
+                    "model": "28LN662VBUC",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS22_K8HP_CommercialTV_1.zip"
+                },
+                {
+                    "osSeq": "510888",
+                    "model": "28LN662VBUC",
+                    "type": "Op",
+                    "fileId": "2",
+                    "filename": "webOS22_K8HP_CommercialTV_2.zip"
+                }
+            ]
+        },
+        "28LT340C3ZA": {
+            "description": "L18/L19 M1A CommercialTV",
+            "notice": [
+                {
+                    "osSeq": "508421",
+                    "model": "28LT340C3ZA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-915_L18 M1A CommercialTV_180213.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "508421",
+                    "model": "28LT340C3ZA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "L18 M1A CommercialTV.zip"
+                }
+            ]
+        },
+        "28LT340C9ZA": {
+            "description": "L18/L19 M1A CommercialTV",
+            "notice": [
+                {
+                    "osSeq": "508421",
+                    "model": "28LT340C9ZA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-915_L18 M1A CommercialTV_180213.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "508421",
+                    "model": "28LT340C9ZA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "L18 M1A CommercialTV.zip"
+                }
+            ]
+        },
+        "28LT340CBZA": {
+            "description": "L18/L19 M1A CommercialTV",
+            "notice": [
+                {
+                    "osSeq": "508421",
+                    "model": "28LT340CBZA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-915_L18 M1A CommercialTV_180213.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "508421",
+                    "model": "28LT340CBZA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "L18 M1A CommercialTV.zip"
+                }
+            ]
+        },
+        "28LT572MBUB": {
+            "description": "L18/L19 M1A CommercialTV",
+            "notice": [
+                {
+                    "osSeq": "508421",
+                    "model": "28LT572MBUB",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-915_L18 M1A CommercialTV_180213.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "508421",
+                    "model": "28LT572MBUB",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "L18 M1A CommercialTV.zip"
+                }
+            ]
+        },
+        "28LT660VBUD": {
+            "description": "webOS4.5_M16P3_CommercialTV",
+            "notice": [
+                {
+                    "osSeq": "509112",
+                    "model": "28LT660VBUD",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-1526_webOS4.5_M16P3_CommercialTV_190513.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "509112",
+                    "model": "28LT660VBUD",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS4.5_M16P3_CommercialTV.zip"
+                }
+            ]
+        },
+        "28LT661H9ZA": {
+            "description": "webOS4.5_M16P3_CommercialTV",
+            "notice": [
+                {
+                    "osSeq": "509112",
+                    "model": "28LT661H9ZA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-1526_webOS4.5_M16P3_CommercialTV_190513.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "509112",
+                    "model": "28LT661H9ZA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS4.5_M16P3_CommercialTV.zip"
+                }
+            ]
+        },
+        "28LT661HBZA": {
+            "description": "webOS4.5_M16P3_CommercialTV",
+            "notice": [
+                {
+                    "osSeq": "509112",
+                    "model": "28LT661HBZA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-1526_webOS4.5_M16P3_CommercialTV_190513.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "509112",
+                    "model": "28LT661HBZA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS4.5_M16P3_CommercialTV.zip"
+                }
+            ]
+        },
+        "28LT662V9ZB": {
+            "description": "webOS4.5_M16P3_CommercialTV",
+            "notice": [
+                {
+                    "osSeq": "509112",
+                    "model": "28LT662V9ZB",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-1526_webOS4.5_M16P3_CommercialTV_190513.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "509112",
+                    "model": "28LT662V9ZB",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS4.5_M16P3_CommercialTV.zip"
+                }
+            ]
+        },
+        "28LT662VBUB": {
+            "description": "webOS4.5_M16P3_CommercialTV",
+            "notice": [
+                {
+                    "osSeq": "509112",
+                    "model": "28LT662VBUB",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-1526_webOS4.5_M16P3_CommercialTV_190513.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "509112",
+                    "model": "28LT662VBUB",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS4.5_M16P3_CommercialTV.zip"
+                }
+            ]
+        }
+    }
+}

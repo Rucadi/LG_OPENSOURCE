@@ -1,0 +1,382 @@
+{
+    "TV/AV>Monitor/Signage": {
+        "24CQ650W-AP": {
+            "description": "Thin Client - LG Cloud Launcher 1.1",
+            "notice": [
+                {
+                    "osSeq": "509416",
+                    "model": "24CQ650W-AP",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-2160_Thin Client - LG Cloud Launcher_1.1_191008.html"
+                }
+            ],
+            "source": []
+        },
+        "24CQ650W-BP": {
+            "description": "Thin Client - LG Cloud Launcher 1.1",
+            "notice": [
+                {
+                    "osSeq": "509416",
+                    "model": "24CQ650W-BP",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-2160_Thin Client - LG Cloud Launcher_1.1_191008.html"
+                }
+            ],
+            "source": []
+        },
+        "24CQ651W-BP": {
+            "description": "Thin Client - LG Cloud Launcher 1.1",
+            "notice": [
+                {
+                    "osSeq": "509416",
+                    "model": "24CQ651W-BP",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-2160_Thin Client - LG Cloud Launcher_1.1_191008.html"
+                }
+            ],
+            "source": []
+        },
+        "24CR661W-BP": {
+            "description": "Thin Client - LG Cloud Launcher 2.01.23, 2.01.24, 2.01.25",
+            "notice": [
+                {
+                    "osSeq": "511334",
+                    "model": "24CR661W-BP",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-5301_Thin Client - LG Cloud Launcher_2.01.23_230330.html"
+                }
+            ],
+            "source": []
+        },
+        "24CR670I-6N": {
+            "description": "IGEL OS 1108",
+            "notice": [
+                {
+                    "osSeq": "511237",
+                    "model": "24CR670I-6N",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-5056_IGEL OS 1108_230119.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "511237",
+                    "model": "24CR670I-6N",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "IGEL OS 1108_1.zip"
+                },
+                {
+                    "osSeq": "511237",
+                    "model": "24CR670I-6N",
+                    "type": "Op",
+                    "fileId": "2",
+                    "filename": "IGEL OS 1108_2.zip"
+                }
+            ]
+        },
+        "24CR670IK6N": {
+            "description": "IGEL OS 1108",
+            "notice": [
+                {
+                    "osSeq": "511237",
+                    "model": "24CR670IK6N",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-5056_IGEL OS 1108_230119.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "511237",
+                    "model": "24CR670IK6N",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "IGEL OS 1108_1.zip"
+                },
+                {
+                    "osSeq": "511237",
+                    "model": "24CR670IK6N",
+                    "type": "Op",
+                    "fileId": "2",
+                    "filename": "IGEL OS 1108_2.zip"
+                }
+            ]
+        },
+        "24CR670W-BP": {
+            "description": "Thin Client - LG Cloud Launcher 1.1",
+            "notice": [
+                {
+                    "osSeq": "509416",
+                    "model": "24CR670W-BP",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-2160_Thin Client - LG Cloud Launcher_1.1_191008.html"
+                }
+            ],
+            "source": []
+        },
+        "24CR671W-BP": {
+            "description": "Thin Client - LG Cloud Launcher 1.1",
+            "notice": [
+                {
+                    "osSeq": "509416",
+                    "model": "24CR671W-BP",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-2160_Thin Client - LG Cloud Launcher_1.1_191008.html"
+                }
+            ],
+            "source": []
+        },
+        "24CR671WKBP": {
+            "description": "Thin Client - LG Cloud Launcher 1.1",
+            "notice": [
+                {
+                    "osSeq": "509416",
+                    "model": "24CR671WKBP",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-2160_Thin Client - LG Cloud Launcher_1.1_191008.html"
+                }
+            ],
+            "source": []
+        },
+        "24GL600F-BB": {
+            "description": "M_Platform_applied_models",
+            "notice": [
+                {
+                    "osSeq": "508050",
+                    "model": "24GL600F-BB",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-695_M_Platform_2018_1.0_170821.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "508050",
+                    "model": "24GL600F-BB",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "M_Platform_1.0_bign.zip"
+                }
+            ]
+        },
+        "24GL600F-BC": {
+            "description": "M_Odinson_Leona2",
+            "notice": [
+                {
+                    "osSeq": "509948",
+                    "model": "24GL600F-BC",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-2803_M_Odinson_Leona2_200714.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "509948",
+                    "model": "24GL600F-BC",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "M_Odinson_Leona2.zip"
+                }
+            ]
+        },
+        "24GL600F-BY": {
+            "description": "M_Odinson_Leona2",
+            "notice": [
+                {
+                    "osSeq": "509948",
+                    "model": "24GL600F-BY",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-2803_M_Odinson_Leona2_200714.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "509948",
+                    "model": "24GL600F-BY",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "M_Odinson_Leona2.zip"
+                }
+            ]
+        },
+        "24GL650-BB": {
+            "description": "M_Platform_applied_models",
+            "notice": [
+                {
+                    "osSeq": "508050",
+                    "model": "24GL650-BB",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-695_M_Platform_2018_1.0_170821.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "508050",
+                    "model": "24GL650-BB",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "M_Platform_1.0_bign.zip"
+                }
+            ]
+        },
+        "24GL650-BC": {
+            "description": "M_Odinson_Leona2",
+            "notice": [
+                {
+                    "osSeq": "509948",
+                    "model": "24GL650-BC",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-2803_M_Odinson_Leona2_200714.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "509948",
+                    "model": "24GL650-BC",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "M_Odinson_Leona2.zip"
+                }
+            ]
+        },
+        "24GL650-BY": {
+            "description": "M_Odinson_Leona2",
+            "notice": [
+                {
+                    "osSeq": "509948",
+                    "model": "24GL650-BY",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-2803_M_Odinson_Leona2_200714.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "509948",
+                    "model": "24GL650-BY",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "M_Odinson_Leona2.zip"
+                }
+            ]
+        },
+        "24GL65B-BB": {
+            "description": "M_Platform_applied_models",
+            "notice": [
+                {
+                    "osSeq": "508050",
+                    "model": "24GL65B-BB",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-695_M_Platform_2018_1.0_170821.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "508050",
+                    "model": "24GL65B-BB",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "M_Platform_1.0_bign.zip"
+                }
+            ]
+        },
+        "24GL65B-BC": {
+            "description": "M_Odinson_Leona2",
+            "notice": [
+                {
+                    "osSeq": "509948",
+                    "model": "24GL65B-BC",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-2803_M_Odinson_Leona2_200714.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "509948",
+                    "model": "24GL65B-BC",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "M_Odinson_Leona2.zip"
+                }
+            ]
+        },
+        "24GL65B-BY": {
+            "description": "M_Odinson_Leona2",
+            "notice": [
+                {
+                    "osSeq": "509948",
+                    "model": "24GL65B-BY",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-2803_M_Odinson_Leona2_200714.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "509948",
+                    "model": "24GL65B-BY",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "M_Odinson_Leona2.zip"
+                }
+            ]
+        },
+        "24GM79G-BB": {
+            "description": "MST9UXX(17) Platform_01-25",
+            "notice": [
+                {
+                    "osSeq": "507553",
+                    "model": "24GM79G-BB",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-160225-MST9UXXSeries-1.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "507553",
+                    "model": "24GM79G-BB",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "opensource_MST9UXX_v1.0.zip"
+                }
+            ]
+        },
+        "24GN50W-BB": {
+            "description": "M_Platform_applied_models",
+            "notice": [
+                {
+                    "osSeq": "508050",
+                    "model": "24GN50W-BB",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-695_M_Platform_2018_1.0_170821.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "508050",
+                    "model": "24GN50W-BB",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "M_Platform_1.0_bign.zip"
+                }
+            ]
+        }
+    }
+}

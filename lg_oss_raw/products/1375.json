@@ -1,0 +1,564 @@
+{
+    "TV/AV>TV": {
+        "OLED77CXPTA": {
+            "description": "webOS 5.0 JO 2.0",
+            "notice": [
+                {
+                    "osSeq": "511222",
+                    "model": "OLED77CXPTA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-3894_webOS 5.0 JO_2.0_221228.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "511222",
+                    "model": "OLED77CXPTA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS 5.0 JO_2.0_1.tar.gz"
+                },
+                {
+                    "osSeq": "511222",
+                    "model": "OLED77CXPTA",
+                    "type": "Op",
+                    "fileId": "2",
+                    "filename": "webOS 5.0 JO_2.0_2.tar.gz"
+                },
+                {
+                    "osSeq": "511222",
+                    "model": "OLED77CXPTA",
+                    "type": "Op",
+                    "fileId": "3",
+                    "filename": "webOS 5.0 JO_2.0_3.tar.gz"
+                }
+            ]
+        },
+        "OLED77CXPUA": {
+            "description": "webOS 5.0 JO 2.0",
+            "notice": [
+                {
+                    "osSeq": "511222",
+                    "model": "OLED77CXPUA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-3894_webOS 5.0 JO_2.0_221228.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "511222",
+                    "model": "OLED77CXPUA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS 5.0 JO_2.0_1.tar.gz"
+                },
+                {
+                    "osSeq": "511222",
+                    "model": "OLED77CXPUA",
+                    "type": "Op",
+                    "fileId": "2",
+                    "filename": "webOS 5.0 JO_2.0_2.tar.gz"
+                },
+                {
+                    "osSeq": "511222",
+                    "model": "OLED77CXPUA",
+                    "type": "Op",
+                    "fileId": "3",
+                    "filename": "webOS 5.0 JO_2.0_3.tar.gz"
+                }
+            ]
+        },
+        "OLED77CXPVA": {
+            "description": "webOS 5.0 JO 2.0",
+            "notice": [
+                {
+                    "osSeq": "511222",
+                    "model": "OLED77CXPVA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-3894_webOS 5.0 JO_2.0_221228.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "511222",
+                    "model": "OLED77CXPVA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS 5.0 JO_2.0_1.tar.gz"
+                },
+                {
+                    "osSeq": "511222",
+                    "model": "OLED77CXPVA",
+                    "type": "Op",
+                    "fileId": "2",
+                    "filename": "webOS 5.0 JO_2.0_2.tar.gz"
+                },
+                {
+                    "osSeq": "511222",
+                    "model": "OLED77CXPVA",
+                    "type": "Op",
+                    "fileId": "3",
+                    "filename": "webOS 5.0 JO_2.0_3.tar.gz"
+                }
+            ]
+        },
+        "OLED77CXPWA": {
+            "description": "webOS 5.0 JO 2.0",
+            "notice": [
+                {
+                    "osSeq": "511222",
+                    "model": "OLED77CXPWA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-3894_webOS 5.0 JO_2.0_221228.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "511222",
+                    "model": "OLED77CXPWA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS 5.0 JO_2.0_1.tar.gz"
+                },
+                {
+                    "osSeq": "511222",
+                    "model": "OLED77CXPWA",
+                    "type": "Op",
+                    "fileId": "2",
+                    "filename": "webOS 5.0 JO_2.0_2.tar.gz"
+                },
+                {
+                    "osSeq": "511222",
+                    "model": "OLED77CXPWA",
+                    "type": "Op",
+                    "fileId": "3",
+                    "filename": "webOS 5.0 JO_2.0_3.tar.gz"
+                }
+            ]
+        },
+        "OLED77CXRLA": {
+            "description": "webOS 5.0 JO 2.0",
+            "notice": [
+                {
+                    "osSeq": "511222",
+                    "model": "OLED77CXRLA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-3894_webOS 5.0 JO_2.0_221228.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "511222",
+                    "model": "OLED77CXRLA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS 5.0 JO_2.0_1.tar.gz"
+                },
+                {
+                    "osSeq": "511222",
+                    "model": "OLED77CXRLA",
+                    "type": "Op",
+                    "fileId": "2",
+                    "filename": "webOS 5.0 JO_2.0_2.tar.gz"
+                },
+                {
+                    "osSeq": "511222",
+                    "model": "OLED77CXRLA",
+                    "type": "Op",
+                    "fileId": "3",
+                    "filename": "webOS 5.0 JO_2.0_3.tar.gz"
+                }
+            ]
+        },
+        "OLED77G13LA": {
+            "description": "webOS 6.0 ON 1.0",
+            "notice": [
+                {
+                    "osSeq": "510316",
+                    "model": "OLED77G13LA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-3255_webOS 6.0 ON_1.0_210203.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "510316",
+                    "model": "OLED77G13LA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS 6.0 ON_1.0_1.tar.gz"
+                },
+                {
+                    "osSeq": "510316",
+                    "model": "OLED77G13LA",
+                    "type": "Op",
+                    "fileId": "2",
+                    "filename": "webOS 6.0 ON_1.0_2.tar.gz"
+                },
+                {
+                    "osSeq": "510316",
+                    "model": "OLED77G13LA",
+                    "type": "Op",
+                    "fileId": "3",
+                    "filename": "webOS 6.0 ON_1.0_3.tar.gz"
+                }
+            ]
+        },
+        "OLED77G16LA": {
+            "description": "webOS 6.0 ON 1.0",
+            "notice": [
+                {
+                    "osSeq": "510316",
+                    "model": "OLED77G16LA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-3255_webOS 6.0 ON_1.0_210203.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "510316",
+                    "model": "OLED77G16LA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS 6.0 ON_1.0_1.tar.gz"
+                },
+                {
+                    "osSeq": "510316",
+                    "model": "OLED77G16LA",
+                    "type": "Op",
+                    "fileId": "2",
+                    "filename": "webOS 6.0 ON_1.0_2.tar.gz"
+                },
+                {
+                    "osSeq": "510316",
+                    "model": "OLED77G16LA",
+                    "type": "Op",
+                    "fileId": "3",
+                    "filename": "webOS 6.0 ON_1.0_3.tar.gz"
+                }
+            ]
+        },
+        "OLED77G19LA": {
+            "description": "webOS 6.0 ON 1.0",
+            "notice": [
+                {
+                    "osSeq": "510316",
+                    "model": "OLED77G19LA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-3255_webOS 6.0 ON_1.0_210203.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "510316",
+                    "model": "OLED77G19LA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS 6.0 ON_1.0_1.tar.gz"
+                },
+                {
+                    "osSeq": "510316",
+                    "model": "OLED77G19LA",
+                    "type": "Op",
+                    "fileId": "2",
+                    "filename": "webOS 6.0 ON_1.0_2.tar.gz"
+                },
+                {
+                    "osSeq": "510316",
+                    "model": "OLED77G19LA",
+                    "type": "Op",
+                    "fileId": "3",
+                    "filename": "webOS 6.0 ON_1.0_3.tar.gz"
+                }
+            ]
+        },
+        "OLED77G1AUA": {
+            "description": "webOS 6.0 ON 1.0",
+            "notice": [
+                {
+                    "osSeq": "510316",
+                    "model": "OLED77G1AUA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-3255_webOS 6.0 ON_1.0_210203.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "510316",
+                    "model": "OLED77G1AUA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS 6.0 ON_1.0_1.tar.gz"
+                },
+                {
+                    "osSeq": "510316",
+                    "model": "OLED77G1AUA",
+                    "type": "Op",
+                    "fileId": "2",
+                    "filename": "webOS 6.0 ON_1.0_2.tar.gz"
+                },
+                {
+                    "osSeq": "510316",
+                    "model": "OLED77G1AUA",
+                    "type": "Op",
+                    "fileId": "3",
+                    "filename": "webOS 6.0 ON_1.0_3.tar.gz"
+                }
+            ]
+        },
+        "OLED77G1KNA": {
+            "description": "webOS 6.0 ON 1.0",
+            "notice": [
+                {
+                    "osSeq": "510316",
+                    "model": "OLED77G1KNA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-3255_webOS 6.0 ON_1.0_210203.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "510316",
+                    "model": "OLED77G1KNA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS 6.0 ON_1.0_1.tar.gz"
+                },
+                {
+                    "osSeq": "510316",
+                    "model": "OLED77G1KNA",
+                    "type": "Op",
+                    "fileId": "2",
+                    "filename": "webOS 6.0 ON_1.0_2.tar.gz"
+                },
+                {
+                    "osSeq": "510316",
+                    "model": "OLED77G1KNA",
+                    "type": "Op",
+                    "fileId": "3",
+                    "filename": "webOS 6.0 ON_1.0_3.tar.gz"
+                }
+            ]
+        },
+        "OLED77G1PCA": {
+            "description": "webOS 6.0 ON 1.0",
+            "notice": [
+                {
+                    "osSeq": "510316",
+                    "model": "OLED77G1PCA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-3255_webOS 6.0 ON_1.0_210203.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "510316",
+                    "model": "OLED77G1PCA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS 6.0 ON_1.0_1.tar.gz"
+                },
+                {
+                    "osSeq": "510316",
+                    "model": "OLED77G1PCA",
+                    "type": "Op",
+                    "fileId": "2",
+                    "filename": "webOS 6.0 ON_1.0_2.tar.gz"
+                },
+                {
+                    "osSeq": "510316",
+                    "model": "OLED77G1PCA",
+                    "type": "Op",
+                    "fileId": "3",
+                    "filename": "webOS 6.0 ON_1.0_3.tar.gz"
+                }
+            ]
+        },
+        "OLED77G1PSA": {
+            "description": "webOS 6.0 ON 1.0",
+            "notice": [
+                {
+                    "osSeq": "510316",
+                    "model": "OLED77G1PSA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-3255_webOS 6.0 ON_1.0_210203.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "510316",
+                    "model": "OLED77G1PSA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS 6.0 ON_1.0_1.tar.gz"
+                },
+                {
+                    "osSeq": "510316",
+                    "model": "OLED77G1PSA",
+                    "type": "Op",
+                    "fileId": "2",
+                    "filename": "webOS 6.0 ON_1.0_2.tar.gz"
+                },
+                {
+                    "osSeq": "510316",
+                    "model": "OLED77G1PSA",
+                    "type": "Op",
+                    "fileId": "3",
+                    "filename": "webOS 6.0 ON_1.0_3.tar.gz"
+                }
+            ]
+        },
+        "OLED77G1PTA": {
+            "description": "webOS 6.0 ON 1.0",
+            "notice": [
+                {
+                    "osSeq": "510316",
+                    "model": "OLED77G1PTA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-3255_webOS 6.0 ON_1.0_210203.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "510316",
+                    "model": "OLED77G1PTA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS 6.0 ON_1.0_1.tar.gz"
+                },
+                {
+                    "osSeq": "510316",
+                    "model": "OLED77G1PTA",
+                    "type": "Op",
+                    "fileId": "2",
+                    "filename": "webOS 6.0 ON_1.0_2.tar.gz"
+                },
+                {
+                    "osSeq": "510316",
+                    "model": "OLED77G1PTA",
+                    "type": "Op",
+                    "fileId": "3",
+                    "filename": "webOS 6.0 ON_1.0_3.tar.gz"
+                }
+            ]
+        },
+        "OLED77G1PTZ": {
+            "description": "webOS 6.0 ON 1.0",
+            "notice": [
+                {
+                    "osSeq": "510316",
+                    "model": "OLED77G1PTZ",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-3255_webOS 6.0 ON_1.0_210203.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "510316",
+                    "model": "OLED77G1PTZ",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS 6.0 ON_1.0_1.tar.gz"
+                },
+                {
+                    "osSeq": "510316",
+                    "model": "OLED77G1PTZ",
+                    "type": "Op",
+                    "fileId": "2",
+                    "filename": "webOS 6.0 ON_1.0_2.tar.gz"
+                },
+                {
+                    "osSeq": "510316",
+                    "model": "OLED77G1PTZ",
+                    "type": "Op",
+                    "fileId": "3",
+                    "filename": "webOS 6.0 ON_1.0_3.tar.gz"
+                }
+            ]
+        },
+        "OLED77G1PUA": {
+            "description": "webOS 6.0 ON 1.0",
+            "notice": [
+                {
+                    "osSeq": "510316",
+                    "model": "OLED77G1PUA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-3255_webOS 6.0 ON_1.0_210203.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "510316",
+                    "model": "OLED77G1PUA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS 6.0 ON_1.0_1.tar.gz"
+                },
+                {
+                    "osSeq": "510316",
+                    "model": "OLED77G1PUA",
+                    "type": "Op",
+                    "fileId": "2",
+                    "filename": "webOS 6.0 ON_1.0_2.tar.gz"
+                },
+                {
+                    "osSeq": "510316",
+                    "model": "OLED77G1PUA",
+                    "type": "Op",
+                    "fileId": "3",
+                    "filename": "webOS 6.0 ON_1.0_3.tar.gz"
+                }
+            ]
+        },
+        "OLED77G1PVA": {
+            "description": "webOS 6.0 ON 1.0",
+            "notice": [
+                {
+                    "osSeq": "510316",
+                    "model": "OLED77G1PVA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-3255_webOS 6.0 ON_1.0_210203.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "510316",
+                    "model": "OLED77G1PVA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS 6.0 ON_1.0_1.tar.gz"
+                },
+                {
+                    "osSeq": "510316",
+                    "model": "OLED77G1PVA",
+                    "type": "Op",
+                    "fileId": "2",
+                    "filename": "webOS 6.0 ON_1.0_2.tar.gz"
+                },
+                {
+                    "osSeq": "510316",
+                    "model": "OLED77G1PVA",
+                    "type": "Op",
+                    "fileId": "3",
+                    "filename": "webOS 6.0 ON_1.0_3.tar.gz"
+                }
+            ]
+        }
+    }
+}

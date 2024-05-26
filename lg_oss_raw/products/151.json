@@ -1,0 +1,403 @@
+{
+    "TV/AV>TV": {
+        "40LH606T-TB": {
+            "description": "webOS DM2 LGE Open Source",
+            "notice": [
+                {
+                    "osSeq": "507012",
+                    "model": "40LH606T-TB",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-161108-webOSDM2-6.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "507012",
+                    "model": "40LH606T-TB",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "DM2-r3173.tar.gz"
+                }
+            ]
+        },
+        "40LT340H0UA": {
+            "description": "L18/L19 M1A CommercialTV",
+            "notice": [
+                {
+                    "osSeq": "508421",
+                    "model": "40LT340H0UA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-915_L18 M1A CommercialTV_180213.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "508421",
+                    "model": "40LT340H0UA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "L18 M1A CommercialTV.zip"
+                }
+            ]
+        },
+        "40LT540H0NA": {
+            "description": "L18/L19 M1A CommercialTV",
+            "notice": [
+                {
+                    "osSeq": "508421",
+                    "model": "40LT540H0NA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-915_L18 M1A CommercialTV_180213.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "508421",
+                    "model": "40LT540H0NA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "L18 M1A CommercialTV.zip"
+                }
+            ]
+        },
+        "40LT560H0UA": {
+            "description": "L18/L19 M1A CommercialTV",
+            "notice": [
+                {
+                    "osSeq": "508421",
+                    "model": "40LT560H0UA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-915_L18 M1A CommercialTV_180213.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "508421",
+                    "model": "40LT560H0UA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "L18 M1A CommercialTV.zip"
+                }
+            ]
+        },
+        "40LT570H0UA": {
+            "description": "L18/L19 M1A CommercialTV",
+            "notice": [
+                {
+                    "osSeq": "508421",
+                    "model": "40LT570H0UA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-915_L18 M1A CommercialTV_180213.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "508421",
+                    "model": "40LT570H0UA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "L18 M1A CommercialTV.zip"
+                }
+            ]
+        },
+        "40LV340H-UA": {
+            "description": "L15_M1A_Commercial TV Open Source",
+            "notice": [
+                {
+                    "osSeq": "506326",
+                    "model": "40LV340H-UA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-150126-L15_M1A_CommercialTV-2.pdf"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "506326",
+                    "model": "40LV340H-UA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "L15_M1A_Commercial_Signage_Opensource_v1.0.zip"
+                }
+            ]
+        },
+        "40LV560H-UA": {
+            "description": "L15_M1A_Commercial TV Open Source",
+            "notice": [
+                {
+                    "osSeq": "506326",
+                    "model": "40LV560H-UA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-150126-L15_M1A_CommercialTV-2.pdf"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "506326",
+                    "model": "40LV560H-UA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "L15_M1A_Commercial_Signage_Opensource_v1.0.zip"
+                }
+            ]
+        },
+        "40LV570H-UA": {
+            "description": "L15_M1A_Commercial TV Open Source",
+            "notice": [
+                {
+                    "osSeq": "506326",
+                    "model": "40LV570H-UA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-150126-L15_M1A_CommercialTV-2.pdf"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "506326",
+                    "model": "40LV570H-UA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "L15_M1A_Commercial_Signage_Opensource_v1.0.zip"
+                }
+            ]
+        },
+        "40LW560H-UA": {
+            "description": "L15_M1A_Commercial TV Open Source",
+            "notice": [
+                {
+                    "osSeq": "506326",
+                    "model": "40LW560H-UA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-150126-L15_M1A_CommercialTV-2.pdf"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "506326",
+                    "model": "40LW560H-UA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "L15_M1A_Commercial_Signage_Opensource_v1.0.zip"
+                }
+            ]
+        },
+        "40LW570H-UA": {
+            "description": "L15_M1A_Commercial TV Open Source",
+            "notice": [
+                {
+                    "osSeq": "506326",
+                    "model": "40LW570H-UA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-150126-L15_M1A_CommercialTV-2.pdf"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "506326",
+                    "model": "40LW570H-UA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "L15_M1A_Commercial_Signage_Opensource_v1.0.zip"
+                }
+            ]
+        },
+        "40LX340H-UA": {
+            "description": "L15_M1A_Commercial TV Open Source",
+            "notice": [
+                {
+                    "osSeq": "506326",
+                    "model": "40LX340H-UA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-150126-L15_M1A_CommercialTV-2.pdf"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "506326",
+                    "model": "40LX340H-UA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "L15_M1A_Commercial_Signage_Opensource_v1.0.zip"
+                }
+            ]
+        },
+        "40LX340H-UF": {
+            "description": "L15_M1A_Commercial TV Open Source",
+            "notice": [
+                {
+                    "osSeq": "506326",
+                    "model": "40LX340H-UF",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-150126-L15_M1A_CommercialTV-2.pdf"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "506326",
+                    "model": "40LX340H-UF",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "L15_M1A_Commercial_Signage_Opensource_v1.0.zip"
+                }
+            ]
+        },
+        "40LX541H-ZA": {
+            "description": "L15_M1A_Commercial TV Open Source",
+            "notice": [
+                {
+                    "osSeq": "506326",
+                    "model": "40LX541H-ZA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-150126-L15_M1A_CommercialTV-2.pdf"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "506326",
+                    "model": "40LX541H-ZA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "L15_M1A_Commercial_Signage_Opensource_v1.0.zip"
+                }
+            ]
+        },
+        "40LX560H-UA": {
+            "description": "L15_M1A_Commercial TV Open Source",
+            "notice": [
+                {
+                    "osSeq": "506326",
+                    "model": "40LX560H-UA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-150126-L15_M1A_CommercialTV-2.pdf"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "506326",
+                    "model": "40LX560H-UA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "L15_M1A_Commercial_Signage_Opensource_v1.0.zip"
+                }
+            ]
+        },
+        "40LX560H-UF": {
+            "description": "L15_M1A_Commercial TV Open Source",
+            "notice": [
+                {
+                    "osSeq": "506326",
+                    "model": "40LX560H-UF",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-150126-L15_M1A_CommercialTV-2.pdf"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "506326",
+                    "model": "40LX560H-UF",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "L15_M1A_Commercial_Signage_Opensource_v1.0.zip"
+                }
+            ]
+        },
+        "40LX570H-UA": {
+            "description": "L15_M1A_Commercial TV Open Source",
+            "notice": [
+                {
+                    "osSeq": "506326",
+                    "model": "40LX570H-UA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-150126-L15_M1A_CommercialTV-2.pdf"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "506326",
+                    "model": "40LX570H-UA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "L15_M1A_Commercial_Signage_Opensource_v1.0.zip"
+                }
+            ]
+        },
+        "40LX570H-UF": {
+            "description": "L15_M1A_Commercial TV Open Source",
+            "notice": [
+                {
+                    "osSeq": "506326",
+                    "model": "40LX570H-UF",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-150126-L15_M1A_CommercialTV-2.pdf"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "506326",
+                    "model": "40LX570H-UF",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "L15_M1A_Commercial_Signage_Opensource_v1.0.zip"
+                }
+            ]
+        },
+        "40LX760V-ZA": {
+            "description": "webOS2.0 M14+ Commercial TV Open Source",
+            "notice": [
+                {
+                    "osSeq": "506782",
+                    "model": "40LX760V-ZA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-150827-webOS2.0M14_CommercialTV-2.pdf"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "506782",
+                    "model": "40LX760V-ZA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS_COMMERCIAL_1.zip"
+                }
+            ]
+        },
+        "40LX761H-GA": {
+            "description": "webOS2.0 M14+ Commercial TV Open Source",
+            "notice": [
+                {
+                    "osSeq": "506782",
+                    "model": "40LX761H-GA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-150827-webOS2.0M14_CommercialTV-2.pdf"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "506782",
+                    "model": "40LX761H-GA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS_COMMERCIAL_1.zip"
+                }
+            ]
+        }
+    }
+}

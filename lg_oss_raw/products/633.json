@@ -1,0 +1,194 @@
+{
+    "TV/AV>TV": {
+        "55SM9800PLA": {
+            "description": "webOS 4.5 IMP 4.0",
+            "notice": [
+                {
+                    "osSeq": "510773",
+                    "model": "55SM9800PLA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-4152_webOS 4.5 IMP_4.0_220113.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "510773",
+                    "model": "55SM9800PLA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS 4.5 IMP_4.0_1.tar.gz"
+                },
+                {
+                    "osSeq": "510773",
+                    "model": "55SM9800PLA",
+                    "type": "Op",
+                    "fileId": "2",
+                    "filename": "webOS 4.5 IMP_4.0_2.tar.gz"
+                }
+            ]
+        }
+    },
+    "TV/AV>Monitor/Signage": {
+        "55SVH7E-AH": {
+            "description": "webOS3.2_M16_Signage_2",
+            "notice": [
+                {
+                    "osSeq": "507773",
+                    "model": "55SVH7E-AH",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-171011-webOS3.2M16Signage-2.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "507773",
+                    "model": "55SVH7E-AH",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS3.2_3.0_M16_Signage_OpenSource_V1.0_2.zip"
+                }
+            ]
+        },
+        "55SVH7F-AJ": {
+            "description": "webOS4.0_M16++_Signage",
+            "notice": [
+                {
+                    "osSeq": "508481",
+                    "model": "55SVH7F-AJ",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-880_webOS4.0_M16++_Signage_180313.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "508481",
+                    "model": "55SVH7F-AJ",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS4.0_M16++_Signage.zip"
+                }
+            ]
+        },
+        "55SVH7FVHA": {
+            "description": "webOS4.0_M16++_Signage",
+            "notice": [
+                {
+                    "osSeq": "508481",
+                    "model": "55SVH7FVHA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-880_webOS4.0_M16++_Signage_180313.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "508481",
+                    "model": "55SVH7FVHA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS4.0_M16++_Signage.zip"
+                }
+            ]
+        },
+        "55SVH7PF-HJ": {
+            "description": "webOS4.0_M16++_Signage",
+            "notice": [
+                {
+                    "osSeq": "508481",
+                    "model": "55SVH7PF-HJ",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-880_webOS4.0_M16++_Signage_180313.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "508481",
+                    "model": "55SVH7PF-HJ",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS4.0_M16++_Signage.zip"
+                }
+            ]
+        },
+        "55SVM5F-HJ": {
+            "description": "webOS4.0_M16++_Signage",
+            "notice": [
+                {
+                    "osSeq": "508481",
+                    "model": "55SVM5F-HJ",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-880_webOS4.0_M16++_Signage_180313.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "508481",
+                    "model": "55SVM5F-HJ",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS4.0_M16++_Signage.zip"
+                }
+            ]
+        },
+        "55TA3E-BH": {
+            "description": "webOS3.2_M16_Signage_2",
+            "notice": [
+                {
+                    "osSeq": "507773",
+                    "model": "55TA3E-BH",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-171011-webOS3.2M16Signage-2.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "507773",
+                    "model": "55TA3E-BH",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS3.2_3.0_M16_Signage_OpenSource_V1.0_2.zip"
+                }
+            ]
+        },
+        "55TC3CD-BF": {
+            "description": "webOS3.0_M16_Signage_2",
+            "notice": [
+                {
+                    "osSeq": "507279",
+                    "model": "55TC3CD-BF",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-170214-webOS3.0M16Signage-5.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "507279",
+                    "model": "55TC3CD-BF",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS3.2_3.0_M16_Signage_OpenSource_V1.0_2.zip"
+                }
+            ]
+        },
+        "55TC3CG-BJ": {
+            "description": "SCAP API 1.6 / 1.7",
+            "notice": [
+                {
+                    "osSeq": "508373",
+                    "model": "55TC3CG-BJ",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-897_SCAP API_180122.html"
+                }
+            ],
+            "source": []
+        }
+    }
+}

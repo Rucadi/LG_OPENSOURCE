@@ -1,0 +1,356 @@
+{
+    "TV/AV>Monitor/Signage": {
+        "43UQ751C0SF": {
+            "description": "webOS 22 KLP (Commercial) / Smart Monitor",
+            "notice": [
+                {
+                    "osSeq": "510887",
+                    "model": "43UQ751C0SF",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-4336_webOS 22 KLP (Commercial)_1.0_220330.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "510887",
+                    "model": "43UQ751C0SF",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS 22 KLP (Commercial)_1.0_1.tar.gz"
+                },
+                {
+                    "osSeq": "510887",
+                    "model": "43UQ751C0SF",
+                    "type": "Op",
+                    "fileId": "2",
+                    "filename": "webOS 22 KLP (Commercial)_1.0_2.tar.gz"
+                }
+            ]
+        },
+        "43UQ751T0LG": {
+            "description": "webOS 22 KLP (Commercial) / Smart Monitor",
+            "notice": [
+                {
+                    "osSeq": "510887",
+                    "model": "43UQ751T0LG",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-4336_webOS 22 KLP (Commercial)_1.0_220330.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "510887",
+                    "model": "43UQ751T0LG",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS 22 KLP (Commercial)_1.0_1.tar.gz"
+                },
+                {
+                    "osSeq": "510887",
+                    "model": "43UQ751T0LG",
+                    "type": "Op",
+                    "fileId": "2",
+                    "filename": "webOS 22 KLP (Commercial)_1.0_2.tar.gz"
+                }
+            ]
+        },
+        "43UQ752C0SF": {
+            "description": "webOS 22 KLP (Commercial) / Smart Monitor",
+            "notice": [
+                {
+                    "osSeq": "510887",
+                    "model": "43UQ752C0SF",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-4336_webOS 22 KLP (Commercial)_1.0_220330.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "510887",
+                    "model": "43UQ752C0SF",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS 22 KLP (Commercial)_1.0_1.tar.gz"
+                },
+                {
+                    "osSeq": "510887",
+                    "model": "43UQ752C0SF",
+                    "type": "Op",
+                    "fileId": "2",
+                    "filename": "webOS 22 KLP (Commercial)_1.0_2.tar.gz"
+                }
+            ]
+        }
+    },
+    "TV/AV>TV": {
+        "43UQ7550PSF": {
+            "description": "webOS 22 KLP 2.0",
+            "notice": [
+                {
+                    "osSeq": "511322",
+                    "model": "43UQ7550PSF",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-5239_webOS 22 KLP_2.0_230321.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "511322",
+                    "model": "43UQ7550PSF",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS 22 KLP_2.0_1.tar.gz"
+                },
+                {
+                    "osSeq": "511322",
+                    "model": "43UQ7550PSF",
+                    "type": "Op",
+                    "fileId": "2",
+                    "filename": "webOS 22 KLP_2.0_2.tar.gz"
+                }
+            ]
+        },
+        "43UQ7590PUB": {
+            "description": "webOS 22 LMAN 2.0",
+            "notice": [
+                {
+                    "osSeq": "511325",
+                    "model": "43UQ7590PUB",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-5240_webOS 22 LMAN_2.0_230321.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "511325",
+                    "model": "43UQ7590PUB",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS 22 LMAN_2.0_1.tar.gz"
+                },
+                {
+                    "osSeq": "511325",
+                    "model": "43UQ7590PUB",
+                    "type": "Op",
+                    "fileId": "2",
+                    "filename": "webOS 22 LMAN_2.0_2.tar.gz"
+                },
+                {
+                    "osSeq": "511325",
+                    "model": "43UQ7590PUB",
+                    "type": "Op",
+                    "fileId": "3",
+                    "filename": "webOS 22 LMAN_2.0_3.tar.gz"
+                }
+            ]
+        },
+        "43UQ7590PUK": {
+            "description": "webOS 22 KLP 2.0",
+            "notice": [
+                {
+                    "osSeq": "511322",
+                    "model": "43UQ7590PUK",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-5239_webOS 22 KLP_2.0_230321.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "511322",
+                    "model": "43UQ7590PUK",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS 22 KLP_2.0_1.tar.gz"
+                },
+                {
+                    "osSeq": "511322",
+                    "model": "43UQ7590PUK",
+                    "type": "Op",
+                    "fileId": "2",
+                    "filename": "webOS 22 KLP_2.0_2.tar.gz"
+                }
+            ]
+        },
+        "43UQ76003LD": {
+            "description": "webOS 22 KLP 2.0",
+            "notice": [
+                {
+                    "osSeq": "511322",
+                    "model": "43UQ76003LD",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-5239_webOS 22 KLP_2.0_230321.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "511322",
+                    "model": "43UQ76003LD",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS 22 KLP_2.0_1.tar.gz"
+                },
+                {
+                    "osSeq": "511322",
+                    "model": "43UQ76003LD",
+                    "type": "Op",
+                    "fileId": "2",
+                    "filename": "webOS 22 KLP_2.0_2.tar.gz"
+                }
+            ]
+        },
+        "43UQ76009LC": {
+            "description": "webOS 22 KLP 2.0",
+            "notice": [
+                {
+                    "osSeq": "511322",
+                    "model": "43UQ76009LC",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-5239_webOS 22 KLP_2.0_230321.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "511322",
+                    "model": "43UQ76009LC",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS 22 KLP_2.0_1.tar.gz"
+                },
+                {
+                    "osSeq": "511322",
+                    "model": "43UQ76009LC",
+                    "type": "Op",
+                    "fileId": "2",
+                    "filename": "webOS 22 KLP_2.0_2.tar.gz"
+                }
+            ]
+        },
+        "43UQ76903LE": {
+            "description": "webOS 22 KLP 2.0",
+            "notice": [
+                {
+                    "osSeq": "511322",
+                    "model": "43UQ76903LE",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-5239_webOS 22 KLP_2.0_230321.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "511322",
+                    "model": "43UQ76903LE",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS 22 KLP_2.0_1.tar.gz"
+                },
+                {
+                    "osSeq": "511322",
+                    "model": "43UQ76903LE",
+                    "type": "Op",
+                    "fileId": "2",
+                    "filename": "webOS 22 KLP_2.0_2.tar.gz"
+                }
+            ]
+        },
+        "43UQ76906LE": {
+            "description": "webOS 22 KLP 2.0",
+            "notice": [
+                {
+                    "osSeq": "511322",
+                    "model": "43UQ76906LE",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-5239_webOS 22 KLP_2.0_230321.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "511322",
+                    "model": "43UQ76906LE",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS 22 KLP_2.0_1.tar.gz"
+                },
+                {
+                    "osSeq": "511322",
+                    "model": "43UQ76906LE",
+                    "type": "Op",
+                    "fileId": "2",
+                    "filename": "webOS 22 KLP_2.0_2.tar.gz"
+                }
+            ]
+        },
+        "43UQ76909LE": {
+            "description": "webOS 22 KLP 2.0",
+            "notice": [
+                {
+                    "osSeq": "511322",
+                    "model": "43UQ76909LE",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-5239_webOS 22 KLP_2.0_230321.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "511322",
+                    "model": "43UQ76909LE",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS 22 KLP_2.0_1.tar.gz"
+                },
+                {
+                    "osSeq": "511322",
+                    "model": "43UQ76909LE",
+                    "type": "Op",
+                    "fileId": "2",
+                    "filename": "webOS 22 KLP_2.0_2.tar.gz"
+                }
+            ]
+        },
+        "43UQ80001LA": {
+            "description": "webOS 22 LMAN 1.0",
+            "notice": [
+                {
+                    "osSeq": "510808",
+                    "model": "43UQ80001LA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-4021_webOS 22 LMAN_1.0_220215.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "510808",
+                    "model": "43UQ80001LA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS 22 LMAN_1.0_1.tar.gz"
+                },
+                {
+                    "osSeq": "510808",
+                    "model": "43UQ80001LA",
+                    "type": "Op",
+                    "fileId": "2",
+                    "filename": "webOS 22 LMAN_1.0_2.tar.gz"
+                },
+                {
+                    "osSeq": "510808",
+                    "model": "43UQ80001LA",
+                    "type": "Op",
+                    "fileId": "3",
+                    "filename": "webOS 22 LMAN_1.0_3.tar.gz"
+                }
+            ]
+        }
+    }
+}

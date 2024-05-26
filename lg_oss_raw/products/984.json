@@ -1,0 +1,629 @@
+{
+    "TV/AV>TV": {
+        "65UR8300NNA": {
+            "description": "webOS 23 KLP(n) 1.0",
+            "notice": [
+                {
+                    "osSeq": "511217",
+                    "model": "65UR8300NNA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-4665_webOS 23 KLP(n)_1.0_221220.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "511217",
+                    "model": "65UR8300NNA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS 23 KLP(n)_1.0_1.tar.gz"
+                },
+                {
+                    "osSeq": "511217",
+                    "model": "65UR8300NNA",
+                    "type": "Op",
+                    "fileId": "2",
+                    "filename": "webOS 23 KLP(n)_1.0_2.tar.gz"
+                },
+                {
+                    "osSeq": "511217",
+                    "model": "65UR8300NNA",
+                    "type": "Op",
+                    "fileId": "3",
+                    "filename": "webOS 23 KLP(n)_1.0_3.tar.gz"
+                }
+            ]
+        },
+        "65UR871C0SA": {
+            "description": "webOS 23 KLP (Commercial)",
+            "notice": [
+                {
+                    "osSeq": "511397",
+                    "model": "65UR871C0SA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-5477_webOS 23 KLP (Commercial)_230602.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "511397",
+                    "model": "65UR871C0SA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS 23 KLP (Commercial)_1.tar.gz"
+                },
+                {
+                    "osSeq": "511397",
+                    "model": "65UR871C0SA",
+                    "type": "Op",
+                    "fileId": "2",
+                    "filename": "webOS 23 KLP (Commercial)_2.tar.gz"
+                },
+                {
+                    "osSeq": "511397",
+                    "model": "65UR871C0SA",
+                    "type": "Op",
+                    "fileId": "3",
+                    "filename": "webOS 23 KLP (Commercial)_3.tar.gz"
+                }
+            ]
+        },
+        "65UR8750PSA": {
+            "description": "webOS 23 KLP(n) 1.0",
+            "notice": [
+                {
+                    "osSeq": "511217",
+                    "model": "65UR8750PSA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-4665_webOS 23 KLP(n)_1.0_221220.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "511217",
+                    "model": "65UR8750PSA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS 23 KLP(n)_1.0_1.tar.gz"
+                },
+                {
+                    "osSeq": "511217",
+                    "model": "65UR8750PSA",
+                    "type": "Op",
+                    "fileId": "2",
+                    "filename": "webOS 23 KLP(n)_1.0_2.tar.gz"
+                },
+                {
+                    "osSeq": "511217",
+                    "model": "65UR8750PSA",
+                    "type": "Op",
+                    "fileId": "3",
+                    "filename": "webOS 23 KLP(n)_1.0_3.tar.gz"
+                }
+            ]
+        },
+        "65UR9000PJA": {
+            "description": "webOS 23 KLP(n) 1.0",
+            "notice": [
+                {
+                    "osSeq": "511217",
+                    "model": "65UR9000PJA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-4665_webOS 23 KLP(n)_1.0_221220.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "511217",
+                    "model": "65UR9000PJA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS 23 KLP(n)_1.0_1.tar.gz"
+                },
+                {
+                    "osSeq": "511217",
+                    "model": "65UR9000PJA",
+                    "type": "Op",
+                    "fileId": "2",
+                    "filename": "webOS 23 KLP(n)_1.0_2.tar.gz"
+                },
+                {
+                    "osSeq": "511217",
+                    "model": "65UR9000PJA",
+                    "type": "Op",
+                    "fileId": "3",
+                    "filename": "webOS 23 KLP(n)_1.0_3.tar.gz"
+                }
+            ]
+        },
+        "65UR9000PUA": {
+            "description": "webOS 23 M 1.0",
+            "notice": [
+                {
+                    "osSeq": "511218",
+                    "model": "65UR9000PUA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-4664_webOS 23 M_1.0_221221.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "511218",
+                    "model": "65UR9000PUA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS 23 M_1.0_1.tar.gz"
+                },
+                {
+                    "osSeq": "511218",
+                    "model": "65UR9000PUA",
+                    "type": "Op",
+                    "fileId": "2",
+                    "filename": "webOS 23 M_1.0_2.tar.gz"
+                },
+                {
+                    "osSeq": "511218",
+                    "model": "65UR9000PUA",
+                    "type": "Op",
+                    "fileId": "3",
+                    "filename": "webOS 23 M_1.0_3.tar.gz"
+                }
+            ]
+        },
+        "65UR9000PUB": {
+            "description": "webOS 23 M 1.0",
+            "notice": [
+                {
+                    "osSeq": "511218",
+                    "model": "65UR9000PUB",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-4664_webOS 23 M_1.0_221221.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "511218",
+                    "model": "65UR9000PUB",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS 23 M_1.0_1.tar.gz"
+                },
+                {
+                    "osSeq": "511218",
+                    "model": "65UR9000PUB",
+                    "type": "Op",
+                    "fileId": "2",
+                    "filename": "webOS 23 M_1.0_2.tar.gz"
+                },
+                {
+                    "osSeq": "511218",
+                    "model": "65UR9000PUB",
+                    "type": "Op",
+                    "fileId": "3",
+                    "filename": "webOS 23 M_1.0_3.tar.gz"
+                }
+            ]
+        },
+        "65UR9050PSA": {
+            "description": "webOS 23 KLP(n) 1.0",
+            "notice": [
+                {
+                    "osSeq": "511217",
+                    "model": "65UR9050PSA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-4665_webOS 23 KLP(n)_1.0_221220.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "511217",
+                    "model": "65UR9050PSA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS 23 KLP(n)_1.0_1.tar.gz"
+                },
+                {
+                    "osSeq": "511217",
+                    "model": "65UR9050PSA",
+                    "type": "Op",
+                    "fileId": "2",
+                    "filename": "webOS 23 KLP(n)_1.0_2.tar.gz"
+                },
+                {
+                    "osSeq": "511217",
+                    "model": "65UR9050PSA",
+                    "type": "Op",
+                    "fileId": "3",
+                    "filename": "webOS 23 KLP(n)_1.0_3.tar.gz"
+                }
+            ]
+        },
+        "65UR9050PSJ": {
+            "description": "webOS 23 KLP(n) 1.0",
+            "notice": [
+                {
+                    "osSeq": "511217",
+                    "model": "65UR9050PSJ",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-4665_webOS 23 KLP(n)_1.0_221220.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "511217",
+                    "model": "65UR9050PSJ",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS 23 KLP(n)_1.0_1.tar.gz"
+                },
+                {
+                    "osSeq": "511217",
+                    "model": "65UR9050PSJ",
+                    "type": "Op",
+                    "fileId": "2",
+                    "filename": "webOS 23 KLP(n)_1.0_2.tar.gz"
+                },
+                {
+                    "osSeq": "511217",
+                    "model": "65UR9050PSJ",
+                    "type": "Op",
+                    "fileId": "3",
+                    "filename": "webOS 23 KLP(n)_1.0_3.tar.gz"
+                }
+            ]
+        },
+        "65UR9050PSK": {
+            "description": "webOS 23 KLP(n) 1.0",
+            "notice": [
+                {
+                    "osSeq": "511217",
+                    "model": "65UR9050PSK",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-4665_webOS 23 KLP(n)_1.0_221220.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "511217",
+                    "model": "65UR9050PSK",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS 23 KLP(n)_1.0_1.tar.gz"
+                },
+                {
+                    "osSeq": "511217",
+                    "model": "65UR9050PSK",
+                    "type": "Op",
+                    "fileId": "2",
+                    "filename": "webOS 23 KLP(n)_1.0_2.tar.gz"
+                },
+                {
+                    "osSeq": "511217",
+                    "model": "65UR9050PSK",
+                    "type": "Op",
+                    "fileId": "3",
+                    "filename": "webOS 23 KLP(n)_1.0_3.tar.gz"
+                }
+            ]
+        },
+        "65UR91003LA": {
+            "description": "webOS 23 M 1.0",
+            "notice": [
+                {
+                    "osSeq": "511218",
+                    "model": "65UR91003LA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-4664_webOS 23 M_1.0_221221.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "511218",
+                    "model": "65UR91003LA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS 23 M_1.0_1.tar.gz"
+                },
+                {
+                    "osSeq": "511218",
+                    "model": "65UR91003LA",
+                    "type": "Op",
+                    "fileId": "2",
+                    "filename": "webOS 23 M_1.0_2.tar.gz"
+                },
+                {
+                    "osSeq": "511218",
+                    "model": "65UR91003LA",
+                    "type": "Op",
+                    "fileId": "3",
+                    "filename": "webOS 23 M_1.0_3.tar.gz"
+                }
+            ]
+        },
+        "65UR91006LA": {
+            "description": "webOS 23 M 1.0",
+            "notice": [
+                {
+                    "osSeq": "511218",
+                    "model": "65UR91006LA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-4664_webOS 23 M_1.0_221221.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "511218",
+                    "model": "65UR91006LA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS 23 M_1.0_1.tar.gz"
+                },
+                {
+                    "osSeq": "511218",
+                    "model": "65UR91006LA",
+                    "type": "Op",
+                    "fileId": "2",
+                    "filename": "webOS 23 M_1.0_2.tar.gz"
+                },
+                {
+                    "osSeq": "511218",
+                    "model": "65UR91006LA",
+                    "type": "Op",
+                    "fileId": "3",
+                    "filename": "webOS 23 M_1.0_3.tar.gz"
+                }
+            ]
+        },
+        "65UR91006LB": {
+            "description": "webOS 23 M 1.0",
+            "notice": [
+                {
+                    "osSeq": "511218",
+                    "model": "65UR91006LB",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-4664_webOS 23 M_1.0_221221.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "511218",
+                    "model": "65UR91006LB",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS 23 M_1.0_1.tar.gz"
+                },
+                {
+                    "osSeq": "511218",
+                    "model": "65UR91006LB",
+                    "type": "Op",
+                    "fileId": "2",
+                    "filename": "webOS 23 M_1.0_2.tar.gz"
+                },
+                {
+                    "osSeq": "511218",
+                    "model": "65UR91006LB",
+                    "type": "Op",
+                    "fileId": "3",
+                    "filename": "webOS 23 M_1.0_3.tar.gz"
+                }
+            ]
+        },
+        "65UR9150PCK": {
+            "description": "webOS 23 KLP(n) 1.0",
+            "notice": [
+                {
+                    "osSeq": "511217",
+                    "model": "65UR9150PCK",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-4665_webOS 23 KLP(n)_1.0_221220.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "511217",
+                    "model": "65UR9150PCK",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS 23 KLP(n)_1.0_1.tar.gz"
+                },
+                {
+                    "osSeq": "511217",
+                    "model": "65UR9150PCK",
+                    "type": "Op",
+                    "fileId": "2",
+                    "filename": "webOS 23 KLP(n)_1.0_2.tar.gz"
+                },
+                {
+                    "osSeq": "511217",
+                    "model": "65UR9150PCK",
+                    "type": "Op",
+                    "fileId": "3",
+                    "filename": "webOS 23 KLP(n)_1.0_3.tar.gz"
+                }
+            ]
+        },
+        "65UR9300KNA": {
+            "description": "webOS 23 M 1.0",
+            "notice": [
+                {
+                    "osSeq": "511218",
+                    "model": "65UR9300KNA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-4664_webOS 23 M_1.0_221221.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "511218",
+                    "model": "65UR9300KNA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS 23 M_1.0_1.tar.gz"
+                },
+                {
+                    "osSeq": "511218",
+                    "model": "65UR9300KNA",
+                    "type": "Op",
+                    "fileId": "2",
+                    "filename": "webOS 23 M_1.0_2.tar.gz"
+                },
+                {
+                    "osSeq": "511218",
+                    "model": "65UR9300KNA",
+                    "type": "Op",
+                    "fileId": "3",
+                    "filename": "webOS 23 M_1.0_3.tar.gz"
+                }
+            ]
+        },
+        "65UR931C0NA": {
+            "description": "webOS 23 M (Commercial)",
+            "notice": [
+                {
+                    "osSeq": "511439",
+                    "model": "65UR931C0NA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-5612_webOS 23 M (Commercial)_230718.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "511439",
+                    "model": "65UR931C0NA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS 23 M (Commercial)_1.tar.gz"
+                },
+                {
+                    "osSeq": "511439",
+                    "model": "65UR931C0NA",
+                    "type": "Op",
+                    "fileId": "2",
+                    "filename": "webOS 23 M (Commercial)_2.tar.gz"
+                },
+                {
+                    "osSeq": "511439",
+                    "model": "65UR931C0NA",
+                    "type": "Op",
+                    "fileId": "3",
+                    "filename": "webOS 23 M (Commercial)_3.tar.gz"
+                }
+            ]
+        },
+        "65UR93RC0NA": {
+            "description": "webOS 23 M (Commercial)",
+            "notice": [
+                {
+                    "osSeq": "511439",
+                    "model": "65UR93RC0NA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-5612_webOS 23 M (Commercial)_230718.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "511439",
+                    "model": "65UR93RC0NA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS 23 M (Commercial)_1.tar.gz"
+                },
+                {
+                    "osSeq": "511439",
+                    "model": "65UR93RC0NA",
+                    "type": "Op",
+                    "fileId": "2",
+                    "filename": "webOS 23 M (Commercial)_2.tar.gz"
+                },
+                {
+                    "osSeq": "511439",
+                    "model": "65UR93RC0NA",
+                    "type": "Op",
+                    "fileId": "3",
+                    "filename": "webOS 23 M (Commercial)_3.tar.gz"
+                }
+            ]
+        },
+        "65US340C0UD": {
+            "description": "webOS4.5_M16P3_TVSignage",
+            "notice": [
+                {
+                    "osSeq": "509113",
+                    "model": "65US340C0UD",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-1685_webOS4.5_M16P3_TVSignage_190513.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "509113",
+                    "model": "65US340C0UD",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS4.5_M16P3_TVSignage.zip"
+                }
+            ]
+        },
+        "65US660H0DD": {
+            "description": "HCAP API 1.24",
+            "notice": [
+                {
+                    "osSeq": "510202",
+                    "model": "65US660H0DD",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-3139_HCAP API_1.24_201208.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "510202",
+                    "model": "65US660H0DD",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "HCAP API_1.24.zip"
+                }
+            ]
+        }
+    },
+    "TV/AV>Monitor/Signage": {
+        "65US5P-EP": {
+            "description": "webOS6.0_M16P3_Signage MR5",
+            "notice": [
+                {
+                    "osSeq": "511336",
+                    "model": "65US5P-EP",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-5298_webOS6.0_M16P3_Signage_MR5_230403.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "511336",
+                    "model": "65US5P-EP",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS6.0_M16P3_Signage_MR5.zip"
+                }
+            ]
+        }
+    }
+}

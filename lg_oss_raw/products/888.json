@@ -1,0 +1,321 @@
+{
+    "TV/AV>Monitor/Signage": {
+        "65TR3PJ-BG": {
+            "description": "Android Touch Signage 3",
+            "notice": [
+                {
+                    "osSeq": "510832",
+                    "model": "65TR3PJ-BG",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-3925_Android Touch Signage_3_220221.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "510832",
+                    "model": "65TR3PJ-BG",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "Android Touch Signage_3.zip"
+                }
+            ]
+        },
+        "65TR3PJ-IG": {
+            "description": "Android Touch Signage 3",
+            "notice": [
+                {
+                    "osSeq": "510832",
+                    "model": "65TR3PJ-IG",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-3925_Android Touch Signage_3_220221.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "510832",
+                    "model": "65TR3PJ-IG",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "Android Touch Signage_3.zip"
+                }
+            ]
+        },
+        "65TR3PN-BG": {
+            "description": "Android Touch Signage 5",
+            "notice": [
+                {
+                    "osSeq": "511677",
+                    "model": "65TR3PN-BG",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-6517_Android Touch Signage_5_240405.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "511677",
+                    "model": "65TR3PN-BG",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "Android Touch Signage_5.zip"
+                }
+            ]
+        }
+    },
+    "TV/AV>TV": {
+        "65UB9200-UC": {
+            "description": "NetCast4.5 LM LGE TV Open Source",
+            "notice": [
+                {
+                    "osSeq": "506625",
+                    "model": "65UB9200-UC",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-140925-NetCast4_5LM-2.pdf"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "506625",
+                    "model": "65UB9200-UC",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "NetCast4.5_LM_CO_FI-4.zip"
+                }
+            ]
+        },
+        "65UF6450-SA": {
+            "description": "webOS BLLMA LGE Open Source2",
+            "notice": [
+                {
+                    "osSeq": "506663",
+                    "model": "65UF6450-SA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-150423-webOSBLLMA-1.pdf"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "506663",
+                    "model": "65UF6450-SA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "BLMAL-r3173-1.tar.gz"
+                }
+            ]
+        },
+        "65UF6450-UA": {
+            "description": "webOS BLLMA LGE Open Source2",
+            "notice": [
+                {
+                    "osSeq": "506663",
+                    "model": "65UF6450-UA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-150423-webOSBLLMA-1.pdf"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "506663",
+                    "model": "65UF6450-UA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "BLMAL-r3173-1.tar.gz"
+                }
+            ]
+        },
+        "65UF645T-DA": {
+            "description": "webOS BLLMA LGE Open Source2",
+            "notice": [
+                {
+                    "osSeq": "506663",
+                    "model": "65UF645T-DA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-150423-webOSBLLMA-1.pdf"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "506663",
+                    "model": "65UF645T-DA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "BLMAL-r3173-1.tar.gz"
+                }
+            ]
+        },
+        "65UF645T-TB": {
+            "description": "webOS BLLMA LGE Open Source2",
+            "notice": [
+                {
+                    "osSeq": "506663",
+                    "model": "65UF645T-TB",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-150423-webOSBLLMA-1.pdf"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "506663",
+                    "model": "65UF645T-TB",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "BLMAL-r3173-1.tar.gz"
+                }
+            ]
+        },
+        "65UF670T-TC": {
+            "description": "L15 L LGE TV Open Source",
+            "notice": [
+                {
+                    "osSeq": "506657",
+                    "model": "65UF670T-TC",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-150304-L15L-1.pdf"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "506657",
+                    "model": "65UF670T-TC",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "L15_L_LGE_TV_OpenSource_v1.1.zip"
+                }
+            ]
+        },
+        "65UF670V-TE": {
+            "description": "L15 L LGE TV Open Source",
+            "notice": [
+                {
+                    "osSeq": "506657",
+                    "model": "65UF670V-TE",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-150304-L15L-1.pdf"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "506657",
+                    "model": "65UF670V-TE",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "L15_L_LGE_TV_OpenSource_v1.1.zip"
+                }
+            ]
+        },
+        "65UF670V-ZC": {
+            "description": "L15 L LGE TV Open Source",
+            "notice": [
+                {
+                    "osSeq": "506657",
+                    "model": "65UF670V-ZC",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-150304-L15L-1.pdf"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "506657",
+                    "model": "65UF670V-ZC",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "L15_L_LGE_TV_OpenSource_v1.1.zip"
+                }
+            ]
+        },
+        "65UF671T-TG": {
+            "description": "L15 L LGE TV Open Source",
+            "notice": [
+                {
+                    "osSeq": "506657",
+                    "model": "65UF671T-TG",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-150304-L15L-1.pdf"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "506657",
+                    "model": "65UF671T-TG",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "L15_L_LGE_TV_OpenSource_v1.1.zip"
+                }
+            ]
+        },
+        "65UF671V-ZJ": {
+            "description": "L15 L LGE TV Open Source",
+            "notice": [
+                {
+                    "osSeq": "506657",
+                    "model": "65UF671V-ZJ",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-150304-L15L-1.pdf"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "506657",
+                    "model": "65UF671V-ZJ",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "L15_L_LGE_TV_OpenSource_v1.1.zip"
+                }
+            ]
+        },
+        "65UF671Y-TG": {
+            "description": "L15 L LGE TV Open Source",
+            "notice": [
+                {
+                    "osSeq": "506657",
+                    "model": "65UF671Y-TG",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-150304-L15L-1.pdf"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "506657",
+                    "model": "65UF671Y-TG",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "L15_L_LGE_TV_OpenSource_v1.1.zip"
+                }
+            ]
+        },
+        "65UF673T-TK": {
+            "description": "L15 L LGE TV Open Source",
+            "notice": [
+                {
+                    "osSeq": "506657",
+                    "model": "65UF673T-TK",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-150304-L15L-1.pdf"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "506657",
+                    "model": "65UF673T-TK",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "L15_L_LGE_TV_OpenSource_v1.1.zip"
+                }
+            ]
+        }
+    }
+}

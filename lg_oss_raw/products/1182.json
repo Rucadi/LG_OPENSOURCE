@@ -1,0 +1,174 @@
+{
+    "TV/AV>Monitor/Signage": {
+        "CSAC-025K": {
+            "description": "webOS4.0+_M16++_Signage LED",
+            "notice": [
+                {
+                    "osSeq": "509828",
+                    "model": "CSAC-025K",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-2415_webOS4.0+_M16++_Signage_LED_200226.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "509828",
+                    "model": "CSAC-025K",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS4.0+_M16++_Signage_LED.zip"
+                }
+            ]
+        },
+        "CSAD": {
+            "description": "webOS4.0+_M16++_Signage LED",
+            "notice": [
+                {
+                    "osSeq": "509828",
+                    "model": "CSAD",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-2415_webOS4.0+_M16++_Signage_LED_200226.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "509828",
+                    "model": "CSAD",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS4.0+_M16++_Signage_LED.zip"
+                }
+            ]
+        },
+        "CTAA-140G": {
+            "description": "webOS3.0_M16_Signage_2",
+            "notice": [
+                {
+                    "osSeq": "507279",
+                    "model": "CTAA-140G",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-170214-webOS3.0M16Signage-5.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "507279",
+                    "model": "CTAA-140G",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS3.2_3.0_M16_Signage_OpenSource_V1.0_2.zip"
+                }
+            ]
+        },
+        "CVBA": {
+            "description": "webOS4.0_M16++_Signage MR3",
+            "notice": [
+                {
+                    "osSeq": "510978",
+                    "model": "CVBA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-4517_webOS4.0_M16++_Signage_MR3_220616.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "510978",
+                    "model": "CVBA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS4.0_M16++_Signage_MR3.zip"
+                }
+            ]
+        },
+        "CVCA": {
+            "description": "webOS4.0_M16++_Signage MR3",
+            "notice": [
+                {
+                    "osSeq": "510978",
+                    "model": "CVCA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-4517_webOS4.0_M16++_Signage_MR3_220616.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "510978",
+                    "model": "CVCA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS4.0_M16++_Signage_MR3.zip"
+                }
+            ]
+        },
+        "CVEA": {
+            "description": "webOS4.0_M16++_Signage MR3",
+            "notice": [
+                {
+                    "osSeq": "510978",
+                    "model": "CVEA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-4517_webOS4.0_M16++_Signage_MR3_220616.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "510978",
+                    "model": "CVEA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS4.0_M16++_Signage_MR3.zip"
+                }
+            ]
+        },
+        "CVGA": {
+            "description": "webOS4.0_M16++_Signage MR3",
+            "notice": [
+                {
+                    "osSeq": "510978",
+                    "model": "CVGA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-4517_webOS4.0_M16++_Signage_MR3_220616.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "510978",
+                    "model": "CVGA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS4.0_M16++_Signage_MR3.zip"
+                }
+            ]
+        }
+    },
+    "TV/AV>Projector": {
+        "DBF510P-GL": {
+            "description": "webOS 4.5 Projector",
+            "notice": [
+                {
+                    "osSeq": "509121",
+                    "model": "DBF510P-GL",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-1592_webOS 4.5 Projector_190515.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "509121",
+                    "model": "DBF510P-GL",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS 4.5 Projector.tar.gz"
+                }
+            ]
+        }
+    }
+}

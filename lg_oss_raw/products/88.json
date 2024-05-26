@@ -1,0 +1,392 @@
+{
+    "TV/AV>TV": {
+        "32LH546D-TA": {
+            "description": "L16 LP LGE TV Open Source",
+            "notice": [
+                {
+                    "osSeq": "506951",
+                    "model": "32LH546D-TA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-151127-L16LP-1.pdf"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "506951",
+                    "model": "32LH546D-TA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "L16LP-r2953.tar.gz"
+                }
+            ]
+        },
+        "32LH550B-UA": {
+            "description": "webOS DM2 LGE Open Source",
+            "notice": [
+                {
+                    "osSeq": "507012",
+                    "model": "32LH550B-UA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-161108-webOSDM2-6.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "507012",
+                    "model": "32LH550B-UA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "DM2-r3173.tar.gz"
+                }
+            ]
+        },
+        "32LH551V-ZA": {
+            "description": "L16 LP LGE TV Open Source",
+            "notice": [
+                {
+                    "osSeq": "506951",
+                    "model": "32LH551V-ZA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-151127-L16LP-1.pdf"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "506951",
+                    "model": "32LH551V-ZA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "L16LP-r2953.tar.gz"
+                }
+            ]
+        },
+        "32LH555B-NA": {
+            "description": "LH555B, LH5550, LH5000 TV",
+            "notice": [
+                {
+                    "osSeq": "507318",
+                    "model": "32LH555B-NA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "No_OpenSource.txt"
+                }
+            ],
+            "source": []
+        },
+        "32LH560B-NA": {
+            "description": "L16 L LGE TV Open Source",
+            "notice": [
+                {
+                    "osSeq": "506981",
+                    "model": "32LH560B-NA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-151222-L16L-4.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "506981",
+                    "model": "32LH560B-NA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "L16L-r2907.tar.gz"
+                }
+            ]
+        },
+        "32LH560B-NC": {
+            "description": "L16 L LGE TV Open Source",
+            "notice": [
+                {
+                    "osSeq": "506981",
+                    "model": "32LH560B-NC",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-151222-L16L-4.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "506981",
+                    "model": "32LH560B-NC",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "L16L-r2907.tar.gz"
+                }
+            ]
+        },
+        "32LH560B-SD": {
+            "description": "webOS DM2 LGE Open Source",
+            "notice": [
+                {
+                    "osSeq": "507012",
+                    "model": "32LH560B-SD",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-161108-webOSDM2-6.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "507012",
+                    "model": "32LH560B-SD",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "DM2-r3173.tar.gz"
+                }
+            ]
+        },
+        "32LH561A-TC": {
+            "description": "L16 UMR LGE TV Open Source",
+            "notice": [
+                {
+                    "osSeq": "506953",
+                    "model": "32LH561A-TC",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-160513-L16UMR-2.html"
+                }
+            ],
+            "source": []
+        },
+        "32LH561B-NC": {
+            "description": "L16 L LGE TV Open Source",
+            "notice": [
+                {
+                    "osSeq": "506981",
+                    "model": "32LH561B-NC",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-151222-L16L-4.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "506981",
+                    "model": "32LH561B-NC",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "L16L-r2907.tar.gz"
+                }
+            ]
+        },
+        "32LH562A-TD": {
+            "description": "L16 UMR LGE TV Open Source",
+            "notice": [
+                {
+                    "osSeq": "506953",
+                    "model": "32LH562A-TD",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-160513-L16UMR-2.html"
+                }
+            ],
+            "source": []
+        },
+        "32LH564A-TB": {
+            "description": "L16 UMR LGE TV Open Source",
+            "notice": [
+                {
+                    "osSeq": "506953",
+                    "model": "32LH564A-TB",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-160513-L16UMR-2.html"
+                }
+            ],
+            "source": []
+        },
+        "32LH565B-NA": {
+            "description": "L16 L LGE TV Open Source",
+            "notice": [
+                {
+                    "osSeq": "506981",
+                    "model": "32LH565B-NA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-151222-L16L-4.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "506981",
+                    "model": "32LH565B-NA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "L16L-r2907.tar.gz"
+                }
+            ]
+        },
+        "32LH565B-NC": {
+            "description": "L16 L LGE TV Open Source",
+            "notice": [
+                {
+                    "osSeq": "506981",
+                    "model": "32LH565B-NC",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-151222-L16L-4.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "506981",
+                    "model": "32LH565B-NC",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "L16L-r2907.tar.gz"
+                }
+            ]
+        },
+        "32LH570B-CA": {
+            "description": "SSPM LGE Open Source",
+            "notice": [
+                {
+                    "osSeq": "507094",
+                    "model": "32LH570B-CA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-160406-SSPM-4.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "507094",
+                    "model": "32LH570B-CA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "SSPM-r3026.tar.gz"
+                }
+            ]
+        },
+        "32LH570B-CC": {
+            "description": "SSPM LGE Open Source",
+            "notice": [
+                {
+                    "osSeq": "507094",
+                    "model": "32LH570B-CC",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-160406-SSPM-4.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "507094",
+                    "model": "32LH570B-CC",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "SSPM-r3026.tar.gz"
+                }
+            ]
+        },
+        "32LH570B-CD": {
+            "description": "SSPM LGE Open Source",
+            "notice": [
+                {
+                    "osSeq": "507094",
+                    "model": "32LH570B-CD",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-160406-SSPM-4.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "507094",
+                    "model": "32LH570B-CD",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "SSPM-r3026.tar.gz"
+                }
+            ]
+        },
+        "32LH570B-DA": {
+            "description": "SSPM LGE Open Source",
+            "notice": [
+                {
+                    "osSeq": "507094",
+                    "model": "32LH570B-DA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-160406-SSPM-4.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "507094",
+                    "model": "32LH570B-DA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "SSPM-r3026.tar.gz"
+                }
+            ]
+        },
+        "32LH570B-DC": {
+            "description": "SSPM LGE Open Source",
+            "notice": [
+                {
+                    "osSeq": "507094",
+                    "model": "32LH570B-DC",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-160406-SSPM-4.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "507094",
+                    "model": "32LH570B-DC",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "SSPM-r3026.tar.gz"
+                }
+            ]
+        },
+        "32LH570B-SA": {
+            "description": "SSPM LGE Open Source",
+            "notice": [
+                {
+                    "osSeq": "507094",
+                    "model": "32LH570B-SA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-160406-SSPM-4.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "507094",
+                    "model": "32LH570B-SA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "SSPM-r3026.tar.gz"
+                }
+            ]
+        },
+        "32LH570B-SC": {
+            "description": "SSPM LGE Open Source",
+            "notice": [
+                {
+                    "osSeq": "507094",
+                    "model": "32LH570B-SC",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-160406-SSPM-4.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "507094",
+                    "model": "32LH570B-SC",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "SSPM-r3026.tar.gz"
+                }
+            ]
+        }
+    }
+}

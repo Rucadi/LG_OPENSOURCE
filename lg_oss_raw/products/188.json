@@ -1,0 +1,340 @@
+{
+    "TV/AV>TV": {
+        "43LH580T-DD": {
+            "description": "webOS BLA5 LGE Open Source-Chromium Source",
+            "notice": [
+                {
+                    "osSeq": "506660",
+                    "model": "43LH580T-DD",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-150324-webOSBLA5-1.pdf"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "506660",
+                    "model": "43LH580T-DD",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS_BLA5_1.tar.gz"
+                }
+            ]
+        },
+        "43LH580T-TD": {
+            "description": "webOS DM2 LGE Open Source",
+            "notice": [
+                {
+                    "osSeq": "507012",
+                    "model": "43LH580T-TD",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-161108-webOSDM2-6.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "507012",
+                    "model": "43LH580T-TD",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "DM2-r3173.tar.gz"
+                }
+            ]
+        },
+        "43LH580V-TD": {
+            "description": "webOS DM2 LGE Open Source",
+            "notice": [
+                {
+                    "osSeq": "507012",
+                    "model": "43LH580V-TD",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-161108-webOSDM2-6.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "507012",
+                    "model": "43LH580V-TD",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "DM2-r3173.tar.gz"
+                }
+            ]
+        },
+        "43LH580V-ZA": {
+            "description": "webOS DM2 LGE Open Source",
+            "notice": [
+                {
+                    "osSeq": "507012",
+                    "model": "43LH580V-ZA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-161108-webOSDM2-6.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "507012",
+                    "model": "43LH580V-ZA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "DM2-r3173.tar.gz"
+                }
+            ]
+        },
+        "43LH580V-ZD": {
+            "description": "webOS DM2 LGE Open Source",
+            "notice": [
+                {
+                    "osSeq": "507012",
+                    "model": "43LH580V-ZD",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-161108-webOSDM2-6.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "507012",
+                    "model": "43LH580V-ZD",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "DM2-r3173.tar.gz"
+                }
+            ]
+        },
+        "43LH580Y-TD": {
+            "description": "webOS DM2 LGE Open Source",
+            "notice": [
+                {
+                    "osSeq": "507012",
+                    "model": "43LH580Y-TD",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-161108-webOSDM2-6.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "507012",
+                    "model": "43LH580Y-TD",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "DM2-r3173.tar.gz"
+                }
+            ]
+        },
+        "43LH5810-ND": {
+            "description": "L16 L LGE TV Open Source",
+            "notice": [
+                {
+                    "osSeq": "506981",
+                    "model": "43LH5810-ND",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-151222-L16L-4.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "506981",
+                    "model": "43LH5810-ND",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "L16L-r2907.tar.gz"
+                }
+            ]
+        },
+        "43LH581C-CC": {
+            "description": "M2 Derivation Commercial TV",
+            "notice": [
+                {
+                    "osSeq": "507257",
+                    "model": "43LH581C-CC",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-160406-webOSDM2-3.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "507257",
+                    "model": "43LH581C-CC",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "DM2-r3051.tar.gz"
+                }
+            ]
+        },
+        "43LH5830-ND": {
+            "description": "L16 L LGE TV Open Source",
+            "notice": [
+                {
+                    "osSeq": "506981",
+                    "model": "43LH5830-ND",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-151222-L16L-4.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "506981",
+                    "model": "43LH5830-ND",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "L16L-r2907.tar.gz"
+                }
+            ]
+        },
+        "43LH585V-ZE": {
+            "description": "webOS DM2 LGE Open Source",
+            "notice": [
+                {
+                    "osSeq": "507012",
+                    "model": "43LH585V-ZE",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-161108-webOSDM2-6.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "507012",
+                    "model": "43LH585V-ZE",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "DM2-r3173.tar.gz"
+                }
+            ]
+        },
+        "43LH5880-CC": {
+            "description": "webOS DM2 LGE Open Source",
+            "notice": [
+                {
+                    "osSeq": "507012",
+                    "model": "43LH5880-CC",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-161108-webOSDM2-6.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "507012",
+                    "model": "43LH5880-CC",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "DM2-r3173.tar.gz"
+                }
+            ]
+        },
+        "43LH5880-CD": {
+            "description": "webOS DM2 LGE Open Source",
+            "notice": [
+                {
+                    "osSeq": "507012",
+                    "model": "43LH5880-CD",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-161108-webOSDM2-6.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "507012",
+                    "model": "43LH5880-CD",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "DM2-r3173.tar.gz"
+                }
+            ]
+        },
+        "43LH590T-TB": {
+            "description": "webOS BLA5 LGE Open Source-Chromium Source",
+            "notice": [
+                {
+                    "osSeq": "506660",
+                    "model": "43LH590T-TB",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-150324-webOSBLA5-1.pdf"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "506660",
+                    "model": "43LH590T-TB",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS_BLA5_1.tar.gz"
+                }
+            ]
+        },
+        "43LH590T-TD": {
+            "description": "webOS DM2 LGE Open Source",
+            "notice": [
+                {
+                    "osSeq": "507012",
+                    "model": "43LH590T-TD",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-161108-webOSDM2-6.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "507012",
+                    "model": "43LH590T-TD",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "DM2-r3173.tar.gz"
+                }
+            ]
+        },
+        "43LH590V-TD": {
+            "description": "webOS DM2 LGE Open Source",
+            "notice": [
+                {
+                    "osSeq": "507012",
+                    "model": "43LH590V-TD",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-161108-webOSDM2-6.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "507012",
+                    "model": "43LH590V-TD",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "DM2-r3173.tar.gz"
+                }
+            ]
+        },
+        "43LH590V-ZA": {
+            "description": "webOS DM2 LGE Open Source",
+            "notice": [
+                {
+                    "osSeq": "507012",
+                    "model": "43LH590V-ZA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-161108-webOSDM2-6.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "507012",
+                    "model": "43LH590V-ZA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "DM2-r3173.tar.gz"
+                }
+            ]
+        }
+    }
+}

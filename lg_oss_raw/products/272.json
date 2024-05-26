@@ -1,0 +1,132 @@
+{
+    "TV/AV>Monitor/Signage": {
+        "43UL3J-NP": {
+            "description": "webOS6.0_M16P3_Signage MR6",
+            "notice": [
+                {
+                    "osSeq": "511528",
+                    "model": "43UL3J-NP",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-5907_webOS6.0_M16P3_Signage_MR6_231017.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "511528",
+                    "model": "43UL3J-NP",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS6.0_M16P3_Signage_MR6.zip"
+                }
+            ]
+        },
+        "43UM3DF-BJ": {
+            "description": "webOS4.0+_M16++_Signage MR2",
+            "notice": [
+                {
+                    "osSeq": "510979",
+                    "model": "43UM3DF-BJ",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-4518_webOS4.0+_M16++_Signage_MR2_220616.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "510979",
+                    "model": "43UM3DF-BJ",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS4.0+_M16++_Signage_MR2.zip"
+                }
+            ]
+        },
+        "43UM3DG-BJ": {
+            "description": "webOS4.0+_M16++_Signage MR2",
+            "notice": [
+                {
+                    "osSeq": "510979",
+                    "model": "43UM3DG-BJ",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-4518_webOS4.0+_M16++_Signage_MR2_220616.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "510979",
+                    "model": "43UM3DG-BJ",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS4.0+_M16++_Signage_MR2.zip"
+                }
+            ]
+        },
+        "43UM3F-BJ": {
+            "description": "webOS4.0+_M16++_Signage MR2",
+            "notice": [
+                {
+                    "osSeq": "510979",
+                    "model": "43UM3F-BJ",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-4518_webOS4.0+_M16++_Signage_MR2_220616.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "510979",
+                    "model": "43UM3F-BJ",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS4.0+_M16++_Signage_MR2.zip"
+                }
+            ]
+        },
+        "43UM5N-EP": {
+            "description": "webOS6.0_M16P3_Signage MR5",
+            "notice": [
+                {
+                    "osSeq": "511336",
+                    "model": "43UM5N-EP",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-5298_webOS6.0_M16P3_Signage_MR5_230403.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "511336",
+                    "model": "43UM5N-EP",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS6.0_M16P3_Signage_MR5.zip"
+                }
+            ]
+        }
+    },
+    "TV/AV>TV": {
+        "43UM340E0UZ": {
+            "description": "Android TV",
+            "notice": [
+                {
+                    "osSeq": "511559",
+                    "model": "43UM340E0UZ",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-5851_Android TV_231204.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "511559",
+                    "model": "43UM340E0UZ",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "Android TV.zip"
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,389 @@
+{
+    "TV/AV>TV": {
+        "OLED65G43LS": {
+            "description": "webOS 24 O 1.0_2303",
+            "notice": [
+                {
+                    "osSeq": "511646",
+                    "model": "OLED65G43LS",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-6351_webOS24 O_1.0_2303_240311.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "511646",
+                    "model": "OLED65G43LS",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS24 O_1.0_2303_1.tar.gz"
+                },
+                {
+                    "osSeq": "511646",
+                    "model": "OLED65G43LS",
+                    "type": "Op",
+                    "fileId": "2",
+                    "filename": "webOS24 O_1.0_2303_2.tar.gz"
+                },
+                {
+                    "osSeq": "511646",
+                    "model": "OLED65G43LS",
+                    "type": "Op",
+                    "fileId": "3",
+                    "filename": "webOS24 O_1.0_2303_3.tar.gz"
+                }
+            ]
+        },
+        "OLED65G45LW": {
+            "description": "webOS 24 O 1.0_2303",
+            "notice": [
+                {
+                    "osSeq": "511646",
+                    "model": "OLED65G45LW",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-6351_webOS24 O_1.0_2303_240311.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "511646",
+                    "model": "OLED65G45LW",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS24 O_1.0_2303_1.tar.gz"
+                },
+                {
+                    "osSeq": "511646",
+                    "model": "OLED65G45LW",
+                    "type": "Op",
+                    "fileId": "2",
+                    "filename": "webOS24 O_1.0_2303_2.tar.gz"
+                },
+                {
+                    "osSeq": "511646",
+                    "model": "OLED65G45LW",
+                    "type": "Op",
+                    "fileId": "3",
+                    "filename": "webOS24 O_1.0_2303_3.tar.gz"
+                }
+            ]
+        },
+        "OLED65G46LA": {
+            "description": "webOS 24 O 1.0_2303",
+            "notice": [
+                {
+                    "osSeq": "511646",
+                    "model": "OLED65G46LA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-6351_webOS24 O_1.0_2303_240311.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "511646",
+                    "model": "OLED65G46LA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS24 O_1.0_2303_1.tar.gz"
+                },
+                {
+                    "osSeq": "511646",
+                    "model": "OLED65G46LA",
+                    "type": "Op",
+                    "fileId": "2",
+                    "filename": "webOS24 O_1.0_2303_2.tar.gz"
+                },
+                {
+                    "osSeq": "511646",
+                    "model": "OLED65G46LA",
+                    "type": "Op",
+                    "fileId": "3",
+                    "filename": "webOS24 O_1.0_2303_3.tar.gz"
+                }
+            ]
+        },
+        "OLED65G46LS": {
+            "description": "webOS 24 O 1.0_2303",
+            "notice": [
+                {
+                    "osSeq": "511646",
+                    "model": "OLED65G46LS",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-6351_webOS24 O_1.0_2303_240311.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "511646",
+                    "model": "OLED65G46LS",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS24 O_1.0_2303_1.tar.gz"
+                },
+                {
+                    "osSeq": "511646",
+                    "model": "OLED65G46LS",
+                    "type": "Op",
+                    "fileId": "2",
+                    "filename": "webOS24 O_1.0_2303_2.tar.gz"
+                },
+                {
+                    "osSeq": "511646",
+                    "model": "OLED65G46LS",
+                    "type": "Op",
+                    "fileId": "3",
+                    "filename": "webOS24 O_1.0_2303_3.tar.gz"
+                }
+            ]
+        },
+        "OLED65G48LW": {
+            "description": "webOS 24 O 1.0_2303",
+            "notice": [
+                {
+                    "osSeq": "511646",
+                    "model": "OLED65G48LW",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-6351_webOS24 O_1.0_2303_240311.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "511646",
+                    "model": "OLED65G48LW",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS24 O_1.0_2303_1.tar.gz"
+                },
+                {
+                    "osSeq": "511646",
+                    "model": "OLED65G48LW",
+                    "type": "Op",
+                    "fileId": "2",
+                    "filename": "webOS24 O_1.0_2303_2.tar.gz"
+                },
+                {
+                    "osSeq": "511646",
+                    "model": "OLED65G48LW",
+                    "type": "Op",
+                    "fileId": "3",
+                    "filename": "webOS24 O_1.0_2303_3.tar.gz"
+                }
+            ]
+        },
+        "OLED65G49LS": {
+            "description": "webOS 24 O 1.0_2303",
+            "notice": [
+                {
+                    "osSeq": "511646",
+                    "model": "OLED65G49LS",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-6351_webOS24 O_1.0_2303_240311.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "511646",
+                    "model": "OLED65G49LS",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS24 O_1.0_2303_1.tar.gz"
+                },
+                {
+                    "osSeq": "511646",
+                    "model": "OLED65G49LS",
+                    "type": "Op",
+                    "fileId": "2",
+                    "filename": "webOS24 O_1.0_2303_2.tar.gz"
+                },
+                {
+                    "osSeq": "511646",
+                    "model": "OLED65G49LS",
+                    "type": "Op",
+                    "fileId": "3",
+                    "filename": "webOS24 O_1.0_2303_3.tar.gz"
+                }
+            ]
+        },
+        "OLED65G4KNA": {
+            "description": "webOS 24 O 1.0_2303",
+            "notice": [
+                {
+                    "osSeq": "511646",
+                    "model": "OLED65G4KNA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-6351_webOS24 O_1.0_2303_240311.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "511646",
+                    "model": "OLED65G4KNA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS24 O_1.0_2303_1.tar.gz"
+                },
+                {
+                    "osSeq": "511646",
+                    "model": "OLED65G4KNA",
+                    "type": "Op",
+                    "fileId": "2",
+                    "filename": "webOS24 O_1.0_2303_2.tar.gz"
+                },
+                {
+                    "osSeq": "511646",
+                    "model": "OLED65G4KNA",
+                    "type": "Op",
+                    "fileId": "3",
+                    "filename": "webOS24 O_1.0_2303_3.tar.gz"
+                }
+            ]
+        },
+        "OLED65G4PCA": {
+            "description": "webOS 24 O 1.0_2303",
+            "notice": [
+                {
+                    "osSeq": "511646",
+                    "model": "OLED65G4PCA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-6351_webOS24 O_1.0_2303_240311.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "511646",
+                    "model": "OLED65G4PCA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS24 O_1.0_2303_1.tar.gz"
+                },
+                {
+                    "osSeq": "511646",
+                    "model": "OLED65G4PCA",
+                    "type": "Op",
+                    "fileId": "2",
+                    "filename": "webOS24 O_1.0_2303_2.tar.gz"
+                },
+                {
+                    "osSeq": "511646",
+                    "model": "OLED65G4PCA",
+                    "type": "Op",
+                    "fileId": "3",
+                    "filename": "webOS24 O_1.0_2303_3.tar.gz"
+                }
+            ]
+        },
+        "OLED65G4PJB": {
+            "description": "webOS 24 O 1.0_2303",
+            "notice": [
+                {
+                    "osSeq": "511646",
+                    "model": "OLED65G4PJB",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-6351_webOS24 O_1.0_2303_240311.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "511646",
+                    "model": "OLED65G4PJB",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS24 O_1.0_2303_1.tar.gz"
+                },
+                {
+                    "osSeq": "511646",
+                    "model": "OLED65G4PJB",
+                    "type": "Op",
+                    "fileId": "2",
+                    "filename": "webOS24 O_1.0_2303_2.tar.gz"
+                },
+                {
+                    "osSeq": "511646",
+                    "model": "OLED65G4PJB",
+                    "type": "Op",
+                    "fileId": "3",
+                    "filename": "webOS24 O_1.0_2303_3.tar.gz"
+                }
+            ]
+        },
+        "OLED65G4PSA": {
+            "description": "webOS 24 O 1.0_2303",
+            "notice": [
+                {
+                    "osSeq": "511646",
+                    "model": "OLED65G4PSA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-6351_webOS24 O_1.0_2303_240311.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "511646",
+                    "model": "OLED65G4PSA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS24 O_1.0_2303_1.tar.gz"
+                },
+                {
+                    "osSeq": "511646",
+                    "model": "OLED65G4PSA",
+                    "type": "Op",
+                    "fileId": "2",
+                    "filename": "webOS24 O_1.0_2303_2.tar.gz"
+                },
+                {
+                    "osSeq": "511646",
+                    "model": "OLED65G4PSA",
+                    "type": "Op",
+                    "fileId": "3",
+                    "filename": "webOS24 O_1.0_2303_3.tar.gz"
+                }
+            ]
+        },
+        "OLED65G4PTA": {
+            "description": "webOS 24 O 1.0",
+            "notice": [
+                {
+                    "osSeq": "511583",
+                    "model": "OLED65G4PTA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-5990_webOS 24 O_1.0_240102.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "511583",
+                    "model": "OLED65G4PTA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS 24 O_1.0_1.tar.gz"
+                },
+                {
+                    "osSeq": "511583",
+                    "model": "OLED65G4PTA",
+                    "type": "Op",
+                    "fileId": "2",
+                    "filename": "webOS 24 O_1.0_2.tar.gz"
+                },
+                {
+                    "osSeq": "511583",
+                    "model": "OLED65G4PTA",
+                    "type": "Op",
+                    "fileId": "3",
+                    "filename": "webOS 24 O_1.0_3.tar.gz"
+                }
+            ]
+        }
+    }
+}

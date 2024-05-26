@@ -1,0 +1,392 @@
+{
+    "TV/AV>TV": {
+        "43LJ550T-DA": {
+            "description": "webOS DMR LGE Open Source",
+            "notice": [
+                {
+                    "osSeq": "507689",
+                    "model": "43LJ550T-DA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-170601-webOSDMR-2.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "507689",
+                    "model": "43LJ550T-DA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "DMR-r3185.tar.gz"
+                }
+            ]
+        },
+        "43LJ550T-TA": {
+            "description": "webOS DMR LGE Open Source",
+            "notice": [
+                {
+                    "osSeq": "507689",
+                    "model": "43LJ550T-TA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-170601-webOSDMR-2.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "507689",
+                    "model": "43LJ550T-TA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "DMR-r3185.tar.gz"
+                }
+            ]
+        },
+        "43LJ550V-TA": {
+            "description": "webOS DMR LGE Open Source",
+            "notice": [
+                {
+                    "osSeq": "507689",
+                    "model": "43LJ550V-TA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-170601-webOSDMR-2.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "507689",
+                    "model": "43LJ550V-TA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "DMR-r3185.tar.gz"
+                }
+            ]
+        },
+        "43LJ550V-ZA": {
+            "description": "webOS DMR LGE Open Source",
+            "notice": [
+                {
+                    "osSeq": "507689",
+                    "model": "43LJ550V-ZA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-170601-webOSDMR-2.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "507689",
+                    "model": "43LJ550V-ZA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "DMR-r3185.tar.gz"
+                }
+            ]
+        },
+        "43LJ550Y-TA": {
+            "description": "webOS DMR LGE Open Source",
+            "notice": [
+                {
+                    "osSeq": "507689",
+                    "model": "43LJ550Y-TA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-170601-webOSDMR-2.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "507689",
+                    "model": "43LJ550Y-TA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "DMR-r3185.tar.gz"
+                }
+            ]
+        },
+        "43LJ551C-SB": {
+            "description": "webOS DMR LGE Open Source",
+            "notice": [
+                {
+                    "osSeq": "507689",
+                    "model": "43LJ551C-SB",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-170601-webOSDMR-2.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "507689",
+                    "model": "43LJ551C-SB",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "DMR-r3185.tar.gz"
+                }
+            ]
+        },
+        "43LJ552V-TA": {
+            "description": "webOS DMR LGE Open Source",
+            "notice": [
+                {
+                    "osSeq": "507689",
+                    "model": "43LJ552V-TA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-170601-webOSDMR-2.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "507689",
+                    "model": "43LJ552V-TA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "DMR-r3185.tar.gz"
+                }
+            ]
+        },
+        "43LJ553T-TC": {
+            "description": "webOS DMR LGE Open Source",
+            "notice": [
+                {
+                    "osSeq": "507689",
+                    "model": "43LJ553T-TC",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-170601-webOSDMR-2.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "507689",
+                    "model": "43LJ553T-TC",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "DMR-r3185.tar.gz"
+                }
+            ]
+        },
+        "43LJ554T-TA": {
+            "description": "webOS DMR LGE Open Source",
+            "notice": [
+                {
+                    "osSeq": "507689",
+                    "model": "43LJ554T-TA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-170601-webOSDMR-2.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "507689",
+                    "model": "43LJ554T-TA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "DMR-r3185.tar.gz"
+                }
+            ]
+        },
+        "43LJ5550-SC": {
+            "description": "webOS DMR LGE Open Source",
+            "notice": [
+                {
+                    "osSeq": "507689",
+                    "model": "43LJ5550-SC",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-170601-webOSDMR-2.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "507689",
+                    "model": "43LJ5550-SC",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "DMR-r3185.tar.gz"
+                }
+            ]
+        },
+        "43LJ5550-UC": {
+            "description": "webOS DMR LGE Open Source",
+            "notice": [
+                {
+                    "osSeq": "507689",
+                    "model": "43LJ5550-UC",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-170601-webOSDMR-2.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "507689",
+                    "model": "43LJ5550-UC",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "DMR-r3185.tar.gz"
+                }
+            ]
+        },
+        "43LJ555T-DC": {
+            "description": "webOS DMR LGE Open Source",
+            "notice": [
+                {
+                    "osSeq": "507689",
+                    "model": "43LJ555T-DC",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-170601-webOSDMR-2.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "507689",
+                    "model": "43LJ555T-DC",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "DMR-r3185.tar.gz"
+                }
+            ]
+        },
+        "43LJ555V-ZD": {
+            "description": "webOS DMR LGE Open Source",
+            "notice": [
+                {
+                    "osSeq": "507689",
+                    "model": "43LJ555V-ZD",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-170601-webOSDMR-2.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "507689",
+                    "model": "43LJ555V-ZD",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "DMR-r3185.tar.gz"
+                }
+            ]
+        },
+        "43LJ5560-SB": {
+            "description": "webOS DMR LGE Open Source",
+            "notice": [
+                {
+                    "osSeq": "507689",
+                    "model": "43LJ5560-SB",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-170601-webOSDMR-2.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "507689",
+                    "model": "43LJ5560-SB",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "DMR-r3185.tar.gz"
+                }
+            ]
+        },
+        "43LJ556T-DB": {
+            "description": "webOS DMR LGE Open Source",
+            "notice": [
+                {
+                    "osSeq": "507689",
+                    "model": "43LJ556T-DB",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-170601-webOSDMR-2.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "507689",
+                    "model": "43LJ556T-DB",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "DMR-r3185.tar.gz"
+                }
+            ]
+        },
+        "43LJ5600-NA": {
+            "description": "2017 LGE ODM Open Source (BO)",
+            "notice": [
+                {
+                    "osSeq": "507889",
+                    "model": "43LJ5600-NA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "No_OpenSource.txt"
+                }
+            ],
+            "source": []
+        },
+        "43LJ561C-NA": {
+            "description": "2017 LGE ODM Open Source (BO)",
+            "notice": [
+                {
+                    "osSeq": "507889",
+                    "model": "43LJ561C-NA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "No_OpenSource.txt"
+                }
+            ],
+            "source": []
+        },
+        "43LJ5620-NA": {
+            "description": "2017 LGE ODM Open Source (BO)",
+            "notice": [
+                {
+                    "osSeq": "507889",
+                    "model": "43LJ5620-NA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "No_OpenSource.txt"
+                }
+            ],
+            "source": []
+        },
+        "43LJ5660-NA": {
+            "description": "2017 LGE ODM Open Source (BO)",
+            "notice": [
+                {
+                    "osSeq": "507889",
+                    "model": "43LJ5660-NA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "No_OpenSource.txt"
+                }
+            ],
+            "source": []
+        },
+        "43LJ5800-ND": {
+            "description": "L17 LMA LGE TV Open Source",
+            "notice": [
+                {
+                    "osSeq": "507594",
+                    "model": "43LJ5800-ND",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-161121-L17LMA-1.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "507594",
+                    "model": "43LJ5800-ND",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "L17LMA-r3132.tar.gz"
+                }
+            ]
+        }
+    }
+}

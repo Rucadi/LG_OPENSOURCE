@@ -1,0 +1,130 @@
+{
+    "TV/AV>TV": {
+        "49UK7510PSB": {
+            "description": "webOS 4.0 GLMA MR 2.0",
+            "notice": [
+                {
+                    "osSeq": "508638",
+                    "model": "49UK7510PSB",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-1061_webOS 4.0 GLMA MR_2.0_180622.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "508638",
+                    "model": "49UK7510PSB",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS 4.0 GLMA MR_2.0.tar.gz"
+                }
+            ]
+        },
+        "49UK7550LLA": {
+            "description": "webOS GLMA LGE TV Open Source",
+            "notice": [
+                {
+                    "osSeq": "508336",
+                    "model": "49UK7550LLA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-784_webOS_4.0_GLMA_1.0_20171106163605.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "508336",
+                    "model": "49UK7550LLA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "DM2-r3173.tar.gz"
+                }
+            ]
+        },
+        "49UK7550MLA": {
+            "description": "webOS GLMA LGE TV Open Source",
+            "notice": [
+                {
+                    "osSeq": "508336",
+                    "model": "49UK7550MLA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-784_webOS_4.0_GLMA_1.0_20171106163605.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "508336",
+                    "model": "49UK7550MLA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "DM2-r3173.tar.gz"
+                }
+            ]
+        },
+        "49UK7550PLA": {
+            "description": "webOS GLMA LGE TV Open Source",
+            "notice": [
+                {
+                    "osSeq": "508336",
+                    "model": "49UK7550PLA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-784_webOS_4.0_GLMA_1.0_20171106163605.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "508336",
+                    "model": "49UK7550PLA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "DM2-r3173.tar.gz"
+                }
+            ]
+        },
+        "49UK7550PTA": {
+            "description": "webOS GLMA LGE TV Open Source",
+            "notice": [
+                {
+                    "osSeq": "508336",
+                    "model": "49UK7550PTA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-784_webOS_4.0_GLMA_1.0_20171106163605.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "508336",
+                    "model": "49UK7550PTA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "DM2-r3173.tar.gz"
+                }
+            ]
+        },
+        "49UK7700AUB": {
+            "description": "webOS 4.0 GLMA MR 2.0",
+            "notice": [
+                {
+                    "osSeq": "508638",
+                    "model": "49UK7700AUB",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-1061_webOS 4.0 GLMA MR_2.0_180622.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "508638",
+                    "model": "49UK7700AUB",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS 4.0 GLMA MR_2.0.tar.gz"
+                }
+            ]
+        }
+    }
+}

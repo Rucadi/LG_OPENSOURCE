@@ -1,0 +1,307 @@
+{
+    "TV/AV>TV": {
+        "70UT8050PSB": {
+            "description": "webOS 24 KLPNN 1.0_2303",
+            "notice": [
+                {
+                    "osSeq": "511659",
+                    "model": "70UT8050PSB",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-6515_webOS 24 KLPNN_1.0_2303_240326.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "511659",
+                    "model": "70UT8050PSB",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS 24 KLPNN_1.0_2303_1.tar.gz"
+                },
+                {
+                    "osSeq": "511659",
+                    "model": "70UT8050PSB",
+                    "type": "Op",
+                    "fileId": "2",
+                    "filename": "webOS 24 KLPNN_1.0_2303_2.tar.gz"
+                },
+                {
+                    "osSeq": "511659",
+                    "model": "70UT8050PSB",
+                    "type": "Op",
+                    "fileId": "3",
+                    "filename": "webOS 24 KLPNN_1.0_2303_3.tar.gz"
+                }
+            ]
+        },
+        "70UT8300ENA": {
+            "description": "webOS 24 KLPNN 1.0_2303",
+            "notice": [
+                {
+                    "osSeq": "511659",
+                    "model": "70UT8300ENA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-6515_webOS 24 KLPNN_1.0_2303_240326.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "511659",
+                    "model": "70UT8300ENA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS 24 KLPNN_1.0_2303_1.tar.gz"
+                },
+                {
+                    "osSeq": "511659",
+                    "model": "70UT8300ENA",
+                    "type": "Op",
+                    "fileId": "2",
+                    "filename": "webOS 24 KLPNN_1.0_2303_2.tar.gz"
+                },
+                {
+                    "osSeq": "511659",
+                    "model": "70UT8300ENA",
+                    "type": "Op",
+                    "fileId": "3",
+                    "filename": "webOS 24 KLPNN_1.0_2303_3.tar.gz"
+                }
+            ]
+        },
+        "70UU640C-GB": {
+            "description": "webOS4.0_M16++_TV Signage",
+            "notice": [
+                {
+                    "osSeq": "508600",
+                    "model": "70UU640C-GB",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-1073_webOS4.0_M16++_TV Signage_180604.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "508600",
+                    "model": "70UU640C-GB",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS4.0_M16++_TV Signage.zip"
+                }
+            ]
+        },
+        "70UU640C-TB": {
+            "description": "webOS4.0_M16++_TV Signage",
+            "notice": [
+                {
+                    "osSeq": "508600",
+                    "model": "70UU640C-TB",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-1073_webOS4.0_M16++_TV Signage_180604.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "508600",
+                    "model": "70UU640C-TB",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS4.0_M16++_TV Signage.zip"
+                }
+            ]
+        },
+        "70UU640C-ZB": {
+            "description": "webOS4.0_M16++_TV Signage",
+            "notice": [
+                {
+                    "osSeq": "508600",
+                    "model": "70UU640C-ZB",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-1073_webOS4.0_M16++_TV Signage_180604.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "508600",
+                    "model": "70UU640C-ZB",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS4.0_M16++_TV Signage.zip"
+                }
+            ]
+        },
+        "70UW340C-CB": {
+            "description": "webOS3.0_M16_CommercialTV_2",
+            "notice": [
+                {
+                    "osSeq": "507303",
+                    "model": "70UW340C-CB",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-160404-webOS3.0M16CommercialTV-2.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "507303",
+                    "model": "70UW340C-CB",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS3.0_M16_CTV_OpenSource_V1.0_2.zip"
+                }
+            ]
+        },
+        "70UW340C-UB": {
+            "description": "L15_M1A_Commercial TV Open Source",
+            "notice": [
+                {
+                    "osSeq": "506326",
+                    "model": "70UW340C-UB",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-150126-L15_M1A_CommercialTV-2.pdf"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "506326",
+                    "model": "70UW340C-UB",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "L15_M1A_Commercial_Signage_Opensource_v1.0.zip"
+                }
+            ]
+        },
+        "70UW340C-UF": {
+            "description": "L15_M1A_Commercial TV Open Source",
+            "notice": [
+                {
+                    "osSeq": "506326",
+                    "model": "70UW340C-UF",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-150126-L15_M1A_CommercialTV-2.pdf"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "506326",
+                    "model": "70UW340C-UF",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "L15_M1A_Commercial_Signage_Opensource_v1.0.zip"
+                }
+            ]
+        }
+    },
+    "TV/AV>Monitor/Signage": {
+        "72WS70MS-B": {
+            "description": "Signage_vs20 Series",
+            "notice": [
+                {
+                    "osSeq": "12680",
+                    "model": "72WS70MS-B",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-140731-Signage_vs20Series-1.pdf"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "12680",
+                    "model": "72WS70MS-B",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "Signage_vs20Series_OpenSource_v1.0.zip"
+                }
+            ]
+        },
+        "72WS70MS-BL": {
+            "description": "Signage_vs20 Series",
+            "notice": [
+                {
+                    "osSeq": "12680",
+                    "model": "72WS70MS-BL",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-140731-Signage_vs20Series-1.pdf"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "12680",
+                    "model": "72WS70MS-BL",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "Signage_vs20Series_OpenSource_v1.0.zip"
+                }
+            ]
+        },
+        "72WX70MF-BL": {
+            "description": "Signage_vs20 Series",
+            "notice": [
+                {
+                    "osSeq": "12680",
+                    "model": "72WX70MF-BL",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-140731-Signage_vs20Series-1.pdf"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "12680",
+                    "model": "72WX70MF-BL",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "Signage_vs20Series_OpenSource_v1.0.zip"
+                }
+            ]
+        },
+        "72WX70MF-DL": {
+            "description": "Signage_vs20 Series",
+            "notice": [
+                {
+                    "osSeq": "12680",
+                    "model": "72WX70MF-DL",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-140731-Signage_vs20Series-1.pdf"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "12680",
+                    "model": "72WX70MF-DL",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "Signage_vs20Series_OpenSource_v1.0.zip"
+                }
+            ]
+        },
+        "75CT5WK-BJ": {
+            "description": "webOS4.0+_M16++_Signage MR",
+            "notice": [
+                {
+                    "osSeq": "510084",
+                    "model": "75CT5WK-BJ",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-3048_webOS4.0+_M16++_Signage_MR_200924.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "510084",
+                    "model": "75CT5WK-BJ",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS4.0+_M16++_Signage_MR.zip"
+                }
+            ]
+        }
+    }
+}

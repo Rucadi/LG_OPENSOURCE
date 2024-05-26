@@ -1,0 +1,166 @@
+{
+    "TV/AV>TV": {
+        "75UW341C-ZA": {
+            "description": "webOS3.0_M16_CommercialTV_2",
+            "notice": [
+                {
+                    "osSeq": "507303",
+                    "model": "75UW341C-ZA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-160404-webOS3.0M16CommercialTV-2.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "507303",
+                    "model": "75UW341C-ZA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS3.0_M16_CTV_OpenSource_V1.0_2.zip"
+                }
+            ]
+        },
+        "75UW341C-ZC": {
+            "description": "webOS3.0_M16_CommercialTV_2",
+            "notice": [
+                {
+                    "osSeq": "507303",
+                    "model": "75UW341C-ZC",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-160404-webOS3.0M16CommercialTV-2.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "507303",
+                    "model": "75UW341C-ZC",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS3.0_M16_CTV_OpenSource_V1.0_2.zip"
+                }
+            ]
+        },
+        "75UW961H-TA": {
+            "description": "webOS3.0_M16_CommercialTV_2",
+            "notice": [
+                {
+                    "osSeq": "507303",
+                    "model": "75UW961H-TA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-160404-webOS3.0M16CommercialTV-2.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "507303",
+                    "model": "75UW961H-TA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS3.0_M16_CTV_OpenSource_V1.0_2.zip"
+                }
+            ]
+        },
+        "75UW970H-UB": {
+            "description": "webOS3.0_M16_CommercialTV",
+            "notice": [
+                {
+                    "osSeq": "508277",
+                    "model": "75UW970H-UB",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-785_webOS3.0_M16_CommercialTV_171126.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "508277",
+                    "model": "75UW970H-UB",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS3.0_M16_CommercialTV.zip"
+                }
+            ]
+        }
+    },
+    "TV/AV>Monitor/Signage": {
+        "75XE3C-BH": {
+            "description": "webOS3.0_M16_Signage_2",
+            "notice": [
+                {
+                    "osSeq": "507279",
+                    "model": "75XE3C-BH",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-170214-webOS3.0M16Signage-5.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "507279",
+                    "model": "75XE3C-BH",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS3.2_3.0_M16_Signage_OpenSource_V1.0_2.zip"
+                }
+            ]
+        },
+        "75XE3E-WOG": {
+            "description": "webOS3.0_M16_Signage_2",
+            "notice": [
+                {
+                    "osSeq": "507279",
+                    "model": "75XE3E-WOG",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-170214-webOS3.0M16Signage-5.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "507279",
+                    "model": "75XE3E-WOG",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS3.2_3.0_M16_Signage_OpenSource_V1.0_2.zip"
+                }
+            ]
+        },
+        "75XF3C-BH": {
+            "description": "webOS3.0_M16_Signage_2",
+            "notice": [
+                {
+                    "osSeq": "507279",
+                    "model": "75XF3C-BH",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-170214-webOS3.0M16Signage-5.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "507279",
+                    "model": "75XF3C-BH",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS3.2_3.0_M16_Signage_OpenSource_V1.0_2.zip"
+                }
+            ]
+        },
+        "75XF3ES-BH": {
+            "description": "SCAP API 1.4",
+            "notice": [
+                {
+                    "osSeq": "507282",
+                    "model": "75XF3ES-BH",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-160513-SCAPAPI-1.html"
+                }
+            ],
+            "source": []
+        }
+    }
+}

@@ -1,0 +1,209 @@
+{
+    "TV/AV>TV": {
+        "55SK9600KNA": {
+            "description": "webOS 4.5 IMP 4.0",
+            "notice": [
+                {
+                    "osSeq": "510773",
+                    "model": "55SK9600KNA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-4152_webOS 4.5 IMP_4.0_220113.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "510773",
+                    "model": "55SK9600KNA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS 4.5 IMP_4.0_1.tar.gz"
+                },
+                {
+                    "osSeq": "510773",
+                    "model": "55SK9600KNA",
+                    "type": "Op",
+                    "fileId": "2",
+                    "filename": "webOS 4.5 IMP_4.0_2.tar.gz"
+                }
+            ]
+        },
+        "55SK9900KNA": {
+            "description": "webOS 4.5 IMP 4.0",
+            "notice": [
+                {
+                    "osSeq": "510773",
+                    "model": "55SK9900KNA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-4152_webOS 4.5 IMP_4.0_220113.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "510773",
+                    "model": "55SK9900KNA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS 4.5 IMP_4.0_1.tar.gz"
+                },
+                {
+                    "osSeq": "510773",
+                    "model": "55SK9900KNA",
+                    "type": "Op",
+                    "fileId": "2",
+                    "filename": "webOS 4.5 IMP_4.0_2.tar.gz"
+                }
+            ]
+        }
+    },
+    "TV/AV>Monitor/Signage": {
+        "55SL5B-B": {
+            "description": "L15_M1A_Signage Open Source",
+            "notice": [
+                {
+                    "osSeq": "506463",
+                    "model": "55SL5B-B",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-150128-L15_M1A_Signage-2.pdf"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "506463",
+                    "model": "55SL5B-B",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "L15_M1A_Commercial_Signage_Opensource_v1.1.zip"
+                }
+            ]
+        },
+        "55SL5B-BE": {
+            "description": "L15_M1A_Signage Open Source",
+            "notice": [
+                {
+                    "osSeq": "506463",
+                    "model": "55SL5B-BE",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-150128-L15_M1A_Signage-2.pdf"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "506463",
+                    "model": "55SL5B-BE",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "L15_M1A_Commercial_Signage_Opensource_v1.1.zip"
+                }
+            ]
+        },
+        "55SL5E-HK": {
+            "description": "L18/L19 M1A Signage",
+            "notice": [
+                {
+                    "osSeq": "508319",
+                    "model": "55SL5E-HK",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-820_L18 M1A Signage_171220.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "508319",
+                    "model": "55SL5E-HK",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "L18 M1A Signage.zip"
+                }
+            ]
+        },
+        "55SL5KC-BE": {
+            "description": "L15_M1A_Signage Open Source",
+            "notice": [
+                {
+                    "osSeq": "506463",
+                    "model": "55SL5KC-BE",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-150128-L15_M1A_Signage-2.pdf"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "506463",
+                    "model": "55SL5KC-BE",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "L15_M1A_Commercial_Signage_Opensource_v1.1.zip"
+                }
+            ]
+        },
+        "55SL5PE-HK": {
+            "description": "L18/L19 M1A Signage",
+            "notice": [
+                {
+                    "osSeq": "508319",
+                    "model": "55SL5PE-HK",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-820_L18 M1A Signage_171220.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "508319",
+                    "model": "55SL5PE-HK",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "L18 M1A Signage.zip"
+                }
+            ]
+        },
+        "55SM3B-B": {
+            "description": "webOS2.0_LM15U_Signage_2",
+            "notice": [
+                {
+                    "osSeq": "506465",
+                    "model": "55SM3B-B",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-151022-LM15U_Signage-4.pdf"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "506465",
+                    "model": "55SM3B-B",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS_Commercial_Signage_OpenSource_version1.0.1_2.zip"
+                }
+            ]
+        },
+        "55SM3B-BD": {
+            "description": "webOS2.0_LM15U_Signage_1",
+            "notice": [
+                {
+                    "osSeq": "506464",
+                    "model": "55SM3B-BD",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-151022-LM15U_Signage-4.pdf"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "506464",
+                    "model": "55SM3B-BD",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS_Commercial_Signage_OpenSource_version1.0.1_1.zip"
+                }
+            ]
+        }
+    }
+}

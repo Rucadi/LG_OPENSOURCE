@@ -1,0 +1,130 @@
+{
+    "TV/AV>TV": {
+        "49LK5400PDA": {
+            "description": "webOS GM LGE TV Open Source",
+            "notice": [
+                {
+                    "osSeq": "508339",
+                    "model": "49LK5400PDA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-767_webOS_4.0_GM_20171027100707.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "508339",
+                    "model": "49LK5400PDA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "DM2-r3173.tar.gz"
+                }
+            ]
+        },
+        "49LK5400PLA": {
+            "description": "webOS GM LGE TV Open Source",
+            "notice": [
+                {
+                    "osSeq": "508339",
+                    "model": "49LK5400PLA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-767_webOS_4.0_GM_20171027100707.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "508339",
+                    "model": "49LK5400PLA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "DM2-r3173.tar.gz"
+                }
+            ]
+        },
+        "49LK5400PSA": {
+            "description": "webOS GM LGE TV Open Source",
+            "notice": [
+                {
+                    "osSeq": "508339",
+                    "model": "49LK5400PSA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-767_webOS_4.0_GM_20171027100707.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "508339",
+                    "model": "49LK5400PSA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "DM2-r3173.tar.gz"
+                }
+            ]
+        },
+        "49LK5400PTA": {
+            "description": "webOS GM LGE TV Open Source",
+            "notice": [
+                {
+                    "osSeq": "508339",
+                    "model": "49LK5400PTA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-767_webOS_4.0_GM_20171027100707.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "508339",
+                    "model": "49LK5400PTA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "DM2-r3173.tar.gz"
+                }
+            ]
+        },
+        "49LK5400PUA": {
+            "description": "webOS GM LGE TV Open Source",
+            "notice": [
+                {
+                    "osSeq": "508339",
+                    "model": "49LK5400PUA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-767_webOS_4.0_GM_20171027100707.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "508339",
+                    "model": "49LK5400PUA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "DM2-r3173.tar.gz"
+                }
+            ]
+        },
+        "49LK5400YTA": {
+            "description": "webOS 4.0 GM 3.0",
+            "notice": [
+                {
+                    "osSeq": "510771",
+                    "model": "49LK5400YTA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-4061_webOS 4.0 GM_3.0_220113.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "510771",
+                    "model": "49LK5400YTA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS 4.0 GM_3.0.tar.gz"
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,403 @@
+{
+    "TV/AV>TV": {
+        "75UN8100PTB": {
+            "description": "webOS 5.0 JKHP 2.0",
+            "notice": [
+                {
+                    "osSeq": "510776",
+                    "model": "75UN8100PTB",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-3913_webOS 5.0 JKHP_2.0_220114.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "510776",
+                    "model": "75UN8100PTB",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS 5.0 JKHP_2.0_1.tar.gz"
+                },
+                {
+                    "osSeq": "510776",
+                    "model": "75UN8100PTB",
+                    "type": "Op",
+                    "fileId": "2",
+                    "filename": "webOS 5.0 JKHP_2.0_2.tar.gz"
+                }
+            ]
+        },
+        "75UN8100PWB": {
+            "description": "webOS 5.0 JKHP 2.0",
+            "notice": [
+                {
+                    "osSeq": "510776",
+                    "model": "75UN8100PWB",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-3913_webOS 5.0 JKHP_2.0_220114.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "510776",
+                    "model": "75UN8100PWB",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS 5.0 JKHP_2.0_1.tar.gz"
+                },
+                {
+                    "osSeq": "510776",
+                    "model": "75UN8100PWB",
+                    "type": "Op",
+                    "fileId": "2",
+                    "filename": "webOS 5.0 JKHP_2.0_2.tar.gz"
+                }
+            ]
+        },
+        "75UN85003LA": {
+            "description": "webOS 5.0 JKHP 2.0",
+            "notice": [
+                {
+                    "osSeq": "510776",
+                    "model": "75UN85003LA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-3913_webOS 5.0 JKHP_2.0_220114.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "510776",
+                    "model": "75UN85003LA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS 5.0 JKHP_2.0_1.tar.gz"
+                },
+                {
+                    "osSeq": "510776",
+                    "model": "75UN85003LA",
+                    "type": "Op",
+                    "fileId": "2",
+                    "filename": "webOS 5.0 JKHP_2.0_2.tar.gz"
+                }
+            ]
+        },
+        "75UN85006LA": {
+            "description": "webOS 5.0 JKHP 2.0",
+            "notice": [
+                {
+                    "osSeq": "510776",
+                    "model": "75UN85006LA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-3913_webOS 5.0 JKHP_2.0_220114.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "510776",
+                    "model": "75UN85006LA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS 5.0 JKHP_2.0_1.tar.gz"
+                },
+                {
+                    "osSeq": "510776",
+                    "model": "75UN85006LA",
+                    "type": "Op",
+                    "fileId": "2",
+                    "filename": "webOS 5.0 JKHP_2.0_2.tar.gz"
+                }
+            ]
+        },
+        "75UN8570AUD": {
+            "description": "webOS 5.0 JKHP 2.0",
+            "notice": [
+                {
+                    "osSeq": "510776",
+                    "model": "75UN8570AUD",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-3913_webOS 5.0 JKHP_2.0_220114.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "510776",
+                    "model": "75UN8570AUD",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS 5.0 JKHP_2.0_1.tar.gz"
+                },
+                {
+                    "osSeq": "510776",
+                    "model": "75UN8570AUD",
+                    "type": "Op",
+                    "fileId": "2",
+                    "filename": "webOS 5.0 JKHP_2.0_2.tar.gz"
+                }
+            ]
+        },
+        "75UN8570PUC": {
+            "description": "webOS 5.0 JKHP 2.0",
+            "notice": [
+                {
+                    "osSeq": "510776",
+                    "model": "75UN8570PUC",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-3913_webOS 5.0 JKHP_2.0_220114.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "510776",
+                    "model": "75UN8570PUC",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS 5.0 JKHP_2.0_1.tar.gz"
+                },
+                {
+                    "osSeq": "510776",
+                    "model": "75UN8570PUC",
+                    "type": "Op",
+                    "fileId": "2",
+                    "filename": "webOS 5.0 JKHP_2.0_2.tar.gz"
+                }
+            ]
+        },
+        "75UN8670PTA": {
+            "description": "webOS 5.0 JKHP 2.0",
+            "notice": [
+                {
+                    "osSeq": "510776",
+                    "model": "75UN8670PTA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-3913_webOS 5.0 JKHP_2.0_220114.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "510776",
+                    "model": "75UN8670PTA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS 5.0 JKHP_2.0_1.tar.gz"
+                },
+                {
+                    "osSeq": "510776",
+                    "model": "75UN8670PTA",
+                    "type": "Op",
+                    "fileId": "2",
+                    "filename": "webOS 5.0 JKHP_2.0_2.tar.gz"
+                }
+            ]
+        },
+        "75UN9070AUD": {
+            "description": "webOS 5.0 JKHP 2.0",
+            "notice": [
+                {
+                    "osSeq": "510776",
+                    "model": "75UN9070AUD",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-3913_webOS 5.0 JKHP_2.0_220114.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "510776",
+                    "model": "75UN9070AUD",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS 5.0 JKHP_2.0_1.tar.gz"
+                },
+                {
+                    "osSeq": "510776",
+                    "model": "75UN9070AUD",
+                    "type": "Op",
+                    "fileId": "2",
+                    "filename": "webOS 5.0 JKHP_2.0_2.tar.gz"
+                }
+            ]
+        },
+        "75UP7070PUD": {
+            "description": "webOS 6.0 LMUA 1.0",
+            "notice": [
+                {
+                    "osSeq": "510685",
+                    "model": "75UP7070PUD",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-3037_webOS 6.0 LMUA_1.0_211116.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "510685",
+                    "model": "75UP7070PUD",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS 6.0 LMUA_1.0_1.tar.gz"
+                },
+                {
+                    "osSeq": "510685",
+                    "model": "75UP7070PUD",
+                    "type": "Op",
+                    "fileId": "2",
+                    "filename": "webOS 6.0 LMUA_1.0_2.tar.gz"
+                },
+                {
+                    "osSeq": "510685",
+                    "model": "75UP7070PUD",
+                    "type": "Op",
+                    "fileId": "3",
+                    "filename": "webOS 6.0 LMUA_1.0_3.tar.gz"
+                }
+            ]
+        },
+        "75UP7170ZUC": {
+            "description": "webOS 6.0 LMUA 1.0",
+            "notice": [
+                {
+                    "osSeq": "510685",
+                    "model": "75UP7170ZUC",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-3037_webOS 6.0 LMUA_1.0_211116.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "510685",
+                    "model": "75UP7170ZUC",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS 6.0 LMUA_1.0_1.tar.gz"
+                },
+                {
+                    "osSeq": "510685",
+                    "model": "75UP7170ZUC",
+                    "type": "Op",
+                    "fileId": "2",
+                    "filename": "webOS 6.0 LMUA_1.0_2.tar.gz"
+                },
+                {
+                    "osSeq": "510685",
+                    "model": "75UP7170ZUC",
+                    "type": "Op",
+                    "fileId": "3",
+                    "filename": "webOS 6.0 LMUA_1.0_3.tar.gz"
+                }
+            ]
+        },
+        "75UP7300PUC": {
+            "description": "webOS 6.0 KLP 1.0",
+            "notice": [
+                {
+                    "osSeq": "510320",
+                    "model": "75UP7300PUC",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-3253_webOS 6.0 KLP_1.0_210204.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "510320",
+                    "model": "75UP7300PUC",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS 6.0 KLP_1.0_1.tar.gz"
+                },
+                {
+                    "osSeq": "510320",
+                    "model": "75UP7300PUC",
+                    "type": "Op",
+                    "fileId": "2",
+                    "filename": "webOS 6.0 KLP_1.0_2.tar.gz"
+                },
+                {
+                    "osSeq": "510320",
+                    "model": "75UP7300PUC",
+                    "type": "Op",
+                    "fileId": "3",
+                    "filename": "webOS 6.0 KLP_1.0_3.tar.gz"
+                }
+            ]
+        },
+        "75UP74006LB": {
+            "description": "webOS 6.0 KLP 1.0",
+            "notice": [
+                {
+                    "osSeq": "510320",
+                    "model": "75UP74006LB",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-3253_webOS 6.0 KLP_1.0_210204.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "510320",
+                    "model": "75UP74006LB",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS 6.0 KLP_1.0_1.tar.gz"
+                },
+                {
+                    "osSeq": "510320",
+                    "model": "75UP74006LB",
+                    "type": "Op",
+                    "fileId": "2",
+                    "filename": "webOS 6.0 KLP_1.0_2.tar.gz"
+                },
+                {
+                    "osSeq": "510320",
+                    "model": "75UP74006LB",
+                    "type": "Op",
+                    "fileId": "3",
+                    "filename": "webOS 6.0 KLP_1.0_3.tar.gz"
+                }
+            ]
+        },
+        "75UP74009LB": {
+            "description": "webOS 6.0 KLP 1.0",
+            "notice": [
+                {
+                    "osSeq": "510320",
+                    "model": "75UP74009LB",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-3253_webOS 6.0 KLP_1.0_210204.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "510320",
+                    "model": "75UP74009LB",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS 6.0 KLP_1.0_1.tar.gz"
+                },
+                {
+                    "osSeq": "510320",
+                    "model": "75UP74009LB",
+                    "type": "Op",
+                    "fileId": "2",
+                    "filename": "webOS 6.0 KLP_1.0_2.tar.gz"
+                },
+                {
+                    "osSeq": "510320",
+                    "model": "75UP74009LB",
+                    "type": "Op",
+                    "fileId": "3",
+                    "filename": "webOS 6.0 KLP_1.0_3.tar.gz"
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,417 @@
+{
+    "TV/AV>TV": {
+        "43LQ63006LA": {
+            "description": "webOS 22 KAP 2.0",
+            "notice": [
+                {
+                    "osSeq": "511327",
+                    "model": "43LQ63006LA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-5242_webOS 22 KAP_2.0_230321.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "511327",
+                    "model": "43LQ63006LA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS 22 KAP_2.0_1.tar.gz"
+                },
+                {
+                    "osSeq": "511327",
+                    "model": "43LQ63006LA",
+                    "type": "Op",
+                    "fileId": "2",
+                    "filename": "webOS 22 KAP_2.0_2.tar.gz"
+                }
+            ]
+        },
+        "43LQ6300PSA": {
+            "description": "webOS 22 KAP 2.0",
+            "notice": [
+                {
+                    "osSeq": "511327",
+                    "model": "43LQ6300PSA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-5242_webOS 22 KAP_2.0_230321.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "511327",
+                    "model": "43LQ6300PSA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS 22 KAP_2.0_1.tar.gz"
+                },
+                {
+                    "osSeq": "511327",
+                    "model": "43LQ6300PSA",
+                    "type": "Op",
+                    "fileId": "2",
+                    "filename": "webOS 22 KAP_2.0_2.tar.gz"
+                }
+            ]
+        },
+        "43LQ6350KNA": {
+            "description": "webOS 22 KAP 2.0",
+            "notice": [
+                {
+                    "osSeq": "511327",
+                    "model": "43LQ6350KNA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-5242_webOS 22 KAP_2.0_230321.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "511327",
+                    "model": "43LQ6350KNA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS 22 KAP_2.0_1.tar.gz"
+                },
+                {
+                    "osSeq": "511327",
+                    "model": "43LQ6350KNA",
+                    "type": "Op",
+                    "fileId": "2",
+                    "filename": "webOS 22 KAP_2.0_2.tar.gz"
+                }
+            ]
+        },
+        "43LR6700PSA": {
+            "description": "webOS 23 KKF 1.0",
+            "notice": [
+                {
+                    "osSeq": "511411",
+                    "model": "43LR6700PSA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-5431_webOS 23 KKF_1.0_230626.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "511411",
+                    "model": "43LR6700PSA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS 23 KKF_1.0_1.tar.gz"
+                },
+                {
+                    "osSeq": "511411",
+                    "model": "43LR6700PSA",
+                    "type": "Op",
+                    "fileId": "2",
+                    "filename": "webOS 23 KKF_1.0_2.tar.gz"
+                },
+                {
+                    "osSeq": "511411",
+                    "model": "43LR6700PSA",
+                    "type": "Op",
+                    "fileId": "3",
+                    "filename": "webOS 23 KKF_1.0_3.tar.gz"
+                }
+            ]
+        },
+        "43LT340C0CB": {
+            "description": "L18/L19 M1A CommercialTV",
+            "notice": [
+                {
+                    "osSeq": "508421",
+                    "model": "43LT340C0CB",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-915_L18 M1A CommercialTV_180213.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "508421",
+                    "model": "43LT340C0CB",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "L18 M1A CommercialTV.zip"
+                }
+            ]
+        },
+        "43LT340C0DB": {
+            "description": "L18/L19 M1A CommercialTV",
+            "notice": [
+                {
+                    "osSeq": "508421",
+                    "model": "43LT340C0DB",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-915_L18 M1A CommercialTV_180213.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "508421",
+                    "model": "43LT340C0DB",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "L18 M1A CommercialTV.zip"
+                }
+            ]
+        },
+        "43LT340C0GB": {
+            "description": "L18/L19 M1A CommercialTV",
+            "notice": [
+                {
+                    "osSeq": "508421",
+                    "model": "43LT340C0GB",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-915_L18 M1A CommercialTV_180213.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "508421",
+                    "model": "43LT340C0GB",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "L18 M1A CommercialTV.zip"
+                }
+            ]
+        },
+        "43LT340C0SA": {
+            "description": "L18/L19 M1A CommercialTV",
+            "notice": [
+                {
+                    "osSeq": "508421",
+                    "model": "43LT340C0SA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-915_L18 M1A CommercialTV_180213.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "508421",
+                    "model": "43LT340C0SA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "L18 M1A CommercialTV.zip"
+                }
+            ]
+        },
+        "43LT340C0TB": {
+            "description": "L18/L19 M1A CommercialTV",
+            "notice": [
+                {
+                    "osSeq": "508421",
+                    "model": "43LT340C0TB",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-915_L18 M1A CommercialTV_180213.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "508421",
+                    "model": "43LT340C0TB",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "L18 M1A CommercialTV.zip"
+                }
+            ]
+        },
+        "43LT340C0UB": {
+            "description": "L18/L19 M1A CommercialTV",
+            "notice": [
+                {
+                    "osSeq": "508421",
+                    "model": "43LT340C0UB",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-915_L18 M1A CommercialTV_180213.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "508421",
+                    "model": "43LT340C0UB",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "L18 M1A CommercialTV.zip"
+                }
+            ]
+        },
+        "43LT340C0ZB": {
+            "description": "L18/L19 M1A CommercialTV",
+            "notice": [
+                {
+                    "osSeq": "508421",
+                    "model": "43LT340C0ZB",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-915_L18 M1A CommercialTV_180213.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "508421",
+                    "model": "43LT340C0ZB",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "L18 M1A CommercialTV.zip"
+                }
+            ]
+        },
+        "43LT340C3ZB": {
+            "description": "L18/L19 M1A CommercialTV",
+            "notice": [
+                {
+                    "osSeq": "508421",
+                    "model": "43LT340C3ZB",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-915_L18 M1A CommercialTV_180213.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "508421",
+                    "model": "43LT340C3ZB",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "L18 M1A CommercialTV.zip"
+                }
+            ]
+        },
+        "43LT340C9CB": {
+            "description": "L18/L19 M1A CommercialTV",
+            "notice": [
+                {
+                    "osSeq": "508421",
+                    "model": "43LT340C9CB",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-915_L18 M1A CommercialTV_180213.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "508421",
+                    "model": "43LT340C9CB",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "L18 M1A CommercialTV.zip"
+                }
+            ]
+        },
+        "43LT340C9DB": {
+            "description": "L18/L19 M1A CommercialTV",
+            "notice": [
+                {
+                    "osSeq": "508421",
+                    "model": "43LT340C9DB",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-915_L18 M1A CommercialTV_180213.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "508421",
+                    "model": "43LT340C9DB",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "L18 M1A CommercialTV.zip"
+                }
+            ]
+        },
+        "43LT340C9TB": {
+            "description": "L18/L19 M1A CommercialTV",
+            "notice": [
+                {
+                    "osSeq": "508421",
+                    "model": "43LT340C9TB",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-915_L18 M1A CommercialTV_180213.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "508421",
+                    "model": "43LT340C9TB",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "L18 M1A CommercialTV.zip"
+                }
+            ]
+        },
+        "43LT340C9UB": {
+            "description": "L18/L19 M1A CommercialTV",
+            "notice": [
+                {
+                    "osSeq": "508421",
+                    "model": "43LT340C9UB",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-915_L18 M1A CommercialTV_180213.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "508421",
+                    "model": "43LT340C9UB",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "L18 M1A CommercialTV.zip"
+                }
+            ]
+        },
+        "43LT340C9ZB": {
+            "description": "L18/L19 M1A CommercialTV",
+            "notice": [
+                {
+                    "osSeq": "508421",
+                    "model": "43LT340C9ZB",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-915_L18 M1A CommercialTV_180213.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "508421",
+                    "model": "43LT340C9ZB",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "L18 M1A CommercialTV.zip"
+                }
+            ]
+        },
+        "43LT340H0DB": {
+            "description": "L18/L19 M1A CommercialTV",
+            "notice": [
+                {
+                    "osSeq": "508421",
+                    "model": "43LT340H0DB",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-915_L18 M1A CommercialTV_180213.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "508421",
+                    "model": "43LT340H0DB",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "L18 M1A CommercialTV.zip"
+                }
+            ]
+        }
+    }
+}

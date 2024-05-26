@@ -1,0 +1,424 @@
+{
+    "TV/AV>TV": {
+        "55LH5750-DC": {
+            "description": "SSPM LGE Open Source",
+            "notice": [
+                {
+                    "osSeq": "507094",
+                    "model": "55LH5750-DC",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-160406-SSPM-4.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "507094",
+                    "model": "55LH5750-DC",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "SSPM-r3026.tar.gz"
+                }
+            ]
+        },
+        "55LH5750-SB": {
+            "description": "SSPM LGE Open Source",
+            "notice": [
+                {
+                    "osSeq": "507094",
+                    "model": "55LH5750-SB",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-160406-SSPM-4.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "507094",
+                    "model": "55LH5750-SB",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "SSPM-r3026.tar.gz"
+                }
+            ]
+        },
+        "55LH5750-SC": {
+            "description": "SSPM LGE Open Source",
+            "notice": [
+                {
+                    "osSeq": "507094",
+                    "model": "55LH5750-SC",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-160406-SSPM-4.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "507094",
+                    "model": "55LH5750-SC",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "SSPM-r3026.tar.gz"
+                }
+            ]
+        },
+        "55LH5750-UB": {
+            "description": "SSPM LGE Open Source",
+            "notice": [
+                {
+                    "osSeq": "507094",
+                    "model": "55LH5750-UB",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-160406-SSPM-4.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "507094",
+                    "model": "55LH5750-UB",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "SSPM-r3026.tar.gz"
+                }
+            ]
+        },
+        "55LH575A-UE": {
+            "description": "SSPM LGE Open Source",
+            "notice": [
+                {
+                    "osSeq": "507094",
+                    "model": "55LH575A-UE",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-160406-SSPM-4.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "507094",
+                    "model": "55LH575A-UE",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "SSPM-r3026.tar.gz"
+                }
+            ]
+        },
+        "55LH575T-DB": {
+            "description": "SSPM LGE Open Source",
+            "notice": [
+                {
+                    "osSeq": "507094",
+                    "model": "55LH575T-DB",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-160406-SSPM-4.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "507094",
+                    "model": "55LH575T-DB",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "SSPM-r3026.tar.gz"
+                }
+            ]
+        },
+        "55LH575T-DC": {
+            "description": "SSPM LGE Open Source",
+            "notice": [
+                {
+                    "osSeq": "507094",
+                    "model": "55LH575T-DC",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-160406-SSPM-4.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "507094",
+                    "model": "55LH575T-DC",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "SSPM-r3026.tar.gz"
+                }
+            ]
+        },
+        "55LH575T-TA": {
+            "description": "SSPM LGE Open Source",
+            "notice": [
+                {
+                    "osSeq": "507094",
+                    "model": "55LH575T-TA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-160406-SSPM-4.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "507094",
+                    "model": "55LH575T-TA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "SSPM-r3026.tar.gz"
+                }
+            ]
+        },
+        "55LH576T-TB": {
+            "description": "SSPM LGE Open Source",
+            "notice": [
+                {
+                    "osSeq": "507094",
+                    "model": "55LH576T-TB",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-160406-SSPM-4.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "507094",
+                    "model": "55LH576T-TB",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "SSPM-r3026.tar.gz"
+                }
+            ]
+        },
+        "55LH576V-TB": {
+            "description": "SSPM LGE Open Source",
+            "notice": [
+                {
+                    "osSeq": "507094",
+                    "model": "55LH576V-TB",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-160406-SSPM-4.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "507094",
+                    "model": "55LH576V-TB",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "SSPM-r3026.tar.gz"
+                }
+            ]
+        },
+        "55LH576Y-TB": {
+            "description": "SSPM LGE Open Source",
+            "notice": [
+                {
+                    "osSeq": "507094",
+                    "model": "55LH576Y-TB",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-160406-SSPM-4.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "507094",
+                    "model": "55LH576Y-TB",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "SSPM-r3026.tar.gz"
+                }
+            ]
+        },
+        "55LH5800-NA": {
+            "description": "L16 L LGE TV Open Source",
+            "notice": [
+                {
+                    "osSeq": "506981",
+                    "model": "55LH5800-NA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-151222-L16L-4.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "506981",
+                    "model": "55LH5800-NA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "L16L-r2907.tar.gz"
+                }
+            ]
+        },
+        "55LH5811-NB": {
+            "description": "L16 L LGE TV Open Source",
+            "notice": [
+                {
+                    "osSeq": "506981",
+                    "model": "55LH5811-NB",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-151222-L16L-4.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "506981",
+                    "model": "55LH5811-NB",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "L16L-r2907.tar.gz"
+                }
+            ]
+        },
+        "55LH5850-NB": {
+            "description": "L16 L LGE TV Open Source",
+            "notice": [
+                {
+                    "osSeq": "506981",
+                    "model": "55LH5850-NB",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-151222-L16L-4.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "506981",
+                    "model": "55LH5850-NB",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "L16L-r2907.tar.gz"
+                }
+            ]
+        },
+        "55LH585T-TA": {
+            "description": "webOS DM2 LGE Open Source",
+            "notice": [
+                {
+                    "osSeq": "507012",
+                    "model": "55LH585T-TA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-161108-webOSDM2-6.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "507012",
+                    "model": "55LH585T-TA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "DM2-r3173.tar.gz"
+                }
+            ]
+        },
+        "55LH585V-TA": {
+            "description": "webOS DM2 LGE Open Source",
+            "notice": [
+                {
+                    "osSeq": "507012",
+                    "model": "55LH585V-TA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-161108-webOSDM2-6.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "507012",
+                    "model": "55LH585V-TA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "DM2-r3173.tar.gz"
+                }
+            ]
+        },
+        "55LH585Y-TA": {
+            "description": "webOS DM2 LGE Open Source",
+            "notice": [
+                {
+                    "osSeq": "507012",
+                    "model": "55LH585Y-TA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-161108-webOSDM2-6.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "507012",
+                    "model": "55LH585Y-TA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "DM2-r3173.tar.gz"
+                }
+            ]
+        },
+        "55LH595T-TA": {
+            "description": "webOS DM2 LGE Open Source",
+            "notice": [
+                {
+                    "osSeq": "507012",
+                    "model": "55LH595T-TA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-161108-webOSDM2-6.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "507012",
+                    "model": "55LH595T-TA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "DM2-r3173.tar.gz"
+                }
+            ]
+        },
+        "55LH595V-TA": {
+            "description": "webOS DM2 LGE Open Source",
+            "notice": [
+                {
+                    "osSeq": "507012",
+                    "model": "55LH595V-TA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-161108-webOSDM2-6.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "507012",
+                    "model": "55LH595V-TA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "DM2-r3173.tar.gz"
+                }
+            ]
+        },
+        "55LH595Y-TA": {
+            "description": "webOS DM2 LGE Open Source",
+            "notice": [
+                {
+                    "osSeq": "507012",
+                    "model": "55LH595Y-TA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-161108-webOSDM2-6.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "507012",
+                    "model": "55LH595Y-TA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "DM2-r3173.tar.gz"
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,384 @@
+{
+    "TV/AV>Monitor/Signage": {
+        "55LV35A-5B": {
+            "description": "L14_M1A_Signage",
+            "notice": [
+                {
+                    "osSeq": "12880",
+                    "model": "55LV35A-5B",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-891_L14 M1A Signage_180122.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "12880",
+                    "model": "55LV35A-5B",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "L14 M1A Signage.zip"
+                }
+            ]
+        },
+        "55LV35A-5BC": {
+            "description": "L14_M1A_Signage",
+            "notice": [
+                {
+                    "osSeq": "12880",
+                    "model": "55LV35A-5BC",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-891_L14 M1A Signage_180122.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "12880",
+                    "model": "55LV35A-5BC",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "L14 M1A Signage.zip"
+                }
+            ]
+        },
+        "55LV75A-3BL": {
+            "description": "Signage_vs20 Series",
+            "notice": [
+                {
+                    "osSeq": "12680",
+                    "model": "55LV75A-3BL",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-140731-Signage_vs20Series-1.pdf"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "12680",
+                    "model": "55LV75A-3BL",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "Signage_vs20Series_OpenSource_v1.0.zip"
+                }
+            ]
+        },
+        "55LV75A-4BL": {
+            "description": "Signage_vs20 Series",
+            "notice": [
+                {
+                    "osSeq": "12680",
+                    "model": "55LV75A-4BL",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-140731-Signage_vs20Series-1.pdf"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "12680",
+                    "model": "55LV75A-4BL",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "Signage_vs20Series_OpenSource_v1.0.zip"
+                }
+            ]
+        },
+        "55LV75A-5BL": {
+            "description": "Signage_vs20 Series",
+            "notice": [
+                {
+                    "osSeq": "12680",
+                    "model": "55LV75A-5BL",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-140731-Signage_vs20Series-1.pdf"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "12680",
+                    "model": "55LV75A-5BL",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "Signage_vs20Series_OpenSource_v1.0.zip"
+                }
+            ]
+        }
+    },
+    "TV/AV>TV": {
+        "55LV540H-NB": {
+            "description": "L15_M1A_Commercial TV Open Source",
+            "notice": [
+                {
+                    "osSeq": "506326",
+                    "model": "55LV540H-NB",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-150126-L15_M1A_CommercialTV-2.pdf"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "506326",
+                    "model": "55LV540H-NB",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "L15_M1A_Commercial_Signage_Opensource_v1.0.zip"
+                }
+            ]
+        },
+        "55LV540H-SB": {
+            "description": "L15_M1A_Commercial TV Open Source",
+            "notice": [
+                {
+                    "osSeq": "506326",
+                    "model": "55LV540H-SB",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-150126-L15_M1A_CommercialTV-2.pdf"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "506326",
+                    "model": "55LV540H-SB",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "L15_M1A_Commercial_Signage_Opensource_v1.0.zip"
+                }
+            ]
+        },
+        "55LV541H-TA": {
+            "description": "L17_M1APR_Commercial TV",
+            "notice": [
+                {
+                    "osSeq": "507808",
+                    "model": "55LV541H-TA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-170317-L17_M1APR_CommercialTV-2.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "507808",
+                    "model": "55LV541H-TA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "L17_M1APR_CTV_OpenSource_V1.0.zip"
+                }
+            ]
+        },
+        "55LV541H-ZA": {
+            "description": "L17_M1APR_Commercial TV",
+            "notice": [
+                {
+                    "osSeq": "507808",
+                    "model": "55LV541H-ZA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-170317-L17_M1APR_CommercialTV-2.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "507808",
+                    "model": "55LV541H-ZA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "L17_M1APR_CTV_OpenSource_V1.0.zip"
+                }
+            ]
+        },
+        "55LV560H-UA": {
+            "description": "L15_M1A_Commercial TV Open Source",
+            "notice": [
+                {
+                    "osSeq": "506326",
+                    "model": "55LV560H-UA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-150126-L15_M1A_CommercialTV-2.pdf"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "506326",
+                    "model": "55LV560H-UA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "L15_M1A_Commercial_Signage_Opensource_v1.0.zip"
+                }
+            ]
+        },
+        "55LV570H-UA": {
+            "description": "L15_M1A_Commercial TV Open Source",
+            "notice": [
+                {
+                    "osSeq": "506326",
+                    "model": "55LV570H-UA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-150126-L15_M1A_CommercialTV-2.pdf"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "506326",
+                    "model": "55LV570H-UA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "L15_M1A_Commercial_Signage_Opensource_v1.0.zip"
+                }
+            ]
+        },
+        "55LV640S-DB": {
+            "description": "webOS3.5_M2R_CommercialTV",
+            "notice": [
+                {
+                    "osSeq": "507948",
+                    "model": "55LV640S-DB",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-593_webOS3.5 Commercial TV_170911.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "507948",
+                    "model": "55LV640S-DB",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS3.5_M2R_CTV_OpenSource_V1.1.zip"
+                }
+            ]
+        },
+        "55LV640S-GB": {
+            "description": "webOS3.5_M2R_CommercialTV",
+            "notice": [
+                {
+                    "osSeq": "507948",
+                    "model": "55LV640S-GB",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-593_webOS3.5 Commercial TV_170911.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "507948",
+                    "model": "55LV640S-GB",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS3.5_M2R_CTV_OpenSource_V1.1.zip"
+                }
+            ]
+        },
+        "55LV640S-SB": {
+            "description": "webOS3.5_M2R_CommercialTV",
+            "notice": [
+                {
+                    "osSeq": "507948",
+                    "model": "55LV640S-SB",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-593_webOS3.5 Commercial TV_170911.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "507948",
+                    "model": "55LV640S-SB",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS3.5_M2R_CTV_OpenSource_V1.1.zip"
+                }
+            ]
+        },
+        "55LV640S-TB": {
+            "description": "webOS3.5_M2R_CommercialTV",
+            "notice": [
+                {
+                    "osSeq": "507948",
+                    "model": "55LV640S-TB",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-593_webOS3.5 Commercial TV_170911.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "507948",
+                    "model": "55LV640S-TB",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS3.5_M2R_CTV_OpenSource_V1.1.zip"
+                }
+            ]
+        },
+        "55LV640S-UB": {
+            "description": "webOS3.5_M2R_CommercialTV",
+            "notice": [
+                {
+                    "osSeq": "507948",
+                    "model": "55LV640S-UB",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-593_webOS3.5 Commercial TV_170911.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "507948",
+                    "model": "55LV640S-UB",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS3.5_M2R_CTV_OpenSource_V1.1.zip"
+                }
+            ]
+        },
+        "55LV640S-ZB": {
+            "description": "webOS3.5_M2R_CommercialTV",
+            "notice": [
+                {
+                    "osSeq": "507948",
+                    "model": "55LV640S-ZB",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-593_webOS3.5 Commercial TV_170911.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "507948",
+                    "model": "55LV640S-ZB",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS3.5_M2R_CTV_OpenSource_V1.1.zip"
+                }
+            ]
+        },
+        "55LV751H-GA": {
+            "description": "webOS3.0_M16_CommercialTV_2",
+            "notice": [
+                {
+                    "osSeq": "507303",
+                    "model": "55LV751H-GA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-160404-webOS3.0M16CommercialTV-2.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "507303",
+                    "model": "55LV751H-GA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS3.0_M16_CTV_OpenSource_V1.0_2.zip"
+                }
+            ]
+        }
+    }
+}

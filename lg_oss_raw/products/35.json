@@ -1,0 +1,416 @@
+{
+    "TV/AV>Monitor/Signage": {
+        "24QP88D-BY": {
+            "description": "M_Odinson_Leona2_Nxp",
+            "notice": [
+                {
+                    "osSeq": "509858",
+                    "model": "24QP88D-BY",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-862_18Y_M_Odinson_4K_200324.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "509858",
+                    "model": "24QP88D-BY",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "18Y_M_Odinson_4K.zip"
+                }
+            ]
+        },
+        "24SP410M-PM": {
+            "description": "M1A(14) Platform_12_20",
+            "notice": [
+                {
+                    "osSeq": "507527",
+                    "model": "24SP410M-PM",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "140306-L14_M1A_MTV_v0.2.pdf"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "507527",
+                    "model": "24SP410M-PM",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "20140602144029_5.0_L_CO_FI_2014_Monitor_v2_0.zip"
+                }
+            ]
+        },
+        "24TK410D-PN": {
+            "description": "18Y_M1A_Platform",
+            "notice": [
+                {
+                    "osSeq": "508366",
+                    "model": "24TK410D-PN",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-856_18Y_M1A_Platform_180115.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "508366",
+                    "model": "24TK410D-PN",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "18Y_M1A_Platform.zip"
+                }
+            ]
+        },
+        "24TK410D-PS": {
+            "description": "18Y_M1A_Platform",
+            "notice": [
+                {
+                    "osSeq": "508366",
+                    "model": "24TK410D-PS",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-856_18Y_M1A_Platform_180115.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "508366",
+                    "model": "24TK410D-PS",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "18Y_M1A_Platform.zip"
+                }
+            ]
+        },
+        "24TK410D-PZ": {
+            "description": "L18_M1AP_Platform",
+            "notice": [
+                {
+                    "osSeq": "508322",
+                    "model": "24TK410D-PZ",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-794_L18 LMAP_1.0_171107.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "508322",
+                    "model": "24TK410D-PZ",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "L18 LMAP_1.0.tar.gz"
+                }
+            ]
+        },
+        "24TK410U-PZ": {
+            "description": "L18_M1AP_Platform",
+            "notice": [
+                {
+                    "osSeq": "508322",
+                    "model": "24TK410U-PZ",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-794_L18 LMAP_1.0_171107.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "508322",
+                    "model": "24TK410U-PZ",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "L18 LMAP_1.0.tar.gz"
+                }
+            ]
+        },
+        "24TK410U-WZ": {
+            "description": "L18_M1AP_Platform",
+            "notice": [
+                {
+                    "osSeq": "508322",
+                    "model": "24TK410U-WZ",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-794_L18 LMAP_1.0_171107.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "508322",
+                    "model": "24TK410U-WZ",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "L18 LMAP_1.0.tar.gz"
+                }
+            ]
+        },
+        "24TK410V-PD": {
+            "description": "18Y_M1A_Platform",
+            "notice": [
+                {
+                    "osSeq": "508366",
+                    "model": "24TK410V-PD",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-856_18Y_M1A_Platform_180115.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "508366",
+                    "model": "24TK410V-PD",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "18Y_M1A_Platform.zip"
+                }
+            ]
+        },
+        "24TK410V-PT": {
+            "description": "L18_M1AP_Platform",
+            "notice": [
+                {
+                    "osSeq": "508322",
+                    "model": "24TK410V-PT",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-794_L18 LMAP_1.0_171107.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "508322",
+                    "model": "24TK410V-PT",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "L18 LMAP_1.0.tar.gz"
+                }
+            ]
+        },
+        "24TK410V-PZ": {
+            "description": "L18_M1AP_Platform",
+            "notice": [
+                {
+                    "osSeq": "508322",
+                    "model": "24TK410V-PZ",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-794_L18 LMAP_1.0_171107.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "508322",
+                    "model": "24TK410V-PZ",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "L18 LMAP_1.0.tar.gz"
+                }
+            ]
+        },
+        "24TK410V-WD": {
+            "description": "18Y_M1A_Platform",
+            "notice": [
+                {
+                    "osSeq": "508366",
+                    "model": "24TK410V-WD",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-856_18Y_M1A_Platform_180115.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "508366",
+                    "model": "24TK410V-WD",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "18Y_M1A_Platform.zip"
+                }
+            ]
+        },
+        "24TK410V-WZ": {
+            "description": "L18_M1AP_Platform",
+            "notice": [
+                {
+                    "osSeq": "508322",
+                    "model": "24TK410V-WZ",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-794_L18 LMAP_1.0_171107.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "508322",
+                    "model": "24TK410V-WZ",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "L18 LMAP_1.0.tar.gz"
+                }
+            ]
+        },
+        "24TK41EV-PZ": {
+            "description": "L18_M1AP_Platform",
+            "notice": [
+                {
+                    "osSeq": "508322",
+                    "model": "24TK41EV-PZ",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-794_L18 LMAP_1.0_171107.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "508322",
+                    "model": "24TK41EV-PZ",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "L18 LMAP_1.0.tar.gz"
+                }
+            ]
+        },
+        "24TK420S-PZ": {
+            "description": "webOS DMR LGE Open Source",
+            "notice": [
+                {
+                    "osSeq": "507697",
+                    "model": "24TK420S-PZ",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-161025-webOSDMR-1.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "507697",
+                    "model": "24TK420S-PZ",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "DM2-r3147.tar.gz"
+                }
+            ]
+        },
+        "24TK420V-PZ": {
+            "description": "L18_M1AP_Platform",
+            "notice": [
+                {
+                    "osSeq": "508322",
+                    "model": "24TK420V-PZ",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-794_L18 LMAP_1.0_171107.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "508322",
+                    "model": "24TK420V-PZ",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "L18 LMAP_1.0.tar.gz"
+                }
+            ]
+        },
+        "24TK425A-PT": {
+            "description": "M8RR(16)_Platform",
+            "notice": [
+                {
+                    "osSeq": "506971",
+                    "model": "24TK425A-PT",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-140522-M8RR_MTV-1.pdf"
+                }
+            ],
+            "source": []
+        },
+        "24TL510S-PZ": {
+            "description": "webOS DMR LGE Open Source",
+            "notice": [
+                {
+                    "osSeq": "507697",
+                    "model": "24TL510S-PZ",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-161025-webOSDMR-1.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "507697",
+                    "model": "24TL510S-PZ",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "DM2-r3147.tar.gz"
+                }
+            ]
+        },
+        "24TL510S-WZ": {
+            "description": "webOS DMR LGE Open Source",
+            "notice": [
+                {
+                    "osSeq": "507697",
+                    "model": "24TL510S-WZ",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-161025-webOSDMR-1.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "507697",
+                    "model": "24TL510S-WZ",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "DM2-r3147.tar.gz"
+                }
+            ]
+        },
+        "24TL510U-PZ": {
+            "description": "18Y_M1AP_Platform",
+            "notice": [
+                {
+                    "osSeq": "508429",
+                    "model": "24TL510U-PZ",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-861_18Y_M1AP_Platform_180115.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "508429",
+                    "model": "24TL510U-PZ",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "18Y_M1AP_Platform.tar.gz"
+                }
+            ]
+        },
+        "24TL510U-WZ": {
+            "description": "18Y_M1AP_Platform",
+            "notice": [
+                {
+                    "osSeq": "508429",
+                    "model": "24TL510U-WZ",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-861_18Y_M1AP_Platform_180115.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "508429",
+                    "model": "24TL510U-WZ",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "18Y_M1AP_Platform.tar.gz"
+                }
+            ]
+        }
+    }
+}

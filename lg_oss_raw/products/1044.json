@@ -1,0 +1,389 @@
+{
+    "TV/AV>TV": {
+        "75QNED80TSA": {
+            "description": "webOS 24 KLPNN 1.0_2303",
+            "notice": [
+                {
+                    "osSeq": "511659",
+                    "model": "75QNED80TSA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-6515_webOS 24 KLPNN_1.0_2303_240326.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "511659",
+                    "model": "75QNED80TSA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS 24 KLPNN_1.0_2303_1.tar.gz"
+                },
+                {
+                    "osSeq": "511659",
+                    "model": "75QNED80TSA",
+                    "type": "Op",
+                    "fileId": "2",
+                    "filename": "webOS 24 KLPNN_1.0_2303_2.tar.gz"
+                },
+                {
+                    "osSeq": "511659",
+                    "model": "75QNED80TSA",
+                    "type": "Op",
+                    "fileId": "3",
+                    "filename": "webOS 24 KLPNN_1.0_2303_3.tar.gz"
+                }
+            ]
+        },
+        "75QNED80TTA": {
+            "description": "webOS 24 KLPNN 1.0_2303",
+            "notice": [
+                {
+                    "osSeq": "511659",
+                    "model": "75QNED80TTA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-6515_webOS 24 KLPNN_1.0_2303_240326.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "511659",
+                    "model": "75QNED80TTA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS 24 KLPNN_1.0_2303_1.tar.gz"
+                },
+                {
+                    "osSeq": "511659",
+                    "model": "75QNED80TTA",
+                    "type": "Op",
+                    "fileId": "2",
+                    "filename": "webOS 24 KLPNN_1.0_2303_2.tar.gz"
+                },
+                {
+                    "osSeq": "511659",
+                    "model": "75QNED80TTA",
+                    "type": "Op",
+                    "fileId": "3",
+                    "filename": "webOS 24 KLPNN_1.0_2303_3.tar.gz"
+                }
+            ]
+        },
+        "75QNED80TUC": {
+            "description": "webOS 24 KLPNN 1.0_2303",
+            "notice": [
+                {
+                    "osSeq": "511659",
+                    "model": "75QNED80TUC",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-6515_webOS 24 KLPNN_1.0_2303_240326.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "511659",
+                    "model": "75QNED80TUC",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS 24 KLPNN_1.0_2303_1.tar.gz"
+                },
+                {
+                    "osSeq": "511659",
+                    "model": "75QNED80TUC",
+                    "type": "Op",
+                    "fileId": "2",
+                    "filename": "webOS 24 KLPNN_1.0_2303_2.tar.gz"
+                },
+                {
+                    "osSeq": "511659",
+                    "model": "75QNED80TUC",
+                    "type": "Op",
+                    "fileId": "3",
+                    "filename": "webOS 24 KLPNN_1.0_2303_3.tar.gz"
+                }
+            ]
+        },
+        "75QNED80UQA": {
+            "description": "webOS 22 KHP 2.0",
+            "notice": [
+                {
+                    "osSeq": "511326",
+                    "model": "75QNED80UQA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-5241_webOS 22 KHP_2.0_230321.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "511326",
+                    "model": "75QNED80UQA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS 22 KHP_2.0_1.tar.gz"
+                },
+                {
+                    "osSeq": "511326",
+                    "model": "75QNED80UQA",
+                    "type": "Op",
+                    "fileId": "2",
+                    "filename": "webOS 22 KHP_2.0_2.tar.gz"
+                }
+            ]
+        },
+        "75QNED80URA": {
+            "description": "webOS 23 KHP+ 1.0",
+            "notice": [
+                {
+                    "osSeq": "511215",
+                    "model": "75QNED80URA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-4668_webOS 23 KHP+_1.0_221220.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "511215",
+                    "model": "75QNED80URA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS 23 KHP+_1.0_1.tar.gz"
+                },
+                {
+                    "osSeq": "511215",
+                    "model": "75QNED80URA",
+                    "type": "Op",
+                    "fileId": "2",
+                    "filename": "webOS 23 KHP+_1.0_2.tar.gz"
+                },
+                {
+                    "osSeq": "511215",
+                    "model": "75QNED80URA",
+                    "type": "Op",
+                    "fileId": "3",
+                    "filename": "webOS 23 KHP+_1.0_3.tar.gz"
+                }
+            ]
+        },
+        "75QNED813QA": {
+            "description": "webOS 22 KHP 2.0",
+            "notice": [
+                {
+                    "osSeq": "511326",
+                    "model": "75QNED813QA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-5241_webOS 22 KHP_2.0_230321.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "511326",
+                    "model": "75QNED813QA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS 22 KHP_2.0_1.tar.gz"
+                },
+                {
+                    "osSeq": "511326",
+                    "model": "75QNED813QA",
+                    "type": "Op",
+                    "fileId": "2",
+                    "filename": "webOS 22 KHP_2.0_2.tar.gz"
+                }
+            ]
+        },
+        "75QNED813RE": {
+            "description": "webOS 23 KHP+ 1.0",
+            "notice": [
+                {
+                    "osSeq": "511215",
+                    "model": "75QNED813RE",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-4668_webOS 23 KHP+_1.0_221220.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "511215",
+                    "model": "75QNED813RE",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS 23 KHP+_1.0_1.tar.gz"
+                },
+                {
+                    "osSeq": "511215",
+                    "model": "75QNED813RE",
+                    "type": "Op",
+                    "fileId": "2",
+                    "filename": "webOS 23 KHP+_1.0_2.tar.gz"
+                },
+                {
+                    "osSeq": "511215",
+                    "model": "75QNED813RE",
+                    "type": "Op",
+                    "fileId": "3",
+                    "filename": "webOS 23 KHP+_1.0_3.tar.gz"
+                }
+            ]
+        },
+        "75QNED816QA": {
+            "description": "webOS 22 KHP 2.0",
+            "notice": [
+                {
+                    "osSeq": "511326",
+                    "model": "75QNED816QA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-5241_webOS 22 KHP_2.0_230321.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "511326",
+                    "model": "75QNED816QA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS 22 KHP_2.0_1.tar.gz"
+                },
+                {
+                    "osSeq": "511326",
+                    "model": "75QNED816QA",
+                    "type": "Op",
+                    "fileId": "2",
+                    "filename": "webOS 22 KHP_2.0_2.tar.gz"
+                }
+            ]
+        },
+        "75QNED816RA": {
+            "description": "webOS 23 KHP+ 1.0",
+            "notice": [
+                {
+                    "osSeq": "511215",
+                    "model": "75QNED816RA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-4668_webOS 23 KHP+_1.0_221220.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "511215",
+                    "model": "75QNED816RA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS 23 KHP+_1.0_1.tar.gz"
+                },
+                {
+                    "osSeq": "511215",
+                    "model": "75QNED816RA",
+                    "type": "Op",
+                    "fileId": "2",
+                    "filename": "webOS 23 KHP+_1.0_2.tar.gz"
+                },
+                {
+                    "osSeq": "511215",
+                    "model": "75QNED816RA",
+                    "type": "Op",
+                    "fileId": "3",
+                    "filename": "webOS 23 KHP+_1.0_3.tar.gz"
+                }
+            ]
+        },
+        "75QNED816RE": {
+            "description": "webOS 23 KHP+ 1.0",
+            "notice": [
+                {
+                    "osSeq": "511215",
+                    "model": "75QNED816RE",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-4668_webOS 23 KHP+_1.0_221220.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "511215",
+                    "model": "75QNED816RE",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS 23 KHP+_1.0_1.tar.gz"
+                },
+                {
+                    "osSeq": "511215",
+                    "model": "75QNED816RE",
+                    "type": "Op",
+                    "fileId": "2",
+                    "filename": "webOS 23 KHP+_1.0_2.tar.gz"
+                },
+                {
+                    "osSeq": "511215",
+                    "model": "75QNED816RE",
+                    "type": "Op",
+                    "fileId": "3",
+                    "filename": "webOS 23 KHP+_1.0_3.tar.gz"
+                }
+            ]
+        },
+        "75QNED819QA": {
+            "description": "webOS 22 KHP 2.0",
+            "notice": [
+                {
+                    "osSeq": "511326",
+                    "model": "75QNED819QA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-5241_webOS 22 KHP_2.0_230321.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "511326",
+                    "model": "75QNED819QA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS 22 KHP_2.0_1.tar.gz"
+                },
+                {
+                    "osSeq": "511326",
+                    "model": "75QNED819QA",
+                    "type": "Op",
+                    "fileId": "2",
+                    "filename": "webOS 22 KHP_2.0_2.tar.gz"
+                }
+            ]
+        },
+        "75QNED81CQA": {
+            "description": "webOS 22 KHP 2.0",
+            "notice": [
+                {
+                    "osSeq": "511326",
+                    "model": "75QNED81CQA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-5241_webOS 22 KHP_2.0_230321.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "511326",
+                    "model": "75QNED81CQA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS 22 KHP_2.0_1.tar.gz"
+                },
+                {
+                    "osSeq": "511326",
+                    "model": "75QNED81CQA",
+                    "type": "Op",
+                    "fileId": "2",
+                    "filename": "webOS 22 KHP_2.0_2.tar.gz"
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,319 @@
+{
+    "TV/AV>TV": {
+        "49LF590T-DC": {
+            "description": "webOS BLA5 LGE Open Source-Chromium Source",
+            "notice": [
+                {
+                    "osSeq": "506660",
+                    "model": "49LF590T-DC",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-150324-webOSBLA5-1.pdf"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "506660",
+                    "model": "49LF590T-DC",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS_BLA5_1.tar.gz"
+                }
+            ]
+        },
+        "49LF590T-TB": {
+            "description": "webOS BLA5 LGE Open Source-Chromium Source",
+            "notice": [
+                {
+                    "osSeq": "506660",
+                    "model": "49LF590T-TB",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-150324-webOSBLA5-1.pdf"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "506660",
+                    "model": "49LF590T-TB",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS_BLA5_1.tar.gz"
+                }
+            ]
+        },
+        "49LF590V-ZA": {
+            "description": "webOS BLA5 LGE Open Source-Chromium Source",
+            "notice": [
+                {
+                    "osSeq": "506660",
+                    "model": "49LF590V-ZA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-150324-webOSBLA5-1.pdf"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "506660",
+                    "model": "49LF590V-ZA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS_BLA5_1.tar.gz"
+                }
+            ]
+        },
+        "49LF590V-ZB": {
+            "description": "webOS BLA5 LGE Open Source-Chromium Source",
+            "notice": [
+                {
+                    "osSeq": "506660",
+                    "model": "49LF590V-ZB",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-150324-webOSBLA5-1.pdf"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "506660",
+                    "model": "49LF590V-ZB",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS_BLA5_1.tar.gz"
+                }
+            ]
+        },
+        "49LF590Y-TB": {
+            "description": "webOS BLA5 LGE Open Source-Chromium Source",
+            "notice": [
+                {
+                    "osSeq": "506660",
+                    "model": "49LF590Y-TB",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-150324-webOSBLA5-1.pdf"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "506660",
+                    "model": "49LF590Y-TB",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS_BLA5_1.tar.gz"
+                }
+            ]
+        },
+        "49LF6200-DD": {
+            "description": "L15 L LGE TV Open Source",
+            "notice": [
+                {
+                    "osSeq": "506657",
+                    "model": "49LF6200-DD",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-150304-L15L-1.pdf"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "506657",
+                    "model": "49LF6200-DD",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "L15_L_LGE_TV_OpenSource_v1.1.zip"
+                }
+            ]
+        },
+        "49LF6200-NC": {
+            "description": "L15 L LGE TV Open Source",
+            "notice": [
+                {
+                    "osSeq": "506657",
+                    "model": "49LF6200-NC",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-150304-L15L-1.pdf"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "506657",
+                    "model": "49LF6200-NC",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "L15_L_LGE_TV_OpenSource_v1.1.zip"
+                }
+            ]
+        },
+        "49LF6200-SD": {
+            "description": "L15 L LGE TV Open Source",
+            "notice": [
+                {
+                    "osSeq": "506657",
+                    "model": "49LF6200-SD",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-150304-L15L-1.pdf"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "506657",
+                    "model": "49LF6200-SD",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "L15_L_LGE_TV_OpenSource_v1.1.zip"
+                }
+            ]
+        },
+        "49LF6200-TB": {
+            "description": "L15 L LGE TV Open Source",
+            "notice": [
+                {
+                    "osSeq": "506657",
+                    "model": "49LF6200-TB",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-150304-L15L-1.pdf"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "506657",
+                    "model": "49LF6200-TB",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "L15_L_LGE_TV_OpenSource_v1.1.zip"
+                }
+            ]
+        },
+        "49LF620T-DD": {
+            "description": "L15 L LGE TV Open Source",
+            "notice": [
+                {
+                    "osSeq": "506657",
+                    "model": "49LF620T-DD",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-150304-L15L-1.pdf"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "506657",
+                    "model": "49LF620T-DD",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "L15_L_LGE_TV_OpenSource_v1.1.zip"
+                }
+            ]
+        },
+        "49LF620T-TB": {
+            "description": "L15 L LGE TV Open Source",
+            "notice": [
+                {
+                    "osSeq": "506657",
+                    "model": "49LF620T-TB",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-150304-L15L-1.pdf"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "506657",
+                    "model": "49LF620T-TB",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "L15_L_LGE_TV_OpenSource_v1.1.zip"
+                }
+            ]
+        },
+        "49LF620V-ZB": {
+            "description": "L15 L LGE TV Open Source",
+            "notice": [
+                {
+                    "osSeq": "506657",
+                    "model": "49LF620V-ZB",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-150304-L15L-1.pdf"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "506657",
+                    "model": "49LF620V-ZB",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "L15_L_LGE_TV_OpenSource_v1.1.zip"
+                }
+            ]
+        },
+        "49LF620Y-TB": {
+            "description": "L15 L LGE TV Open Source",
+            "notice": [
+                {
+                    "osSeq": "506657",
+                    "model": "49LF620Y-TB",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-150304-L15L-1.pdf"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "506657",
+                    "model": "49LF620Y-TB",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "L15_L_LGE_TV_OpenSource_v1.1.zip"
+                }
+            ]
+        },
+        "49LF6300-CA": {
+            "description": "webOS BM LGE Open Source-Chromium Source",
+            "notice": [
+                {
+                    "osSeq": "506623",
+                    "model": "49LF6300-CA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-150604-webOSBM-8.pdf"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "506623",
+                    "model": "49LF6300-CA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "Chromium.zip"
+                }
+            ]
+        },
+        "49LF6300-CB": {
+            "description": "webOS BM LGE Open Source",
+            "notice": [
+                {
+                    "osSeq": "506622",
+                    "model": "49LF6300-CB",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-150604-webOSBM-8.pdf"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "506622",
+                    "model": "49LF6300-CB",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS_BM_CO_FI_2.zip"
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,353 @@
+{
+    "TV/AV>TV": {
+        "43LU341H-ZA": {
+            "description": "L18/L19 M1A CommercialTV",
+            "notice": [
+                {
+                    "osSeq": "508421",
+                    "model": "43LU341H-ZA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-915_L18 M1A CommercialTV_180213.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "508421",
+                    "model": "43LU341H-ZA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "L18 M1A CommercialTV.zip"
+                }
+            ]
+        },
+        "43LU341H-ZB": {
+            "description": "L18/L19 M1A CommercialTV",
+            "notice": [
+                {
+                    "osSeq": "508421",
+                    "model": "43LU341H-ZB",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-915_L18 M1A CommercialTV_180213.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "508421",
+                    "model": "43LU341H-ZB",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "L18 M1A CommercialTV.zip"
+                }
+            ]
+        },
+        "43LU540H-TB": {
+            "description": "L18/L19 M1A CommercialTV",
+            "notice": [
+                {
+                    "osSeq": "508421",
+                    "model": "43LU540H-TB",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-915_L18 M1A CommercialTV_180213.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "508421",
+                    "model": "43LU540H-TB",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "L18 M1A CommercialTV.zip"
+                }
+            ]
+        },
+        "43LU640H-TD": {
+            "description": "webOS DMR LGE Open Source",
+            "notice": [
+                {
+                    "osSeq": "507689",
+                    "model": "43LU640H-TD",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-170601-webOSDMR-2.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "507689",
+                    "model": "43LU640H-TD",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "DMR-r3185.tar.gz"
+                }
+            ]
+        },
+        "43LU660H-SB": {
+            "description": "webOS3.5_M16+_CommercialTV",
+            "notice": [
+                {
+                    "osSeq": "507936",
+                    "model": "43LU660H-SB",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-537_webOS3.5 M16+ Commercial TV _170912.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "507936",
+                    "model": "43LU660H-SB",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS3.5_M16+_CTV_OpenSource_V1.1.zip"
+                }
+            ]
+        },
+        "43LU660H-TB": {
+            "description": "webOS3.5_M16+_CommercialTV",
+            "notice": [
+                {
+                    "osSeq": "507936",
+                    "model": "43LU660H-TB",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-537_webOS3.5 M16+ Commercial TV _170912.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "507936",
+                    "model": "43LU660H-TB",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS3.5_M16+_CTV_OpenSource_V1.1.zip"
+                }
+            ]
+        },
+        "43LU661H-GA": {
+            "description": "webOS3.5 M16+ Commercial TV MR",
+            "notice": [
+                {
+                    "osSeq": "508576",
+                    "model": "43LU661H-GA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-912_webOS3.5 M16+ Commercial TV_MR_180509.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "508576",
+                    "model": "43LU661H-GA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS3.5 M16+ Commercial TV_MR.zip"
+                }
+            ]
+        },
+        "43LU661H-ZA": {
+            "description": "webOS3.5 M16+ Commercial TV MR",
+            "notice": [
+                {
+                    "osSeq": "508576",
+                    "model": "43LU661H-ZA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-912_webOS3.5 M16+ Commercial TV_MR_180509.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "508576",
+                    "model": "43LU661H-ZA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS3.5 M16+ Commercial TV_MR.zip"
+                }
+            ]
+        },
+        "43LV300C-CA": {
+            "description": "L16 M1LC+ Derivation Commercial TV",
+            "notice": [
+                {
+                    "osSeq": "507054",
+                    "model": "43LV300C-CA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-151123-L16UMLC-1.pdf"
+                }
+            ],
+            "source": []
+        },
+        "43LV300C-GA": {
+            "description": "L15_M1A_Commercial TV Open Source",
+            "notice": [
+                {
+                    "osSeq": "506326",
+                    "model": "43LV300C-GA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-150126-L15_M1A_CommercialTV-2.pdf"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "506326",
+                    "model": "43LV300C-GA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "L15_M1A_Commercial_Signage_Opensource_v1.0.zip"
+                }
+            ]
+        },
+        "43LV300C-NA": {
+            "description": "L15_M1A_Commercial TV Open Source",
+            "notice": [
+                {
+                    "osSeq": "506326",
+                    "model": "43LV300C-NA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-150126-L15_M1A_CommercialTV-2.pdf"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "506326",
+                    "model": "43LV300C-NA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "L15_M1A_Commercial_Signage_Opensource_v1.0.zip"
+                }
+            ]
+        },
+        "43LV300C-SA": {
+            "description": "L15_M1A_Commercial TV Open Source",
+            "notice": [
+                {
+                    "osSeq": "506326",
+                    "model": "43LV300C-SA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-150126-L15_M1A_CommercialTV-2.pdf"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "506326",
+                    "model": "43LV300C-SA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "L15_M1A_Commercial_Signage_Opensource_v1.0.zip"
+                }
+            ]
+        },
+        "43LV300C-TA": {
+            "description": "L15_M1A_Commercial TV Open Source",
+            "notice": [
+                {
+                    "osSeq": "506326",
+                    "model": "43LV300C-TA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-150126-L15_M1A_CommercialTV-2.pdf"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "506326",
+                    "model": "43LV300C-TA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "L15_M1A_Commercial_Signage_Opensource_v1.0.zip"
+                }
+            ]
+        },
+        "43LV300C-UA": {
+            "description": "L15_M1A_Commercial TV Open Source",
+            "notice": [
+                {
+                    "osSeq": "506326",
+                    "model": "43LV300C-UA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-150126-L15_M1A_CommercialTV-2.pdf"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "506326",
+                    "model": "43LV300C-UA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "L15_M1A_Commercial_Signage_Opensource_v1.0.zip"
+                }
+            ]
+        },
+        "43LV300C-ZA": {
+            "description": "L15_M1A_Commercial TV Open Source",
+            "notice": [
+                {
+                    "osSeq": "506326",
+                    "model": "43LV300C-ZA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-150126-L15_M1A_CommercialTV-2.pdf"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "506326",
+                    "model": "43LV300C-ZA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "L15_M1A_Commercial_Signage_Opensource_v1.0.zip"
+                }
+            ]
+        },
+        "43LV303C-SA": {
+            "description": "L15_M1A_Commercial TV Open Source",
+            "notice": [
+                {
+                    "osSeq": "506326",
+                    "model": "43LV303C-SA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-150126-L15_M1A_CommercialTV-2.pdf"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "506326",
+                    "model": "43LV303C-SA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "L15_M1A_Commercial_Signage_Opensource_v1.0.zip"
+                }
+            ]
+        },
+        "43LV340C-CB": {
+            "description": "L15_M1A_Commercial TV Open Source",
+            "notice": [
+                {
+                    "osSeq": "506326",
+                    "model": "43LV340C-CB",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-150126-L15_M1A_CommercialTV-2.pdf"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "506326",
+                    "model": "43LV340C-CB",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "L15_M1A_Commercial_Signage_Opensource_v1.0.zip"
+                }
+            ]
+        }
+    }
+}

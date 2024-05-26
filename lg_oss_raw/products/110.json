@@ -1,0 +1,298 @@
+{
+    "TV/AV>TV": {
+        "32LM635BPTB": {
+            "description": "webOS 4.0 GM MR 2.0",
+            "notice": [
+                {
+                    "osSeq": "510799",
+                    "model": "32LM635BPTB",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-1060_webOS 4.0 GM MR_2.0_220207.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "510799",
+                    "model": "32LM635BPTB",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS 4.0 GM MR_2.0_1.tar.gz"
+                },
+                {
+                    "osSeq": "510799",
+                    "model": "32LM635BPTB",
+                    "type": "Op",
+                    "fileId": "2",
+                    "filename": "webOS 4.0 GM MR_2.0_2.zip"
+                }
+            ]
+        },
+        "32LM6360PTB": {
+            "description": "webOS 4.0 GM MR 2.0",
+            "notice": [
+                {
+                    "osSeq": "510799",
+                    "model": "32LM6360PTB",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-1060_webOS 4.0 GM MR_2.0_220207.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "510799",
+                    "model": "32LM6360PTB",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS 4.0 GM MR_2.0_1.tar.gz"
+                },
+                {
+                    "osSeq": "510799",
+                    "model": "32LM6360PTB",
+                    "type": "Op",
+                    "fileId": "2",
+                    "filename": "webOS 4.0 GM MR_2.0_2.zip"
+                }
+            ]
+        },
+        "32LM636BPTB": {
+            "description": "webOS 4.5 IMR 5.0",
+            "notice": [
+                {
+                    "osSeq": "510774",
+                    "model": "32LM636BPTB",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-4154_webOS 4.5 IMR_5.0_240319.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "510774",
+                    "model": "32LM636BPTB",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS 4.5 IMR_5.0_1.tar.gz"
+                },
+                {
+                    "osSeq": "510774",
+                    "model": "32LM636BPTB",
+                    "type": "Op",
+                    "fileId": "2",
+                    "filename": "webOS 4.5 IMR_5.0_2.tar.gz"
+                },
+                {
+                    "osSeq": "510774",
+                    "model": "32LM636BPTB",
+                    "type": "Op",
+                    "fileId": "3",
+                    "filename": "webOS 4.5 IMR_5.0_3.zip"
+                }
+            ]
+        },
+        "32LM6370PLA": {
+            "description": "webOS 4.5 IMR 5.0",
+            "notice": [
+                {
+                    "osSeq": "510774",
+                    "model": "32LM6370PLA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-4154_webOS 4.5 IMR_5.0_240319.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "510774",
+                    "model": "32LM6370PLA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS 4.5 IMR_5.0_1.tar.gz"
+                },
+                {
+                    "osSeq": "510774",
+                    "model": "32LM6370PLA",
+                    "type": "Op",
+                    "fileId": "2",
+                    "filename": "webOS 4.5 IMR_5.0_2.tar.gz"
+                },
+                {
+                    "osSeq": "510774",
+                    "model": "32LM6370PLA",
+                    "type": "Op",
+                    "fileId": "3",
+                    "filename": "webOS 4.5 IMR_5.0_3.zip"
+                }
+            ]
+        },
+        "32LM637BPDB": {
+            "description": "webOS 4.0 GM MR 2.0",
+            "notice": [
+                {
+                    "osSeq": "510799",
+                    "model": "32LM637BPDB",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-1060_webOS 4.0 GM MR_2.0_220207.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "510799",
+                    "model": "32LM637BPDB",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS 4.0 GM MR_2.0_1.tar.gz"
+                },
+                {
+                    "osSeq": "510799",
+                    "model": "32LM637BPDB",
+                    "type": "Op",
+                    "fileId": "2",
+                    "filename": "webOS 4.0 GM MR_2.0_2.zip"
+                }
+            ]
+        },
+        "32LM637BPLA": {
+            "description": "webOS 4.5 IMR 5.0",
+            "notice": [
+                {
+                    "osSeq": "510774",
+                    "model": "32LM637BPLA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-4154_webOS 4.5 IMR_5.0_240319.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "510774",
+                    "model": "32LM637BPLA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS 4.5 IMR_5.0_1.tar.gz"
+                },
+                {
+                    "osSeq": "510774",
+                    "model": "32LM637BPLA",
+                    "type": "Op",
+                    "fileId": "2",
+                    "filename": "webOS 4.5 IMR_5.0_2.tar.gz"
+                },
+                {
+                    "osSeq": "510774",
+                    "model": "32LM637BPLA",
+                    "type": "Op",
+                    "fileId": "3",
+                    "filename": "webOS 4.5 IMR_5.0_3.zip"
+                }
+            ]
+        },
+        "32LM637BPLB": {
+            "description": "webOS 4.0 GM MR 2.0",
+            "notice": [
+                {
+                    "osSeq": "510799",
+                    "model": "32LM637BPLB",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-1060_webOS 4.0 GM MR_2.0_220207.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "510799",
+                    "model": "32LM637BPLB",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS 4.0 GM MR_2.0_1.tar.gz"
+                },
+                {
+                    "osSeq": "510799",
+                    "model": "32LM637BPLB",
+                    "type": "Op",
+                    "fileId": "2",
+                    "filename": "webOS 4.0 GM MR_2.0_2.zip"
+                }
+            ]
+        },
+        "32LM637BPSB": {
+            "description": "webOS 4.0 GM MR 2.0",
+            "notice": [
+                {
+                    "osSeq": "510799",
+                    "model": "32LM637BPSB",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-1060_webOS 4.0 GM MR_2.0_220207.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "510799",
+                    "model": "32LM637BPSB",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS 4.0 GM MR_2.0_1.tar.gz"
+                },
+                {
+                    "osSeq": "510799",
+                    "model": "32LM637BPSB",
+                    "type": "Op",
+                    "fileId": "2",
+                    "filename": "webOS 4.0 GM MR_2.0_2.zip"
+                }
+            ]
+        },
+        "32LM637BPUB": {
+            "description": "webOS 4.0 GM MR 2.0",
+            "notice": [
+                {
+                    "osSeq": "510799",
+                    "model": "32LM637BPUB",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-1060_webOS 4.0 GM MR_2.0_220207.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "510799",
+                    "model": "32LM637BPUB",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS 4.0 GM MR_2.0_1.tar.gz"
+                },
+                {
+                    "osSeq": "510799",
+                    "model": "32LM637BPUB",
+                    "type": "Op",
+                    "fileId": "2",
+                    "filename": "webOS 4.0 GM MR_2.0_2.zip"
+                }
+            ]
+        },
+        "32LM637BPVA": {
+            "description": "webOS 4.0 GM 3.0",
+            "notice": [
+                {
+                    "osSeq": "510771",
+                    "model": "32LM637BPVA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-4061_webOS 4.0 GM_3.0_220113.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "510771",
+                    "model": "32LM637BPVA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS 4.0 GM_3.0.tar.gz"
+                }
+            ]
+        }
+    }
+}

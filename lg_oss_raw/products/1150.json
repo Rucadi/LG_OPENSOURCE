@@ -1,0 +1,203 @@
+{
+    "TV/AV>Monitor/Signage": {
+        "86TR3DK-BX": {
+            "description": "LG Createboard Lab - Windows MR2",
+            "notice": [
+                {
+                    "osSeq": "511561",
+                    "model": "86TR3DK-BX",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-6044_LG Createboard Lab - Windows_MR2_231204.html"
+                }
+            ],
+            "source": []
+        },
+        "86TR3DK-BY": {
+            "description": "LG Createboard Lab - Windows MR2",
+            "notice": [
+                {
+                    "osSeq": "511561",
+                    "model": "86TR3DK-BY",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-6044_LG Createboard Lab - Windows_MR2_231204.html"
+                }
+            ],
+            "source": []
+        },
+        "86TR3DK-IG": {
+            "description": "LG Createboard Lab - Windows MR2",
+            "notice": [
+                {
+                    "osSeq": "511561",
+                    "model": "86TR3DK-IG",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-6044_LG Createboard Lab - Windows_MR2_231204.html"
+                }
+            ],
+            "source": []
+        },
+        "86TR3DK-IX": {
+            "description": "Android Touch Signage 4",
+            "notice": [
+                {
+                    "osSeq": "511135",
+                    "model": "86TR3DK-IX",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-4892_Android Touch Signage_4_221017.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "511135",
+                    "model": "86TR3DK-IX",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "Android Touch Signage_4.zip"
+                }
+            ]
+        },
+        "86TR3DK-IY": {
+            "description": "Android Touch Signage 4",
+            "notice": [
+                {
+                    "osSeq": "511135",
+                    "model": "86TR3DK-IY",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-4892_Android Touch Signage_4_221017.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "511135",
+                    "model": "86TR3DK-IY",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "Android Touch Signage_4.zip"
+                }
+            ]
+        },
+        "86TR3E-BH": {
+            "description": "webOS3.2_M16_Signage_2",
+            "notice": [
+                {
+                    "osSeq": "507773",
+                    "model": "86TR3E-BH",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-171011-webOS3.2M16Signage-2.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "507773",
+                    "model": "86TR3E-BH",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS3.2_3.0_M16_Signage_OpenSource_V1.0_2.zip"
+                }
+            ]
+        },
+        "86TR3PJ-BG": {
+            "description": "Android Touch Signage 3",
+            "notice": [
+                {
+                    "osSeq": "510832",
+                    "model": "86TR3PJ-BG",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-3925_Android Touch Signage_3_220221.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "510832",
+                    "model": "86TR3PJ-BG",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "Android Touch Signage_3.zip"
+                }
+            ]
+        },
+        "86TR3PJ-IG": {
+            "description": "Android Touch Signage 3",
+            "notice": [
+                {
+                    "osSeq": "510832",
+                    "model": "86TR3PJ-IG",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-3925_Android Touch Signage_3_220221.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "510832",
+                    "model": "86TR3PJ-IG",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "Android Touch Signage_3.zip"
+                }
+            ]
+        },
+        "86TR3PN-BG": {
+            "description": "Android Touch Signage 5",
+            "notice": [
+                {
+                    "osSeq": "511677",
+                    "model": "86TR3PN-BG",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-6517_Android Touch Signage_5_240405.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "511677",
+                    "model": "86TR3PN-BG",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "Android Touch Signage_5.zip"
+                }
+            ]
+        },
+        "86UH5C-BF": {
+            "description": "webOS2.0_H15_Signage_SCAP1.3",
+            "notice": [
+                {
+                    "osSeq": "507128",
+                    "model": "86UH5C-BF",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-160125-SCAP1.3-1.html"
+                }
+            ],
+            "source": []
+        },
+        "86UH5D-BF": {
+            "description": "webOS2.0_H15_Signage_1",
+            "notice": [
+                {
+                    "osSeq": "507048",
+                    "model": "86UH5D-BF",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-160111-webOS2.0H15Signage-1.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "507048",
+                    "model": "86UH5D-BF",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS_H15_Signage_OpenSource_V1.0_1.zip"
+                }
+            ]
+        }
+    }
+}

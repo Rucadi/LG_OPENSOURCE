@@ -1,0 +1,417 @@
+{
+    "TV/AV>Monitor/Signage": {
+        "32TA3E-BH": {
+            "description": "webOS3.2_M16_Signage_2",
+            "notice": [
+                {
+                    "osSeq": "507773",
+                    "model": "32TA3E-BH",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-171011-webOS3.2M16Signage-2.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "507773",
+                    "model": "32TA3E-BH",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS3.2_3.0_M16_Signage_OpenSource_V1.0_2.zip"
+                }
+            ]
+        },
+        "32TK42GH-PN": {
+            "description": "18Y_M1A_Platform (TV) Open Source",
+            "notice": [
+                {
+                    "osSeq": "508640",
+                    "model": "32TK42GH-PN",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-1127_18Y_M1A_Platform (TV)_180625.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "508640",
+                    "model": "32TK42GH-PN",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "18Y_M1A_Platform (TV).zip"
+                }
+            ]
+        },
+        "32TL420U-PZ": {
+            "description": "18Y_M1AP_Platform",
+            "notice": [
+                {
+                    "osSeq": "508429",
+                    "model": "32TL420U-PZ",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-861_18Y_M1AP_Platform_180115.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "508429",
+                    "model": "32TL420U-PZ",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "18Y_M1AP_Platform.tar.gz"
+                }
+            ]
+        },
+        "32TL62GH-PN": {
+            "description": "18Y_M1A_Platform",
+            "notice": [
+                {
+                    "osSeq": "508366",
+                    "model": "32TL62GH-PN",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-856_18Y_M1A_Platform_180115.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "508366",
+                    "model": "32TL62GH-PN",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "18Y_M1A_Platform.zip"
+                }
+            ]
+        },
+        "32TNF5J-BP": {
+            "description": "webOS6.0_M16P3_Signage",
+            "notice": [
+                {
+                    "osSeq": "510738",
+                    "model": "32TNF5J-BP",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-3413_webOS6.0_M16P3_Signage_211230.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "510738",
+                    "model": "32TNF5J-BP",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS6.0_M16P3_Signage_1.zip"
+                },
+                {
+                    "osSeq": "510738",
+                    "model": "32TNF5J-BP",
+                    "type": "Op",
+                    "fileId": "2",
+                    "filename": "webOS6.0_M16P3_Signage_2.zip"
+                }
+            ]
+        },
+        "32TNF5P-BP": {
+            "description": "webOS6.0_M16P3_Signage",
+            "notice": [
+                {
+                    "osSeq": "510738",
+                    "model": "32TNF5P-BP",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-3413_webOS6.0_M16P3_Signage_211230.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "510738",
+                    "model": "32TNF5P-BP",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS6.0_M16P3_Signage_1.zip"
+                },
+                {
+                    "osSeq": "510738",
+                    "model": "32TNF5P-BP",
+                    "type": "Op",
+                    "fileId": "2",
+                    "filename": "webOS6.0_M16P3_Signage_2.zip"
+                }
+            ]
+        },
+        "32UD59-BB": {
+            "description": "MST9UXX(16) Platform_07-29",
+            "notice": [
+                {
+                    "osSeq": "507238",
+                    "model": "32UD59-BB",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-160225-MST9UXXSeries-1.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "507238",
+                    "model": "32UD59-BB",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "opensource_MST9UXX_v1.0.zip"
+                }
+            ]
+        },
+        "32UD60-BC": {
+            "description": "MST9UXX(16) Platform_07-29",
+            "notice": [
+                {
+                    "osSeq": "507238",
+                    "model": "32UD60-BC",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-160225-MST9UXXSeries-1.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "507238",
+                    "model": "32UD60-BC",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "opensource_MST9UXX_v1.0.zip"
+                }
+            ]
+        },
+        "32UD89-WA": {
+            "description": "MST9UXX(17) Platform_01-03",
+            "notice": [
+                {
+                    "osSeq": "507400",
+                    "model": "32UD89-WA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-160225-MST9UXXSeries-1.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "507400",
+                    "model": "32UD89-WA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "opensource_MST9UXX_v1.0.zip"
+                }
+            ]
+        },
+        "32UK500-WA": {
+            "description": "MST9UXX(16) Platform_07-29",
+            "notice": [
+                {
+                    "osSeq": "507238",
+                    "model": "32UK500-WA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-160225-MST9UXXSeries-1.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "507238",
+                    "model": "32UK500-WA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "opensource_MST9UXX_v1.0.zip"
+                }
+            ]
+        },
+        "32UK50T-WA": {
+            "description": "MST9UXX(16) Platform_07-29",
+            "notice": [
+                {
+                    "osSeq": "507238",
+                    "model": "32UK50T-WA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-160225-MST9UXXSeries-1.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "507238",
+                    "model": "32UK50T-WA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "opensource_MST9UXX_v1.0.zip"
+                }
+            ]
+        },
+        "32UK550-BA": {
+            "description": "M_Platform_applied_models",
+            "notice": [
+                {
+                    "osSeq": "508050",
+                    "model": "32UK550-BA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-695_M_Platform_2018_1.0_170821.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "508050",
+                    "model": "32UK550-BA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "M_Platform_1.0_bign.zip"
+                }
+            ]
+        },
+        "32UK550-BB": {
+            "description": "M_Platform_applied_models",
+            "notice": [
+                {
+                    "osSeq": "508050",
+                    "model": "32UK550-BB",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-695_M_Platform_2018_1.0_170821.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "508050",
+                    "model": "32UK550-BB",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "M_Platform_1.0_bign.zip"
+                }
+            ]
+        },
+        "32UK580-BA": {
+            "description": "M_Odinson_Leona2",
+            "notice": [
+                {
+                    "osSeq": "509948",
+                    "model": "32UK580-BA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-2803_M_Odinson_Leona2_200714.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "509948",
+                    "model": "32UK580-BA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "M_Odinson_Leona2.zip"
+                }
+            ]
+        },
+        "32UK580-BY": {
+            "description": "M_Platform_applied_models",
+            "notice": [
+                {
+                    "osSeq": "508050",
+                    "model": "32UK580-BY",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-695_M_Platform_2018_1.0_170821.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "508050",
+                    "model": "32UK580-BY",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "M_Platform_1.0_bign.zip"
+                }
+            ]
+        },
+        "32UK950-WA": {
+            "description": "M_Odinson_Leona2_Nxp",
+            "notice": [
+                {
+                    "osSeq": "509858",
+                    "model": "32UK950-WA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-862_18Y_M_Odinson_4K_200324.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "509858",
+                    "model": "32UK950-WA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "18Y_M_Odinson_4K.zip"
+                }
+            ]
+        },
+        "32UL500-WA": {
+            "description": "M_Platform_applied_models",
+            "notice": [
+                {
+                    "osSeq": "508050",
+                    "model": "32UL500-WA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-695_M_Platform_2018_1.0_170821.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "508050",
+                    "model": "32UL500-WA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "M_Platform_1.0_bign.zip"
+                }
+            ]
+        },
+        "32UL500-WY": {
+            "description": "M_Platform_applied_models",
+            "notice": [
+                {
+                    "osSeq": "508050",
+                    "model": "32UL500-WY",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-695_M_Platform_2018_1.0_170821.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "508050",
+                    "model": "32UL500-WY",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "M_Platform_1.0_bign.zip"
+                }
+            ]
+        },
+        "32UL750-WA": {
+            "description": "M_Odinson_Leona2_Nxp",
+            "notice": [
+                {
+                    "osSeq": "509858",
+                    "model": "32UL750-WA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-862_18Y_M_Odinson_4K_200324.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "509858",
+                    "model": "32UL750-WA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "18Y_M_Odinson_4K.zip"
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,357 @@
+{
+    "TV/AV>TV": {
+        "24LW760V-ZA": {
+            "description": "webOS2.0 M14+ Commercial TV Open Source",
+            "notice": [
+                {
+                    "osSeq": "506782",
+                    "model": "24LW760V-ZA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-150827-webOS2.0M14_CommercialTV-2.pdf"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "506782",
+                    "model": "24LW760V-ZA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS_COMMERCIAL_1.zip"
+                }
+            ]
+        }
+    },
+    "TV/AV>Monitor/Signage": {
+        "24MA53DW": {
+            "description": "L14 Platform_MTV",
+            "notice": [
+                {
+                    "osSeq": "10340",
+                    "model": "24MA53DW",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "140306-L14_M1A_MTV_v0.2.pdf"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "10340",
+                    "model": "24MA53DW",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "20141223144029_5.0_L_CO_FI_2014_Monitor.zip"
+                }
+            ]
+        },
+        "24MA53DW-14": {
+            "description": "L14 Platform_MTV",
+            "notice": [
+                {
+                    "osSeq": "10340",
+                    "model": "24MA53DW-14",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "140306-L14_M1A_MTV_v0.2.pdf"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "10340",
+                    "model": "24MA53DW-14",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "20141223144029_5.0_L_CO_FI_2014_Monitor.zip"
+                }
+            ]
+        },
+        "24MA53DW-WN": {
+            "description": "L14 Platform_MTV",
+            "notice": [
+                {
+                    "osSeq": "10340",
+                    "model": "24MA53DW-WN",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "140306-L14_M1A_MTV_v0.2.pdf"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "10340",
+                    "model": "24MA53DW-WN",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "20141223144029_5.0_L_CO_FI_2014_Monitor.zip"
+                }
+            ]
+        },
+        "24MA53DW-WX": {
+            "description": "L14 Platform_MTV",
+            "notice": [
+                {
+                    "osSeq": "10340",
+                    "model": "24MA53DW-WX",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "140306-L14_M1A_MTV_v0.2.pdf"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "10340",
+                    "model": "24MA53DW-WX",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "20141223144029_5.0_L_CO_FI_2014_Monitor.zip"
+                }
+            ]
+        },
+        "24MD4KL-BJ": {
+            "description": "MD5KA",
+            "notice": [
+                {
+                    "osSeq": "507561",
+                    "model": "24MD4KL-BJ",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-161020-27MD5K-1.html"
+                }
+            ],
+            "source": []
+        },
+        "24MD4KL-BK": {
+            "description": "MD5KA",
+            "notice": [
+                {
+                    "osSeq": "507561",
+                    "model": "24MD4KL-BK",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-161020-27MD5K-1.html"
+                }
+            ],
+            "source": []
+        },
+        "24MD4KLB-BK": {
+            "description": "MD5KA",
+            "notice": [
+                {
+                    "osSeq": "507561",
+                    "model": "24MD4KLB-BK",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-161020-27MD5K-1.html"
+                }
+            ],
+            "source": []
+        },
+        "24MN33N-14": {
+            "description": "L14 Platform_MTV",
+            "notice": [
+                {
+                    "osSeq": "10340",
+                    "model": "24MN33N-14",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "140306-L14_M1A_MTV_v0.2.pdf"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "10340",
+                    "model": "24MN33N-14",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "20141223144029_5.0_L_CO_FI_2014_Monitor.zip"
+                }
+            ]
+        },
+        "24MN33N-PC": {
+            "description": "L14 Platform_MTV",
+            "notice": [
+                {
+                    "osSeq": "10340",
+                    "model": "24MN33N-PC",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "140306-L14_M1A_MTV_v0.2.pdf"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "10340",
+                    "model": "24MN33N-PC",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "20141223144029_5.0_L_CO_FI_2014_Monitor.zip"
+                }
+            ]
+        },
+        "24MN33N-PCQ": {
+            "description": "L14 Platform_MTV",
+            "notice": [
+                {
+                    "osSeq": "10340",
+                    "model": "24MN33N-PCQ",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "140306-L14_M1A_MTV_v0.2.pdf"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "10340",
+                    "model": "24MN33N-PCQ",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "20141223144029_5.0_L_CO_FI_2014_Monitor.zip"
+                }
+            ]
+        },
+        "24MN33N-PS": {
+            "description": "L14 Platform_MTV",
+            "notice": [
+                {
+                    "osSeq": "10340",
+                    "model": "24MN33N-PS",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "140306-L14_M1A_MTV_v0.2.pdf"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "10340",
+                    "model": "24MN33N-PS",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "20141223144029_5.0_L_CO_FI_2014_Monitor.zip"
+                }
+            ]
+        },
+        "24MN33N-PSQ": {
+            "description": "L14 Platform_MTV",
+            "notice": [
+                {
+                    "osSeq": "10340",
+                    "model": "24MN33N-PSQ",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "140306-L14_M1A_MTV_v0.2.pdf"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "10340",
+                    "model": "24MN33N-PSQ",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "20141223144029_5.0_L_CO_FI_2014_Monitor.zip"
+                }
+            ]
+        },
+        "24MN34D-PU": {
+            "description": "M1A(14) Platform_04_01",
+            "notice": [
+                {
+                    "osSeq": "506389",
+                    "model": "24MN34D-PU",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "140306-L14_M1A_MTV_v0.2.pdf"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "506389",
+                    "model": "24MN34D-PU",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "20141223144029_5.0_L_CO_FI_2014_Monitor.zip"
+                }
+            ]
+        },
+        "24MN34D-PUR": {
+            "description": "M1A(14) Platform_04_01",
+            "notice": [
+                {
+                    "osSeq": "506389",
+                    "model": "24MN34D-PUR",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "140306-L14_M1A_MTV_v0.2.pdf"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "506389",
+                    "model": "24MN34D-PUR",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "20141223144029_5.0_L_CO_FI_2014_Monitor.zip"
+                }
+            ]
+        },
+        "24MN39HM-PT": {
+            "description": "Thin Client - VXL Solution",
+            "notice": [
+                {
+                    "osSeq": "508483",
+                    "model": "24MN39HM-PT",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-832_Thin Client - VXL Solution_180314.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "508483",
+                    "model": "24MN39HM-PT",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "Thin Client - VXL Solution.zip"
+                }
+            ]
+        },
+        "24MN47A-PT": {
+            "description": "M8RR Platform_03_19",
+            "notice": [
+                {
+                    "osSeq": "506380",
+                    "model": "24MN47A-PT",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-140522-M8RR_MTV-1.pdf"
+                }
+            ],
+            "source": []
+        },
+        "24MN47A-PTP": {
+            "description": "M8RR Platform_03_19",
+            "notice": [
+                {
+                    "osSeq": "506380",
+                    "model": "24MN47A-PTP",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-140522-M8RR_MTV-1.pdf"
+                }
+            ],
+            "source": []
+        },
+        "24MN48A-PTT": {
+            "description": "M8RR(16)_Platform_03_03",
+            "notice": [
+                {
+                    "osSeq": "507088",
+                    "model": "24MN48A-PTT",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-140522-M8RR_MTV-1.pdf"
+                }
+            ],
+            "source": []
+        }
+    }
+}

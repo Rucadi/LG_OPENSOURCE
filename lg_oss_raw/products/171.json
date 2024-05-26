@@ -1,0 +1,424 @@
+{
+    "TV/AV>TV": {
+        "42LY540S-UA": {
+            "description": "L14_M1A_CTV_SuperSign",
+            "notice": [
+                {
+                    "osSeq": "15620",
+                    "model": "42LY540S-UA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-141010-L14_M1A_CommercialTVSuperSign-1.pdf"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "15620",
+                    "model": "42LY540S-UA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "L14_M1A_CTV_SuperSign_OpenSource_v1.0.zip"
+                }
+            ]
+        },
+        "42LY540S-ZA": {
+            "description": "L14_M1A_CTV_SuperSign",
+            "notice": [
+                {
+                    "osSeq": "15620",
+                    "model": "42LY540S-ZA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-141010-L14_M1A_CommercialTVSuperSign-1.pdf"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "15620",
+                    "model": "42LY540S-ZA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "L14_M1A_CTV_SuperSign_OpenSource_v1.0.zip"
+                }
+            ]
+        },
+        "42LY560H-UA": {
+            "description": "L14_M1A_CTV_Interactive",
+            "notice": [
+                {
+                    "osSeq": "15621",
+                    "model": "42LY560H-UA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-141013-L14_M1A_CommercialTVInteractive-1.pdf"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "15621",
+                    "model": "42LY560H-UA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "L14_M1A_CTV_Interactive_OpenSource_v1.0.zip"
+                }
+            ]
+        },
+        "42LY560M-UA": {
+            "description": "L14_M1A_CTV_Interactive",
+            "notice": [
+                {
+                    "osSeq": "15621",
+                    "model": "42LY560M-UA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-141013-L14_M1A_CommercialTVInteractive-1.pdf"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "15621",
+                    "model": "42LY560M-UA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "L14_M1A_CTV_Interactive_OpenSource_v1.0.zip"
+                }
+            ]
+        },
+        "42LY570H-UA": {
+            "description": "L14_M1A_CTV_Interactive",
+            "notice": [
+                {
+                    "osSeq": "15621",
+                    "model": "42LY570H-UA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-141013-L14_M1A_CommercialTVInteractive-1.pdf"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "15621",
+                    "model": "42LY570H-UA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "L14_M1A_CTV_Interactive_OpenSource_v1.0.zip"
+                }
+            ]
+        },
+        "42LY750H-NA": {
+            "description": "NetCast3.0_MTK_CTV_Interactive Smart",
+            "notice": [
+                {
+                    "osSeq": "15640",
+                    "model": "42LY750H-NA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-141020-NetCast3_0_MTK_Commercial_TVInteractiveSmart-1.pdf"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "15640",
+                    "model": "42LY750H-NA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "NetCast3.0_MTK_CTV_Interactive Smart_OpenSource_v1.1.zip"
+                }
+            ]
+        },
+        "42LY750H-TA": {
+            "description": "NetCast3.0_MTK_CTV_Interactive Smart",
+            "notice": [
+                {
+                    "osSeq": "15640",
+                    "model": "42LY750H-TA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-141020-NetCast3_0_MTK_Commercial_TVInteractiveSmart-1.pdf"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "15640",
+                    "model": "42LY750H-TA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "NetCast3.0_MTK_CTV_Interactive Smart_OpenSource_v1.1.zip"
+                }
+            ]
+        },
+        "42LY750H-UA": {
+            "description": "NetCast3.0_MTK_CTV_Interactive Smart",
+            "notice": [
+                {
+                    "osSeq": "15640",
+                    "model": "42LY750H-UA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-141020-NetCast3_0_MTK_Commercial_TVInteractiveSmart-1.pdf"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "15640",
+                    "model": "42LY750H-UA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "NetCast3.0_MTK_CTV_Interactive Smart_OpenSource_v1.1.zip"
+                }
+            ]
+        },
+        "42LY750H-ZA": {
+            "description": "NetCast3.0_MTK_CTV_Interactive Smart",
+            "notice": [
+                {
+                    "osSeq": "15640",
+                    "model": "42LY750H-ZA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-141020-NetCast3_0_MTK_Commercial_TVInteractiveSmart-1.pdf"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "15640",
+                    "model": "42LY750H-ZA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "NetCast3.0_MTK_CTV_Interactive Smart_OpenSource_v1.1.zip"
+                }
+            ]
+        },
+        "42LY751H-ZA": {
+            "description": "NetCast3.0_MTK_CTV_Interactive Smart",
+            "notice": [
+                {
+                    "osSeq": "15640",
+                    "model": "42LY751H-ZA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-141020-NetCast3_0_MTK_Commercial_TVInteractiveSmart-1.pdf"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "15640",
+                    "model": "42LY751H-ZA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "NetCast3.0_MTK_CTV_Interactive Smart_OpenSource_v1.1.zip"
+                }
+            ]
+        },
+        "42LY755H-TA": {
+            "description": "Netcast3.0_MTK_CommercialTV Open Source",
+            "notice": [
+                {
+                    "osSeq": "506676",
+                    "model": "42LY755H-TA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-150529-Netcast3.0_MTK_CommercialTV-1.pdf"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "506676",
+                    "model": "42LY755H-TA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "NetCast3.0_MTK_CTV_Interactive_Smart_OpenSource_v1.2.zip"
+                }
+            ]
+        },
+        "42LY760H-NA": {
+            "description": "webOS_M14_Commercial TV",
+            "notice": [
+                {
+                    "osSeq": "17160",
+                    "model": "42LY760H-NA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-141114-webOS_M14_CommercialTV-1.pdf"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "17160",
+                    "model": "42LY760H-NA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS_M14_CTV_OpenSource_v1.0.zip"
+                }
+            ]
+        },
+        "42LY760H-SA": {
+            "description": "webOS_M14_Commercial TV",
+            "notice": [
+                {
+                    "osSeq": "17160",
+                    "model": "42LY760H-SA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-141114-webOS_M14_CommercialTV-1.pdf"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "17160",
+                    "model": "42LY760H-SA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS_M14_CTV_OpenSource_v1.0.zip"
+                }
+            ]
+        },
+        "42LY760H-UA": {
+            "description": "webOS_M14_Commercial TV",
+            "notice": [
+                {
+                    "osSeq": "17160",
+                    "model": "42LY760H-UA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-141114-webOS_M14_CommercialTV-1.pdf"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "17160",
+                    "model": "42LY760H-UA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS_M14_CTV_OpenSource_v1.0.zip"
+                }
+            ]
+        },
+        "42LY760H-ZA": {
+            "description": "webOS_M14_Commercial TV",
+            "notice": [
+                {
+                    "osSeq": "17160",
+                    "model": "42LY760H-ZA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-141114-webOS_M14_CommercialTV-1.pdf"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "17160",
+                    "model": "42LY760H-ZA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS_M14_CTV_OpenSource_v1.0.zip"
+                }
+            ]
+        },
+        "42LY760H-ZD": {
+            "description": "webOS_M14_Commercial TV",
+            "notice": [
+                {
+                    "osSeq": "17160",
+                    "model": "42LY760H-ZD",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-141114-webOS_M14_CommercialTV-1.pdf"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "17160",
+                    "model": "42LY760H-ZD",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS_M14_CTV_OpenSource_v1.0.zip"
+                }
+            ]
+        },
+        "42LY761H-ZA": {
+            "description": "webOS_M14_Commercial TV",
+            "notice": [
+                {
+                    "osSeq": "17160",
+                    "model": "42LY761H-ZA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-141114-webOS_M14_CommercialTV-1.pdf"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "17160",
+                    "model": "42LY761H-ZA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS_M14_CTV_OpenSource_v1.0.zip"
+                }
+            ]
+        },
+        "42LY770M-UA": {
+            "description": "webOS_M14_Commercial TV",
+            "notice": [
+                {
+                    "osSeq": "17160",
+                    "model": "42LY770M-UA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-141114-webOS_M14_CommercialTV-1.pdf"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "17160",
+                    "model": "42LY770M-UA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS_M14_CTV_OpenSource_v1.0.zip"
+                }
+            ]
+        },
+        "42LY960H-TA": {
+            "description": "webOS_M14_Commercial TV",
+            "notice": [
+                {
+                    "osSeq": "17160",
+                    "model": "42LY960H-TA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-141114-webOS_M14_CommercialTV-1.pdf"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "17160",
+                    "model": "42LY960H-TA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS_M14_CTV_OpenSource_v1.0.zip"
+                }
+            ]
+        },
+        "42LY960H-ZA": {
+            "description": "webOS_M14_Commercial TV",
+            "notice": [
+                {
+                    "osSeq": "17160",
+                    "model": "42LY960H-ZA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-141114-webOS_M14_CommercialTV-1.pdf"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "17160",
+                    "model": "42LY960H-ZA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS_M14_CTV_OpenSource_v1.0.zip"
+                }
+            ]
+        }
+    }
+}

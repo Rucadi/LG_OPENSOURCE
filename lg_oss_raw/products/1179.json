@@ -1,0 +1,346 @@
+{
+    "TV/AV>Monitor/Signage": {
+        "CL600W-AC": {
+            "description": "Thin Client - LG Cloud Launcher 1.1",
+            "notice": [
+                {
+                    "osSeq": "509416",
+                    "model": "CL600W-AC",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-2160_Thin Client - LG Cloud Launcher_1.1_191008.html"
+                }
+            ],
+            "source": []
+        },
+        "CL600W-AD": {
+            "description": "Thin Client - LG Cloud Launcher 1.1",
+            "notice": [
+                {
+                    "osSeq": "509416",
+                    "model": "CL600W-AD",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-2160_Thin Client - LG Cloud Launcher_1.1_191008.html"
+                }
+            ],
+            "source": []
+        },
+        "CL600W-AP": {
+            "description": "Thin Client - LG Cloud Launcher 1.1",
+            "notice": [
+                {
+                    "osSeq": "509416",
+                    "model": "CL600W-AP",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-2160_Thin Client - LG Cloud Launcher_1.1_191008.html"
+                }
+            ],
+            "source": []
+        },
+        "CL600W-AQ": {
+            "description": "Thin Client - LG Cloud Launcher 1.1",
+            "notice": [
+                {
+                    "osSeq": "509416",
+                    "model": "CL600W-AQ",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-2160_Thin Client - LG Cloud Launcher_1.1_191008.html"
+                }
+            ],
+            "source": []
+        },
+        "CPAB-0093": {
+            "description": "webOS22_O22_Signage",
+            "notice": [
+                {
+                    "osSeq": "511219",
+                    "model": "CPAB-0093",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-4786_webOS22_O22_Signage_221222.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "511219",
+                    "model": "CPAB-0093",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS22_O22_Signage_1.zip"
+                },
+                {
+                    "osSeq": "511219",
+                    "model": "CPAB-0093",
+                    "type": "Op",
+                    "fileId": "2",
+                    "filename": "webOS22_O22_Signage_2.zip"
+                }
+            ]
+        },
+        "CPAD": {
+            "description": "webOS22_O22_Signage",
+            "notice": [
+                {
+                    "osSeq": "511219",
+                    "model": "CPAD",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-4786_webOS22_O22_Signage_221222.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "511219",
+                    "model": "CPAD",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS22_O22_Signage_1.zip"
+                },
+                {
+                    "osSeq": "511219",
+                    "model": "CPAD",
+                    "type": "Op",
+                    "fileId": "2",
+                    "filename": "webOS22_O22_Signage_2.zip"
+                }
+            ]
+        },
+        "CQ600I-6N": {
+            "description": "IGEL OS 1108",
+            "notice": [
+                {
+                    "osSeq": "511237",
+                    "model": "CQ600I-6N",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-5056_IGEL OS 1108_230119.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "511237",
+                    "model": "CQ600I-6N",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "IGEL OS 1108_1.zip"
+                },
+                {
+                    "osSeq": "511237",
+                    "model": "CQ600I-6N",
+                    "type": "Op",
+                    "fileId": "2",
+                    "filename": "IGEL OS 1108_2.zip"
+                }
+            ]
+        },
+        "CQ600I-6P": {
+            "description": "IGEL OS 1108",
+            "notice": [
+                {
+                    "osSeq": "511237",
+                    "model": "CQ600I-6P",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-5056_IGEL OS 1108_230119.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "511237",
+                    "model": "CQ600I-6P",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "IGEL OS 1108_1.zip"
+                },
+                {
+                    "osSeq": "511237",
+                    "model": "CQ600I-6P",
+                    "type": "Op",
+                    "fileId": "2",
+                    "filename": "IGEL OS 1108_2.zip"
+                }
+            ]
+        },
+        "CQ600W-AP": {
+            "description": "Thin Client - LG Cloud Launcher 1.1",
+            "notice": [
+                {
+                    "osSeq": "509416",
+                    "model": "CQ600W-AP",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-2160_Thin Client - LG Cloud Launcher_1.1_191008.html"
+                }
+            ],
+            "source": []
+        },
+        "CQ600W-BP": {
+            "description": "Thin Client - LG Cloud Launcher 1.1",
+            "notice": [
+                {
+                    "osSeq": "509416",
+                    "model": "CQ600W-BP",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-2160_Thin Client - LG Cloud Launcher_1.1_191008.html"
+                }
+            ],
+            "source": []
+        },
+        "CQ600W-BQ": {
+            "description": "Thin Client - LG Cloud Launcher 1.1",
+            "notice": [
+                {
+                    "osSeq": "509416",
+                    "model": "CQ600W-BQ",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-2160_Thin Client - LG Cloud Launcher_1.1_191008.html"
+                }
+            ],
+            "source": []
+        },
+        "CQ601I-6N": {
+            "description": "IGEL OS 1108",
+            "notice": [
+                {
+                    "osSeq": "511237",
+                    "model": "CQ601I-6N",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-5056_IGEL OS 1108_230119.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "511237",
+                    "model": "CQ601I-6N",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "IGEL OS 1108_1.zip"
+                },
+                {
+                    "osSeq": "511237",
+                    "model": "CQ601I-6N",
+                    "type": "Op",
+                    "fileId": "2",
+                    "filename": "IGEL OS 1108_2.zip"
+                }
+            ]
+        },
+        "CQ601I-6P": {
+            "description": "IGEL OS 1108",
+            "notice": [
+                {
+                    "osSeq": "511237",
+                    "model": "CQ601I-6P",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-5056_IGEL OS 1108_230119.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "511237",
+                    "model": "CQ601I-6P",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "IGEL OS 1108_1.zip"
+                },
+                {
+                    "osSeq": "511237",
+                    "model": "CQ601I-6P",
+                    "type": "Op",
+                    "fileId": "2",
+                    "filename": "IGEL OS 1108_2.zip"
+                }
+            ]
+        },
+        "CQ601W-BP": {
+            "description": "Thin Client - LG Cloud Launcher 1.1",
+            "notice": [
+                {
+                    "osSeq": "509416",
+                    "model": "CQ601W-BP",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-2160_Thin Client - LG Cloud Launcher_1.1_191008.html"
+                }
+            ],
+            "source": []
+        },
+        "CQ601W-BQ": {
+            "description": "Thin Client - LG Cloud Launcher 1.1",
+            "notice": [
+                {
+                    "osSeq": "509416",
+                    "model": "CQ601W-BQ",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-2160_Thin Client - LG Cloud Launcher_1.1_191008.html"
+                }
+            ],
+            "source": []
+        },
+        "CSAA-009X": {
+            "description": "webOS4.0+_M16++_Signage LED",
+            "notice": [
+                {
+                    "osSeq": "509828",
+                    "model": "CSAA-009X",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-2415_webOS4.0+_M16++_Signage_LED_200226.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "509828",
+                    "model": "CSAA-009X",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS4.0+_M16++_Signage_LED.zip"
+                }
+            ]
+        }
+    },
+    "TV/AV>TV": {
+        "COM.SAMPLE.MRCU": {
+            "description": "Magic Remote control sample app for webOSTV",
+            "notice": [
+                {
+                    "osSeq": "510115",
+                    "model": "COM.SAMPLE.MRCU",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-3047_Magic Remote control sample app for webOSTV_200911.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "510115",
+                    "model": "COM.SAMPLE.MRCU",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "Magic Remote control sample app for webOSTV.zip"
+                }
+            ]
+        },
+        "COM.WEBOS.CHROMECAST": {
+            "description": "com.webos.chromecast 2.0",
+            "notice": [
+                {
+                    "osSeq": "511580",
+                    "model": "COM.WEBOS.CHROMECAST",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-6195_com.webos.chromecast_2.0_231226.html"
+                }
+            ],
+            "source": []
+        }
+    }
+}

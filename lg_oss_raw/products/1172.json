@@ -1,0 +1,193 @@
+{
+    "TV/AV>Monitor/Signage": {
+        "86XE3FS-BH": {
+            "description": "webOS3.0_M16_Signage_2",
+            "notice": [
+                {
+                    "osSeq": "507279",
+                    "model": "86XE3FS-BH",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-170214-webOS3.0M16Signage-5.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "507279",
+                    "model": "86XE3FS-BH",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS3.2_3.0_M16_Signage_OpenSource_V1.0_2.zip"
+                }
+            ]
+        },
+        "86XE3FS1-BH": {
+            "description": "webOS3.0_M16_Signage_2",
+            "notice": [
+                {
+                    "osSeq": "507279",
+                    "model": "86XE3FS1-BH",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-170214-webOS3.0M16Signage-5.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "507279",
+                    "model": "86XE3FS1-BH",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS3.2_3.0_M16_Signage_OpenSource_V1.0_2.zip"
+                }
+            ]
+        },
+        "86XF3CK-BP": {
+            "description": "webOS6.0_M16P3_Signage MR",
+            "notice": [
+                {
+                    "osSeq": "510741",
+                    "model": "86XF3CK-BP",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-3875_webOS6.0_M16P3_Signage_MR_211230.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "510741",
+                    "model": "86XF3CK-BP",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS6.0_M16P3_Signage_MR_1.zip"
+                },
+                {
+                    "osSeq": "510741",
+                    "model": "86XF3CK-BP",
+                    "type": "Op",
+                    "fileId": "2",
+                    "filename": "webOS6.0_M16P3_Signage_MR_2.zip"
+                }
+            ]
+        },
+        "86XF3SK-BP": {
+            "description": "webOS6.0_M16P3_Signage MR",
+            "notice": [
+                {
+                    "osSeq": "510741",
+                    "model": "86XF3SK-BP",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-3875_webOS6.0_M16P3_Signage_MR_211230.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "510741",
+                    "model": "86XF3SK-BP",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS6.0_M16P3_Signage_MR_1.zip"
+                },
+                {
+                    "osSeq": "510741",
+                    "model": "86XF3SK-BP",
+                    "type": "Op",
+                    "fileId": "2",
+                    "filename": "webOS6.0_M16P3_Signage_MR_2.zip"
+                }
+            ]
+        },
+        "88BH7D-BF": {
+            "description": "webOS2.0_H15_Signage_SCAP1.3",
+            "notice": [
+                {
+                    "osSeq": "507128",
+                    "model": "88BH7D-BF",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-160125-SCAP1.3-1.html"
+                }
+            ],
+            "source": []
+        },
+        "88BH7F-BJ": {
+            "description": "webOS4.0_M16++_Signage MR",
+            "notice": [
+                {
+                    "osSeq": "508876",
+                    "model": "88BH7F-BJ",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-1360_webOS4.0_M16++_Signage_MR_190107.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "508876",
+                    "model": "88BH7F-BJ",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS4.0_M16++_Signage_MR.zip"
+                }
+            ]
+        },
+        "88BH7G-BJ": {
+            "description": "webOS4.0_M16++_Signage MR",
+            "notice": [
+                {
+                    "osSeq": "508876",
+                    "model": "88BH7G-BJ",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-1360_webOS4.0_M16++_Signage_MR_190107.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "508876",
+                    "model": "88BH7G-BJ",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS4.0_M16++_Signage_MR.zip"
+                }
+            ]
+        },
+        "8KC5PJ": {
+            "description": "Thermal Sensing Terminal - Android",
+            "notice": [
+                {
+                    "osSeq": "510671",
+                    "model": "8KC5PJ",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-3933_Thermal Sensing Terminal - Android_211103.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "510671",
+                    "model": "8KC5PJ",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "Thermal Sensing Terminal - Android.zip"
+                }
+            ]
+        }
+    },
+    "TV/AV>TV": {
+        "8K VIDEO": {
+            "description": "8K Video 1.0",
+            "notice": [
+                {
+                    "osSeq": "510594",
+                    "model": "8K VIDEO",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-3830_8K Video_1.0_210907.html"
+                }
+            ],
+            "source": []
+        }
+    }
+}

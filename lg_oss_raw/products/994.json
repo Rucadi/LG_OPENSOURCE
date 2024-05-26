@@ -1,0 +1,172 @@
+{
+    "TV/AV>TV": {
+        "65UU661H-ZC": {
+            "description": "webOS4.0_M16++_CommercialTV_EU MR",
+            "notice": [
+                {
+                    "osSeq": "508909",
+                    "model": "65UU661H-ZC",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-1468_webOS4.0_M16++_CommercialTV_EU_MR_190103.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "508909",
+                    "model": "65UU661H-ZC",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS4.0_M16++_CommercialTV_EU_MR.zip"
+                }
+            ]
+        },
+        "65UU662H-ZE": {
+            "description": "webOS4.0_M16++_CommercialTV_EU MR",
+            "notice": [
+                {
+                    "osSeq": "508909",
+                    "model": "65UU662H-ZE",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-1468_webOS4.0_M16++_CommercialTV_EU_MR_190103.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "508909",
+                    "model": "65UU662H-ZE",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS4.0_M16++_CommercialTV_EU_MR.zip"
+                }
+            ]
+        },
+        "65UU665H-TC": {
+            "description": "webOS4.0_M16++_CommercialTV_EU MR",
+            "notice": [
+                {
+                    "osSeq": "508909",
+                    "model": "65UU665H-TC",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-1468_webOS4.0_M16++_CommercialTV_EU_MR_190103.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "508909",
+                    "model": "65UU665H-TC",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS4.0_M16++_CommercialTV_EU_MR.zip"
+                }
+            ]
+        },
+        "65UU670H-UB": {
+            "description": "webOS4.0_M16++_CommercialTV MR",
+            "notice": [
+                {
+                    "osSeq": "508907",
+                    "model": "65UU670H-UB",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-1407_webOS4.0_M16++_CommercialTV_MR_190107.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "508907",
+                    "model": "65UU670H-UB",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS4.0_M16++_CommercialTV_MR.zip"
+                }
+            ]
+        },
+        "65UU761H-CB": {
+            "description": "webOS4.0_M16++_CommercialTV_EU MR",
+            "notice": [
+                {
+                    "osSeq": "508909",
+                    "model": "65UU761H-CB",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-1468_webOS4.0_M16++_CommercialTV_EU_MR_190103.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "508909",
+                    "model": "65UU761H-CB",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS4.0_M16++_CommercialTV_EU_MR.zip"
+                }
+            ]
+        },
+        "65UU761H-GB": {
+            "description": "webOS4.0_M16++_CommercialTV_EU MR",
+            "notice": [
+                {
+                    "osSeq": "508909",
+                    "model": "65UU761H-GB",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-1468_webOS4.0_M16++_CommercialTV_EU_MR_190103.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "508909",
+                    "model": "65UU761H-GB",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS4.0_M16++_CommercialTV_EU_MR.zip"
+                }
+            ]
+        },
+        "65UU761H-TB": {
+            "description": "webOS4.0_M16++_CommercialTV_EU MR",
+            "notice": [
+                {
+                    "osSeq": "508909",
+                    "model": "65UU761H-TB",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-1468_webOS4.0_M16++_CommercialTV_EU_MR_190103.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "508909",
+                    "model": "65UU761H-TB",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS4.0_M16++_CommercialTV_EU_MR.zip"
+                }
+            ]
+        },
+        "65UU761H-ZB": {
+            "description": "HCAP API",
+            "notice": [
+                {
+                    "osSeq": "507349",
+                    "model": "65UU761H-ZB",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-160516-HCAPAPI-1.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "507349",
+                    "model": "65UU761H-ZB",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "HCAP_OpenSource_V1.0.zip"
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,208 @@
+{
+    "TV/AV>TV": {
+        "49LK6200PLD": {
+            "description": "webOS GM LGE TV Open Source",
+            "notice": [
+                {
+                    "osSeq": "508339",
+                    "model": "49LK6200PLD",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-767_webOS_4.0_GM_20171027100707.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "508339",
+                    "model": "49LK6200PLD",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "DM2-r3173.tar.gz"
+                }
+            ]
+        },
+        "49LK6300PTA": {
+            "description": "webOS GM LGE TV Open Source",
+            "notice": [
+                {
+                    "osSeq": "508339",
+                    "model": "49LK6300PTA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-767_webOS_4.0_GM_20171027100707.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "508339",
+                    "model": "49LK6300PTA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "DM2-r3173.tar.gz"
+                }
+            ]
+        }
+    },
+    "TV/AV>Monitor/Signage": {
+        "49LS73B-5B": {
+            "description": "webOS_M14_Signage Open Source",
+            "notice": [
+                {
+                    "osSeq": "17680",
+                    "model": "49LS73B-5B",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-141126-webOS_M14_Signage-1.pdf"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "17680",
+                    "model": "49LS73B-5B",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS_M14_Signage_OpenSource_v1.0.zip"
+                }
+            ]
+        },
+        "49LS73B-5BB": {
+            "description": "webOS_M14_Signage Open Source",
+            "notice": [
+                {
+                    "osSeq": "17680",
+                    "model": "49LS73B-5BB",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-141126-webOS_M14_Signage-1.pdf"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "17680",
+                    "model": "49LS73B-5BB",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS_M14_Signage_OpenSource_v1.0.zip"
+                }
+            ]
+        },
+        "49LS73C-BF": {
+            "description": "webOS3.0_M16_Signage_2",
+            "notice": [
+                {
+                    "osSeq": "507279",
+                    "model": "49LS73C-BF",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-170214-webOS3.0M16Signage-5.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "507279",
+                    "model": "49LS73C-BF",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS3.2_3.0_M16_Signage_OpenSource_V1.0_2.zip"
+                }
+            ]
+        },
+        "49LS73D-BH": {
+            "description": "webOS3.0_M16_Signage_2",
+            "notice": [
+                {
+                    "osSeq": "507279",
+                    "model": "49LS73D-BH",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-170214-webOS3.0M16Signage-5.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "507279",
+                    "model": "49LS73D-BH",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS3.2_3.0_M16_Signage_OpenSource_V1.0_2.zip"
+                }
+            ]
+        },
+        "49LS75A-5B": {
+            "description": "webOS_M14_Signage Open Source",
+            "notice": [
+                {
+                    "osSeq": "17680",
+                    "model": "49LS75A-5B",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-141126-webOS_M14_Signage-1.pdf"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "17680",
+                    "model": "49LS75A-5B",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS_M14_Signage_OpenSource_v1.0.zip"
+                }
+            ]
+        },
+        "49LS75A-5BB": {
+            "description": "webOS_M14_Signage Open Source",
+            "notice": [
+                {
+                    "osSeq": "17680",
+                    "model": "49LS75A-5BB",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-141126-webOS_M14_Signage-1.pdf"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "17680",
+                    "model": "49LS75A-5BB",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS_M14_Signage_OpenSource_v1.0.zip"
+                }
+            ]
+        },
+        "49LS75C-BF": {
+            "description": "webOS3.0_M16_Signage_2",
+            "notice": [
+                {
+                    "osSeq": "507279",
+                    "model": "49LS75C-BF",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-170214-webOS3.0M16Signage-5.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "507279",
+                    "model": "49LS75C-BF",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS3.2_3.0_M16_Signage_OpenSource_V1.0_2.zip"
+                }
+            ]
+        },
+        "49LS75C-MH": {
+            "description": "SCAP API 1.4",
+            "notice": [
+                {
+                    "osSeq": "507282",
+                    "model": "49LS75C-MH",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-160513-SCAPAPI-1.html"
+                }
+            ],
+            "source": []
+        }
+    }
+}

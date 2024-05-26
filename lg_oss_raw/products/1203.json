@@ -1,0 +1,379 @@
+{
+    "TV/AV>Monitor/Signage": {
+        "LG_MAGNIT_MOBILE_APP": {
+            "description": "LG MAGNIT Mobile app_IOS",
+            "notice": [
+                {
+                    "osSeq": "511192",
+                    "model": "LG_MAGNIT_MOBILE_APP",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-4656_LG MAGNIT Mobile app_IOS_220801.html"
+                }
+            ],
+            "source": []
+        },
+        "LLLG003-B": {
+            "description": "webOS4.0_M16++_Signage",
+            "notice": [
+                {
+                    "osSeq": "508481",
+                    "model": "LLLG003-B",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-880_webOS4.0_M16++_Signage_180313.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "508481",
+                    "model": "LLLG003-B",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS4.0_M16++_Signage.zip"
+                }
+            ]
+        },
+        "LSAC025-MK": {
+            "description": "webOS4.0+_M16++_Signage LED",
+            "notice": [
+                {
+                    "osSeq": "509828",
+                    "model": "LSAC025-MK",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-2415_webOS4.0+_M16++_Signage_LED_200226.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "509828",
+                    "model": "LSAC025-MK",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS4.0+_M16++_Signage_LED.zip"
+                }
+            ]
+        },
+        "LSAH007-G4": {
+            "description": "webOS23_O22N_HomeLED",
+            "notice": [
+                {
+                    "osSeq": "511360",
+                    "model": "LSAH007-G4",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-5273_webOS23_O22N_HomeLED_230418.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "511360",
+                    "model": "LSAH007-G4",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS23_O22N_HomeLED.zip"
+                }
+            ]
+        },
+        "LSAH007-X": {
+            "description": "webOS23_O22N_HomeLED",
+            "notice": [
+                {
+                    "osSeq": "511360",
+                    "model": "LSAH007-X",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-5273_webOS23_O22N_HomeLED_230418.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "511360",
+                    "model": "LSAH007-X",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS23_O22N_HomeLED.zip"
+                }
+            ]
+        },
+        "LSAJ007-G4": {
+            "description": "webOS23_O22N_Signage",
+            "notice": [
+                {
+                    "osSeq": "511445",
+                    "model": "LSAJ007-G4",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-5415_webOS23_O22N_Signage_230721.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "511445",
+                    "model": "LSAJ007-G4",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS23_O22N_Signage_1.zip"
+                },
+                {
+                    "osSeq": "511445",
+                    "model": "LSAJ007-G4",
+                    "type": "Op",
+                    "fileId": "2",
+                    "filename": "webOS23_O22N_Signage_2.zip"
+                }
+            ]
+        },
+        "LSAL006-G2L": {
+            "description": "webOS23_O22N_HomeLED",
+            "notice": [
+                {
+                    "osSeq": "511360",
+                    "model": "LSAL006-G2L",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-5273_webOS23_O22N_HomeLED_230418.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "511360",
+                    "model": "LSAL006-G2L",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS23_O22N_HomeLED.zip"
+                }
+            ]
+        },
+        "LSBB009-GD": {
+            "description": "webOS4.0_M16++_Signage MR3",
+            "notice": [
+                {
+                    "osSeq": "510978",
+                    "model": "LSBB009-GD",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-4517_webOS4.0_M16++_Signage_MR3_220616.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "510978",
+                    "model": "LSBB009-GD",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS4.0_M16++_Signage_MR3.zip"
+                }
+            ]
+        },
+        "LSBB009-GF": {
+            "description": "webOS4.0_M16++_Signage MR3",
+            "notice": [
+                {
+                    "osSeq": "510978",
+                    "model": "LSBB009-GF",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-4517_webOS4.0_M16++_Signage_MR3_220616.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "510978",
+                    "model": "LSBB009-GF",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS4.0_M16++_Signage_MR3.zip"
+                }
+            ]
+        },
+        "LSBB012-GD": {
+            "description": "webOS4.0_M16++_Signage MR3",
+            "notice": [
+                {
+                    "osSeq": "510978",
+                    "model": "LSBB012-GD",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-4517_webOS4.0_M16++_Signage_MR3_220616.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "510978",
+                    "model": "LSBB012-GD",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS4.0_M16++_Signage_MR3.zip"
+                }
+            ]
+        }
+    },
+    "TV/AV>AV": {
+        "LHB625M-NB": {
+            "description": "BP550_MR 1.0",
+            "notice": [
+                {
+                    "osSeq": "508892",
+                    "model": "LHB625M-NB",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-1295_BP550_MR_1.0_181005.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "508892",
+                    "model": "LHB625M-NB",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "BP550_MR_1.0.zip"
+                }
+            ]
+        },
+        "LHB655N-NB": {
+            "description": "BP550_MR 1.0",
+            "notice": [
+                {
+                    "osSeq": "508892",
+                    "model": "LHB655N-NB",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-1295_BP550_MR_1.0_181005.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "508892",
+                    "model": "LHB655N-NB",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "BP550_MR_1.0.zip"
+                }
+            ]
+        },
+        "LHB655N-NC": {
+            "description": "BP550_MR 1.0",
+            "notice": [
+                {
+                    "osSeq": "508892",
+                    "model": "LHB655N-NC",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-1295_BP550_MR_1.0_181005.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "508892",
+                    "model": "LHB655N-NC",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "BP550_MR_1.0.zip"
+                }
+            ]
+        },
+        "LHB655NW-DB": {
+            "description": "BP550_MR 1.0",
+            "notice": [
+                {
+                    "osSeq": "508892",
+                    "model": "LHB655NW-DB",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-1295_BP550_MR_1.0_181005.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "508892",
+                    "model": "LHB655NW-DB",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "BP550_MR_1.0.zip"
+                }
+            ]
+        },
+        "LHB655NW-NC": {
+            "description": "BP550_MR 1.0",
+            "notice": [
+                {
+                    "osSeq": "508892",
+                    "model": "LHB655NW-NC",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-1295_BP550_MR_1.0_181005.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "508892",
+                    "model": "LHB655NW-NC",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "BP550_MR_1.0.zip"
+                }
+            ]
+        },
+        "LHB675N-FB": {
+            "description": "BP550_MR 1.0",
+            "notice": [
+                {
+                    "osSeq": "508892",
+                    "model": "LHB675N-FB",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-1295_BP550_MR_1.0_181005.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "508892",
+                    "model": "LHB675N-FB",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "BP550_MR_1.0.zip"
+                }
+            ]
+        }
+    },
+    "TV/AV>Projector": {
+        "LIGHT DRAWING": {
+            "description": "Light Drawing 1.0",
+            "notice": [
+                {
+                    "osSeq": "511630",
+                    "model": "LIGHT DRAWING",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-6421_Light Drawing_1.0_240223.html"
+                }
+            ],
+            "source": []
+        }
+    },
+    "TV/AV>TV": {
+        "LIKEAPP": {
+            "description": "Web Application - Instagram client for TV",
+            "notice": [
+                {
+                    "osSeq": "507076",
+                    "model": "LIKEAPP",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-160202-LikeApp-Instagram-Client-For-TV.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "507076",
+                    "model": "LIKEAPP",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "LikeApp_TVApp_OpenSource_v1.0.zip"
+                }
+            ]
+        }
+    }
+}

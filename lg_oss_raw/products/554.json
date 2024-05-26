@@ -1,0 +1,228 @@
+{
+    "TV/AV>Monitor/Signage": {
+        "55EW5F-A": {
+            "description": "webOS3.2_M16_Signage_2",
+            "notice": [
+                {
+                    "osSeq": "507773",
+                    "model": "55EW5F-A",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-171011-webOS3.2M16Signage-2.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "507773",
+                    "model": "55EW5F-A",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS3.2_3.0_M16_Signage_OpenSource_V1.0_2.zip"
+                }
+            ]
+        },
+        "55EW5F-AB": {
+            "description": "webOS3.2_M16_Signage_2",
+            "notice": [
+                {
+                    "osSeq": "507773",
+                    "model": "55EW5F-AB",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-171011-webOS3.2M16Signage-2.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "507773",
+                    "model": "55EW5F-AB",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS3.2_3.0_M16_Signage_OpenSource_V1.0_2.zip"
+                }
+            ]
+        },
+        "55EW5F-AS": {
+            "description": "webOS3.2_M16_Signage_2",
+            "notice": [
+                {
+                    "osSeq": "507773",
+                    "model": "55EW5F-AS",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-171011-webOS3.2M16Signage-2.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "507773",
+                    "model": "55EW5F-AS",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS3.2_3.0_M16_Signage_OpenSource_V1.0_2.zip"
+                }
+            ]
+        },
+        "55EW5G-A": {
+            "description": "webOS4.0_M16++_Signage MR",
+            "notice": [
+                {
+                    "osSeq": "508876",
+                    "model": "55EW5G-A",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-1360_webOS4.0_M16++_Signage_MR_190107.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "508876",
+                    "model": "55EW5G-A",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS4.0_M16++_Signage_MR.zip"
+                }
+            ]
+        },
+        "55EW5G-VB": {
+            "description": "webOS4.0_M16++_Signage MR",
+            "notice": [
+                {
+                    "osSeq": "508876",
+                    "model": "55EW5G-VB",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-1360_webOS4.0_M16++_Signage_MR_190107.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "508876",
+                    "model": "55EW5G-VB",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS4.0_M16++_Signage_MR.zip"
+                }
+            ]
+        },
+        "55EW5G-VS": {
+            "description": "webOS4.0_M16++_Signage MR",
+            "notice": [
+                {
+                    "osSeq": "508876",
+                    "model": "55EW5G-VS",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-1360_webOS4.0_M16++_Signage_MR_190107.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "508876",
+                    "model": "55EW5G-VS",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS4.0_M16++_Signage_MR.zip"
+                }
+            ]
+        },
+        "55EW5L-R": {
+            "description": "webOS4.0_M16++_Signage MR3",
+            "notice": [
+                {
+                    "osSeq": "510978",
+                    "model": "55EW5L-R",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-4517_webOS4.0_M16++_Signage_MR3_220616.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "510978",
+                    "model": "55EW5L-R",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS4.0_M16++_Signage_MR3.zip"
+                }
+            ]
+        },
+        "55EW5N-R": {
+            "description": "webOS23_O22N_Signage",
+            "notice": [
+                {
+                    "osSeq": "511445",
+                    "model": "55EW5N-R",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-5415_webOS23_O22N_Signage_230721.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "511445",
+                    "model": "55EW5N-R",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS23_O22N_Signage_1.zip"
+                },
+                {
+                    "osSeq": "511445",
+                    "model": "55EW5N-R",
+                    "type": "Op",
+                    "fileId": "2",
+                    "filename": "webOS23_O22N_Signage_2.zip"
+                }
+            ]
+        },
+        "55EW5P-M": {
+            "description": "webOS23_O22N_Signage",
+            "notice": [
+                {
+                    "osSeq": "511445",
+                    "model": "55EW5P-M",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-5415_webOS23_O22N_Signage_230721.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "511445",
+                    "model": "55EW5P-M",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS23_O22N_Signage_1.zip"
+                },
+                {
+                    "osSeq": "511445",
+                    "model": "55EW5P-M",
+                    "type": "Op",
+                    "fileId": "2",
+                    "filename": "webOS23_O22N_Signage_2.zip"
+                }
+            ]
+        },
+        "55EW5PG-A": {
+            "description": "webOS4.0+_M16++_Signage MR",
+            "notice": [
+                {
+                    "osSeq": "510084",
+                    "model": "55EW5PG-A",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-3048_webOS4.0+_M16++_Signage_MR_200924.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "510084",
+                    "model": "55EW5PG-A",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS4.0+_M16++_Signage_MR.zip"
+                }
+            ]
+        }
+    }
+}

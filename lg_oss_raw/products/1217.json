@@ -1,0 +1,354 @@
+{
+    "TV/AV>TV": {
+        "OLED48C1PUB": {
+            "description": "webOS 6.0 ON 1.0",
+            "notice": [
+                {
+                    "osSeq": "510316",
+                    "model": "OLED48C1PUB",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-3255_webOS 6.0 ON_1.0_210203.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "510316",
+                    "model": "OLED48C1PUB",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS 6.0 ON_1.0_1.tar.gz"
+                },
+                {
+                    "osSeq": "510316",
+                    "model": "OLED48C1PUB",
+                    "type": "Op",
+                    "fileId": "2",
+                    "filename": "webOS 6.0 ON_1.0_2.tar.gz"
+                },
+                {
+                    "osSeq": "510316",
+                    "model": "OLED48C1PUB",
+                    "type": "Op",
+                    "fileId": "3",
+                    "filename": "webOS 6.0 ON_1.0_3.tar.gz"
+                }
+            ]
+        },
+        "OLED48C1PVB": {
+            "description": "webOS 6.0 ON 1.0",
+            "notice": [
+                {
+                    "osSeq": "510316",
+                    "model": "OLED48C1PVB",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-3255_webOS 6.0 ON_1.0_210203.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "510316",
+                    "model": "OLED48C1PVB",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS 6.0 ON_1.0_1.tar.gz"
+                },
+                {
+                    "osSeq": "510316",
+                    "model": "OLED48C1PVB",
+                    "type": "Op",
+                    "fileId": "2",
+                    "filename": "webOS 6.0 ON_1.0_2.tar.gz"
+                },
+                {
+                    "osSeq": "510316",
+                    "model": "OLED48C1PVB",
+                    "type": "Op",
+                    "fileId": "3",
+                    "filename": "webOS 6.0 ON_1.0_3.tar.gz"
+                }
+            ]
+        },
+        "OLED48C1RLA": {
+            "description": "webOS 6.0 ON 1.0",
+            "notice": [
+                {
+                    "osSeq": "510316",
+                    "model": "OLED48C1RLA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-3255_webOS 6.0 ON_1.0_210203.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "510316",
+                    "model": "OLED48C1RLA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS 6.0 ON_1.0_1.tar.gz"
+                },
+                {
+                    "osSeq": "510316",
+                    "model": "OLED48C1RLA",
+                    "type": "Op",
+                    "fileId": "2",
+                    "filename": "webOS 6.0 ON_1.0_2.tar.gz"
+                },
+                {
+                    "osSeq": "510316",
+                    "model": "OLED48C1RLA",
+                    "type": "Op",
+                    "fileId": "3",
+                    "filename": "webOS 6.0 ON_1.0_3.tar.gz"
+                }
+            ]
+        },
+        "OLED48C1XTZ": {
+            "description": "webOS 6.0 ON 1.0",
+            "notice": [
+                {
+                    "osSeq": "510316",
+                    "model": "OLED48C1XTZ",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-3255_webOS 6.0 ON_1.0_210203.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "510316",
+                    "model": "OLED48C1XTZ",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS 6.0 ON_1.0_1.tar.gz"
+                },
+                {
+                    "osSeq": "510316",
+                    "model": "OLED48C1XTZ",
+                    "type": "Op",
+                    "fileId": "2",
+                    "filename": "webOS 6.0 ON_1.0_2.tar.gz"
+                },
+                {
+                    "osSeq": "510316",
+                    "model": "OLED48C1XTZ",
+                    "type": "Op",
+                    "fileId": "3",
+                    "filename": "webOS 6.0 ON_1.0_3.tar.gz"
+                }
+            ]
+        },
+        "OLED48C21LA": {
+            "description": "webOS 23 O ReNew",
+            "notice": [
+                {
+                    "osSeq": "511655",
+                    "model": "OLED48C21LA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-6380_webOS 23 O_ReNew_240319.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "511655",
+                    "model": "OLED48C21LA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS 23 O_ReNew_1.tar.gz"
+                },
+                {
+                    "osSeq": "511655",
+                    "model": "OLED48C21LA",
+                    "type": "Op",
+                    "fileId": "2",
+                    "filename": "webOS 23 O_ReNew_2.tar.gz"
+                },
+                {
+                    "osSeq": "511655",
+                    "model": "OLED48C21LA",
+                    "type": "Op",
+                    "fileId": "3",
+                    "filename": "webOS 23 O_ReNew_3.tar.gz"
+                }
+            ]
+        },
+        "OLED48C22LB": {
+            "description": "webOS 23 O ReNew",
+            "notice": [
+                {
+                    "osSeq": "511655",
+                    "model": "OLED48C22LB",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-6380_webOS 23 O_ReNew_240319.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "511655",
+                    "model": "OLED48C22LB",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS 23 O_ReNew_1.tar.gz"
+                },
+                {
+                    "osSeq": "511655",
+                    "model": "OLED48C22LB",
+                    "type": "Op",
+                    "fileId": "2",
+                    "filename": "webOS 23 O_ReNew_2.tar.gz"
+                },
+                {
+                    "osSeq": "511655",
+                    "model": "OLED48C22LB",
+                    "type": "Op",
+                    "fileId": "3",
+                    "filename": "webOS 23 O_ReNew_3.tar.gz"
+                }
+            ]
+        },
+        "OLED48C24LA": {
+            "description": "webOS 23 O ReNew",
+            "notice": [
+                {
+                    "osSeq": "511655",
+                    "model": "OLED48C24LA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-6380_webOS 23 O_ReNew_240319.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "511655",
+                    "model": "OLED48C24LA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS 23 O_ReNew_1.tar.gz"
+                },
+                {
+                    "osSeq": "511655",
+                    "model": "OLED48C24LA",
+                    "type": "Op",
+                    "fileId": "2",
+                    "filename": "webOS 23 O_ReNew_2.tar.gz"
+                },
+                {
+                    "osSeq": "511655",
+                    "model": "OLED48C24LA",
+                    "type": "Op",
+                    "fileId": "3",
+                    "filename": "webOS 23 O_ReNew_3.tar.gz"
+                }
+            ]
+        },
+        "OLED48C25LB": {
+            "description": "webOS 23 O ReNew",
+            "notice": [
+                {
+                    "osSeq": "511655",
+                    "model": "OLED48C25LB",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-6380_webOS 23 O_ReNew_240319.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "511655",
+                    "model": "OLED48C25LB",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS 23 O_ReNew_1.tar.gz"
+                },
+                {
+                    "osSeq": "511655",
+                    "model": "OLED48C25LB",
+                    "type": "Op",
+                    "fileId": "2",
+                    "filename": "webOS 23 O_ReNew_2.tar.gz"
+                },
+                {
+                    "osSeq": "511655",
+                    "model": "OLED48C25LB",
+                    "type": "Op",
+                    "fileId": "3",
+                    "filename": "webOS 23 O_ReNew_3.tar.gz"
+                }
+            ]
+        },
+        "OLED48C26LA": {
+            "description": "webOS 23 O ReNew",
+            "notice": [
+                {
+                    "osSeq": "511655",
+                    "model": "OLED48C26LA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-6380_webOS 23 O_ReNew_240319.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "511655",
+                    "model": "OLED48C26LA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS 23 O_ReNew_1.tar.gz"
+                },
+                {
+                    "osSeq": "511655",
+                    "model": "OLED48C26LA",
+                    "type": "Op",
+                    "fileId": "2",
+                    "filename": "webOS 23 O_ReNew_2.tar.gz"
+                },
+                {
+                    "osSeq": "511655",
+                    "model": "OLED48C26LA",
+                    "type": "Op",
+                    "fileId": "3",
+                    "filename": "webOS 23 O_ReNew_3.tar.gz"
+                }
+            ]
+        },
+        "OLED48C26LB": {
+            "description": "webOS 22 O 1.0",
+            "notice": [
+                {
+                    "osSeq": "511211",
+                    "model": "OLED48C26LB",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-3926_webOS 22 O_1.0_221219.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "511211",
+                    "model": "OLED48C26LB",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS 22 O_1.0_1.tar.gz"
+                },
+                {
+                    "osSeq": "511211",
+                    "model": "OLED48C26LB",
+                    "type": "Op",
+                    "fileId": "2",
+                    "filename": "webOS 22 O_1.0_2.tar.gz"
+                },
+                {
+                    "osSeq": "511211",
+                    "model": "OLED48C26LB",
+                    "type": "Op",
+                    "fileId": "3",
+                    "filename": "webOS 22 O_1.0_3.tar.gz"
+                }
+            ]
+        }
+    }
+}

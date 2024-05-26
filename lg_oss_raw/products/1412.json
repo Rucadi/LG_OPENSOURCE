@@ -1,0 +1,203 @@
+{
+    "TV/AV>Projector": {
+        "PH510P-SP": {
+            "description": "L14 Projector Opensource",
+            "notice": [
+                {
+                    "osSeq": "506348",
+                    "model": "PH510P-SP",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "140604-PA1000,PW700,PH250-1.pdf"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "506348",
+                    "model": "PH510P-SP",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "L14_LGE_Projector_Open_Source_140422.bz2"
+                }
+            ]
+        },
+        "PH510PG-GL": {
+            "description": "L14 Projector Opensource",
+            "notice": [
+                {
+                    "osSeq": "506348",
+                    "model": "PH510PG-GL",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "140604-PA1000,PW700,PH250-1.pdf"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "506348",
+                    "model": "PH510PG-GL",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "L14_LGE_Projector_Open_Source_140422.bz2"
+                }
+            ]
+        },
+        "PH510PS-KR": {
+            "description": "L14 Projector Opensource",
+            "notice": [
+                {
+                    "osSeq": "506348",
+                    "model": "PH510PS-KR",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "140604-PA1000,PW700,PH250-1.pdf"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "506348",
+                    "model": "PH510PS-KR",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "L14_LGE_Projector_Open_Source_140422.bz2"
+                }
+            ]
+        },
+        "PH55HG-GL": {
+            "description": "L14 Projector Opensource",
+            "notice": [
+                {
+                    "osSeq": "506348",
+                    "model": "PH55HG-GL",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "140604-PA1000,PW700,PH250-1.pdf"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "506348",
+                    "model": "PH55HG-GL",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "L14_LGE_Projector_Open_Source_140422.bz2"
+                }
+            ]
+        },
+        "PU700R-CH": {
+            "description": "webOS22 UHD Projector 1.0",
+            "notice": [
+                {
+                    "osSeq": "511167",
+                    "model": "PU700R-CH",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-4763_webOS22 UHD Projector_1.0_221031.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "511167",
+                    "model": "PU700R-CH",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS22 UHD Projector_1.0_1.tar.gz"
+                },
+                {
+                    "osSeq": "511167",
+                    "model": "PU700R-CH",
+                    "type": "Op",
+                    "fileId": "2",
+                    "filename": "webOS22 UHD Projector_1.0_2.tar.gz"
+                }
+            ]
+        },
+        "PU700R-GL": {
+            "description": "webOS22 UHD Projector 1.0",
+            "notice": [
+                {
+                    "osSeq": "511167",
+                    "model": "PU700R-GL",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-4763_webOS22 UHD Projector_1.0_221031.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "511167",
+                    "model": "PU700R-GL",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS22 UHD Projector_1.0_1.tar.gz"
+                },
+                {
+                    "osSeq": "511167",
+                    "model": "PU700R-GL",
+                    "type": "Op",
+                    "fileId": "2",
+                    "filename": "webOS22 UHD Projector_1.0_2.tar.gz"
+                }
+            ]
+        }
+    },
+    "TV/AV>TV": {
+        "PROCENTRIC APPLICATION 3.7": {
+            "description": "ProCentric Application",
+            "notice": [
+                {
+                    "osSeq": "507138",
+                    "model": "PROCENTRIC APPLICATION 3.7",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-160304-Pro_CentricApplication3.7-1.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "507138",
+                    "model": "PROCENTRIC APPLICATION 3.7",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "PCA3.7_OpenSource.zip"
+                }
+            ]
+        },
+        "PROCENTRIC DIRECT": {
+            "description": "ProCentric Direct 5.5",
+            "notice": [
+                {
+                    "osSeq": "510969",
+                    "model": "PROCENTRIC DIRECT",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-4511_ProCentric Direct_5.5_220607.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "510969",
+                    "model": "PROCENTRIC DIRECT",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "ProCentric Direct_5.5.zip"
+                }
+            ]
+        }
+    },
+    "TV/AV>Monitor/Signage": {
+        "PROCENTRIC STAY": {
+            "description": "ProCentric Keeper App(iOS) 23R01",
+            "notice": [
+                {
+                    "osSeq": "511556",
+                    "model": "PROCENTRIC STAY",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-6062_ProCentric Keeper App(iOS)_23R01_231127.html"
+                }
+            ],
+            "source": []
+        }
+    }
+}

@@ -1,0 +1,214 @@
+{
+    "TV/AV>TV": {
+        "55UV961H-GA": {
+            "description": "webOS3.5_M16+_CommercialTV",
+            "notice": [
+                {
+                    "osSeq": "507936",
+                    "model": "55UV961H-GA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-537_webOS3.5 M16+ Commercial TV _170912.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "507936",
+                    "model": "55UV961H-GA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS3.5_M16+_CTV_OpenSource_V1.1.zip"
+                }
+            ]
+        },
+        "55UV961H-TA": {
+            "description": "webOS3.5_M16+_CommercialTV",
+            "notice": [
+                {
+                    "osSeq": "507936",
+                    "model": "55UV961H-TA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-537_webOS3.5 M16+ Commercial TV _170912.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "507936",
+                    "model": "55UV961H-TA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS3.5_M16+_CTV_OpenSource_V1.1.zip"
+                }
+            ]
+        },
+        "55UV970H-UC": {
+            "description": "webOS3.5_M16+_CommercialTV",
+            "notice": [
+                {
+                    "osSeq": "507936",
+                    "model": "55UV970H-UC",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-537_webOS3.5 M16+ Commercial TV _170912.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "507936",
+                    "model": "55UV970H-UC",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS3.5_M16+_CTV_OpenSource_V1.1.zip"
+                }
+            ]
+        },
+        "55UW340C-NA": {
+            "description": "L15_M1A_Commercial TV Open Source",
+            "notice": [
+                {
+                    "osSeq": "506326",
+                    "model": "55UW340C-NA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-150126-L15_M1A_CommercialTV-2.pdf"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "506326",
+                    "model": "55UW340C-NA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "L15_M1A_Commercial_Signage_Opensource_v1.0.zip"
+                }
+            ]
+        },
+        "55UW660H-UA": {
+            "description": "webOS3.0_M16_CommercialTV",
+            "notice": [
+                {
+                    "osSeq": "508277",
+                    "model": "55UW660H-UA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-785_webOS3.0_M16_CommercialTV_171126.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "508277",
+                    "model": "55UW660H-UA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS3.0_M16_CommercialTV.zip"
+                }
+            ]
+        },
+        "55UW660H-UD": {
+            "description": "webOS3.0_M16_CommercialTV",
+            "notice": [
+                {
+                    "osSeq": "508277",
+                    "model": "55UW660H-UD",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-785_webOS3.0_M16_CommercialTV_171126.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "508277",
+                    "model": "55UW660H-UD",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS3.0_M16_CommercialTV.zip"
+                }
+            ]
+        },
+        "55UW760H-CB": {
+            "description": "webOS3.0_M16_CommercialTV_2",
+            "notice": [
+                {
+                    "osSeq": "507303",
+                    "model": "55UW760H-CB",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-160404-webOS3.0M16CommercialTV-2.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "507303",
+                    "model": "55UW760H-CB",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS3.0_M16_CTV_OpenSource_V1.0_2.zip"
+                }
+            ]
+        },
+        "55UW760H-DA": {
+            "description": "webOS3.0_M16_CommercialTV_2",
+            "notice": [
+                {
+                    "osSeq": "507303",
+                    "model": "55UW760H-DA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-160404-webOS3.0M16CommercialTV-2.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "507303",
+                    "model": "55UW760H-DA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS3.0_M16_CTV_OpenSource_V1.0_2.zip"
+                }
+            ]
+        },
+        "55UW760H-NA": {
+            "description": "webOS3.0_M16_CommercialTV_2",
+            "notice": [
+                {
+                    "osSeq": "507303",
+                    "model": "55UW760H-NA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-160404-webOS3.0M16CommercialTV-2.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "507303",
+                    "model": "55UW760H-NA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS3.0_M16_CTV_OpenSource_V1.0_2.zip"
+                }
+            ]
+        },
+        "55UW760H-SA": {
+            "description": "webOS3.0_M16_CommercialTV_1",
+            "notice": [
+                {
+                    "osSeq": "507302",
+                    "model": "55UW760H-SA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-160404-webOS3.0M16CommercialTV-2.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "507302",
+                    "model": "55UW760H-SA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS3.0_M16_CTV_OpenSource_V1.0_1.zip"
+                }
+            ]
+        }
+    }
+}

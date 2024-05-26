@@ -1,0 +1,143 @@
+{
+    "TV/AV>Monitor/Signage": {
+        "86UL3J-BP": {
+            "description": "webOS6.0_M16P3_Signage MR6",
+            "notice": [
+                {
+                    "osSeq": "511528",
+                    "model": "86UL3J-BP",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-5907_webOS6.0_M16P3_Signage_MR6_231017.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "511528",
+                    "model": "86UL3J-BP",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS6.0_M16P3_Signage_MR6.zip"
+                }
+            ]
+        },
+        "86UL3J-EP": {
+            "description": "webOS6.0_M16P3_Signage MR6",
+            "notice": [
+                {
+                    "osSeq": "511528",
+                    "model": "86UL3J-EP",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-5907_webOS6.0_M16P3_Signage_MR6_231017.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "511528",
+                    "model": "86UL3J-EP",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS6.0_M16P3_Signage_MR6.zip"
+                }
+            ]
+        },
+        "86UL3J-MP": {
+            "description": "webOS6.0_M16P3_Signage MR6",
+            "notice": [
+                {
+                    "osSeq": "511528",
+                    "model": "86UL3J-MP",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-5907_webOS6.0_M16P3_Signage_MR6_231017.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "511528",
+                    "model": "86UL3J-MP",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS6.0_M16P3_Signage_MR6.zip"
+                }
+            ]
+        },
+        "86UL3J-NP": {
+            "description": "webOS6.0_M16P3_Signage MR6",
+            "notice": [
+                {
+                    "osSeq": "511528",
+                    "model": "86UL3J-NP",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-5907_webOS6.0_M16P3_Signage_MR6_231017.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "511528",
+                    "model": "86UL3J-NP",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS6.0_M16P3_Signage_MR6.zip"
+                }
+            ]
+        },
+        "86UM3C-BF": {
+            "description": "webOS2.0_H15_Signage_SCAP1.3",
+            "notice": [
+                {
+                    "osSeq": "507128",
+                    "model": "86UM3C-BF",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-160125-SCAP1.3-1.html"
+                }
+            ],
+            "source": []
+        },
+        "86UM3DG-HJ": {
+            "description": "webOS4.0+_M16++_Signage MR2",
+            "notice": [
+                {
+                    "osSeq": "510979",
+                    "model": "86UM3DG-HJ",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-4518_webOS4.0+_M16++_Signage_MR2_220616.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "510979",
+                    "model": "86UM3DG-HJ",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS4.0+_M16++_Signage_MR2.zip"
+                }
+            ]
+        },
+        "86UM3E-BJ": {
+            "description": "webOS4.0_M16++_Signage MR3",
+            "notice": [
+                {
+                    "osSeq": "510978",
+                    "model": "86UM3E-BJ",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-4517_webOS4.0_M16++_Signage_MR3_220616.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "510978",
+                    "model": "86UM3E-BJ",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS4.0_M16++_Signage_MR3.zip"
+                }
+            ]
+        }
+    }
+}

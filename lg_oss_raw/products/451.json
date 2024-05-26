@@ -1,0 +1,291 @@
+{
+    "TV/AV>TV": {
+        "49US765H0VA": {
+            "description": "webOS5.0_K6HP_CommercialTV",
+            "notice": [
+                {
+                    "osSeq": "509748",
+                    "model": "49US765H0VA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-2511_webOS5.0_K6HP_CommercialTV_200318.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "509748",
+                    "model": "49US765H0VA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS5.0_K6HP_CommercialTV_1.zip"
+                },
+                {
+                    "osSeq": "509748",
+                    "model": "49US765H0VA",
+                    "type": "Op",
+                    "fileId": "2",
+                    "filename": "webOS5.0_K6HP_CommercialTV_2.zip"
+                }
+            ]
+        },
+        "49US770H0UA": {
+            "description": "webOS5.0_K6HP_CommercialTV 1.1",
+            "notice": [
+                {
+                    "osSeq": "510077",
+                    "model": "49US770H0UA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-2887_webOS5.0_K6HP_CommercialTV_1.1_200831.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "510077",
+                    "model": "49US770H0UA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS5.0_K6HP_CommercialTV_1.1_1.zip"
+                },
+                {
+                    "osSeq": "510077",
+                    "model": "49US770H0UA",
+                    "type": "Op",
+                    "fileId": "2",
+                    "filename": "webOS5.0_K6HP_CommercialTV_1.1_2.zip"
+                }
+            ]
+        },
+        "49UT340H0UA": {
+            "description": "webOS4.5_M16P3_CommercialTV",
+            "notice": [
+                {
+                    "osSeq": "509112",
+                    "model": "49UT340H0UA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-1526_webOS4.5_M16P3_CommercialTV_190513.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "509112",
+                    "model": "49UT340H0UA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS4.5_M16P3_CommercialTV.zip"
+                }
+            ]
+        },
+        "49UT347H0UA": {
+            "description": "webOS4.5_M16P3_CommercialTV",
+            "notice": [
+                {
+                    "osSeq": "509112",
+                    "model": "49UT347H0UA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-1526_webOS4.5_M16P3_CommercialTV_190513.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "509112",
+                    "model": "49UT347H0UA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS4.5_M16P3_CommercialTV.zip"
+                }
+            ]
+        },
+        "49UT567H0UA": {
+            "description": "webOS4.5_M16P3_CommercialTV",
+            "notice": [
+                {
+                    "osSeq": "509112",
+                    "model": "49UT567H0UA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-1526_webOS4.5_M16P3_CommercialTV_190513.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "509112",
+                    "model": "49UT567H0UA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS4.5_M16P3_CommercialTV.zip"
+                }
+            ]
+        },
+        "49UT570H0UA": {
+            "description": "webOS4.5_M16P3_CommercialTV",
+            "notice": [
+                {
+                    "osSeq": "509112",
+                    "model": "49UT570H0UA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-1526_webOS4.5_M16P3_CommercialTV_190513.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "509112",
+                    "model": "49UT570H0UA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS4.5_M16P3_CommercialTV.zip"
+                }
+            ]
+        },
+        "49UT577H0UA": {
+            "description": "webOS4.5_M16P3_CommercialTV",
+            "notice": [
+                {
+                    "osSeq": "509112",
+                    "model": "49UT577H0UA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-1526_webOS4.5_M16P3_CommercialTV_190513.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "509112",
+                    "model": "49UT577H0UA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS4.5_M16P3_CommercialTV.zip"
+                }
+            ]
+        },
+        "49UT640S0CA": {
+            "description": "webOS4.5_M16P3_TVSignage",
+            "notice": [
+                {
+                    "osSeq": "509113",
+                    "model": "49UT640S0CA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-1685_webOS4.5_M16P3_TVSignage_190513.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "509113",
+                    "model": "49UT640S0CA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS4.5_M16P3_TVSignage.zip"
+                }
+            ]
+        },
+        "49UT640S0DA": {
+            "description": "webOS4.5_M16P3_TVSignage",
+            "notice": [
+                {
+                    "osSeq": "509113",
+                    "model": "49UT640S0DA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-1685_webOS4.5_M16P3_TVSignage_190513.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "509113",
+                    "model": "49UT640S0DA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS4.5_M16P3_TVSignage.zip"
+                }
+            ]
+        },
+        "49UT640S0SA": {
+            "description": "webOS4.5_M16P3_TVSignage",
+            "notice": [
+                {
+                    "osSeq": "509113",
+                    "model": "49UT640S0SA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-1685_webOS4.5_M16P3_TVSignage_190513.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "509113",
+                    "model": "49UT640S0SA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS4.5_M16P3_TVSignage.zip"
+                }
+            ]
+        },
+        "49UT640S0TA": {
+            "description": "webOS4.5_M16P3_TVSignage",
+            "notice": [
+                {
+                    "osSeq": "509113",
+                    "model": "49UT640S0TA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-1685_webOS4.5_M16P3_TVSignage_190513.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "509113",
+                    "model": "49UT640S0TA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS4.5_M16P3_TVSignage.zip"
+                }
+            ]
+        },
+        "49UT640S0UA": {
+            "description": "webOS4.5_M16P3_TVSignage",
+            "notice": [
+                {
+                    "osSeq": "509113",
+                    "model": "49UT640S0UA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-1685_webOS4.5_M16P3_TVSignage_190513.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "509113",
+                    "model": "49UT640S0UA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS4.5_M16P3_TVSignage.zip"
+                }
+            ]
+        },
+        "49UT640S0ZA": {
+            "description": "webOS4.5_M16P3_TVSignage",
+            "notice": [
+                {
+                    "osSeq": "509113",
+                    "model": "49UT640S0ZA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-1685_webOS4.5_M16P3_TVSignage_190513.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "509113",
+                    "model": "49UT640S0ZA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS4.5_M16P3_TVSignage.zip"
+                }
+            ]
+        }
+    }
+}

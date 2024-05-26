@@ -1,0 +1,370 @@
+{
+    "TV/AV>TV": {
+        "43LG73CMECA": {
+            "description": "webOS 4.5 IKLP 4.0",
+            "notice": [
+                {
+                    "osSeq": "510775",
+                    "model": "43LG73CMECA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-4153_webOS 4.5 IKLP_4.0_220114.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "510775",
+                    "model": "43LG73CMECA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS 4.5 IKLP_4.0_1.tar.gz"
+                },
+                {
+                    "osSeq": "510775",
+                    "model": "43LG73CMECA",
+                    "type": "Op",
+                    "fileId": "2",
+                    "filename": "webOS 4.5 IKLP_4.0_2.tar.gz"
+                }
+            ]
+        },
+        "43LH5000-UA": {
+            "description": "LH555B, LH5550, LH5000 TV",
+            "notice": [
+                {
+                    "osSeq": "507318",
+                    "model": "43LH5000-UA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "No_OpenSource.txt"
+                }
+            ],
+            "source": []
+        },
+        "43LH500T-TA": {
+            "description": "GeminiEU",
+            "notice": [
+                {
+                    "osSeq": "507387",
+                    "model": "43LH500T-TA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "No_OpenSource.txt"
+                }
+            ],
+            "source": []
+        },
+        "43LH500T-ZA": {
+            "description": "GeminiEU Open Source",
+            "notice": [
+                {
+                    "osSeq": "507082",
+                    "model": "43LH500T-ZA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-160127-GeminiEU-1.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "507082",
+                    "model": "43LH500T-ZA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "source_code_v1.zip"
+                }
+            ]
+        },
+        "43LH501C-ZA": {
+            "description": "GeminiEU Derivation Commercial TV",
+            "notice": [
+                {
+                    "osSeq": "507787",
+                    "model": "43LH501C-ZA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-160127-GeminiEU-1.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "507787",
+                    "model": "43LH501C-ZA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "source_code_v1.zip"
+                }
+            ]
+        },
+        "43LH5100-BF": {
+            "description": "L16 L LGE TV Open Source",
+            "notice": [
+                {
+                    "osSeq": "506981",
+                    "model": "43LH5100-BF",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-151222-L16L-4.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "506981",
+                    "model": "43LH5100-BF",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "L16L-r2907.tar.gz"
+                }
+            ]
+        },
+        "43LH5100-CA": {
+            "description": "L16 UMLC LGE TV Open Source",
+            "notice": [
+                {
+                    "osSeq": "506968",
+                    "model": "43LH5100-CA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-151123-L16UMLC-1.pdf"
+                }
+            ],
+            "source": []
+        },
+        "43LH5100-CE": {
+            "description": "L16 UMLC LGE TV Open Source",
+            "notice": [
+                {
+                    "osSeq": "506968",
+                    "model": "43LH5100-CE",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-151123-L16UMLC-1.pdf"
+                }
+            ],
+            "source": []
+        },
+        "43LH5100-DF": {
+            "description": "L16 L LGE TV Open Source",
+            "notice": [
+                {
+                    "osSeq": "506981",
+                    "model": "43LH5100-DF",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-151222-L16L-4.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "506981",
+                    "model": "43LH5100-DF",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "L16L-r2907.tar.gz"
+                }
+            ]
+        },
+        "43LH5100-NA": {
+            "description": "L16 L LGE TV Open Source",
+            "notice": [
+                {
+                    "osSeq": "506981",
+                    "model": "43LH5100-NA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-151222-L16L-4.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "506981",
+                    "model": "43LH5100-NA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "L16L-r2907.tar.gz"
+                }
+            ]
+        },
+        "43LH5100-SF": {
+            "description": "L16 L LGE TV Open Source",
+            "notice": [
+                {
+                    "osSeq": "506981",
+                    "model": "43LH5100-SF",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-151222-L16L-4.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "506981",
+                    "model": "43LH5100-SF",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "L16L-r2907.tar.gz"
+                }
+            ]
+        },
+        "43LH5100-ZE": {
+            "description": "L16 LP LGE TV Open Source",
+            "notice": [
+                {
+                    "osSeq": "506951",
+                    "model": "43LH5100-ZE",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-151127-L16LP-1.pdf"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "506951",
+                    "model": "43LH5100-ZE",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "L16LP-r2953.tar.gz"
+                }
+            ]
+        },
+        "43LH510A-TE": {
+            "description": "L16 UMR LGE TV Open Source",
+            "notice": [
+                {
+                    "osSeq": "506953",
+                    "model": "43LH510A-TE",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-160513-L16UMR-2.html"
+                }
+            ],
+            "source": []
+        },
+        "43LH510N-ZE": {
+            "description": "L16 LP LGE TV Open Source",
+            "notice": [
+                {
+                    "osSeq": "506951",
+                    "model": "43LH510N-ZE",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-151127-L16LP-1.pdf"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "506951",
+                    "model": "43LH510N-ZE",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "L16LP-r2953.tar.gz"
+                }
+            ]
+        },
+        "43LH510T-DF": {
+            "description": "L16 L LGE TV Open Source",
+            "notice": [
+                {
+                    "osSeq": "506981",
+                    "model": "43LH510T-DF",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-151222-L16L-4.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "506981",
+                    "model": "43LH510T-DF",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "L16L-r2907.tar.gz"
+                }
+            ]
+        },
+        "43LH510T-TD": {
+            "description": "L16 LP LGE TV Open Source",
+            "notice": [
+                {
+                    "osSeq": "506951",
+                    "model": "43LH510T-TD",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-151127-L16LP-1.pdf"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "506951",
+                    "model": "43LH510T-TD",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "L16LP-r2953.tar.gz"
+                }
+            ]
+        },
+        "43LH510T-TE": {
+            "description": "L16 LP LGE TV Open Source",
+            "notice": [
+                {
+                    "osSeq": "506951",
+                    "model": "43LH510T-TE",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-151127-L16LP-1.pdf"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "506951",
+                    "model": "43LH510T-TE",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "L16LP-r2953.tar.gz"
+                }
+            ]
+        },
+        "43LH510V-TD": {
+            "description": "L16 LP LGE TV Open Source",
+            "notice": [
+                {
+                    "osSeq": "506951",
+                    "model": "43LH510V-TD",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-151127-L16LP-1.pdf"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "506951",
+                    "model": "43LH510V-TD",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "L16LP-r2953.tar.gz"
+                }
+            ]
+        },
+        "43LH510V-ZA": {
+            "description": "L16 LP LGE TV Open Source",
+            "notice": [
+                {
+                    "osSeq": "506951",
+                    "model": "43LH510V-ZA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-151127-L16LP-1.pdf"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "506951",
+                    "model": "43LH510V-ZA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "L16LP-r2953.tar.gz"
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,354 @@
+{
+    "TV/AV>TV": {
+        "OLED55C32LA": {
+            "description": "webOS 23 O(F) 1.0",
+            "notice": [
+                {
+                    "osSeq": "511214",
+                    "model": "OLED55C32LA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-4526_webOS 23 O_1.0_221220.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "511214",
+                    "model": "OLED55C32LA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS 23 O_1.0_1.tar.gz"
+                },
+                {
+                    "osSeq": "511214",
+                    "model": "OLED55C32LA",
+                    "type": "Op",
+                    "fileId": "2",
+                    "filename": "webOS 23 O_1.0_2.tar.gz"
+                },
+                {
+                    "osSeq": "511214",
+                    "model": "OLED55C32LA",
+                    "type": "Op",
+                    "fileId": "3",
+                    "filename": "webOS 23 O_1.0_3.tar.gz"
+                }
+            ]
+        },
+        "OLED55C32LB": {
+            "description": "webOS 23 O(F) 1.0",
+            "notice": [
+                {
+                    "osSeq": "511214",
+                    "model": "OLED55C32LB",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-4526_webOS 23 O_1.0_221220.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "511214",
+                    "model": "OLED55C32LB",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS 23 O_1.0_1.tar.gz"
+                },
+                {
+                    "osSeq": "511214",
+                    "model": "OLED55C32LB",
+                    "type": "Op",
+                    "fileId": "2",
+                    "filename": "webOS 23 O_1.0_2.tar.gz"
+                },
+                {
+                    "osSeq": "511214",
+                    "model": "OLED55C32LB",
+                    "type": "Op",
+                    "fileId": "3",
+                    "filename": "webOS 23 O_1.0_3.tar.gz"
+                }
+            ]
+        },
+        "OLED55C34LA": {
+            "description": "webOS 23 O(F) 1.0",
+            "notice": [
+                {
+                    "osSeq": "511214",
+                    "model": "OLED55C34LA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-4526_webOS 23 O_1.0_221220.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "511214",
+                    "model": "OLED55C34LA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS 23 O_1.0_1.tar.gz"
+                },
+                {
+                    "osSeq": "511214",
+                    "model": "OLED55C34LA",
+                    "type": "Op",
+                    "fileId": "2",
+                    "filename": "webOS 23 O_1.0_2.tar.gz"
+                },
+                {
+                    "osSeq": "511214",
+                    "model": "OLED55C34LA",
+                    "type": "Op",
+                    "fileId": "3",
+                    "filename": "webOS 23 O_1.0_3.tar.gz"
+                }
+            ]
+        },
+        "OLED55C35LA": {
+            "description": "webOS 23 O(F) 1.0",
+            "notice": [
+                {
+                    "osSeq": "511214",
+                    "model": "OLED55C35LA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-4526_webOS 23 O_1.0_221220.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "511214",
+                    "model": "OLED55C35LA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS 23 O_1.0_1.tar.gz"
+                },
+                {
+                    "osSeq": "511214",
+                    "model": "OLED55C35LA",
+                    "type": "Op",
+                    "fileId": "2",
+                    "filename": "webOS 23 O_1.0_2.tar.gz"
+                },
+                {
+                    "osSeq": "511214",
+                    "model": "OLED55C35LA",
+                    "type": "Op",
+                    "fileId": "3",
+                    "filename": "webOS 23 O_1.0_3.tar.gz"
+                }
+            ]
+        },
+        "OLED55C35LB": {
+            "description": "webOS 23 O(F) 1.0",
+            "notice": [
+                {
+                    "osSeq": "511214",
+                    "model": "OLED55C35LB",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-4526_webOS 23 O_1.0_221220.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "511214",
+                    "model": "OLED55C35LB",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS 23 O_1.0_1.tar.gz"
+                },
+                {
+                    "osSeq": "511214",
+                    "model": "OLED55C35LB",
+                    "type": "Op",
+                    "fileId": "2",
+                    "filename": "webOS 23 O_1.0_2.tar.gz"
+                },
+                {
+                    "osSeq": "511214",
+                    "model": "OLED55C35LB",
+                    "type": "Op",
+                    "fileId": "3",
+                    "filename": "webOS 23 O_1.0_3.tar.gz"
+                }
+            ]
+        },
+        "OLED55C36LA": {
+            "description": "webOS 23 O(F) 1.0",
+            "notice": [
+                {
+                    "osSeq": "511214",
+                    "model": "OLED55C36LA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-4526_webOS 23 O_1.0_221220.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "511214",
+                    "model": "OLED55C36LA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS 23 O_1.0_1.tar.gz"
+                },
+                {
+                    "osSeq": "511214",
+                    "model": "OLED55C36LA",
+                    "type": "Op",
+                    "fileId": "2",
+                    "filename": "webOS 23 O_1.0_2.tar.gz"
+                },
+                {
+                    "osSeq": "511214",
+                    "model": "OLED55C36LA",
+                    "type": "Op",
+                    "fileId": "3",
+                    "filename": "webOS 23 O_1.0_3.tar.gz"
+                }
+            ]
+        },
+        "OLED55C36LC": {
+            "description": "webOS 23 O(F) 1.0",
+            "notice": [
+                {
+                    "osSeq": "511214",
+                    "model": "OLED55C36LC",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-4526_webOS 23 O_1.0_221220.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "511214",
+                    "model": "OLED55C36LC",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS 23 O_1.0_1.tar.gz"
+                },
+                {
+                    "osSeq": "511214",
+                    "model": "OLED55C36LC",
+                    "type": "Op",
+                    "fileId": "2",
+                    "filename": "webOS 23 O_1.0_2.tar.gz"
+                },
+                {
+                    "osSeq": "511214",
+                    "model": "OLED55C36LC",
+                    "type": "Op",
+                    "fileId": "3",
+                    "filename": "webOS 23 O_1.0_3.tar.gz"
+                }
+            ]
+        },
+        "OLED55C37LA": {
+            "description": "webOS 23 O(F) 1.0",
+            "notice": [
+                {
+                    "osSeq": "511214",
+                    "model": "OLED55C37LA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-4526_webOS 23 O_1.0_221220.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "511214",
+                    "model": "OLED55C37LA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS 23 O_1.0_1.tar.gz"
+                },
+                {
+                    "osSeq": "511214",
+                    "model": "OLED55C37LA",
+                    "type": "Op",
+                    "fileId": "2",
+                    "filename": "webOS 23 O_1.0_2.tar.gz"
+                },
+                {
+                    "osSeq": "511214",
+                    "model": "OLED55C37LA",
+                    "type": "Op",
+                    "fileId": "3",
+                    "filename": "webOS 23 O_1.0_3.tar.gz"
+                }
+            ]
+        },
+        "OLED55C38LA": {
+            "description": "webOS 23 O(F) 1.0",
+            "notice": [
+                {
+                    "osSeq": "511214",
+                    "model": "OLED55C38LA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-4526_webOS 23 O_1.0_221220.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "511214",
+                    "model": "OLED55C38LA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS 23 O_1.0_1.tar.gz"
+                },
+                {
+                    "osSeq": "511214",
+                    "model": "OLED55C38LA",
+                    "type": "Op",
+                    "fileId": "2",
+                    "filename": "webOS 23 O_1.0_2.tar.gz"
+                },
+                {
+                    "osSeq": "511214",
+                    "model": "OLED55C38LA",
+                    "type": "Op",
+                    "fileId": "3",
+                    "filename": "webOS 23 O_1.0_3.tar.gz"
+                }
+            ]
+        },
+        "OLED55C38LB": {
+            "description": "webOS 23 O(F) 1.0",
+            "notice": [
+                {
+                    "osSeq": "511214",
+                    "model": "OLED55C38LB",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-4526_webOS 23 O_1.0_221220.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "511214",
+                    "model": "OLED55C38LB",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS 23 O_1.0_1.tar.gz"
+                },
+                {
+                    "osSeq": "511214",
+                    "model": "OLED55C38LB",
+                    "type": "Op",
+                    "fileId": "2",
+                    "filename": "webOS 23 O_1.0_2.tar.gz"
+                },
+                {
+                    "osSeq": "511214",
+                    "model": "OLED55C38LB",
+                    "type": "Op",
+                    "fileId": "3",
+                    "filename": "webOS 23 O_1.0_3.tar.gz"
+                }
+            ]
+        }
+    }
+}

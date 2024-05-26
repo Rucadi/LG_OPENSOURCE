@@ -1,0 +1,402 @@
+{
+    "TV/AV>Monitor/Signage": {
+        "28LH450U-ZE": {
+            "description": "M1AP(16) Platform_04_08",
+            "notice": [
+                {
+                    "osSeq": "507161",
+                    "model": "28LH450U-ZE",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-151202-L16_M1AP_MTV-1.pdf"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "507161",
+                    "model": "28LH450U-ZE",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "L16_M1AP_MTV_OpenSource_v1.1.zip"
+                }
+            ]
+        },
+        "28LH451U-ZE": {
+            "description": "M1AP(16) Platform_09_08",
+            "notice": [
+                {
+                    "osSeq": "507433",
+                    "model": "28LH451U-ZE",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-151202-L16_M1AP_MTV-1.pdf"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "507433",
+                    "model": "28LH451U-ZE",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "L16_M1AP_MTV_OpenSource_v1.1.zip"
+                }
+            ]
+        },
+        "28LH4530-PU": {
+            "description": "M1L(16) Platform_02_09",
+            "notice": [
+                {
+                    "osSeq": "506972",
+                    "model": "28LH4530-PU",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "131202-L14_NonOS_MTV-1.pdf"
+                }
+            ],
+            "source": []
+        },
+        "28LH454A-TA": {
+            "description": "M8RR(16)_Platform",
+            "notice": [
+                {
+                    "osSeq": "506971",
+                    "model": "28LH454A-TA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-140522-M8RR_MTV-1.pdf"
+                }
+            ],
+            "source": []
+        },
+        "28LJ4540-PU": {
+            "description": "M1LP(16) Platform_12_16",
+            "notice": [
+                {
+                    "osSeq": "507467",
+                    "model": "28LJ4540-PU",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-160824-L16_M1LP_MTV-1.html"
+                }
+            ],
+            "source": []
+        },
+        "28LJ720B-PS": {
+            "description": "M1A(16) Platform_1024",
+            "notice": [
+                {
+                    "osSeq": "507454",
+                    "model": "28LJ720B-PS",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-151222-L16_M1A_MTV-1.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "507454",
+                    "model": "28LJ720B-PS",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "L16_L_MTV_OpenSource_v1.0.zip"
+                }
+            ]
+        },
+        "28LK451V-PZ": {
+            "description": "M1AP(16) Platform_03_06",
+            "notice": [
+                {
+                    "osSeq": "507038",
+                    "model": "28LK451V-PZ",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-151202-L16_M1AP_MTV-1.pdf"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "507038",
+                    "model": "28LK451V-PZ",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "L16_M1AP_MTV_OpenSource_v1.1.zip"
+                }
+            ]
+        },
+        "28LK480U-PZ": {
+            "description": "webOS DMR LGE Open Source",
+            "notice": [
+                {
+                    "osSeq": "507697",
+                    "model": "28LK480U-PZ",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-161025-webOSDMR-1.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "507697",
+                    "model": "28LK480U-PZ",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "DM2-r3147.tar.gz"
+                }
+            ]
+        },
+        "28LM520S-WU": {
+            "description": "webOS DMR LGE Open Source",
+            "notice": [
+                {
+                    "osSeq": "507697",
+                    "model": "28LM520S-WU",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-161025-webOSDMR-1.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "507697",
+                    "model": "28LM520S-WU",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "DM2-r3147.tar.gz"
+                }
+            ]
+        },
+        "28LN500B-14": {
+            "description": "L14 Platform_MTV",
+            "notice": [
+                {
+                    "osSeq": "10340",
+                    "model": "28LN500B-14",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "140306-L14_M1A_MTV_v0.2.pdf"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "10340",
+                    "model": "28LN500B-14",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "20141223144029_5.0_L_CO_FI_2014_Monitor.zip"
+                }
+            ]
+        },
+        "28LN500B-P": {
+            "description": "L14 Platform_MTV",
+            "notice": [
+                {
+                    "osSeq": "10340",
+                    "model": "28LN500B-P",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "140306-L14_M1A_MTV_v0.2.pdf"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "10340",
+                    "model": "28LN500B-P",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "20141223144029_5.0_L_CO_FI_2014_Monitor.zip"
+                }
+            ]
+        },
+        "28LN500B-PC": {
+            "description": "L14 Platform_MTV",
+            "notice": [
+                {
+                    "osSeq": "10340",
+                    "model": "28LN500B-PC",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "140306-L14_M1A_MTV_v0.2.pdf"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "10340",
+                    "model": "28LN500B-PC",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "20141223144029_5.0_L_CO_FI_2014_Monitor.zip"
+                }
+            ]
+        }
+    },
+    "TV/AV>TV": {
+        "28LH491U-ZA": {
+            "description": "NetCast4.5 M LH49 LGE TV Open Source",
+            "notice": [
+                {
+                    "osSeq": "507209",
+                    "model": "28LH491U-ZA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-160404-NetCast28LH49-2.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "507209",
+                    "model": "28LH491U-ZA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "NetCast4.5_M_CO_FI-2.zip"
+                }
+            ]
+        },
+        "28LN4100-MA": {
+            "description": "5.0UL LGE MTV Open Source",
+            "notice": [
+                {
+                    "osSeq": "11241",
+                    "model": "28LN4100-MA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-140522-M8RR_MTV-1.pdf"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "11241",
+                    "model": "28LN4100-MA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "N/A"
+                }
+            ]
+        },
+        "28LN4100-TA": {
+            "description": "5.0UL LGE MTV Open Source",
+            "notice": [
+                {
+                    "osSeq": "11241",
+                    "model": "28LN4100-TA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-140522-M8RR_MTV-1.pdf"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "11241",
+                    "model": "28LN4100-TA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "N/A"
+                }
+            ]
+        },
+        "28LN4105-TA": {
+            "description": "5.0UL LGE MTV Open Source",
+            "notice": [
+                {
+                    "osSeq": "11241",
+                    "model": "28LN4105-TA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-140522-M8RR_MTV-1.pdf"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "11241",
+                    "model": "28LN4105-TA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "N/A"
+                }
+            ]
+        },
+        "28LN4110-TB": {
+            "description": "5.0UL LGE MTV Open Source",
+            "notice": [
+                {
+                    "osSeq": "11241",
+                    "model": "28LN4110-TB",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-140522-M8RR_MTV-1.pdf"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "11241",
+                    "model": "28LN4110-TB",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "N/A"
+                }
+            ]
+        },
+        "28LN4130-TD": {
+            "description": "5.0UL LGE MTV Open Source",
+            "notice": [
+                {
+                    "osSeq": "11241",
+                    "model": "28LN4130-TD",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-140522-M8RR_MTV-1.pdf"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "11241",
+                    "model": "28LN4130-TD",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "N/A"
+                }
+            ]
+        },
+        "28LN413Y-TD": {
+            "description": "5.0UL LGE MTV Open Source",
+            "notice": [
+                {
+                    "osSeq": "11241",
+                    "model": "28LN413Y-TD",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-140522-M8RR_MTV-1.pdf"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "11241",
+                    "model": "28LN413Y-TD",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "N/A"
+                }
+            ]
+        },
+        "28LN4160-TG": {
+            "description": "5.0UL LGE MTV Open Source",
+            "notice": [
+                {
+                    "osSeq": "11241",
+                    "model": "28LN4160-TG",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-140522-M8RR_MTV-1.pdf"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "11241",
+                    "model": "28LN4160-TG",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "N/A"
+                }
+            ]
+        }
+    }
+}

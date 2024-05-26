@@ -1,0 +1,319 @@
+{
+    "TV/AV>Monitor/Signage": {
+        "27TK600D-WN": {
+            "description": "18Y_M1A_Platform",
+            "notice": [
+                {
+                    "osSeq": "508366",
+                    "model": "27TK600D-WN",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-856_18Y_M1A_Platform_180115.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "508366",
+                    "model": "27TK600D-WN",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "18Y_M1A_Platform.zip"
+                }
+            ]
+        },
+        "27TK600S-WH": {
+            "description": "webOS DMR LGE Open Source",
+            "notice": [
+                {
+                    "osSeq": "507697",
+                    "model": "27TK600S-WH",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-161025-webOSDMR-1.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "507697",
+                    "model": "27TK600S-WH",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "DM2-r3147.tar.gz"
+                }
+            ]
+        },
+        "27TK600V-WZ": {
+            "description": "L18_M1AP_Platform",
+            "notice": [
+                {
+                    "osSeq": "508322",
+                    "model": "27TK600V-WZ",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-794_L18 LMAP_1.0_171107.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "508322",
+                    "model": "27TK600V-WZ",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "L18 LMAP_1.0.tar.gz"
+                }
+            ]
+        },
+        "27TN600S-WN": {
+            "description": "webOS 4.5 IMR monitor",
+            "notice": [
+                {
+                    "osSeq": "509536",
+                    "model": "27TN600S-WN",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-2282_webOS 4.5 IMR monitor_191202.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "509536",
+                    "model": "27TN600S-WN",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS 4.5 IMR monitor_1.tar.gz"
+                },
+                {
+                    "osSeq": "509536",
+                    "model": "27TN600S-WN",
+                    "type": "Op",
+                    "fileId": "2",
+                    "filename": "webOS 4.5 IMR monitor_2.tar.gz"
+                }
+            ]
+        },
+        "27TNF3K-SP": {
+            "description": "webOS6.0_M16P3_Signage MR3",
+            "notice": [
+                {
+                    "osSeq": "510936",
+                    "model": "27TNF3K-SP",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-4445_webOS6.0_M16P3_Signage_MR3_220513.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "510936",
+                    "model": "27TNF3K-SP",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS6.0_M16P3_Signage_MR3_1.zip"
+                },
+                {
+                    "osSeq": "510936",
+                    "model": "27TNF3K-SP",
+                    "type": "Op",
+                    "fileId": "2",
+                    "filename": "webOS6.0_M16P3_Signage_MR3_2.zip"
+                }
+            ]
+        },
+        "27TQ600S-WH": {
+            "description": "webOS 22 KAP for Monitor 2.0",
+            "notice": [
+                {
+                    "osSeq": "511404",
+                    "model": "27TQ600S-WH",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-5503_webOS 22 KAP for Monitor_2.0_230615.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "511404",
+                    "model": "27TQ600S-WH",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS 22 KAP for Monitor_2.0_1.tar.gz"
+                },
+                {
+                    "osSeq": "511404",
+                    "model": "27TQ600S-WH",
+                    "type": "Op",
+                    "fileId": "2",
+                    "filename": "webOS 22 KAP for Monitor_2.0_2.tar.gz"
+                }
+            ]
+        },
+        "27TQ600S-WN": {
+            "description": "webOS 22 KAP for Monitor 2.0",
+            "notice": [
+                {
+                    "osSeq": "511404",
+                    "model": "27TQ600S-WN",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-5503_webOS 22 KAP for Monitor_2.0_230615.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "511404",
+                    "model": "27TQ600S-WN",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS 22 KAP for Monitor_2.0_1.tar.gz"
+                },
+                {
+                    "osSeq": "511404",
+                    "model": "27TQ600S-WN",
+                    "type": "Op",
+                    "fileId": "2",
+                    "filename": "webOS 22 KAP for Monitor_2.0_2.tar.gz"
+                }
+            ]
+        },
+        "27TQ600S-YN": {
+            "description": "webOS 22 KAP for Monitor 2.0",
+            "notice": [
+                {
+                    "osSeq": "511404",
+                    "model": "27TQ600S-YN",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-5503_webOS 22 KAP for Monitor_2.0_230615.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "511404",
+                    "model": "27TQ600S-YN",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS 22 KAP for Monitor_2.0_1.tar.gz"
+                },
+                {
+                    "osSeq": "511404",
+                    "model": "27TQ600S-YN",
+                    "type": "Op",
+                    "fileId": "2",
+                    "filename": "webOS 22 KAP for Monitor_2.0_2.tar.gz"
+                }
+            ]
+        },
+        "27TQ615S-PH": {
+            "description": "webOS 22 KAP for Monitor 2.0",
+            "notice": [
+                {
+                    "osSeq": "511404",
+                    "model": "27TQ615S-PH",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-5503_webOS 22 KAP for Monitor_2.0_230615.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "511404",
+                    "model": "27TQ615S-PH",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS 22 KAP for Monitor_2.0_1.tar.gz"
+                },
+                {
+                    "osSeq": "511404",
+                    "model": "27TQ615S-PH",
+                    "type": "Op",
+                    "fileId": "2",
+                    "filename": "webOS 22 KAP for Monitor_2.0_2.tar.gz"
+                }
+            ]
+        },
+        "27TQ615S-PN": {
+            "description": "webOS 22 KAP for Monitor 2.0",
+            "notice": [
+                {
+                    "osSeq": "511404",
+                    "model": "27TQ615S-PN",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-5503_webOS 22 KAP for Monitor_2.0_230615.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "511404",
+                    "model": "27TQ615S-PN",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS 22 KAP for Monitor_2.0_1.tar.gz"
+                },
+                {
+                    "osSeq": "511404",
+                    "model": "27TQ615S-PN",
+                    "type": "Op",
+                    "fileId": "2",
+                    "filename": "webOS 22 KAP for Monitor_2.0_2.tar.gz"
+                }
+            ]
+        },
+        "27TQ615S-PZ": {
+            "description": "webOS 22 KAP for Monitor 2.0",
+            "notice": [
+                {
+                    "osSeq": "511404",
+                    "model": "27TQ615S-PZ",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-5503_webOS 22 KAP for Monitor_2.0_230615.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "511404",
+                    "model": "27TQ615S-PZ",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS 22 KAP for Monitor_2.0_1.tar.gz"
+                },
+                {
+                    "osSeq": "511404",
+                    "model": "27TQ615S-PZ",
+                    "type": "Op",
+                    "fileId": "2",
+                    "filename": "webOS 22 KAP for Monitor_2.0_2.tar.gz"
+                }
+            ]
+        },
+        "27TQ615S-WN": {
+            "description": "webOS 22 KAP for Monitor",
+            "notice": [
+                {
+                    "osSeq": "510812",
+                    "model": "27TQ615S-WN",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-4141_webOS 22 KAP for Monitor_220215.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "510812",
+                    "model": "27TQ615S-WN",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS 22 KAP for Monitor_1.tar.gz"
+                },
+                {
+                    "osSeq": "510812",
+                    "model": "27TQ615S-WN",
+                    "type": "Op",
+                    "fileId": "2",
+                    "filename": "webOS 22 KAP for Monitor_2.tar.gz"
+                }
+            ]
+        }
+    }
+}

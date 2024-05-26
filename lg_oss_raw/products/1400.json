@@ -1,0 +1,389 @@
+{
+    "TV/AV>TV": {
+        "OLED83G4PTA": {
+            "description": "webOS 24 O 1.0_2303",
+            "notice": [
+                {
+                    "osSeq": "511646",
+                    "model": "OLED83G4PTA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-6351_webOS24 O_1.0_2303_240311.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "511646",
+                    "model": "OLED83G4PTA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS24 O_1.0_2303_1.tar.gz"
+                },
+                {
+                    "osSeq": "511646",
+                    "model": "OLED83G4PTA",
+                    "type": "Op",
+                    "fileId": "2",
+                    "filename": "webOS24 O_1.0_2303_2.tar.gz"
+                },
+                {
+                    "osSeq": "511646",
+                    "model": "OLED83G4PTA",
+                    "type": "Op",
+                    "fileId": "3",
+                    "filename": "webOS24 O_1.0_2303_3.tar.gz"
+                }
+            ]
+        },
+        "OLED83G4RLA": {
+            "description": "webOS 24 O 1.0_2303",
+            "notice": [
+                {
+                    "osSeq": "511646",
+                    "model": "OLED83G4RLA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-6351_webOS24 O_1.0_2303_240311.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "511646",
+                    "model": "OLED83G4RLA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS24 O_1.0_2303_1.tar.gz"
+                },
+                {
+                    "osSeq": "511646",
+                    "model": "OLED83G4RLA",
+                    "type": "Op",
+                    "fileId": "2",
+                    "filename": "webOS24 O_1.0_2303_2.tar.gz"
+                },
+                {
+                    "osSeq": "511646",
+                    "model": "OLED83G4RLA",
+                    "type": "Op",
+                    "fileId": "3",
+                    "filename": "webOS24 O_1.0_2303_3.tar.gz"
+                }
+            ]
+        },
+        "OLED83G4WUA": {
+            "description": "webOS 24 O 1.0_2303",
+            "notice": [
+                {
+                    "osSeq": "511646",
+                    "model": "OLED83G4WUA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-6351_webOS24 O_1.0_2303_240311.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "511646",
+                    "model": "OLED83G4WUA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS24 O_1.0_2303_1.tar.gz"
+                },
+                {
+                    "osSeq": "511646",
+                    "model": "OLED83G4WUA",
+                    "type": "Op",
+                    "fileId": "2",
+                    "filename": "webOS24 O_1.0_2303_2.tar.gz"
+                },
+                {
+                    "osSeq": "511646",
+                    "model": "OLED83G4WUA",
+                    "type": "Op",
+                    "fileId": "3",
+                    "filename": "webOS24 O_1.0_2303_3.tar.gz"
+                }
+            ]
+        },
+        "OLED83M36LA": {
+            "description": "webOS 23 O(F) 1.0",
+            "notice": [
+                {
+                    "osSeq": "511214",
+                    "model": "OLED83M36LA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-4526_webOS 23 O_1.0_221220.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "511214",
+                    "model": "OLED83M36LA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS 23 O_1.0_1.tar.gz"
+                },
+                {
+                    "osSeq": "511214",
+                    "model": "OLED83M36LA",
+                    "type": "Op",
+                    "fileId": "2",
+                    "filename": "webOS 23 O_1.0_2.tar.gz"
+                },
+                {
+                    "osSeq": "511214",
+                    "model": "OLED83M36LA",
+                    "type": "Op",
+                    "fileId": "3",
+                    "filename": "webOS 23 O_1.0_3.tar.gz"
+                }
+            ]
+        },
+        "OLED83M39LA": {
+            "description": "webOS 23 O(F) 1.0",
+            "notice": [
+                {
+                    "osSeq": "511214",
+                    "model": "OLED83M39LA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-4526_webOS 23 O_1.0_221220.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "511214",
+                    "model": "OLED83M39LA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS 23 O_1.0_1.tar.gz"
+                },
+                {
+                    "osSeq": "511214",
+                    "model": "OLED83M39LA",
+                    "type": "Op",
+                    "fileId": "2",
+                    "filename": "webOS 23 O_1.0_2.tar.gz"
+                },
+                {
+                    "osSeq": "511214",
+                    "model": "OLED83M39LA",
+                    "type": "Op",
+                    "fileId": "3",
+                    "filename": "webOS 23 O_1.0_3.tar.gz"
+                }
+            ]
+        },
+        "OLED83M3KNA": {
+            "description": "webOS 23 O(F) 1.0",
+            "notice": [
+                {
+                    "osSeq": "511214",
+                    "model": "OLED83M3KNA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-4526_webOS 23 O_1.0_221220.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "511214",
+                    "model": "OLED83M3KNA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS 23 O_1.0_1.tar.gz"
+                },
+                {
+                    "osSeq": "511214",
+                    "model": "OLED83M3KNA",
+                    "type": "Op",
+                    "fileId": "2",
+                    "filename": "webOS 23 O_1.0_2.tar.gz"
+                },
+                {
+                    "osSeq": "511214",
+                    "model": "OLED83M3KNA",
+                    "type": "Op",
+                    "fileId": "3",
+                    "filename": "webOS 23 O_1.0_3.tar.gz"
+                }
+            ]
+        },
+        "OLED83M3PSA": {
+            "description": "webOS 23 O(F) 1.0",
+            "notice": [
+                {
+                    "osSeq": "511214",
+                    "model": "OLED83M3PSA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-4526_webOS 23 O_1.0_221220.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "511214",
+                    "model": "OLED83M3PSA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS 23 O_1.0_1.tar.gz"
+                },
+                {
+                    "osSeq": "511214",
+                    "model": "OLED83M3PSA",
+                    "type": "Op",
+                    "fileId": "2",
+                    "filename": "webOS 23 O_1.0_2.tar.gz"
+                },
+                {
+                    "osSeq": "511214",
+                    "model": "OLED83M3PSA",
+                    "type": "Op",
+                    "fileId": "3",
+                    "filename": "webOS 23 O_1.0_3.tar.gz"
+                }
+            ]
+        },
+        "OLED83M3PUA": {
+            "description": "webOS 23 O(F) 1.0",
+            "notice": [
+                {
+                    "osSeq": "511214",
+                    "model": "OLED83M3PUA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-4526_webOS 23 O_1.0_221220.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "511214",
+                    "model": "OLED83M3PUA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS 23 O_1.0_1.tar.gz"
+                },
+                {
+                    "osSeq": "511214",
+                    "model": "OLED83M3PUA",
+                    "type": "Op",
+                    "fileId": "2",
+                    "filename": "webOS 23 O_1.0_2.tar.gz"
+                },
+                {
+                    "osSeq": "511214",
+                    "model": "OLED83M3PUA",
+                    "type": "Op",
+                    "fileId": "3",
+                    "filename": "webOS 23 O_1.0_3.tar.gz"
+                }
+            ]
+        },
+        "OLED83M46LA": {
+            "description": "webOS 24 O 1.0_2303",
+            "notice": [
+                {
+                    "osSeq": "511646",
+                    "model": "OLED83M46LA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-6351_webOS24 O_1.0_2303_240311.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "511646",
+                    "model": "OLED83M46LA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS24 O_1.0_2303_1.tar.gz"
+                },
+                {
+                    "osSeq": "511646",
+                    "model": "OLED83M46LA",
+                    "type": "Op",
+                    "fileId": "2",
+                    "filename": "webOS24 O_1.0_2303_2.tar.gz"
+                },
+                {
+                    "osSeq": "511646",
+                    "model": "OLED83M46LA",
+                    "type": "Op",
+                    "fileId": "3",
+                    "filename": "webOS24 O_1.0_2303_3.tar.gz"
+                }
+            ]
+        },
+        "OLED83M49LA": {
+            "description": "webOS 24 O 1.0_2303",
+            "notice": [
+                {
+                    "osSeq": "511646",
+                    "model": "OLED83M49LA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-6351_webOS24 O_1.0_2303_240311.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "511646",
+                    "model": "OLED83M49LA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS24 O_1.0_2303_1.tar.gz"
+                },
+                {
+                    "osSeq": "511646",
+                    "model": "OLED83M49LA",
+                    "type": "Op",
+                    "fileId": "2",
+                    "filename": "webOS24 O_1.0_2303_2.tar.gz"
+                },
+                {
+                    "osSeq": "511646",
+                    "model": "OLED83M49LA",
+                    "type": "Op",
+                    "fileId": "3",
+                    "filename": "webOS24 O_1.0_2303_3.tar.gz"
+                }
+            ]
+        },
+        "OLED83M4KNA": {
+            "description": "webOS 24 O 1.0",
+            "notice": [
+                {
+                    "osSeq": "511583",
+                    "model": "OLED83M4KNA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-5990_webOS 24 O_1.0_240102.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "511583",
+                    "model": "OLED83M4KNA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS 24 O_1.0_1.tar.gz"
+                },
+                {
+                    "osSeq": "511583",
+                    "model": "OLED83M4KNA",
+                    "type": "Op",
+                    "fileId": "2",
+                    "filename": "webOS 24 O_1.0_2.tar.gz"
+                },
+                {
+                    "osSeq": "511583",
+                    "model": "OLED83M4KNA",
+                    "type": "Op",
+                    "fileId": "3",
+                    "filename": "webOS 24 O_1.0_3.tar.gz"
+                }
+            ]
+        }
+    }
+}

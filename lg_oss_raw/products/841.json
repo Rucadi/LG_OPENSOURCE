@@ -1,0 +1,389 @@
+{
+    "TV/AV>TV": {
+        "65NANO956NA": {
+            "description": "webOS 6.0 ON 1.0",
+            "notice": [
+                {
+                    "osSeq": "510316",
+                    "model": "65NANO956NA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-3255_webOS 6.0 ON_1.0_210203.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "510316",
+                    "model": "65NANO956NA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS 6.0 ON_1.0_1.tar.gz"
+                },
+                {
+                    "osSeq": "510316",
+                    "model": "65NANO956NA",
+                    "type": "Op",
+                    "fileId": "2",
+                    "filename": "webOS 6.0 ON_1.0_2.tar.gz"
+                },
+                {
+                    "osSeq": "510316",
+                    "model": "65NANO956NA",
+                    "type": "Op",
+                    "fileId": "3",
+                    "filename": "webOS 6.0 ON_1.0_3.tar.gz"
+                }
+            ]
+        },
+        "65NANO956PA": {
+            "description": "webOS 6.0 EN 1.0",
+            "notice": [
+                {
+                    "osSeq": "510347",
+                    "model": "65NANO956PA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-3254_webOS 6.0 EN_1.0_210223.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "510347",
+                    "model": "65NANO956PA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS 6.0 EN_1.0_1.tar.gz"
+                },
+                {
+                    "osSeq": "510347",
+                    "model": "65NANO956PA",
+                    "type": "Op",
+                    "fileId": "2",
+                    "filename": "webOS 6.0 EN_1.0_2.tar.gz"
+                },
+                {
+                    "osSeq": "510347",
+                    "model": "65NANO956PA",
+                    "type": "Op",
+                    "fileId": "3",
+                    "filename": "webOS 6.0 EN_1.0_3.tar.gz"
+                }
+            ]
+        },
+        "65NANO959NA": {
+            "description": "webOS 6.0 EN 1.0",
+            "notice": [
+                {
+                    "osSeq": "510347",
+                    "model": "65NANO959NA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-3254_webOS 6.0 EN_1.0_210223.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "510347",
+                    "model": "65NANO959NA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS 6.0 EN_1.0_1.tar.gz"
+                },
+                {
+                    "osSeq": "510347",
+                    "model": "65NANO959NA",
+                    "type": "Op",
+                    "fileId": "2",
+                    "filename": "webOS 6.0 EN_1.0_2.tar.gz"
+                },
+                {
+                    "osSeq": "510347",
+                    "model": "65NANO959NA",
+                    "type": "Op",
+                    "fileId": "3",
+                    "filename": "webOS 6.0 EN_1.0_3.tar.gz"
+                }
+            ]
+        },
+        "65NANO959PA": {
+            "description": "webOS 6.0 EN 1.0",
+            "notice": [
+                {
+                    "osSeq": "510347",
+                    "model": "65NANO959PA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-3254_webOS 6.0 EN_1.0_210223.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "510347",
+                    "model": "65NANO959PA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS 6.0 EN_1.0_1.tar.gz"
+                },
+                {
+                    "osSeq": "510347",
+                    "model": "65NANO959PA",
+                    "type": "Op",
+                    "fileId": "2",
+                    "filename": "webOS 6.0 EN_1.0_2.tar.gz"
+                },
+                {
+                    "osSeq": "510347",
+                    "model": "65NANO959PA",
+                    "type": "Op",
+                    "fileId": "3",
+                    "filename": "webOS 6.0 EN_1.0_3.tar.gz"
+                }
+            ]
+        },
+        "65NANO95CNA": {
+            "description": "webOS 6.0 ON 1.0",
+            "notice": [
+                {
+                    "osSeq": "510316",
+                    "model": "65NANO95CNA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-3255_webOS 6.0 ON_1.0_210203.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "510316",
+                    "model": "65NANO95CNA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS 6.0 ON_1.0_1.tar.gz"
+                },
+                {
+                    "osSeq": "510316",
+                    "model": "65NANO95CNA",
+                    "type": "Op",
+                    "fileId": "2",
+                    "filename": "webOS 6.0 ON_1.0_2.tar.gz"
+                },
+                {
+                    "osSeq": "510316",
+                    "model": "65NANO95CNA",
+                    "type": "Op",
+                    "fileId": "3",
+                    "filename": "webOS 6.0 ON_1.0_3.tar.gz"
+                }
+            ]
+        },
+        "65NANO95SPA": {
+            "description": "webOS 6.0 EN 1.0",
+            "notice": [
+                {
+                    "osSeq": "510347",
+                    "model": "65NANO95SPA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-3254_webOS 6.0 EN_1.0_210223.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "510347",
+                    "model": "65NANO95SPA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS 6.0 EN_1.0_1.tar.gz"
+                },
+                {
+                    "osSeq": "510347",
+                    "model": "65NANO95SPA",
+                    "type": "Op",
+                    "fileId": "2",
+                    "filename": "webOS 6.0 EN_1.0_2.tar.gz"
+                },
+                {
+                    "osSeq": "510347",
+                    "model": "65NANO95SPA",
+                    "type": "Op",
+                    "fileId": "3",
+                    "filename": "webOS 6.0 EN_1.0_3.tar.gz"
+                }
+            ]
+        },
+        "65NANO95TNA": {
+            "description": "webOS 6.0 ON 1.0",
+            "notice": [
+                {
+                    "osSeq": "510316",
+                    "model": "65NANO95TNA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-3255_webOS 6.0 ON_1.0_210203.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "510316",
+                    "model": "65NANO95TNA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS 6.0 ON_1.0_1.tar.gz"
+                },
+                {
+                    "osSeq": "510316",
+                    "model": "65NANO95TNA",
+                    "type": "Op",
+                    "fileId": "2",
+                    "filename": "webOS 6.0 ON_1.0_2.tar.gz"
+                },
+                {
+                    "osSeq": "510316",
+                    "model": "65NANO95TNA",
+                    "type": "Op",
+                    "fileId": "3",
+                    "filename": "webOS 6.0 ON_1.0_3.tar.gz"
+                }
+            ]
+        },
+        "65NANO95TPA": {
+            "description": "webOS 6.0 EN 1.0",
+            "notice": [
+                {
+                    "osSeq": "510347",
+                    "model": "65NANO95TPA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-3254_webOS 6.0 EN_1.0_210223.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "510347",
+                    "model": "65NANO95TPA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS 6.0 EN_1.0_1.tar.gz"
+                },
+                {
+                    "osSeq": "510347",
+                    "model": "65NANO95TPA",
+                    "type": "Op",
+                    "fileId": "2",
+                    "filename": "webOS 6.0 EN_1.0_2.tar.gz"
+                },
+                {
+                    "osSeq": "510347",
+                    "model": "65NANO95TPA",
+                    "type": "Op",
+                    "fileId": "3",
+                    "filename": "webOS 6.0 EN_1.0_3.tar.gz"
+                }
+            ]
+        },
+        "65NANO95UNA": {
+            "description": "webOS 6.0 ON 1.0",
+            "notice": [
+                {
+                    "osSeq": "510316",
+                    "model": "65NANO95UNA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-3255_webOS 6.0 ON_1.0_210203.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "510316",
+                    "model": "65NANO95UNA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS 6.0 ON_1.0_1.tar.gz"
+                },
+                {
+                    "osSeq": "510316",
+                    "model": "65NANO95UNA",
+                    "type": "Op",
+                    "fileId": "2",
+                    "filename": "webOS 6.0 ON_1.0_2.tar.gz"
+                },
+                {
+                    "osSeq": "510316",
+                    "model": "65NANO95UNA",
+                    "type": "Op",
+                    "fileId": "3",
+                    "filename": "webOS 6.0 ON_1.0_3.tar.gz"
+                }
+            ]
+        },
+        "65NANO95UPA": {
+            "description": "webOS 6.0 EN 1.0",
+            "notice": [
+                {
+                    "osSeq": "510347",
+                    "model": "65NANO95UPA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-3254_webOS 6.0 EN_1.0_210223.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "510347",
+                    "model": "65NANO95UPA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS 6.0 EN_1.0_1.tar.gz"
+                },
+                {
+                    "osSeq": "510347",
+                    "model": "65NANO95UPA",
+                    "type": "Op",
+                    "fileId": "2",
+                    "filename": "webOS 6.0 EN_1.0_2.tar.gz"
+                },
+                {
+                    "osSeq": "510347",
+                    "model": "65NANO95UPA",
+                    "type": "Op",
+                    "fileId": "3",
+                    "filename": "webOS 6.0 EN_1.0_3.tar.gz"
+                }
+            ]
+        },
+        "65NANO95VNA": {
+            "description": "webOS 5.0 JO 2.0",
+            "notice": [
+                {
+                    "osSeq": "511222",
+                    "model": "65NANO95VNA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-3894_webOS 5.0 JO_2.0_221228.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "511222",
+                    "model": "65NANO95VNA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS 5.0 JO_2.0_1.tar.gz"
+                },
+                {
+                    "osSeq": "511222",
+                    "model": "65NANO95VNA",
+                    "type": "Op",
+                    "fileId": "2",
+                    "filename": "webOS 5.0 JO_2.0_2.tar.gz"
+                },
+                {
+                    "osSeq": "511222",
+                    "model": "65NANO95VNA",
+                    "type": "Op",
+                    "fileId": "3",
+                    "filename": "webOS 5.0 JO_2.0_3.tar.gz"
+                }
+            ]
+        }
+    }
+}

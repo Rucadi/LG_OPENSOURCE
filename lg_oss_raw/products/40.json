@@ -1,0 +1,468 @@
+{
+    "TV/AV>TV": {
+        "27ART10DQPL": {
+            "description": "webOS 6.0 LMUA 1.0",
+            "notice": [
+                {
+                    "osSeq": "510685",
+                    "model": "27ART10DQPL",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-3037_webOS 6.0 LMUA_1.0_211116.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "510685",
+                    "model": "27ART10DQPL",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS 6.0 LMUA_1.0_1.tar.gz"
+                },
+                {
+                    "osSeq": "510685",
+                    "model": "27ART10DQPL",
+                    "type": "Op",
+                    "fileId": "2",
+                    "filename": "webOS 6.0 LMUA_1.0_2.tar.gz"
+                },
+                {
+                    "osSeq": "510685",
+                    "model": "27ART10DQPL",
+                    "type": "Op",
+                    "fileId": "3",
+                    "filename": "webOS 6.0 LMUA_1.0_3.tar.gz"
+                }
+            ]
+        },
+        "27ART10DSPL": {
+            "description": "webOS 6.0 LMUA 1.0",
+            "notice": [
+                {
+                    "osSeq": "510685",
+                    "model": "27ART10DSPL",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-3037_webOS 6.0 LMUA_1.0_211116.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "510685",
+                    "model": "27ART10DSPL",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS 6.0 LMUA_1.0_1.tar.gz"
+                },
+                {
+                    "osSeq": "510685",
+                    "model": "27ART10DSPL",
+                    "type": "Op",
+                    "fileId": "2",
+                    "filename": "webOS 6.0 LMUA_1.0_2.tar.gz"
+                },
+                {
+                    "osSeq": "510685",
+                    "model": "27ART10DSPL",
+                    "type": "Op",
+                    "fileId": "3",
+                    "filename": "webOS 6.0 LMUA_1.0_3.tar.gz"
+                }
+            ]
+        }
+    },
+    "TV/AV>Monitor/Signage": {
+        "27BA75QB-BA": {
+            "description": "M_Odinson_Leona2_Nxp",
+            "notice": [
+                {
+                    "osSeq": "509858",
+                    "model": "27BA75QB-BA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-862_18Y_M_Odinson_4K_200324.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "509858",
+                    "model": "27BA75QB-BA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "18Y_M_Odinson_4K.zip"
+                }
+            ]
+        },
+        "27BA850-BA": {
+            "description": "M_Odinson_Leona2_Nxp",
+            "notice": [
+                {
+                    "osSeq": "509858",
+                    "model": "27BA850-BA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-862_18Y_M_Odinson_4K_200324.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "509858",
+                    "model": "27BA850-BA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "18Y_M_Odinson_4K.zip"
+                }
+            ]
+        },
+        "27BK67U-BA": {
+            "description": "M_Platform_applied_models",
+            "notice": [
+                {
+                    "osSeq": "508050",
+                    "model": "27BK67U-BA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-695_M_Platform_2018_1.0_170821.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "508050",
+                    "model": "27BK67U-BA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "M_Platform_1.0_bign.zip"
+                }
+            ]
+        },
+        "27BK67U-BK": {
+            "description": "RTK_Platform_Nxp",
+            "notice": [
+                {
+                    "osSeq": "509384",
+                    "model": "27BK67U-BK",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-2118_RTK_Platform_Nxp_190927.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "509384",
+                    "model": "27BK67U-BK",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "RTK_Platform_Nxp.zip"
+                }
+            ]
+        },
+        "27BL55U-BC": {
+            "description": "M_Platform_applied_models",
+            "notice": [
+                {
+                    "osSeq": "508050",
+                    "model": "27BL55U-BC",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-695_M_Platform_2018_1.0_170821.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "508050",
+                    "model": "27BL55U-BC",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "M_Platform_1.0_bign.zip"
+                }
+            ]
+        },
+        "27BL55U-BY": {
+            "description": "M_Platform_applied_models",
+            "notice": [
+                {
+                    "osSeq": "508050",
+                    "model": "27BL55U-BY",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-695_M_Platform_2018_1.0_170821.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "508050",
+                    "model": "27BL55U-BY",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "M_Platform_1.0_bign.zip"
+                }
+            ]
+        },
+        "27BL65U-WC": {
+            "description": "M_Platform_applied_models",
+            "notice": [
+                {
+                    "osSeq": "508050",
+                    "model": "27BL65U-WC",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-695_M_Platform_2018_1.0_170821.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "508050",
+                    "model": "27BL65U-WC",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "M_Platform_1.0_bign.zip"
+                }
+            ]
+        },
+        "27BL85U-WB": {
+            "description": "M_Leona_Platform_Nxp",
+            "notice": [
+                {
+                    "osSeq": "509413",
+                    "model": "27BL85U-WB",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-2137_M_Leona_Platform_Nxp_191129.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "509413",
+                    "model": "27BL85U-WB",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "M_Leona_Platform_Nxp_1.zip"
+                },
+                {
+                    "osSeq": "509413",
+                    "model": "27BL85U-WB",
+                    "type": "Op",
+                    "fileId": "2",
+                    "filename": "M_Leona_Platform_Nxp_2.zip"
+                }
+            ]
+        },
+        "27BL85U-WC": {
+            "description": "M_Leona_Platform_Nxp",
+            "notice": [
+                {
+                    "osSeq": "509413",
+                    "model": "27BL85U-WC",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-2137_M_Leona_Platform_Nxp_191129.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "509413",
+                    "model": "27BL85U-WC",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "M_Leona_Platform_Nxp_1.zip"
+                },
+                {
+                    "osSeq": "509413",
+                    "model": "27BL85U-WC",
+                    "type": "Op",
+                    "fileId": "2",
+                    "filename": "M_Leona_Platform_Nxp_2.zip"
+                }
+            ]
+        },
+        "27BL85U-WK": {
+            "description": "RTK_Platform_Nxp",
+            "notice": [
+                {
+                    "osSeq": "509384",
+                    "model": "27BL85U-WK",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-2118_RTK_Platform_Nxp_190927.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "509384",
+                    "model": "27BL85U-WK",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "RTK_Platform_Nxp.zip"
+                }
+            ]
+        },
+        "27BL85U-WY": {
+            "description": "RTK_Platform_Nxp",
+            "notice": [
+                {
+                    "osSeq": "509384",
+                    "model": "27BL85U-WY",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-2118_RTK_Platform_Nxp_190927.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "509384",
+                    "model": "27BL85U-WY",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "RTK_Platform_Nxp.zip"
+                }
+            ]
+        },
+        "27BN55U-BT": {
+            "description": "M_Odinson_Leona2",
+            "notice": [
+                {
+                    "osSeq": "509948",
+                    "model": "27BN55U-BT",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-2803_M_Odinson_Leona2_200714.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "509948",
+                    "model": "27BN55U-BT",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "M_Odinson_Leona2.zip"
+                }
+            ]
+        },
+        "27BN85U-BK": {
+            "description": "RTK_Platform_Nxp",
+            "notice": [
+                {
+                    "osSeq": "509384",
+                    "model": "27BN85U-BK",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-2118_RTK_Platform_Nxp_190927.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "509384",
+                    "model": "27BN85U-BK",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "RTK_Platform_Nxp.zip"
+                }
+            ]
+        },
+        "27BN85UN-BY": {
+            "description": "RTK_Platform_Nxp",
+            "notice": [
+                {
+                    "osSeq": "509384",
+                    "model": "27BN85UN-BY",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-2118_RTK_Platform_Nxp_190927.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "509384",
+                    "model": "27BN85UN-BY",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "RTK_Platform_Nxp.zip"
+                }
+            ]
+        },
+        "27BN88Q-BB": {
+            "description": "RTK_Platform_Nxp",
+            "notice": [
+                {
+                    "osSeq": "509384",
+                    "model": "27BN88Q-BB",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-2118_RTK_Platform_Nxp_190927.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "509384",
+                    "model": "27BN88Q-BB",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "RTK_Platform_Nxp.zip"
+                }
+            ]
+        },
+        "27BN88U-BK": {
+            "description": "RTK_Platform_Nxp",
+            "notice": [
+                {
+                    "osSeq": "509384",
+                    "model": "27BN88U-BK",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-2118_RTK_Platform_Nxp_190927.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "509384",
+                    "model": "27BN88U-BK",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "RTK_Platform_Nxp.zip"
+                }
+            ]
+        },
+        "27BN88U-BY": {
+            "description": "RTK_Platform_Nxp",
+            "notice": [
+                {
+                    "osSeq": "509384",
+                    "model": "27BN88U-BY",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-2118_RTK_Platform_Nxp_190927.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "509384",
+                    "model": "27BN88U-BY",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "RTK_Platform_Nxp.zip"
+                }
+            ]
+        },
+        "27BP55U-BY": {
+            "description": "RTK_Platform_Nxp",
+            "notice": [
+                {
+                    "osSeq": "509384",
+                    "model": "27BP55U-BY",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-2118_RTK_Platform_Nxp_190927.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "509384",
+                    "model": "27BP55U-BY",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "RTK_Platform_Nxp.zip"
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,144 @@
+{
+    "TV/AV>TV": {
+        "43LK6030PTC": {
+            "description": "webOS GM LGE TV Open Source",
+            "notice": [
+                {
+                    "osSeq": "508339",
+                    "model": "43LK6030PTC",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-767_webOS_4.0_GM_20171027100707.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "508339",
+                    "model": "43LK6030PTC",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "DM2-r3173.tar.gz"
+                }
+            ]
+        },
+        "43LK6100-NA": {
+            "description": "webOS 4.0 GM MR 2.0",
+            "notice": [
+                {
+                    "osSeq": "510799",
+                    "model": "43LK6100-NA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-1060_webOS 4.0 GM MR_2.0_220207.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "510799",
+                    "model": "43LK6100-NA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS 4.0 GM MR_2.0_1.tar.gz"
+                },
+                {
+                    "osSeq": "510799",
+                    "model": "43LK6100-NA",
+                    "type": "Op",
+                    "fileId": "2",
+                    "filename": "webOS 4.0 GM MR_2.0_2.zip"
+                }
+            ]
+        },
+        "43LK6100PCA": {
+            "description": "webOS GM LGE TV Open Source",
+            "notice": [
+                {
+                    "osSeq": "508339",
+                    "model": "43LK6100PCA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-767_webOS_4.0_GM_20171027100707.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "508339",
+                    "model": "43LK6100PCA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "DM2-r3173.tar.gz"
+                }
+            ]
+        },
+        "43LK6100PLA": {
+            "description": "webOS GM LGE TV Open Source",
+            "notice": [
+                {
+                    "osSeq": "508339",
+                    "model": "43LK6100PLA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-767_webOS_4.0_GM_20171027100707.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "508339",
+                    "model": "43LK6100PLA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "DM2-r3173.tar.gz"
+                }
+            ]
+        },
+        "43LK6100PLB": {
+            "description": "webOS GM LGE TV Open Source",
+            "notice": [
+                {
+                    "osSeq": "508339",
+                    "model": "43LK6100PLB",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-767_webOS_4.0_GM_20171027100707.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "508339",
+                    "model": "43LK6100PLB",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "DM2-r3173.tar.gz"
+                }
+            ]
+        },
+        "43LK6100PVA": {
+            "description": "webOS 4.0 GM MR 2.0",
+            "notice": [
+                {
+                    "osSeq": "510799",
+                    "model": "43LK6100PVA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-1060_webOS 4.0 GM MR_2.0_220207.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "510799",
+                    "model": "43LK6100PVA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS 4.0 GM MR_2.0_1.tar.gz"
+                },
+                {
+                    "osSeq": "510799",
+                    "model": "43LK6100PVA",
+                    "type": "Op",
+                    "fileId": "2",
+                    "filename": "webOS 4.0 GM MR_2.0_2.zip"
+                }
+            ]
+        }
+    }
+}

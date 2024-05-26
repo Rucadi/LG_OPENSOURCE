@@ -1,0 +1,424 @@
+{
+    "TV/AV>Monitor/Signage": {
+        "34WQ75C-BY": {
+            "description": "M_Odinson_Leona2_Nxp",
+            "notice": [
+                {
+                    "osSeq": "509858",
+                    "model": "34WQ75C-BY",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-862_18Y_M_Odinson_4K_200324.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "509858",
+                    "model": "34WQ75C-BY",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "18Y_M_Odinson_4K.zip"
+                }
+            ]
+        },
+        "34WQ75X-BL": {
+            "description": "M_Odinson_Leona2_Nxp",
+            "notice": [
+                {
+                    "osSeq": "509858",
+                    "model": "34WQ75X-BL",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-862_18Y_M_Odinson_4K_200324.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "509858",
+                    "model": "34WQ75X-BL",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "18Y_M_Odinson_4K.zip"
+                }
+            ]
+        },
+        "34WR50QC-BL": {
+            "description": "M_Odinson_Leona2",
+            "notice": [
+                {
+                    "osSeq": "509948",
+                    "model": "34WR50QC-BL",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-2803_M_Odinson_Leona2_200714.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "509948",
+                    "model": "34WR50QC-BL",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "M_Odinson_Leona2.zip"
+                }
+            ]
+        },
+        "34WR50QC-BY": {
+            "description": "M_Odinson_Leona2",
+            "notice": [
+                {
+                    "osSeq": "509948",
+                    "model": "34WR50QC-BY",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-2803_M_Odinson_Leona2_200714.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "509948",
+                    "model": "34WR50QC-BY",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "M_Odinson_Leona2.zip"
+                }
+            ]
+        },
+        "34WR50QK-BL": {
+            "description": "M_Odinson_Leona2",
+            "notice": [
+                {
+                    "osSeq": "509948",
+                    "model": "34WR50QK-BL",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-2803_M_Odinson_Leona2_200714.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "509948",
+                    "model": "34WR50QK-BL",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "M_Odinson_Leona2.zip"
+                }
+            ]
+        },
+        "35BN75C-BH": {
+            "description": "M_Leona_Platform_Nxp",
+            "notice": [
+                {
+                    "osSeq": "509413",
+                    "model": "35BN75C-BH",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-2137_M_Leona_Platform_Nxp_191129.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "509413",
+                    "model": "35BN75C-BH",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "M_Leona_Platform_Nxp_1.zip"
+                },
+                {
+                    "osSeq": "509413",
+                    "model": "35BN75C-BH",
+                    "type": "Op",
+                    "fileId": "2",
+                    "filename": "M_Leona_Platform_Nxp_2.zip"
+                }
+            ]
+        },
+        "35BN75C-BY.UUBUCKM": {
+            "description": "M_Odinson_Leona2",
+            "notice": [
+                {
+                    "osSeq": "509948",
+                    "model": "35BN75C-BY.UUBUCKM",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-2803_M_Odinson_Leona2_200714.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "509948",
+                    "model": "35BN75C-BY.UUBUCKM",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "M_Odinson_Leona2.zip"
+                }
+            ]
+        },
+        "35BN75C-BY.UUBUCYM": {
+            "description": "M_Platform_applied_models",
+            "notice": [
+                {
+                    "osSeq": "508050",
+                    "model": "35BN75C-BY.UUBUCYM",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-695_M_Platform_2018_1.0_170821.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "508050",
+                    "model": "35BN75C-BY.UUBUCYM",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "M_Platform_1.0_bign.zip"
+                }
+            ]
+        },
+        "35BN75CN-BH": {
+            "description": "M_Odinson_Leona2",
+            "notice": [
+                {
+                    "osSeq": "509948",
+                    "model": "35BN75CN-BH",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-2803_M_Odinson_Leona2_200714.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "509948",
+                    "model": "35BN75CN-BH",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "M_Odinson_Leona2.zip"
+                }
+            ]
+        },
+        "35BN75CN-BY": {
+            "description": "M_Odinson_Leona2",
+            "notice": [
+                {
+                    "osSeq": "509948",
+                    "model": "35BN75CN-BY",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-2803_M_Odinson_Leona2_200714.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "509948",
+                    "model": "35BN75CN-BY",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "M_Odinson_Leona2.zip"
+                }
+            ]
+        },
+        "35BN77C-BH": {
+            "description": "M_Leona_Platform_Nxp",
+            "notice": [
+                {
+                    "osSeq": "509413",
+                    "model": "35BN77C-BH",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-2137_M_Leona_Platform_Nxp_191129.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "509413",
+                    "model": "35BN77C-BH",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "M_Leona_Platform_Nxp_1.zip"
+                },
+                {
+                    "osSeq": "509413",
+                    "model": "35BN77C-BH",
+                    "type": "Op",
+                    "fileId": "2",
+                    "filename": "M_Leona_Platform_Nxp_2.zip"
+                }
+            ]
+        },
+        "35BN77CN-BH": {
+            "description": "M_Odinson_Leona2",
+            "notice": [
+                {
+                    "osSeq": "509948",
+                    "model": "35BN77CN-BH",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-2803_M_Odinson_Leona2_200714.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "509948",
+                    "model": "35BN77CN-BH",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "M_Odinson_Leona2.zip"
+                }
+            ]
+        },
+        "35BN77CP-BH": {
+            "description": "M_Odinson_Leona2_Nxp",
+            "notice": [
+                {
+                    "osSeq": "509858",
+                    "model": "35BN77CP-BH",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-862_18Y_M_Odinson_4K_200324.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "509858",
+                    "model": "35BN77CP-BH",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "18Y_M_Odinson_4K.zip"
+                }
+            ]
+        },
+        "35WN65C-BH": {
+            "description": "M_Platform_applied_models",
+            "notice": [
+                {
+                    "osSeq": "508050",
+                    "model": "35WN65C-BH",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-695_M_Platform_2018_1.0_170821.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "508050",
+                    "model": "35WN65C-BH",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "M_Platform_1.0_bign.zip"
+                }
+            ]
+        },
+        "35WN65C-BY.AUSUMKM": {
+            "description": "M_Odinson_Leona2",
+            "notice": [
+                {
+                    "osSeq": "509948",
+                    "model": "35WN65C-BY.AUSUMKM",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-2803_M_Odinson_Leona2_200714.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "509948",
+                    "model": "35WN65C-BY.AUSUMKM",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "M_Odinson_Leona2.zip"
+                }
+            ]
+        },
+        "35WN65C-BY.AUSUMKN": {
+            "description": "M_Odinson_Leona2",
+            "notice": [
+                {
+                    "osSeq": "509948",
+                    "model": "35WN65C-BY.AUSUMKN",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-2803_M_Odinson_Leona2_200714.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "509948",
+                    "model": "35WN65C-BY.AUSUMKN",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "M_Odinson_Leona2.zip"
+                }
+            ]
+        },
+        "35WN65C-BY.AUSUMYN": {
+            "description": "M_Platform_applied_models",
+            "notice": [
+                {
+                    "osSeq": "508050",
+                    "model": "35WN65C-BY.AUSUMYN",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-695_M_Platform_2018_1.0_170821.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "508050",
+                    "model": "35WN65C-BY.AUSUMYN",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "M_Platform_1.0_bign.zip"
+                }
+            ]
+        },
+        "35WN73A-BH": {
+            "description": "M_Leona_Platform_Nxp",
+            "notice": [
+                {
+                    "osSeq": "509413",
+                    "model": "35WN73A-BH",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-2137_M_Leona_Platform_Nxp_191129.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "509413",
+                    "model": "35WN73A-BH",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "M_Leona_Platform_Nxp_1.zip"
+                },
+                {
+                    "osSeq": "509413",
+                    "model": "35WN73A-BH",
+                    "type": "Op",
+                    "fileId": "2",
+                    "filename": "M_Leona_Platform_Nxp_2.zip"
+                }
+            ]
+        },
+        "35WN73AP-BH": {
+            "description": "M_Odinson_Leona2_Nxp",
+            "notice": [
+                {
+                    "osSeq": "509858",
+                    "model": "35WN73AP-BH",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-862_18Y_M_Odinson_4K_200324.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "509858",
+                    "model": "35WN73AP-BH",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "18Y_M_Odinson_4K.zip"
+                }
+            ]
+        }
+    }
+}

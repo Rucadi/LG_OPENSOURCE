@@ -1,0 +1,257 @@
+{
+    "TV/AV>AV": {
+        "DSPD75YA": {
+            "description": "21_22Y High-End SoundBar (8531) 2011250-",
+            "notice": [
+                {
+                    "osSeq": "510223",
+                    "model": "DSPD75YA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-2739_21Y High-End SoundBar_2011250-_201216.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "510223",
+                    "model": "DSPD75YA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "21Y High-End SoundBar_2011250-.zip"
+                }
+            ]
+        },
+        "DSPD7Y": {
+            "description": "21_22Y High-End SoundBar (8531) 2011250-",
+            "notice": [
+                {
+                    "osSeq": "510223",
+                    "model": "DSPD7Y",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-2739_21Y High-End SoundBar_2011250-_201216.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "510223",
+                    "model": "DSPD7Y",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "21Y High-End SoundBar_2011250-.zip"
+                }
+            ]
+        },
+        "DXG2TBK": {
+            "description": "24Y_WirelessSpeaker_XG2T_XO2T 231005A-",
+            "notice": [
+                {
+                    "osSeq": "511536",
+                    "model": "DXG2TBK",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-5864_24Y_WirelessSpeaker_XG2T_XO2T_231005A-_231023.html"
+                }
+            ],
+            "source": []
+        },
+        "DXO2TBE": {
+            "description": "24Y_WirelessSpeaker_XG2T_XO2T 231005A-",
+            "notice": [
+                {
+                    "osSeq": "511536",
+                    "model": "DXO2TBE",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-5864_24Y_WirelessSpeaker_XG2T_XO2T_231005A-_231023.html"
+                }
+            ],
+            "source": []
+        },
+        "DXO2TBK": {
+            "description": "24Y_WirelessSpeaker_XG2T_XO2T 231005A-",
+            "notice": [
+                {
+                    "osSeq": "511536",
+                    "model": "DXO2TBK",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-5864_24Y_WirelessSpeaker_XG2T_XO2T_231005A-_231023.html"
+                }
+            ],
+            "source": []
+        },
+        "G1": {
+            "description": "20Y High-End Soundbar (MT8531) 1911141~",
+            "notice": [
+                {
+                    "osSeq": "509595",
+                    "model": "G1",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-1805_20Y High-End Soundbar (MT8531)_1911141_200102.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "509595",
+                    "model": "G1",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "20Y High-End Soundbar (MT8531)_1911141.zip"
+                }
+            ]
+        }
+    },
+    "TV/AV>Monitor/Signage": {
+        "DUAL CONTROLLER": {
+            "description": "Dual Controller for Windows OS",
+            "notice": [
+                {
+                    "osSeq": "506267",
+                    "model": "DUAL CONTROLLER",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-141223-DualController-2.pdf"
+                }
+            ],
+            "source": []
+        },
+        "DUAL CONTROLLER 2.0": {
+            "description": "Dual Controller (win)",
+            "notice": [
+                {
+                    "osSeq": "508898",
+                    "model": "DUAL CONTROLLER 2.0",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-874_Dual Controller (win)_190103.html"
+                }
+            ],
+            "source": []
+        },
+        "DUAL CONTROLLER 2.1": {
+            "description": "Dual Controller (win)",
+            "notice": [
+                {
+                    "osSeq": "508898",
+                    "model": "DUAL CONTROLLER 2.1",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-874_Dual Controller (win)_190103.html"
+                }
+            ],
+            "source": []
+        },
+        "EASY SHELL": {
+            "description": "Thin Client - Easy Shell",
+            "notice": [
+                {
+                    "osSeq": "509608",
+                    "model": "EASY SHELL",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-1694_Thin Client - Easy Shell_200103.html"
+                }
+            ],
+            "source": []
+        },
+        "EVD007J-SBB": {
+            "description": "EV Charger (Standard)",
+            "notice": [
+                {
+                    "osSeq": "510702",
+                    "model": "EVD007J-SBB",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-3944_EV Charger (Standard)_211125.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "510702",
+                    "model": "EVD007J-SBB",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "EV Charger (Standard).zip"
+                }
+            ]
+        },
+        "EVD007J-SEB": {
+            "description": "EV Charger (Standard)",
+            "notice": [
+                {
+                    "osSeq": "510702",
+                    "model": "EVD007J-SEB",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-3944_EV Charger (Standard)_211125.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "510702",
+                    "model": "EVD007J-SEB",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "EV Charger (Standard).zip"
+                }
+            ]
+        },
+        "EVD100J-DBB": {
+            "description": "EV Charger (Fast)",
+            "notice": [
+                {
+                    "osSeq": "510785",
+                    "model": "EVD100J-DBB",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-4103_EV Charger (Fast)_220119.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "510785",
+                    "model": "EVD100J-DBB",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "EV Charger (Fast).zip"
+                }
+            ]
+        },
+        "EVD100J-DEB": {
+            "description": "EV Charger (Fast)",
+            "notice": [
+                {
+                    "osSeq": "510785",
+                    "model": "EVD100J-DEB",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-4103_EV Charger (Fast)_220119.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "510785",
+                    "model": "EVD100J-DEB",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "EV Charger (Fast).zip"
+                }
+            ]
+        },
+        "GEAA018-GQ8": {
+            "description": "SCAP API 1.6 / 1.7",
+            "notice": [
+                {
+                    "osSeq": "508373",
+                    "model": "GEAA018-GQ8",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-897_SCAP API_180122.html"
+                }
+            ],
+            "source": []
+        }
+    }
+}

@@ -1,0 +1,413 @@
+{
+    "TV/AV>TV": {
+        "AN-VC22PR": {
+            "description": "webOS_OSE_QCS7230_Network_WebCAM MR",
+            "notice": [
+                {
+                    "osSeq": "511560",
+                    "model": "AN-VC22PR",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-6065_webOS_OSE_QCS7230_Network_WebCAM_MR_231206.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "511560",
+                    "model": "AN-VC22PR",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS_OSE_QCS7230_Network_WebCAM_MR.zip"
+                }
+            ]
+        }
+    },
+    "TV/AV>Monitor/Signage": {
+        "ASHK100G": {
+            "description": "AWS",
+            "notice": [
+                {
+                    "osSeq": "509172",
+                    "model": "ASHK100G",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-1670_LG ASHK100G_190701.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "509172",
+                    "model": "ASHK100G",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "LG ASHK100G.zip"
+                }
+            ]
+        },
+        "ASHK100G(V.3.05 OR HIGHER)": {
+            "description": "AWS v.3.05, v3.06 or higher",
+            "notice": [
+                {
+                    "osSeq": "511368",
+                    "model": "ASHK100G(V.3.05 OR HIGHER)",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-5376_Acquisition Workstation Software_3.05 or higher_230511.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "511368",
+                    "model": "ASHK100G(V.3.05 OR HIGHER)",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "Acquisition Workstation Software_3.05 or higher.zip"
+                }
+            ]
+        },
+        "ASHNVET1": {
+            "description": "AWS v.3.05, v3.06 or higher",
+            "notice": [
+                {
+                    "osSeq": "511368",
+                    "model": "ASHNVET1",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-5376_Acquisition Workstation Software_3.05 or higher_230511.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "511368",
+                    "model": "ASHNVET1",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "Acquisition Workstation Software_3.05 or higher.zip"
+                }
+            ]
+        },
+        "BEANSTALLER": {
+            "description": "Beanstaller 2.0",
+            "notice": [
+                {
+                    "osSeq": "509924",
+                    "model": "BEANSTALLER",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-2791_Beanstaller_2.0_200708.html"
+                }
+            ],
+            "source": []
+        },
+        "BFP200-23": {
+            "description": "MST9UXX(17) Platform_02-20",
+            "notice": [
+                {
+                    "osSeq": "507558",
+                    "model": "BFP200-23",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-161026-BFP200-1.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "507558",
+                    "model": "BFP200-23",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "opensource_BFP200_v1.0.zip"
+                }
+            ]
+        },
+        "BFP200-27": {
+            "description": "MST9UXX(17) Platform_02-20",
+            "notice": [
+                {
+                    "osSeq": "507558",
+                    "model": "BFP200-27",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-161026-BFP200-1.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "507558",
+                    "model": "BFP200-27",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "opensource_BFP200_v1.0.zip"
+                }
+            ]
+        }
+    },
+    "TV/AV>Projector": {
+        "AU810PB-EU": {
+            "description": "webOS 5.0 Projector",
+            "notice": [
+                {
+                    "osSeq": "510093",
+                    "model": "AU810PB-EU",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-2784_webOS 5.0 Projector_200929.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "510093",
+                    "model": "AU810PB-EU",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS 5.0 Projector_1.tar.gz"
+                },
+                {
+                    "osSeq": "510093",
+                    "model": "AU810PB-EU",
+                    "type": "Op",
+                    "fileId": "2",
+                    "filename": "webOS 5.0 Projector_2.tar.gz"
+                }
+            ]
+        },
+        "AU810PB-NA": {
+            "description": "webOS 5.0 Projector",
+            "notice": [
+                {
+                    "osSeq": "510093",
+                    "model": "AU810PB-NA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-2784_webOS 5.0 Projector_200929.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "510093",
+                    "model": "AU810PB-NA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS 5.0 Projector_1.tar.gz"
+                },
+                {
+                    "osSeq": "510093",
+                    "model": "AU810PB-NA",
+                    "type": "Op",
+                    "fileId": "2",
+                    "filename": "webOS 5.0 Projector_2.tar.gz"
+                }
+            ]
+        },
+        "AU810PW-EU": {
+            "description": "webOS 5.0 Projector",
+            "notice": [
+                {
+                    "osSeq": "510093",
+                    "model": "AU810PW-EU",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-2784_webOS 5.0 Projector_200929.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "510093",
+                    "model": "AU810PW-EU",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS 5.0 Projector_1.tar.gz"
+                },
+                {
+                    "osSeq": "510093",
+                    "model": "AU810PW-EU",
+                    "type": "Op",
+                    "fileId": "2",
+                    "filename": "webOS 5.0 Projector_2.tar.gz"
+                }
+            ]
+        },
+        "BF40QS-GL": {
+            "description": "webOS 4.5 Projector",
+            "notice": [
+                {
+                    "osSeq": "509121",
+                    "model": "BF40QS-GL",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-1592_webOS 4.5 Projector_190515.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "509121",
+                    "model": "BF40QS-GL",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS 4.5 Projector.tar.gz"
+                }
+            ]
+        },
+        "BF40QS-KR": {
+            "description": "webOS 4.5 Projector",
+            "notice": [
+                {
+                    "osSeq": "509121",
+                    "model": "BF40QS-KR",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-1592_webOS 4.5 Projector_190515.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "509121",
+                    "model": "BF40QS-KR",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS 4.5 Projector.tar.gz"
+                }
+            ]
+        },
+        "BF50NST-GL": {
+            "description": "webOS 4.5 Projector",
+            "notice": [
+                {
+                    "osSeq": "509121",
+                    "model": "BF50NST-GL",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-1592_webOS 4.5 Projector_190515.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "509121",
+                    "model": "BF50NST-GL",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS 4.5 Projector.tar.gz"
+                }
+            ]
+        },
+        "BF50NST-KR": {
+            "description": "webOS 4.5 Projector",
+            "notice": [
+                {
+                    "osSeq": "509121",
+                    "model": "BF50NST-KR",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-1592_webOS 4.5 Projector_190515.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "509121",
+                    "model": "BF50NST-KR",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS 4.5 Projector.tar.gz"
+                }
+            ]
+        },
+        "BF50RG-GL": {
+            "description": "Signage_Projector_M16P3_webOS6.0 MR4",
+            "notice": [
+                {
+                    "osSeq": "511209",
+                    "model": "BF50RG-GL",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-4974_Signage_Projector_M16P3_webOS6.0_MR4_221216.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "511209",
+                    "model": "BF50RG-GL",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "Signage_Projector_M16P3_webOS6.0_MR4_1.zip"
+                },
+                {
+                    "osSeq": "511209",
+                    "model": "BF50RG-GL",
+                    "type": "Op",
+                    "fileId": "2",
+                    "filename": "Signage_Projector_M16P3_webOS6.0_MR4_2.zip"
+                }
+            ]
+        },
+        "BF60PST-GL": {
+            "description": "webOS 4.5 Projector",
+            "notice": [
+                {
+                    "osSeq": "509121",
+                    "model": "BF60PST-GL",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-1592_webOS 4.5 Projector_190515.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "509121",
+                    "model": "BF60PST-GL",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS 4.5 Projector.tar.gz"
+                }
+            ]
+        },
+        "BF60PST-KR": {
+            "description": "webOS 4.5 Projector",
+            "notice": [
+                {
+                    "osSeq": "509121",
+                    "model": "BF60PST-KR",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-1592_webOS 4.5 Projector_190515.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "509121",
+                    "model": "BF60PST-KR",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS 4.5 Projector.tar.gz"
+                }
+            ]
+        },
+        "BF60RG-GL": {
+            "description": "Signage_Projector_M16P3_webOS6.0 MR4",
+            "notice": [
+                {
+                    "osSeq": "511209",
+                    "model": "BF60RG-GL",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-4974_Signage_Projector_M16P3_webOS6.0_MR4_221216.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "511209",
+                    "model": "BF60RG-GL",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "Signage_Projector_M16P3_webOS6.0_MR4_1.zip"
+                },
+                {
+                    "osSeq": "511209",
+                    "model": "BF60RG-GL",
+                    "type": "Op",
+                    "fileId": "2",
+                    "filename": "Signage_Projector_M16P3_webOS6.0_MR4_2.zip"
+                }
+            ]
+        }
+    }
+}

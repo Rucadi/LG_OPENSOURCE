@@ -1,0 +1,406 @@
+{
+    "TV/AV>Monitor/Signage": {
+        "24TL510V-PZ": {
+            "description": "18Y_M1AP_Platform",
+            "notice": [
+                {
+                    "osSeq": "508429",
+                    "model": "24TL510V-PZ",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-861_18Y_M1AP_Platform_180115.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "508429",
+                    "model": "24TL510V-PZ",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "18Y_M1AP_Platform.tar.gz"
+                }
+            ]
+        },
+        "24TL510V-WZ": {
+            "description": "18Y_M1AP_Platform",
+            "notice": [
+                {
+                    "osSeq": "508429",
+                    "model": "24TL510V-WZ",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-861_18Y_M1AP_Platform_180115.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "508429",
+                    "model": "24TL510V-WZ",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "18Y_M1AP_Platform.tar.gz"
+                }
+            ]
+        },
+        "24TL520A-PM": {
+            "description": "M8RR(16)_Platform",
+            "notice": [
+                {
+                    "osSeq": "506971",
+                    "model": "24TL520A-PM",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-140522-M8RR_MTV-1.pdf"
+                }
+            ],
+            "source": []
+        },
+        "24TL520A-PT": {
+            "description": "M8RR(16)_Platform",
+            "notice": [
+                {
+                    "osSeq": "506971",
+                    "model": "24TL520A-PT",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-140522-M8RR_MTV-1.pdf"
+                }
+            ],
+            "source": []
+        },
+        "24TL520D-PS": {
+            "description": "18Y_M1A_Platform",
+            "notice": [
+                {
+                    "osSeq": "508366",
+                    "model": "24TL520D-PS",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-856_18Y_M1A_Platform_180115.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "508366",
+                    "model": "24TL520D-PS",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "18Y_M1A_Platform.zip"
+                }
+            ]
+        },
+        "24TL520D-PU": {
+            "description": "M1L(16) Platform_02_09",
+            "notice": [
+                {
+                    "osSeq": "506972",
+                    "model": "24TL520D-PU",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "131202-L14_NonOS_MTV-1.pdf"
+                }
+            ],
+            "source": []
+        },
+        "24TL520D-WN": {
+            "description": "18Y_M1A_Platform",
+            "notice": [
+                {
+                    "osSeq": "508366",
+                    "model": "24TL520D-WN",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-856_18Y_M1A_Platform_180115.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "508366",
+                    "model": "24TL520D-WN",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "18Y_M1A_Platform.zip"
+                }
+            ]
+        },
+        "24TL520D-WU": {
+            "description": "M1L(16) Platform_02_09",
+            "notice": [
+                {
+                    "osSeq": "506972",
+                    "model": "24TL520D-WU",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "131202-L14_NonOS_MTV-1.pdf"
+                }
+            ],
+            "source": []
+        },
+        "24TL520S-PS": {
+            "description": "webOS DMR LGE Open Source",
+            "notice": [
+                {
+                    "osSeq": "507697",
+                    "model": "24TL520S-PS",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-161025-webOSDMR-1.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "507697",
+                    "model": "24TL520S-PS",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "DM2-r3147.tar.gz"
+                }
+            ]
+        },
+        "24TL520S-PU": {
+            "description": "webOS DMR LGE Open Source",
+            "notice": [
+                {
+                    "osSeq": "507697",
+                    "model": "24TL520S-PU",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-161025-webOSDMR-1.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "507697",
+                    "model": "24TL520S-PU",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "DM2-r3147.tar.gz"
+                }
+            ]
+        },
+        "24TL520S-PZ": {
+            "description": "webOS DMR LGE Open Source",
+            "notice": [
+                {
+                    "osSeq": "507697",
+                    "model": "24TL520S-PZ",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-161025-webOSDMR-1.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "507697",
+                    "model": "24TL520S-PZ",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "DM2-r3147.tar.gz"
+                }
+            ]
+        },
+        "24TL520S-WS": {
+            "description": "webOS DMR LGE Open Source",
+            "notice": [
+                {
+                    "osSeq": "507697",
+                    "model": "24TL520S-WS",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-161025-webOSDMR-1.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "507697",
+                    "model": "24TL520S-WS",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "DM2-r3147.tar.gz"
+                }
+            ]
+        },
+        "24TL520U-PZ": {
+            "description": "18Y_M1AP_Platform",
+            "notice": [
+                {
+                    "osSeq": "508429",
+                    "model": "24TL520U-PZ",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-861_18Y_M1AP_Platform_180115.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "508429",
+                    "model": "24TL520U-PZ",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "18Y_M1AP_Platform.tar.gz"
+                }
+            ]
+        },
+        "24TL520V-PD": {
+            "description": "18Y_M1A_Platform",
+            "notice": [
+                {
+                    "osSeq": "508366",
+                    "model": "24TL520V-PD",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-856_18Y_M1A_Platform_180115.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "508366",
+                    "model": "24TL520V-PD",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "18Y_M1A_Platform.zip"
+                }
+            ]
+        },
+        "24TL520V-PT": {
+            "description": "18Y_M1AP_Platform",
+            "notice": [
+                {
+                    "osSeq": "508429",
+                    "model": "24TL520V-PT",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-861_18Y_M1AP_Platform_180115.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "508429",
+                    "model": "24TL520V-PT",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "18Y_M1AP_Platform.tar.gz"
+                }
+            ]
+        },
+        "24TL520V-PZ": {
+            "description": "18Y_M1AP_Platform",
+            "notice": [
+                {
+                    "osSeq": "508429",
+                    "model": "24TL520V-PZ",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-861_18Y_M1AP_Platform_180115.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "508429",
+                    "model": "24TL520V-PZ",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "18Y_M1AP_Platform.tar.gz"
+                }
+            ]
+        },
+        "24TL520V-WD": {
+            "description": "18Y_M1A_Platform",
+            "notice": [
+                {
+                    "osSeq": "508366",
+                    "model": "24TL520V-WD",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-856_18Y_M1A_Platform_180115.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "508366",
+                    "model": "24TL520V-WD",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "18Y_M1A_Platform.zip"
+                }
+            ]
+        },
+        "24TL520V-WZ": {
+            "description": "18Y_M1AP_Platform",
+            "notice": [
+                {
+                    "osSeq": "508429",
+                    "model": "24TL520V-WZ",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-861_18Y_M1AP_Platform_180115.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "508429",
+                    "model": "24TL520V-WZ",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "18Y_M1AP_Platform.tar.gz"
+                }
+            ]
+        },
+        "24TN510S-PH": {
+            "description": "webOS 4.5 IMR monitor",
+            "notice": [
+                {
+                    "osSeq": "509536",
+                    "model": "24TN510S-PH",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-2282_webOS 4.5 IMR monitor_191202.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "509536",
+                    "model": "24TN510S-PH",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS 4.5 IMR monitor_1.tar.gz"
+                },
+                {
+                    "osSeq": "509536",
+                    "model": "24TN510S-PH",
+                    "type": "Op",
+                    "fileId": "2",
+                    "filename": "webOS 4.5 IMR monitor_2.tar.gz"
+                }
+            ]
+        },
+        "24TN510S-PZ": {
+            "description": "webOS 4.5 IMR monitor",
+            "notice": [
+                {
+                    "osSeq": "509536",
+                    "model": "24TN510S-PZ",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-2282_webOS 4.5 IMR monitor_191202.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "509536",
+                    "model": "24TN510S-PZ",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS 4.5 IMR monitor_1.tar.gz"
+                },
+                {
+                    "osSeq": "509536",
+                    "model": "24TN510S-PZ",
+                    "type": "Op",
+                    "fileId": "2",
+                    "filename": "webOS 4.5 IMR monitor_2.tar.gz"
+                }
+            ]
+        }
+    }
+}

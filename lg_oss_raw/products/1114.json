@@ -1,0 +1,223 @@
+{
+    "TV/AV>Monitor/Signage": {
+        "75XF3ES-BH": {
+            "description": "webOS3.0_M16_Signage_2",
+            "notice": [
+                {
+                    "osSeq": "507279",
+                    "model": "75XF3ES-BH",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-170214-webOS3.0M16Signage-5.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "507279",
+                    "model": "75XF3ES-BH",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS3.2_3.0_M16_Signage_OpenSource_V1.0_2.zip"
+                }
+            ]
+        },
+        "75XF3P-BP": {
+            "description": "webOS6.0_M16P3_Signage MR5",
+            "notice": [
+                {
+                    "osSeq": "511336",
+                    "model": "75XF3P-BP",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-5298_webOS6.0_M16P3_Signage_MR5_230403.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "511336",
+                    "model": "75XF3P-BP",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS6.0_M16P3_Signage_MR5.zip"
+                }
+            ]
+        },
+        "75XS2C-BF": {
+            "description": "webOS3.0_M16_Signage_2",
+            "notice": [
+                {
+                    "osSeq": "507279",
+                    "model": "75XS2C-BF",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-170214-webOS3.0M16Signage-5.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "507279",
+                    "model": "75XS2C-BF",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS3.2_3.0_M16_Signage_OpenSource_V1.0_2.zip"
+                }
+            ]
+        },
+        "75XS2E-BH": {
+            "description": "webOS3.0_M16_Signage_2",
+            "notice": [
+                {
+                    "osSeq": "507279",
+                    "model": "75XS2E-BH",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-170214-webOS3.0M16Signage-5.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "507279",
+                    "model": "75XS2E-BH",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS3.2_3.0_M16_Signage_OpenSource_V1.0_2.zip"
+                }
+            ]
+        },
+        "75XS4G-BJ": {
+            "description": "webOS4.0+_M16++_Signage MR2",
+            "notice": [
+                {
+                    "osSeq": "510979",
+                    "model": "75XS4G-BJ",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-4518_webOS4.0+_M16++_Signage_MR2_220616.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "510979",
+                    "model": "75XS4G-BJ",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS4.0+_M16++_Signage_MR2.zip"
+                }
+            ]
+        },
+        "75XS4P-BP": {
+            "description": "webOS6.0_M16P3_Signage MR",
+            "notice": [
+                {
+                    "osSeq": "510741",
+                    "model": "75XS4P-BP",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-3875_webOS6.0_M16P3_Signage_MR_211230.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "510741",
+                    "model": "75XS4P-BP",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS6.0_M16P3_Signage_MR_1.zip"
+                },
+                {
+                    "osSeq": "510741",
+                    "model": "75XS4P-BP",
+                    "type": "Op",
+                    "fileId": "2",
+                    "filename": "webOS6.0_M16P3_Signage_MR_2.zip"
+                }
+            ]
+        }
+    },
+    "TV/AV>TV": {
+        "77AM960H0LD": {
+            "description": "webOS23_K8HP+_CommercialTV",
+            "notice": [
+                {
+                    "osSeq": "511320",
+                    "model": "77AM960H0LD",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-5181_webOS23_K8HP+_CommercialTV_230316.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "511320",
+                    "model": "77AM960H0LD",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS23_K8HP+_CommercialTV_1.zip"
+                },
+                {
+                    "osSeq": "511320",
+                    "model": "77AM960H0LD",
+                    "type": "Op",
+                    "fileId": "2",
+                    "filename": "webOS23_K8HP+_CommercialTV_2.zip"
+                }
+            ]
+        },
+        "77AM960H0UD": {
+            "description": "webOS23_K8HP+_CommercialTV",
+            "notice": [
+                {
+                    "osSeq": "511320",
+                    "model": "77AM960H0UD",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-5181_webOS23_K8HP+_CommercialTV_230316.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "511320",
+                    "model": "77AM960H0UD",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS23_K8HP+_CommercialTV_1.zip"
+                },
+                {
+                    "osSeq": "511320",
+                    "model": "77AM960H0UD",
+                    "type": "Op",
+                    "fileId": "2",
+                    "filename": "webOS23_K8HP+_CommercialTV_2.zip"
+                }
+            ]
+        },
+        "77AN960H0UD": {
+            "description": "webOS22_K8HP_K8LP_CommercialTV",
+            "notice": [
+                {
+                    "osSeq": "510888",
+                    "model": "77AN960H0UD",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-4270_webOS22_K8HP_CommercialTV_220329.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "510888",
+                    "model": "77AN960H0UD",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS22_K8HP_CommercialTV_1.zip"
+                },
+                {
+                    "osSeq": "510888",
+                    "model": "77AN960H0UD",
+                    "type": "Op",
+                    "fileId": "2",
+                    "filename": "webOS22_K8HP_CommercialTV_2.zip"
+                }
+            ]
+        }
+    }
+}

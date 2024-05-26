@@ -1,0 +1,333 @@
+{
+    "TV/AV>TV": {
+        "24LB454A-TG": {
+            "description": "5.0UL LGE MTV Open Source",
+            "notice": [
+                {
+                    "osSeq": "11241",
+                    "model": "24LB454A-TG",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-140522-M8RR_MTV-1.pdf"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "11241",
+                    "model": "24LB454A-TG",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "N/A"
+                }
+            ]
+        },
+        "24LB455A-TE": {
+            "description": "5.0UL LGE MTV Open Source",
+            "notice": [
+                {
+                    "osSeq": "11241",
+                    "model": "24LB455A-TE",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-140522-M8RR_MTV-1.pdf"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "11241",
+                    "model": "24LB455A-TE",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "N/A"
+                }
+            ]
+        },
+        "24LB457B-ZF": {
+            "description": "5.0L LGE MTV Open Source",
+            "notice": [
+                {
+                    "osSeq": "11240",
+                    "model": "24LB457B-ZF",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "140306-L14_M1A_MTV_v0.2.pdf"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "11240",
+                    "model": "24LB457B-ZF",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "5.0L LGE MTV Open Source-v1.2.zip"
+                }
+            ]
+        },
+        "24LB457U-ZF": {
+            "description": "5.0L LGE MTV Open Source",
+            "notice": [
+                {
+                    "osSeq": "11240",
+                    "model": "24LB457U-ZF",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "140306-L14_M1A_MTV_v0.2.pdf"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "11240",
+                    "model": "24LB457U-ZF",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "5.0L LGE MTV Open Source-v1.2.zip"
+                }
+            ]
+        },
+        "24LB458A-TK": {
+            "description": "5.0UL LGE MTV Open Source",
+            "notice": [
+                {
+                    "osSeq": "11241",
+                    "model": "24LB458A-TK",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-140522-M8RR_MTV-1.pdf"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "11241",
+                    "model": "24LB458A-TK",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "N/A"
+                }
+            ]
+        },
+        "24LB515A-TH": {
+            "description": "5.0UL LGE MTV Open Source",
+            "notice": [
+                {
+                    "osSeq": "11241",
+                    "model": "24LB515A-TH",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-140522-M8RR_MTV-1.pdf"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "11241",
+                    "model": "24LB515A-TH",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "N/A"
+                }
+            ]
+        }
+    },
+    "TV/AV>Monitor/Signage": {
+        "24LF430A-PT": {
+            "description": "M8RR(15) Platform_09_07",
+            "notice": [
+                {
+                    "osSeq": "506706",
+                    "model": "24LF430A-PT",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-140522-M8RR_MTV-1.pdf"
+                }
+            ],
+            "source": []
+        },
+        "24LF450A-TB": {
+            "description": "M8RRPaltform(15)-NonOS-OpenSource",
+            "notice": [
+                {
+                    "osSeq": "506320",
+                    "model": "24LF450A-TB",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-140522-M8RR_MTV-1.pdf"
+                }
+            ],
+            "source": []
+        },
+        "24LF450B-ZC": {
+            "description": "M1A(15) Platform_TV_04",
+            "notice": [
+                {
+                    "osSeq": "506411",
+                    "model": "24LF450B-ZC",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-150304-L15_M1A_MTV-1.pdf"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "506411",
+                    "model": "24LF450B-ZC",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "L15_L_LGE_MonitorTV_OpenSource_v1.1.zip"
+                }
+            ]
+        },
+        "24LF450D-TF": {
+            "description": "M1A(15) Platform_TV_04",
+            "notice": [
+                {
+                    "osSeq": "506411",
+                    "model": "24LF450D-TF",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-150304-L15_M1A_MTV-1.pdf"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "506411",
+                    "model": "24LF450D-TF",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "L15_L_LGE_MonitorTV_OpenSource_v1.1.zip"
+                }
+            ]
+        },
+        "24LF450U-ZC": {
+            "description": "M1A(15) Platform_TV_04",
+            "notice": [
+                {
+                    "osSeq": "506411",
+                    "model": "24LF450U-ZC",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-150304-L15_M1A_MTV-1.pdf"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "506411",
+                    "model": "24LF450U-ZC",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "L15_L_LGE_MonitorTV_OpenSource_v1.1.zip"
+                }
+            ]
+        },
+        "24LF450U-ZE": {
+            "description": "M1A(15) Platform_TV_04",
+            "notice": [
+                {
+                    "osSeq": "506411",
+                    "model": "24LF450U-ZE",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-150304-L15_M1A_MTV-1.pdf"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "506411",
+                    "model": "24LF450U-ZE",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "L15_L_LGE_MonitorTV_OpenSource_v1.1.zip"
+                }
+            ]
+        },
+        "24LF4520-WU": {
+            "description": "NonOS_Platform_05_18",
+            "notice": [
+                {
+                    "osSeq": "506409",
+                    "model": "24LF4520-WU",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "131202-L14_NonOS_MTV-1.pdf"
+                }
+            ],
+            "source": []
+        },
+        "24LF452A-TA": {
+            "description": "M8RRPaltform(15)-NonOS-OpenSource",
+            "notice": [
+                {
+                    "osSeq": "506320",
+                    "model": "24LF452A-TA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-140522-M8RR_MTV-1.pdf"
+                }
+            ],
+            "source": []
+        },
+        "24LF452B-PU": {
+            "description": "M1L_NonOS_0809",
+            "notice": [
+                {
+                    "osSeq": "506762",
+                    "model": "24LF452B-PU",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "131202-L14_NonOS_MTV-1.pdf"
+                }
+            ],
+            "source": []
+        },
+        "24LF454A-TG": {
+            "description": "M8RR Platform_03_30",
+            "notice": [
+                {
+                    "osSeq": "506502",
+                    "model": "24LF454A-TG",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-140522-M8RR_MTV-1.pdf"
+                }
+            ],
+            "source": []
+        },
+        "24LF454B-PU": {
+            "description": "M1LP(16) Platform_12_16",
+            "notice": [
+                {
+                    "osSeq": "507467",
+                    "model": "24LF454B-PU",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-160824-L16_M1LP_MTV-1.html"
+                }
+            ],
+            "source": []
+        },
+        "24LF457A-TI": {
+            "description": "M8RR(15) Platform_04_22",
+            "notice": [
+                {
+                    "osSeq": "506450",
+                    "model": "24LF457A-TI",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-140522-M8RR_MTV-1.pdf"
+                }
+            ],
+            "source": []
+        },
+        "24LF458A-TJ": {
+            "description": "M8RR Platform_04_17",
+            "notice": [
+                {
+                    "osSeq": "506503",
+                    "model": "24LF458A-TJ",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-140522-M8RR_MTV-1.pdf"
+                }
+            ],
+            "source": []
+        }
+    }
+}

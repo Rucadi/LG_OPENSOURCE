@@ -1,0 +1,256 @@
+{
+    "TV/AV>TV": {
+        "43LV640S-GB": {
+            "description": "webOS3.5_M2R_CommercialTV",
+            "notice": [
+                {
+                    "osSeq": "507948",
+                    "model": "43LV640S-GB",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-593_webOS3.5 Commercial TV_170911.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "507948",
+                    "model": "43LV640S-GB",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS3.5_M2R_CTV_OpenSource_V1.1.zip"
+                }
+            ]
+        },
+        "43LV640S-SB": {
+            "description": "webOS3.5_M2R_CommercialTV",
+            "notice": [
+                {
+                    "osSeq": "507948",
+                    "model": "43LV640S-SB",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-593_webOS3.5 Commercial TV_170911.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "507948",
+                    "model": "43LV640S-SB",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS3.5_M2R_CTV_OpenSource_V1.1.zip"
+                }
+            ]
+        },
+        "43LV640S-TB": {
+            "description": "webOS3.5_M2R_CommercialTV",
+            "notice": [
+                {
+                    "osSeq": "507948",
+                    "model": "43LV640S-TB",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-593_webOS3.5 Commercial TV_170911.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "507948",
+                    "model": "43LV640S-TB",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS3.5_M2R_CTV_OpenSource_V1.1.zip"
+                }
+            ]
+        },
+        "43LV640S-UB": {
+            "description": "webOS3.5_M2R_CommercialTV",
+            "notice": [
+                {
+                    "osSeq": "507948",
+                    "model": "43LV640S-UB",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-593_webOS3.5 Commercial TV_170911.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "507948",
+                    "model": "43LV640S-UB",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS3.5_M2R_CTV_OpenSource_V1.1.zip"
+                }
+            ]
+        },
+        "43LV640S-ZB": {
+            "description": "webOS3.5_M2R_CommercialTV",
+            "notice": [
+                {
+                    "osSeq": "507948",
+                    "model": "43LV640S-ZB",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-593_webOS3.5 Commercial TV_170911.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "507948",
+                    "model": "43LV640S-ZB",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS3.5_M2R_CTV_OpenSource_V1.1.zip"
+                }
+            ]
+        },
+        "43LV661H-ZA": {
+            "description": "webOS3.5_M16+_CommercialTV",
+            "notice": [
+                {
+                    "osSeq": "507936",
+                    "model": "43LV661H-ZA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-537_webOS3.5 M16+ Commercial TV _170912.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "507936",
+                    "model": "43LV661H-ZA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS3.5_M16+_CTV_OpenSource_V1.1.zip"
+                }
+            ]
+        },
+        "43LV662H-ZC": {
+            "description": "webOS3.5_M16+_CommercialTV",
+            "notice": [
+                {
+                    "osSeq": "507936",
+                    "model": "43LV662H-ZC",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-537_webOS3.5 M16+ Commercial TV _170912.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "507936",
+                    "model": "43LV662H-ZC",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS3.5_M16+_CTV_OpenSource_V1.1.zip"
+                }
+            ]
+        },
+        "43LV751H-GA": {
+            "description": "webOS3.0_M16_CommercialTV_2",
+            "notice": [
+                {
+                    "osSeq": "507303",
+                    "model": "43LV751H-GA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-160404-webOS3.0M16CommercialTV-2.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "507303",
+                    "model": "43LV751H-GA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS3.0_M16_CTV_OpenSource_V1.0_2.zip"
+                }
+            ]
+        },
+        "43LV761H-TA": {
+            "description": "webOS3.5_M16+_CommercialTV",
+            "notice": [
+                {
+                    "osSeq": "507936",
+                    "model": "43LV761H-TA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-537_webOS3.5 M16+ Commercial TV _170912.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "507936",
+                    "model": "43LV761H-TA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS3.5_M16+_CTV_OpenSource_V1.1.zip"
+                }
+            ]
+        },
+        "43LV761H-ZA": {
+            "description": "webOS3.5_M16+_CommercialTV",
+            "notice": [
+                {
+                    "osSeq": "507936",
+                    "model": "43LV761H-ZA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-537_webOS3.5 M16+ Commercial TV _170912.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "507936",
+                    "model": "43LV761H-ZA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS3.5_M16+_CTV_OpenSource_V1.1.zip"
+                }
+            ]
+        },
+        "43LV761H-ZD": {
+            "description": "webOS3.5_M16+_CommercialTV",
+            "notice": [
+                {
+                    "osSeq": "507936",
+                    "model": "43LV761H-ZD",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-537_webOS3.5 M16+ Commercial TV _170912.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "507936",
+                    "model": "43LV761H-ZD",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS3.5_M16+_CTV_OpenSource_V1.1.zip"
+                }
+            ]
+        },
+        "43LV762M-GC": {
+            "description": "webOS3.5 M16+ Commercial TV MR",
+            "notice": [
+                {
+                    "osSeq": "508576",
+                    "model": "43LV762M-GC",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-912_webOS3.5 M16+ Commercial TV_MR_180509.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "508576",
+                    "model": "43LV762M-GC",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS3.5 M16+ Commercial TV_MR.zip"
+                }
+            ]
+        }
+    }
+}

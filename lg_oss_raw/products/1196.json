@@ -1,0 +1,171 @@
+{
+    "TV/AV>Monitor/Signage": {
+        "LCLG005-A": {
+            "description": "webOS4.0_M16++_Signage",
+            "notice": [
+                {
+                    "osSeq": "508481",
+                    "model": "LCLG005-A",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-880_webOS4.0_M16++_Signage_180313.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "508481",
+                    "model": "LCLG005-A",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS4.0_M16++_Signage.zip"
+                }
+            ]
+        },
+        "LCLG005-B": {
+            "description": "webOS4.0_M16++_Signage",
+            "notice": [
+                {
+                    "osSeq": "508481",
+                    "model": "LCLG005-B",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-880_webOS4.0_M16++_Signage_180313.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "508481",
+                    "model": "LCLG005-B",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS4.0_M16++_Signage.zip"
+                }
+            ]
+        },
+        "LCLG005-C": {
+            "description": "webOS4.0_M16++_Signage",
+            "notice": [
+                {
+                    "osSeq": "508481",
+                    "model": "LCLG005-C",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-880_webOS4.0_M16++_Signage_180313.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "508481",
+                    "model": "LCLG005-C",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS4.0_M16++_Signage.zip"
+                }
+            ]
+        },
+        "LCLG005-D": {
+            "description": "webOS4.0_M16++_Signage",
+            "notice": [
+                {
+                    "osSeq": "508481",
+                    "model": "LCLG005-D",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-880_webOS4.0_M16++_Signage_180313.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "508481",
+                    "model": "LCLG005-D",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS4.0_M16++_Signage.zip"
+                }
+            ]
+        },
+        "LCLG006": {
+            "description": "webOS4.0_M16++_Signage MR3",
+            "notice": [
+                {
+                    "osSeq": "510978",
+                    "model": "LCLG006",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-4517_webOS4.0_M16++_Signage_MR3_220616.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "510978",
+                    "model": "LCLG006",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS4.0_M16++_Signage_MR3.zip"
+                }
+            ]
+        },
+        "LCLG007 (CSAA-012X)": {
+            "description": "webOS4.0+_M16++_Signage LED",
+            "notice": [
+                {
+                    "osSeq": "509828",
+                    "model": "LCLG007 (CSAA-012X)",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-2415_webOS4.0+_M16++_Signage_LED_200226.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "509828",
+                    "model": "LCLG007 (CSAA-012X)",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS4.0+_M16++_Signage_LED.zip"
+                }
+            ]
+        },
+        "LED ASSISTANT": {
+            "description": "LED Assistant 2.1.59",
+            "notice": [
+                {
+                    "osSeq": "511436",
+                    "model": "LED ASSISTANT",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-5591_LED Assistant_2.1.59_230718.html"
+                }
+            ],
+            "source": []
+        },
+        "LED CALIBRATOR": {
+            "description": "LED Calibrator 1.0",
+            "notice": [
+                {
+                    "osSeq": "509623",
+                    "model": "LED CALIBRATOR",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-2360_LED Calibrator_1.0_200115.html"
+                }
+            ],
+            "source": []
+        }
+    },
+    "TV/AV>AV": {
+        "LG AUDIO FOR ANDROID": {
+            "description": "LG Audio APP for Android (latest)",
+            "notice": [
+                {
+                    "osSeq": "509480",
+                    "model": "LG AUDIO FOR ANDROID",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-2252_LG Audio APP for Android_1.0.0-_191105.html"
+                }
+            ],
+            "source": []
+        }
+    }
+}

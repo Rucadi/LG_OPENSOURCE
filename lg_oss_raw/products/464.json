@@ -1,0 +1,213 @@
+{
+    "TV/AV>Monitor/Signage": {
+        "49XE5K-BP": {
+            "description": "webOS6.0_M16P3_Signage MR3",
+            "notice": [
+                {
+                    "osSeq": "510936",
+                    "model": "49XE5K-BP",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-4445_webOS6.0_M16P3_Signage_MR3_220513.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "510936",
+                    "model": "49XE5K-BP",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS6.0_M16P3_Signage_MR3_1.zip"
+                },
+                {
+                    "osSeq": "510936",
+                    "model": "49XE5K-BP",
+                    "type": "Op",
+                    "fileId": "2",
+                    "filename": "webOS6.0_M16P3_Signage_MR3_2.zip"
+                }
+            ]
+        },
+        "49XEB3E-BF": {
+            "description": "webOS3.0_M16_Signage_2",
+            "notice": [
+                {
+                    "osSeq": "507279",
+                    "model": "49XEB3E-BF",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-170214-webOS3.0M16Signage-5.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "507279",
+                    "model": "49XEB3E-BF",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS3.2_3.0_M16_Signage_OpenSource_V1.0_2.zip"
+                }
+            ]
+        },
+        "49XEB3E-BH": {
+            "description": "webOS3.0_M16_Signage_2",
+            "notice": [
+                {
+                    "osSeq": "507279",
+                    "model": "49XEB3E-BH",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-170214-webOS3.0M16Signage-5.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "507279",
+                    "model": "49XEB3E-BH",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS3.2_3.0_M16_Signage_OpenSource_V1.0_2.zip"
+                }
+            ]
+        },
+        "49XF2B-BB": {
+            "description": "webOS_M14_Signage_Flash",
+            "notice": [
+                {
+                    "osSeq": "506497",
+                    "model": "49XF2B-BB",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-141212-webOS_M14_Signage_Flash-1.pdf"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "506497",
+                    "model": "49XF2B-BB",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS_M14_Signage_Flash_OpenSource_v1.0.zip"
+                }
+            ]
+        },
+        "49XF3C-BB": {
+            "description": "webOS_M14_Signage_Flash",
+            "notice": [
+                {
+                    "osSeq": "506497",
+                    "model": "49XF3C-BB",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-141212-webOS_M14_Signage_Flash-1.pdf"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "506497",
+                    "model": "49XF3C-BB",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS_M14_Signage_Flash_OpenSource_v1.0.zip"
+                }
+            ]
+        },
+        "49XF3D-BH": {
+            "description": "webOS3.0_M16_Signage_2",
+            "notice": [
+                {
+                    "osSeq": "507279",
+                    "model": "49XF3D-BH",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-170214-webOS3.0M16Signage-5.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "507279",
+                    "model": "49XF3D-BH",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS3.2_3.0_M16_Signage_OpenSource_V1.0_2.zip"
+                }
+            ]
+        },
+        "49XF3E-BH": {
+            "description": "webOS3.0_M16_Signage_2",
+            "notice": [
+                {
+                    "osSeq": "507279",
+                    "model": "49XF3E-BH",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-170214-webOS3.0M16Signage-5.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "507279",
+                    "model": "49XF3E-BH",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS3.2_3.0_M16_Signage_OpenSource_V1.0_2.zip"
+                }
+            ]
+        },
+        "49XS1D-BH": {
+            "description": "webOS3.0_M16_Signage_2",
+            "notice": [
+                {
+                    "osSeq": "507279",
+                    "model": "49XS1D-BH",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-170214-webOS3.0M16Signage-5.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "507279",
+                    "model": "49XS1D-BH",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS3.2_3.0_M16_Signage_OpenSource_V1.0_2.zip"
+                }
+            ]
+        },
+        "49XS2B-BB": {
+            "description": "webOS_M14_Signage_Flash",
+            "notice": [
+                {
+                    "osSeq": "506497",
+                    "model": "49XS2B-BB",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-141212-webOS_M14_Signage_Flash-1.pdf"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "506497",
+                    "model": "49XS2B-BB",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS_M14_Signage_Flash_OpenSource_v1.0.zip"
+                }
+            ]
+        },
+        "49XS2D-BH": {
+            "description": "SCAP API 1.4",
+            "notice": [
+                {
+                    "osSeq": "507282",
+                    "model": "49XS2D-BH",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-160513-SCAPAPI-1.html"
+                }
+            ],
+            "source": []
+        }
+    }
+}

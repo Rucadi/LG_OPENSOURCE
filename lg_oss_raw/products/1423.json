@@ -1,0 +1,77 @@
+{
+    "TV/AV>Monitor/Signage": {
+        "SUPERSIGN C 3.0": {
+            "description": "SuperSign C",
+            "notice": [
+                {
+                    "osSeq": "506471",
+                    "model": "SUPERSIGN C 3.0",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-150313-SuperSignC3.0-1.pdf"
+                }
+            ],
+            "source": []
+        },
+        "SUPERSIGN C 3.5": {
+            "description": "SuperSign C",
+            "notice": [
+                {
+                    "osSeq": "506471",
+                    "model": "SUPERSIGN C 3.5",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-150313-SuperSignC3.0-1.pdf"
+                }
+            ],
+            "source": []
+        },
+        "SUPERSIGN C 3.7": {
+            "description": "SuperSign C",
+            "notice": [
+                {
+                    "osSeq": "506471",
+                    "model": "SUPERSIGN C 3.7",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-150313-SuperSignC3.0-1.pdf"
+                }
+            ],
+            "source": []
+        },
+        "SUPERSIGN CLOUD": {
+            "description": "SuperSign Cloud",
+            "notice": [
+                {
+                    "osSeq": "507940",
+                    "model": "SUPERSIGN CLOUD",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-579_SUPERSIGN CLOUD_170530.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "507940",
+                    "model": "SUPERSIGN CLOUD",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "SuperSign_Cloud_OpenSource.zip"
+                }
+            ]
+        },
+        "SUPERSIGN CMS": {
+            "description": "SuperSign Q Manager 4.0",
+            "notice": [
+                {
+                    "osSeq": "510193",
+                    "model": "SUPERSIGN CMS",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-3169_SuperSign Q Manager_4.0_201113.html"
+                }
+            ],
+            "source": []
+        }
+    }
+}

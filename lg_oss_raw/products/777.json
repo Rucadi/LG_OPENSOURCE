@@ -1,0 +1,237 @@
+{
+    "TV/AV>TV": {
+        "60LY970H-UA": {
+            "description": "webOS_M14_Commercial TV",
+            "notice": [
+                {
+                    "osSeq": "17160",
+                    "model": "60LY970H-UA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-141114-webOS_M14_CommercialTV-1.pdf"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "17160",
+                    "model": "60LY970H-UA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS_M14_CTV_OpenSource_v1.0.zip"
+                }
+            ]
+        }
+    },
+    "TV/AV>PDP": {
+        "60PB6600-TE": {
+            "description": "NetCast4.5 M LGE PDP TV Open Source-2",
+            "notice": [
+                {
+                    "osSeq": "11647",
+                    "model": "60PB6600-TE",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "140214-PDP TV_NetCast4.5M-1.pdf"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "11647",
+                    "model": "60PB6600-TE",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "NetCast4.5_M_CO_FI_PDP-2.zip"
+                }
+            ]
+        },
+        "60PB6600-UA": {
+            "description": "NetCast4.5 M LGE PDP TV Open Source-2",
+            "notice": [
+                {
+                    "osSeq": "11647",
+                    "model": "60PB6600-UA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "140214-PDP TV_NetCast4.5M-1.pdf"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "11647",
+                    "model": "60PB6600-UA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "NetCast4.5_M_CO_FI_PDP-2.zip"
+                }
+            ]
+        },
+        "60PB6609-ZD": {
+            "description": "NetCast4.5 M LGE PDP TV Open Source-2",
+            "notice": [
+                {
+                    "osSeq": "11647",
+                    "model": "60PB6609-ZD",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "140214-PDP TV_NetCast4.5M-1.pdf"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "11647",
+                    "model": "60PB6609-ZD",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "NetCast4.5_M_CO_FI_PDP-2.zip"
+                }
+            ]
+        },
+        "60PB660V-ZC": {
+            "description": "NetCast4.5 M LGE PDP TV Open Source-2",
+            "notice": [
+                {
+                    "osSeq": "11647",
+                    "model": "60PB660V-ZC",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "140214-PDP TV_NetCast4.5M-1.pdf"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "11647",
+                    "model": "60PB660V-ZC",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "NetCast4.5_M_CO_FI_PDP-2.zip"
+                }
+            ]
+        },
+        "60PB660V-ZD": {
+            "description": "NetCast4.5 M LGE PDP TV Open Source-2",
+            "notice": [
+                {
+                    "osSeq": "11647",
+                    "model": "60PB660V-ZD",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "140214-PDP TV_NetCast4.5M-1.pdf"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "11647",
+                    "model": "60PB660V-ZD",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "NetCast4.5_M_CO_FI_PDP-2.zip"
+                }
+            ]
+        },
+        "60PB6650-UA": {
+            "description": "NetCast4.5 M LGE PDP TV Open Source-2",
+            "notice": [
+                {
+                    "osSeq": "11647",
+                    "model": "60PB6650-UA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "140214-PDP TV_NetCast4.5M-1.pdf"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "11647",
+                    "model": "60PB6650-UA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "NetCast4.5_M_CO_FI_PDP-2.zip"
+                }
+            ]
+        },
+        "60PB6900-TB": {
+            "description": "NetCast4.5 M LGE PDP TV Open Source-2",
+            "notice": [
+                {
+                    "osSeq": "11647",
+                    "model": "60PB6900-TB",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "140214-PDP TV_NetCast4.5M-1.pdf"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "11647",
+                    "model": "60PB6900-TB",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "NetCast4.5_M_CO_FI_PDP-2.zip"
+                }
+            ]
+        },
+        "60PB6900-UA": {
+            "description": "NetCast4.5 M LGE PDP TV Open Source-2",
+            "notice": [
+                {
+                    "osSeq": "11647",
+                    "model": "60PB6900-UA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "140214-PDP TV_NetCast4.5M-1.pdf"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "11647",
+                    "model": "60PB6900-UA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "NetCast4.5_M_CO_FI_PDP-2.zip"
+                }
+            ]
+        },
+        "60PB6909-ZC": {
+            "description": "NetCast4.5 M LGE PDP TV Open Source-2",
+            "notice": [
+                {
+                    "osSeq": "11647",
+                    "model": "60PB6909-ZC",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "140214-PDP TV_NetCast4.5M-1.pdf"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "11647",
+                    "model": "60PB6909-ZC",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "NetCast4.5_M_CO_FI_PDP-2.zip"
+                }
+            ]
+        },
+        "60PB690V-ZC": {
+            "description": "NetCast4.5 M LGE PDP TV Open Source-1",
+            "notice": [
+                {
+                    "osSeq": "11660",
+                    "model": "60PB690V-ZC",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "140214-PDP TV_NetCast4.5M-1.pdf"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "11660",
+                    "model": "60PB690V-ZC",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "NetCast4.5_M_CO_FI_PDP-1.zip"
+                }
+            ]
+        }
+    }
+}

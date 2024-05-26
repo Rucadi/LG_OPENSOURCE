@@ -1,0 +1,384 @@
+{
+    "TV/AV>TV": {
+        "47LB6520-TB": {
+            "description": "webOS AM LGE Open Source 2",
+            "notice": [
+                {
+                    "osSeq": "208740",
+                    "model": "47LB6520-TB",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-140408-webOSTVAM-4.pdf"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "208740",
+                    "model": "47LB6520-TB",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS_AM_CO_FI_2.zip"
+                }
+            ]
+        },
+        "47LB6700-TA": {
+            "description": "webOS AM LGE Open Source 1",
+            "notice": [
+                {
+                    "osSeq": "408740",
+                    "model": "47LB6700-TA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-140408-webOSTVAM-4.pdf"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "408740",
+                    "model": "47LB6700-TA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS_AM_CO_FI_1.zip"
+                }
+            ]
+        },
+        "47LM760T-ZB": {
+            "description": "NetCast3.0 M LGE TV Open Source",
+            "notice": [
+                {
+                    "osSeq": "342",
+                    "model": "47LM760T-ZB",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "NetCast3.0_M_CO_LI_2012_1.3.pdf"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "342",
+                    "model": "47LM760T-ZB",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "NetCast3.0_M_CO_FI.zip"
+                }
+            ]
+        },
+        "47LP869H-ZA": {
+            "description": "NetCast3.0_MTK_CTV_Interactive Smart",
+            "notice": [
+                {
+                    "osSeq": "15640",
+                    "model": "47LP869H-ZA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-141020-NetCast3_0_MTK_Commercial_TVInteractiveSmart-1.pdf"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "15640",
+                    "model": "47LP869H-ZA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "NetCast3.0_MTK_CTV_Interactive Smart_OpenSource_v1.1.zip"
+                }
+            ]
+        },
+        "47LT760H-CA": {
+            "description": "NetCast3.0_MTK_CTV_Interactive Smart",
+            "notice": [
+                {
+                    "osSeq": "15640",
+                    "model": "47LT760H-CA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-141020-NetCast3_0_MTK_Commercial_TVInteractiveSmart-1.pdf"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "15640",
+                    "model": "47LT760H-CA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "NetCast3.0_MTK_CTV_Interactive Smart_OpenSource_v1.1.zip"
+                }
+            ]
+        }
+    },
+    "TV/AV>Monitor/Signage": {
+        "47LS33A-5BC": {
+            "description": "L14_M1A_Signage",
+            "notice": [
+                {
+                    "osSeq": "12880",
+                    "model": "47LS33A-5BC",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-891_L14 M1A Signage_180122.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "12880",
+                    "model": "47LS33A-5BC",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "L14 M1A Signage.zip"
+                }
+            ]
+        },
+        "47LS33A-5D": {
+            "description": "L14_M1A_Signage",
+            "notice": [
+                {
+                    "osSeq": "12880",
+                    "model": "47LS33A-5D",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-891_L14 M1A Signage_180122.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "12880",
+                    "model": "47LS33A-5D",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "L14 M1A Signage.zip"
+                }
+            ]
+        },
+        "47LS33A-5DC": {
+            "description": "L14_M1A_Signage",
+            "notice": [
+                {
+                    "osSeq": "12880",
+                    "model": "47LS33A-5DC",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-891_L14 M1A Signage_180122.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "12880",
+                    "model": "47LS33A-5DC",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "L14 M1A Signage.zip"
+                }
+            ]
+        },
+        "47LS35A-5B": {
+            "description": "L14_M1A_Signage",
+            "notice": [
+                {
+                    "osSeq": "12880",
+                    "model": "47LS35A-5B",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-891_L14 M1A Signage_180122.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "12880",
+                    "model": "47LS35A-5B",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "L14 M1A Signage.zip"
+                }
+            ]
+        },
+        "47LS35A-5BC": {
+            "description": "L14_M1A_Signage",
+            "notice": [
+                {
+                    "osSeq": "12880",
+                    "model": "47LS35A-5BC",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-891_L14 M1A Signage_180122.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "12880",
+                    "model": "47LS35A-5BC",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "L14 M1A Signage.zip"
+                }
+            ]
+        },
+        "47LS35A-5DB": {
+            "description": "L14_M1A_Signage",
+            "notice": [
+                {
+                    "osSeq": "12880",
+                    "model": "47LS35A-5DB",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-891_L14 M1A Signage_180122.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "12880",
+                    "model": "47LS35A-5DB",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "L14 M1A Signage.zip"
+                }
+            ]
+        },
+        "47LS35A-5DC": {
+            "description": "L14_M1A_Signage",
+            "notice": [
+                {
+                    "osSeq": "12880",
+                    "model": "47LS35A-5DC",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-891_L14 M1A Signage_180122.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "12880",
+                    "model": "47LS35A-5DC",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "L14 M1A Signage.zip"
+                }
+            ]
+        },
+        "47LS53A-5BB": {
+            "description": "webOS_M14_Signage_Flash",
+            "notice": [
+                {
+                    "osSeq": "506497",
+                    "model": "47LS53A-5BB",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-141212-webOS_M14_Signage_Flash-1.pdf"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "506497",
+                    "model": "47LS53A-5BB",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS_M14_Signage_Flash_OpenSource_v1.0.zip"
+                }
+            ]
+        },
+        "47LS53A-5DB": {
+            "description": "webOS_M14_Signage_Flash",
+            "notice": [
+                {
+                    "osSeq": "506497",
+                    "model": "47LS53A-5DB",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-141212-webOS_M14_Signage_Flash-1.pdf"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "506497",
+                    "model": "47LS53A-5DB",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS_M14_Signage_Flash_OpenSource_v1.0.zip"
+                }
+            ]
+        },
+        "47LS55A-5BB": {
+            "description": "webOS_M14_Signage_Flash",
+            "notice": [
+                {
+                    "osSeq": "506497",
+                    "model": "47LS55A-5BB",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-141212-webOS_M14_Signage_Flash-1.pdf"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "506497",
+                    "model": "47LS55A-5BB",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS_M14_Signage_Flash_OpenSource_v1.0.zip"
+                }
+            ]
+        },
+        "47LS55A-5DB": {
+            "description": "webOS_M14_Signage_Flash",
+            "notice": [
+                {
+                    "osSeq": "506497",
+                    "model": "47LS55A-5DB",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-141212-webOS_M14_Signage_Flash-1.pdf"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "506497",
+                    "model": "47LS55A-5DB",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS_M14_Signage_Flash_OpenSource_v1.0.zip"
+                }
+            ]
+        },
+        "47LT55A-5BL": {
+            "description": "Signage_vs20 Series",
+            "notice": [
+                {
+                    "osSeq": "12680",
+                    "model": "47LT55A-5BL",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-140731-Signage_vs20Series-1.pdf"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "12680",
+                    "model": "47LT55A-5BL",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "Signage_vs20Series_OpenSource_v1.0.zip"
+                }
+            ]
+        },
+        "47LV35A-3BC": {
+            "description": "L14_M1A_Signage",
+            "notice": [
+                {
+                    "osSeq": "12880",
+                    "model": "47LV35A-3BC",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-891_L14 M1A Signage_180122.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "12880",
+                    "model": "47LV35A-3BC",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "L14 M1A Signage.zip"
+                }
+            ]
+        }
+    }
+}

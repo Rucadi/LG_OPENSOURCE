@@ -1,0 +1,424 @@
+{
+    "TV/AV>Monitor/Signage": {
+        "32UL750P-WA": {
+            "description": "M_Odinson_Leona2_Nxp",
+            "notice": [
+                {
+                    "osSeq": "509858",
+                    "model": "32UL750P-WA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-862_18Y_M_Odinson_4K_200324.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "509858",
+                    "model": "32UL750P-WA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "18Y_M_Odinson_4K.zip"
+                }
+            ]
+        },
+        "32UL950-WA": {
+            "description": "M_Odinson_Leona2_Nxp",
+            "notice": [
+                {
+                    "osSeq": "509858",
+                    "model": "32UL950-WA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-862_18Y_M_Odinson_4K_200324.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "509858",
+                    "model": "32UL950-WA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "18Y_M_Odinson_4K.zip"
+                }
+            ]
+        },
+        "32UL950-WY": {
+            "description": "M_Odinson_Leona2_Nxp",
+            "notice": [
+                {
+                    "osSeq": "509858",
+                    "model": "32UL950-WY",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-862_18Y_M_Odinson_4K_200324.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "509858",
+                    "model": "32UL950-WY",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "18Y_M_Odinson_4K.zip"
+                }
+            ]
+        },
+        "32UL950P-WA": {
+            "description": "M_Odinson_Leona2_Nxp",
+            "notice": [
+                {
+                    "osSeq": "509858",
+                    "model": "32UL950P-WA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-862_18Y_M_Odinson_4K_200324.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "509858",
+                    "model": "32UL950P-WA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "18Y_M_Odinson_4K.zip"
+                }
+            ]
+        },
+        "32UN650-WT": {
+            "description": "M_Odinson_Leona2",
+            "notice": [
+                {
+                    "osSeq": "509948",
+                    "model": "32UN650-WT",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-2803_M_Odinson_Leona2_200714.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "509948",
+                    "model": "32UN650-WT",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "M_Odinson_Leona2.zip"
+                }
+            ]
+        },
+        "32UN650-WY": {
+            "description": "M_Odinson_Leona2",
+            "notice": [
+                {
+                    "osSeq": "509948",
+                    "model": "32UN650-WY",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-2803_M_Odinson_Leona2_200714.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "509948",
+                    "model": "32UN650-WY",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "M_Odinson_Leona2.zip"
+                }
+            ]
+        },
+        "32UN650P-WT": {
+            "description": "M_Odinson_Leona2",
+            "notice": [
+                {
+                    "osSeq": "509948",
+                    "model": "32UN650P-WT",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-2803_M_Odinson_Leona2_200714.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "509948",
+                    "model": "32UN650P-WT",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "M_Odinson_Leona2.zip"
+                }
+            ]
+        },
+        "32UN880-BA": {
+            "description": "RTK_Platform_Nxp",
+            "notice": [
+                {
+                    "osSeq": "509384",
+                    "model": "32UN880-BA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-2118_RTK_Platform_Nxp_190927.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "509384",
+                    "model": "32UN880-BA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "RTK_Platform_Nxp.zip"
+                }
+            ]
+        },
+        "32UN880-BT": {
+            "description": "M_Odinson_Leona2_Nxp",
+            "notice": [
+                {
+                    "osSeq": "509858",
+                    "model": "32UN880-BT",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-862_18Y_M_Odinson_4K_200324.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "509858",
+                    "model": "32UN880-BT",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "18Y_M_Odinson_4K.zip"
+                }
+            ]
+        },
+        "32UN880-BY": {
+            "description": "M_Odinson_Leona2_Nxp",
+            "notice": [
+                {
+                    "osSeq": "509858",
+                    "model": "32UN880-BY",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-862_18Y_M_Odinson_4K_200324.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "509858",
+                    "model": "32UN880-BY",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "18Y_M_Odinson_4K.zip"
+                }
+            ]
+        },
+        "32UN880K-BA": {
+            "description": "RTK_Platform_Nxp",
+            "notice": [
+                {
+                    "osSeq": "509384",
+                    "model": "32UN880K-BA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-2118_RTK_Platform_Nxp_190927.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "509384",
+                    "model": "32UN880K-BA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "RTK_Platform_Nxp.zip"
+                }
+            ]
+        },
+        "32UN880P-BT": {
+            "description": "M_Odinson_Leona2_Nxp",
+            "notice": [
+                {
+                    "osSeq": "509858",
+                    "model": "32UN880P-BT",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-862_18Y_M_Odinson_4K_200324.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "509858",
+                    "model": "32UN880P-BT",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "18Y_M_Odinson_4K.zip"
+                }
+            ]
+        },
+        "32UN88A-WA": {
+            "description": "RTK_Platform_Nxp",
+            "notice": [
+                {
+                    "osSeq": "509384",
+                    "model": "32UN88A-WA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-2118_RTK_Platform_Nxp_190927.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "509384",
+                    "model": "32UN88A-WA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "RTK_Platform_Nxp.zip"
+                }
+            ]
+        },
+        "32UN88A-WT": {
+            "description": "M_Odinson_Leona2_Nxp",
+            "notice": [
+                {
+                    "osSeq": "509858",
+                    "model": "32UN88A-WT",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-862_18Y_M_Odinson_4K_200324.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "509858",
+                    "model": "32UN88A-WT",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "18Y_M_Odinson_4K.zip"
+                }
+            ]
+        },
+        "32UP50S-BA": {
+            "description": "RTK_Platform_Nxp",
+            "notice": [
+                {
+                    "osSeq": "509384",
+                    "model": "32UP50S-BA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-2118_RTK_Platform_Nxp_190927.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "509384",
+                    "model": "32UP50S-BA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "RTK_Platform_Nxp.zip"
+                }
+            ]
+        },
+        "32UP830-WA": {
+            "description": "M_Odinson_Leona2_Nxp",
+            "notice": [
+                {
+                    "osSeq": "509858",
+                    "model": "32UP830-WA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-862_18Y_M_Odinson_4K_200324.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "509858",
+                    "model": "32UP830-WA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "18Y_M_Odinson_4K.zip"
+                }
+            ]
+        },
+        "32UP83A-WA": {
+            "description": "RTK_Platform_Nxp",
+            "notice": [
+                {
+                    "osSeq": "509384",
+                    "model": "32UP83A-WA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-2118_RTK_Platform_Nxp_190927.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "509384",
+                    "model": "32UP83A-WA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "RTK_Platform_Nxp.zip"
+                }
+            ]
+        },
+        "32UP83A-WY": {
+            "description": "M_Odinson_Leona2_Nxp",
+            "notice": [
+                {
+                    "osSeq": "509858",
+                    "model": "32UP83A-WY",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-862_18Y_M_Odinson_4K_200324.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "509858",
+                    "model": "32UP83A-WY",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "18Y_M_Odinson_4K.zip"
+                }
+            ]
+        },
+        "32UQ750-WA": {
+            "description": "M_Odinson_Leona2_Nxp",
+            "notice": [
+                {
+                    "osSeq": "509858",
+                    "model": "32UQ750-WA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-862_18Y_M_Odinson_4K_200324.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "509858",
+                    "model": "32UQ750-WA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "18Y_M_Odinson_4K.zip"
+                }
+            ]
+        },
+        "32UQ750-WY": {
+            "description": "M_Odinson_Leona2_Nxp",
+            "notice": [
+                {
+                    "osSeq": "509858",
+                    "model": "32UQ750-WY",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-862_18Y_M_Odinson_4K_200324.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "509858",
+                    "model": "32UQ750-WY",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "18Y_M_Odinson_4K.zip"
+                }
+            ]
+        }
+    }
+}

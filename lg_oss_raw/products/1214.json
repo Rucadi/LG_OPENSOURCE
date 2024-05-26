@@ -1,0 +1,494 @@
+{
+    "TV/AV>TV": {
+        "OLED48A2PJA": {
+            "description": "webOS 23 KHP ReNew",
+            "notice": [
+                {
+                    "osSeq": "511656",
+                    "model": "OLED48A2PJA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-6447_webOS 23 KHP_ReNew_240325.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "511656",
+                    "model": "OLED48A2PJA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS 23 KHP_ReNew_1.tar.gz"
+                },
+                {
+                    "osSeq": "511656",
+                    "model": "OLED48A2PJA",
+                    "type": "Op",
+                    "fileId": "2",
+                    "filename": "webOS 23 KHP_ReNew_2.tar.gz"
+                },
+                {
+                    "osSeq": "511656",
+                    "model": "OLED48A2PJA",
+                    "type": "Op",
+                    "fileId": "3",
+                    "filename": "webOS 23 KHP_ReNew_3.tar.gz"
+                }
+            ]
+        },
+        "OLED48A2PSA": {
+            "description": "webOS 23 KHP ReNew",
+            "notice": [
+                {
+                    "osSeq": "511656",
+                    "model": "OLED48A2PSA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-6447_webOS 23 KHP_ReNew_240325.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "511656",
+                    "model": "OLED48A2PSA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS 23 KHP_ReNew_1.tar.gz"
+                },
+                {
+                    "osSeq": "511656",
+                    "model": "OLED48A2PSA",
+                    "type": "Op",
+                    "fileId": "2",
+                    "filename": "webOS 23 KHP_ReNew_2.tar.gz"
+                },
+                {
+                    "osSeq": "511656",
+                    "model": "OLED48A2PSA",
+                    "type": "Op",
+                    "fileId": "3",
+                    "filename": "webOS 23 KHP_ReNew_3.tar.gz"
+                }
+            ]
+        },
+        "OLED48A2PUA": {
+            "description": "webOS 23 KHP ReNew",
+            "notice": [
+                {
+                    "osSeq": "511656",
+                    "model": "OLED48A2PUA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-6447_webOS 23 KHP_ReNew_240325.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "511656",
+                    "model": "OLED48A2PUA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS 23 KHP_ReNew_1.tar.gz"
+                },
+                {
+                    "osSeq": "511656",
+                    "model": "OLED48A2PUA",
+                    "type": "Op",
+                    "fileId": "2",
+                    "filename": "webOS 23 KHP_ReNew_2.tar.gz"
+                },
+                {
+                    "osSeq": "511656",
+                    "model": "OLED48A2PUA",
+                    "type": "Op",
+                    "fileId": "3",
+                    "filename": "webOS 23 KHP_ReNew_3.tar.gz"
+                }
+            ]
+        },
+        "OLED48A2RLA": {
+            "description": "webOS 23 KHP ReNew",
+            "notice": [
+                {
+                    "osSeq": "511656",
+                    "model": "OLED48A2RLA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-6447_webOS 23 KHP_ReNew_240325.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "511656",
+                    "model": "OLED48A2RLA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS 23 KHP_ReNew_1.tar.gz"
+                },
+                {
+                    "osSeq": "511656",
+                    "model": "OLED48A2RLA",
+                    "type": "Op",
+                    "fileId": "2",
+                    "filename": "webOS 23 KHP_ReNew_2.tar.gz"
+                },
+                {
+                    "osSeq": "511656",
+                    "model": "OLED48A2RLA",
+                    "type": "Op",
+                    "fileId": "3",
+                    "filename": "webOS 23 KHP_ReNew_3.tar.gz"
+                }
+            ]
+        },
+        "OLED48A33LA": {
+            "description": "webOS 23 KHP+ 1.0",
+            "notice": [
+                {
+                    "osSeq": "511215",
+                    "model": "OLED48A33LA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-4668_webOS 23 KHP+_1.0_221220.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "511215",
+                    "model": "OLED48A33LA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS 23 KHP+_1.0_1.tar.gz"
+                },
+                {
+                    "osSeq": "511215",
+                    "model": "OLED48A33LA",
+                    "type": "Op",
+                    "fileId": "2",
+                    "filename": "webOS 23 KHP+_1.0_2.tar.gz"
+                },
+                {
+                    "osSeq": "511215",
+                    "model": "OLED48A33LA",
+                    "type": "Op",
+                    "fileId": "3",
+                    "filename": "webOS 23 KHP+_1.0_3.tar.gz"
+                }
+            ]
+        },
+        "OLED48A36LA": {
+            "description": "webOS 23 KHP+ 1.0",
+            "notice": [
+                {
+                    "osSeq": "511215",
+                    "model": "OLED48A36LA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-4668_webOS 23 KHP+_1.0_221220.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "511215",
+                    "model": "OLED48A36LA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS 23 KHP+_1.0_1.tar.gz"
+                },
+                {
+                    "osSeq": "511215",
+                    "model": "OLED48A36LA",
+                    "type": "Op",
+                    "fileId": "2",
+                    "filename": "webOS 23 KHP+_1.0_2.tar.gz"
+                },
+                {
+                    "osSeq": "511215",
+                    "model": "OLED48A36LA",
+                    "type": "Op",
+                    "fileId": "3",
+                    "filename": "webOS 23 KHP+_1.0_3.tar.gz"
+                }
+            ]
+        },
+        "OLED48A39LA": {
+            "description": "webOS 23 KHP+ 1.0",
+            "notice": [
+                {
+                    "osSeq": "511215",
+                    "model": "OLED48A39LA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-4668_webOS 23 KHP+_1.0_221220.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "511215",
+                    "model": "OLED48A39LA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS 23 KHP+_1.0_1.tar.gz"
+                },
+                {
+                    "osSeq": "511215",
+                    "model": "OLED48A39LA",
+                    "type": "Op",
+                    "fileId": "2",
+                    "filename": "webOS 23 KHP+_1.0_2.tar.gz"
+                },
+                {
+                    "osSeq": "511215",
+                    "model": "OLED48A39LA",
+                    "type": "Op",
+                    "fileId": "3",
+                    "filename": "webOS 23 KHP+_1.0_3.tar.gz"
+                }
+            ]
+        },
+        "OLED48A3AUA": {
+            "description": "webOS 23 KHP+ 1.0",
+            "notice": [
+                {
+                    "osSeq": "511215",
+                    "model": "OLED48A3AUA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-4668_webOS 23 KHP+_1.0_221220.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "511215",
+                    "model": "OLED48A3AUA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS 23 KHP+_1.0_1.tar.gz"
+                },
+                {
+                    "osSeq": "511215",
+                    "model": "OLED48A3AUA",
+                    "type": "Op",
+                    "fileId": "2",
+                    "filename": "webOS 23 KHP+_1.0_2.tar.gz"
+                },
+                {
+                    "osSeq": "511215",
+                    "model": "OLED48A3AUA",
+                    "type": "Op",
+                    "fileId": "3",
+                    "filename": "webOS 23 KHP+_1.0_3.tar.gz"
+                }
+            ]
+        },
+        "OLED48A3KNA": {
+            "description": "webOS 23 KHP+ 1.0",
+            "notice": [
+                {
+                    "osSeq": "511215",
+                    "model": "OLED48A3KNA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-4668_webOS 23 KHP+_1.0_221220.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "511215",
+                    "model": "OLED48A3KNA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS 23 KHP+_1.0_1.tar.gz"
+                },
+                {
+                    "osSeq": "511215",
+                    "model": "OLED48A3KNA",
+                    "type": "Op",
+                    "fileId": "2",
+                    "filename": "webOS 23 KHP+_1.0_2.tar.gz"
+                },
+                {
+                    "osSeq": "511215",
+                    "model": "OLED48A3KNA",
+                    "type": "Op",
+                    "fileId": "3",
+                    "filename": "webOS 23 KHP+_1.0_3.tar.gz"
+                }
+            ]
+        },
+        "OLED48A3PCA": {
+            "description": "webOS 23 KHP+ 1.0",
+            "notice": [
+                {
+                    "osSeq": "511215",
+                    "model": "OLED48A3PCA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-4668_webOS 23 KHP+_1.0_221220.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "511215",
+                    "model": "OLED48A3PCA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS 23 KHP+_1.0_1.tar.gz"
+                },
+                {
+                    "osSeq": "511215",
+                    "model": "OLED48A3PCA",
+                    "type": "Op",
+                    "fileId": "2",
+                    "filename": "webOS 23 KHP+_1.0_2.tar.gz"
+                },
+                {
+                    "osSeq": "511215",
+                    "model": "OLED48A3PCA",
+                    "type": "Op",
+                    "fileId": "3",
+                    "filename": "webOS 23 KHP+_1.0_3.tar.gz"
+                }
+            ]
+        },
+        "OLED48A3PJA": {
+            "description": "webOS 23 KHP+ 1.0",
+            "notice": [
+                {
+                    "osSeq": "511215",
+                    "model": "OLED48A3PJA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-4668_webOS 23 KHP+_1.0_221220.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "511215",
+                    "model": "OLED48A3PJA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS 23 KHP+_1.0_1.tar.gz"
+                },
+                {
+                    "osSeq": "511215",
+                    "model": "OLED48A3PJA",
+                    "type": "Op",
+                    "fileId": "2",
+                    "filename": "webOS 23 KHP+_1.0_2.tar.gz"
+                },
+                {
+                    "osSeq": "511215",
+                    "model": "OLED48A3PJA",
+                    "type": "Op",
+                    "fileId": "3",
+                    "filename": "webOS 23 KHP+_1.0_3.tar.gz"
+                }
+            ]
+        },
+        "OLED48A3PSA": {
+            "description": "webOS 23 KHP+ 1.0",
+            "notice": [
+                {
+                    "osSeq": "511215",
+                    "model": "OLED48A3PSA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-4668_webOS 23 KHP+_1.0_221220.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "511215",
+                    "model": "OLED48A3PSA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS 23 KHP+_1.0_1.tar.gz"
+                },
+                {
+                    "osSeq": "511215",
+                    "model": "OLED48A3PSA",
+                    "type": "Op",
+                    "fileId": "2",
+                    "filename": "webOS 23 KHP+_1.0_2.tar.gz"
+                },
+                {
+                    "osSeq": "511215",
+                    "model": "OLED48A3PSA",
+                    "type": "Op",
+                    "fileId": "3",
+                    "filename": "webOS 23 KHP+_1.0_3.tar.gz"
+                }
+            ]
+        },
+        "OLED48A3PUA": {
+            "description": "webOS 23 KHP+ 1.0",
+            "notice": [
+                {
+                    "osSeq": "511215",
+                    "model": "OLED48A3PUA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-4668_webOS 23 KHP+_1.0_221220.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "511215",
+                    "model": "OLED48A3PUA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS 23 KHP+_1.0_1.tar.gz"
+                },
+                {
+                    "osSeq": "511215",
+                    "model": "OLED48A3PUA",
+                    "type": "Op",
+                    "fileId": "2",
+                    "filename": "webOS 23 KHP+_1.0_2.tar.gz"
+                },
+                {
+                    "osSeq": "511215",
+                    "model": "OLED48A3PUA",
+                    "type": "Op",
+                    "fileId": "3",
+                    "filename": "webOS 23 KHP+_1.0_3.tar.gz"
+                }
+            ]
+        },
+        "OLED48A3RLA": {
+            "description": "webOS 23 KHP+ 1.0",
+            "notice": [
+                {
+                    "osSeq": "511215",
+                    "model": "OLED48A3RLA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-4668_webOS 23 KHP+_1.0_221220.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "511215",
+                    "model": "OLED48A3RLA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS 23 KHP+_1.0_1.tar.gz"
+                },
+                {
+                    "osSeq": "511215",
+                    "model": "OLED48A3RLA",
+                    "type": "Op",
+                    "fileId": "2",
+                    "filename": "webOS 23 KHP+_1.0_2.tar.gz"
+                },
+                {
+                    "osSeq": "511215",
+                    "model": "OLED48A3RLA",
+                    "type": "Op",
+                    "fileId": "3",
+                    "filename": "webOS 23 KHP+_1.0_3.tar.gz"
+                }
+            ]
+        }
+    }
+}

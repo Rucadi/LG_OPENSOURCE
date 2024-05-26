@@ -1,0 +1,408 @@
+{
+    "TV/AV>TV": {
+        "49LH6600-NA": {
+            "description": "webOS DM2 LGE Open Source",
+            "notice": [
+                {
+                    "osSeq": "507012",
+                    "model": "49LH6600-NA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-161108-webOSDM2-6.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "507012",
+                    "model": "49LH6600-NA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "DM2-r3173.tar.gz"
+                }
+            ]
+        },
+        "49LH6600-NB": {
+            "description": "webOS DM2 LGE Open Source",
+            "notice": [
+                {
+                    "osSeq": "507012",
+                    "model": "49LH6600-NB",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-161108-webOSDM2-6.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "507012",
+                    "model": "49LH6600-NB",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "DM2-r3173.tar.gz"
+                }
+            ]
+        },
+        "49LH6610-NB": {
+            "description": "webOS DM2 LGE Open Source",
+            "notice": [
+                {
+                    "osSeq": "507012",
+                    "model": "49LH6610-NB",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-161108-webOSDM2-6.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "507012",
+                    "model": "49LH6610-NB",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "DM2-r3173.tar.gz"
+                }
+            ]
+        },
+        "49LH6670-NC": {
+            "description": "webOS DM2 LGE Open Source",
+            "notice": [
+                {
+                    "osSeq": "507012",
+                    "model": "49LH6670-NC",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-161108-webOSDM2-6.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "507012",
+                    "model": "49LH6670-NC",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "DM2-r3173.tar.gz"
+                }
+            ]
+        },
+        "49LH6680-NG": {
+            "description": "webOS DM2 LGE Open Source",
+            "notice": [
+                {
+                    "osSeq": "507012",
+                    "model": "49LH6680-NG",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-161108-webOSDM2-6.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "507012",
+                    "model": "49LH6680-NG",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "DM2-r3173.tar.gz"
+                }
+            ]
+        },
+        "49LJ5100-DA": {
+            "description": "L17 LMA LGE TV Open Source",
+            "notice": [
+                {
+                    "osSeq": "507594",
+                    "model": "49LJ5100-DA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-161121-L17LMA-1.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "507594",
+                    "model": "49LJ5100-DA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "L17LMA-r3132.tar.gz"
+                }
+            ]
+        },
+        "49LJ5100-DB": {
+            "description": "L17 LMA LGE TV Open Source",
+            "notice": [
+                {
+                    "osSeq": "507594",
+                    "model": "49LJ5100-DB",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-161121-L17LMA-1.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "507594",
+                    "model": "49LJ5100-DB",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "L17LMA-r3132.tar.gz"
+                }
+            ]
+        },
+        "49LJ5100-NA": {
+            "description": "L17 LMA LGE TV Open Source",
+            "notice": [
+                {
+                    "osSeq": "507594",
+                    "model": "49LJ5100-NA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-161121-L17LMA-1.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "507594",
+                    "model": "49LJ5100-NA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "L17LMA-r3132.tar.gz"
+                }
+            ]
+        },
+        "49LJ5100-SA": {
+            "description": "L17 LMA LGE TV Open Source",
+            "notice": [
+                {
+                    "osSeq": "507594",
+                    "model": "49LJ5100-SA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-161121-L17LMA-1.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "507594",
+                    "model": "49LJ5100-SA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "L17LMA-r3132.tar.gz"
+                }
+            ]
+        },
+        "49LJ5100-SB": {
+            "description": "L17 LMA LGE TV Open Source",
+            "notice": [
+                {
+                    "osSeq": "507594",
+                    "model": "49LJ5100-SB",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-161121-L17LMA-1.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "507594",
+                    "model": "49LJ5100-SB",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "L17LMA-r3132.tar.gz"
+                }
+            ]
+        },
+        "49LJ5100-UC": {
+            "description": "L UMLP LGE TV Open Source",
+            "notice": [
+                {
+                    "osSeq": "507589",
+                    "model": "49LJ5100-UC",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-161117-L17UMLP-1.html"
+                }
+            ],
+            "source": []
+        },
+        "49LJ5100-ZA": {
+            "description": "L17 LMAP LGE TV Open Source",
+            "notice": [
+                {
+                    "osSeq": "507605",
+                    "model": "49LJ5100-ZA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-161117-L17LMAP-1.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "507605",
+                    "model": "49LJ5100-ZA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "L17LMAP-r3131.tar.gz"
+                }
+            ]
+        },
+        "49LJ5100-ZD": {
+            "description": "L17 LMAP LGE TV Open Source",
+            "notice": [
+                {
+                    "osSeq": "507605",
+                    "model": "49LJ5100-ZD",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-161117-L17LMAP-1.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "507605",
+                    "model": "49LJ5100-ZD",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "L17LMAP-r3131.tar.gz"
+                }
+            ]
+        },
+        "49LJ510M-UB": {
+            "description": "L UMLP LGE TV Open Source",
+            "notice": [
+                {
+                    "osSeq": "507589",
+                    "model": "49LJ510M-UB",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-161117-L17UMLP-1.html"
+                }
+            ],
+            "source": []
+        },
+        "49LJ510T-TA": {
+            "description": "L17 LMAP LGE TV Open Source",
+            "notice": [
+                {
+                    "osSeq": "507605",
+                    "model": "49LJ510T-TA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-161117-L17LMAP-1.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "507605",
+                    "model": "49LJ510T-TA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "L17LMAP-r3131.tar.gz"
+                }
+            ]
+        },
+        "49LJ510V-TD": {
+            "description": "L17 LMAP LGE TV Open Source",
+            "notice": [
+                {
+                    "osSeq": "507605",
+                    "model": "49LJ510V-TD",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-161117-L17LMAP-1.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "507605",
+                    "model": "49LJ510V-TD",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "L17LMAP-r3131.tar.gz"
+                }
+            ]
+        },
+        "49LJ510V-ZA": {
+            "description": "L17 LMAP LGE TV Open Source",
+            "notice": [
+                {
+                    "osSeq": "507605",
+                    "model": "49LJ510V-ZA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-161117-L17LMAP-1.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "507605",
+                    "model": "49LJ510V-ZA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "L17LMAP-r3131.tar.gz"
+                }
+            ]
+        },
+        "49LJ510V-ZD": {
+            "description": "L17 LMAP LGE TV Open Source",
+            "notice": [
+                {
+                    "osSeq": "507605",
+                    "model": "49LJ510V-ZD",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-161117-L17LMAP-1.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "507605",
+                    "model": "49LJ510V-ZD",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "L17LMAP-r3131.tar.gz"
+                }
+            ]
+        },
+        "49LJ510Y-TD": {
+            "description": "L17 LMAP LGE TV Open Source",
+            "notice": [
+                {
+                    "osSeq": "507605",
+                    "model": "49LJ510Y-TD",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-161117-L17LMAP-1.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "507605",
+                    "model": "49LJ510Y-TD",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "L17LMAP-r3131.tar.gz"
+                }
+            ]
+        },
+        "49LJ512V-TD": {
+            "description": "L17 LMAP LGE TV Open Source",
+            "notice": [
+                {
+                    "osSeq": "507605",
+                    "model": "49LJ512V-TD",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-161117-L17LMAP-1.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "507605",
+                    "model": "49LJ512V-TD",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "L17LMAP-r3131.tar.gz"
+                }
+            ]
+        }
+    }
+}

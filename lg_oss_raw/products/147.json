@@ -1,0 +1,426 @@
+{
+    "TV/AV>TV": {
+        "39LY330C-ZA": {
+            "description": "L14_M1A_Commercial TV Lite",
+            "notice": [
+                {
+                    "osSeq": "13080",
+                    "model": "39LY330C-ZA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-140818-L14_M1A_CommercialTVLite-1.pdf"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "13080",
+                    "model": "39LY330C-ZA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "L14_M1A_OpenSource_v1.0.zip"
+                }
+            ]
+        },
+        "39LY340C-CA": {
+            "description": "L14_M1A_Commercial TV Lite",
+            "notice": [
+                {
+                    "osSeq": "13080",
+                    "model": "39LY340C-CA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-140818-L14_M1A_CommercialTVLite-1.pdf"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "13080",
+                    "model": "39LY340C-CA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "L14_M1A_OpenSource_v1.0.zip"
+                }
+            ]
+        },
+        "39LY340C-UA": {
+            "description": "L14_M1A_Commercial TV Lite",
+            "notice": [
+                {
+                    "osSeq": "13080",
+                    "model": "39LY340C-UA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-140818-L14_M1A_CommercialTVLite-1.pdf"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "13080",
+                    "model": "39LY340C-UA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "L14_M1A_OpenSource_v1.0.zip"
+                }
+            ]
+        },
+        "39LY340H-UA": {
+            "description": "L14_M1A_Commercial TV Lite",
+            "notice": [
+                {
+                    "osSeq": "13080",
+                    "model": "39LY340H-UA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-140818-L14_M1A_CommercialTVLite-1.pdf"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "13080",
+                    "model": "39LY340H-UA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "L14_M1A_OpenSource_v1.0.zip"
+                }
+            ]
+        },
+        "39LY345C-ZA": {
+            "description": "L14_M1A_Commercial TV Lite",
+            "notice": [
+                {
+                    "osSeq": "13080",
+                    "model": "39LY345C-ZA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-140818-L14_M1A_CommercialTVLite-1.pdf"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "13080",
+                    "model": "39LY345C-ZA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "L14_M1A_OpenSource_v1.0.zip"
+                }
+            ]
+        },
+        "39LY540H-TA": {
+            "description": "L14_M1A_CTV_Interactive",
+            "notice": [
+                {
+                    "osSeq": "15621",
+                    "model": "39LY540H-TA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-141013-L14_M1A_CommercialTVInteractive-1.pdf"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "15621",
+                    "model": "39LY540H-TA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "L14_M1A_CTV_Interactive_OpenSource_v1.0.zip"
+                }
+            ]
+        },
+        "39LY540H-ZA": {
+            "description": "L14_M1A_CTV_Interactive",
+            "notice": [
+                {
+                    "osSeq": "15621",
+                    "model": "39LY540H-ZA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-141013-L14_M1A_CommercialTVInteractive-1.pdf"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "15621",
+                    "model": "39LY540H-ZA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "L14_M1A_CTV_Interactive_OpenSource_v1.0.zip"
+                }
+            ]
+        },
+        "39LY560H-UA": {
+            "description": "L14_M1A_CTV_Interactive",
+            "notice": [
+                {
+                    "osSeq": "15621",
+                    "model": "39LY560H-UA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-141013-L14_M1A_CommercialTVInteractive-1.pdf"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "15621",
+                    "model": "39LY560H-UA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "L14_M1A_CTV_Interactive_OpenSource_v1.0.zip"
+                }
+            ]
+        },
+        "39LY570H-UA": {
+            "description": "L14_M1A_CTV_Interactive",
+            "notice": [
+                {
+                    "osSeq": "15621",
+                    "model": "39LY570H-UA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-141013-L14_M1A_CommercialTVInteractive-1.pdf"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "15621",
+                    "model": "39LY570H-UA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "L14_M1A_CTV_Interactive_OpenSource_v1.0.zip"
+                }
+            ]
+        },
+        "39LY750H-UA": {
+            "description": "NetCast3.0_MTK_CTV_Interactive Smart",
+            "notice": [
+                {
+                    "osSeq": "15640",
+                    "model": "39LY750H-UA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-141020-NetCast3_0_MTK_Commercial_TVInteractiveSmart-1.pdf"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "15640",
+                    "model": "39LY750H-UA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "NetCast3.0_MTK_CTV_Interactive Smart_OpenSource_v1.1.zip"
+                }
+            ]
+        },
+        "39LY750H-ZA": {
+            "description": "NetCast3.0_MTK_CTV_Interactive Smart",
+            "notice": [
+                {
+                    "osSeq": "15640",
+                    "model": "39LY750H-ZA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-141020-NetCast3_0_MTK_Commercial_TVInteractiveSmart-1.pdf"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "15640",
+                    "model": "39LY750H-ZA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "NetCast3.0_MTK_CTV_Interactive Smart_OpenSource_v1.1.zip"
+                }
+            ]
+        },
+        "39LY751H-ZA": {
+            "description": "NetCast3.0_MTK_CTV_Interactive Smart",
+            "notice": [
+                {
+                    "osSeq": "15640",
+                    "model": "39LY751H-ZA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-141020-NetCast3_0_MTK_Commercial_TVInteractiveSmart-1.pdf"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "15640",
+                    "model": "39LY751H-ZA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "NetCast3.0_MTK_CTV_Interactive Smart_OpenSource_v1.1.zip"
+                }
+            ]
+        },
+        "39LY760H-UA": {
+            "description": "webOS_M14_Commercial TV",
+            "notice": [
+                {
+                    "osSeq": "17160",
+                    "model": "39LY760H-UA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-141114-webOS_M14_CommercialTV-1.pdf"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "17160",
+                    "model": "39LY760H-UA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS_M14_CTV_OpenSource_v1.0.zip"
+                }
+            ]
+        },
+        "39LY760H-ZA": {
+            "description": "webOS_M14_Commercial TV",
+            "notice": [
+                {
+                    "osSeq": "17160",
+                    "model": "39LY760H-ZA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-141114-webOS_M14_CommercialTV-1.pdf"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "17160",
+                    "model": "39LY760H-ZA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS_M14_CTV_OpenSource_v1.0.zip"
+                }
+            ]
+        },
+        "39LY761H-ZA": {
+            "description": "webOS_M14_Commercial TV",
+            "notice": [
+                {
+                    "osSeq": "17160",
+                    "model": "39LY761H-ZA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-141114-webOS_M14_CommercialTV-1.pdf"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "17160",
+                    "model": "39LY761H-ZA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS_M14_CTV_OpenSource_v1.0.zip"
+                }
+            ]
+        },
+        "3US660H0SD": {
+            "description": "HCAP API 1.24",
+            "notice": [
+                {
+                    "osSeq": "510202",
+                    "model": "3US660H0SD",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-3139_HCAP API_1.24_201208.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "510202",
+                    "model": "3US660H0SD",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "HCAP API_1.24.zip"
+                }
+            ]
+        },
+        "40JL9100-ZQ": {
+            "description": "webOS BLMU LGE Open Source-Chromium Source",
+            "notice": [
+                {
+                    "osSeq": "506704",
+                    "model": "40JL9100-ZQ",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-160509-webOSBLMU-3.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "506704",
+                    "model": "40JL9100-ZQ",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "BLMU-chromium.tar.gz"
+                }
+            ]
+        }
+    },
+    "TV/AV>Monitor/Signage": {
+        "39MB25HM": {
+            "description": "L14 Platform_MTV",
+            "notice": [
+                {
+                    "osSeq": "10340",
+                    "model": "39MB25HM",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "140306-L14_M1A_MTV_v0.2.pdf"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "10340",
+                    "model": "39MB25HM",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "20141223144029_5.0_L_CO_FI_2014_Monitor.zip"
+                }
+            ]
+        },
+        "39MB25HM-PN": {
+            "description": "L14 Platform_MTV",
+            "notice": [
+                {
+                    "osSeq": "10340",
+                    "model": "39MB25HM-PN",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "140306-L14_M1A_MTV_v0.2.pdf"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "10340",
+                    "model": "39MB25HM-PN",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "20141223144029_5.0_L_CO_FI_2014_Monitor.zip"
+                }
+            ]
+        },
+        "40BP95C-WY": {
+            "description": "M_Odinson_Leona2_Nxp",
+            "notice": [
+                {
+                    "osSeq": "509858",
+                    "model": "40BP95C-WY",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-862_18Y_M_Odinson_4K_200324.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "509858",
+                    "model": "40BP95C-WY",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "18Y_M_Odinson_4K.zip"
+                }
+            ]
+        }
+    }
+}

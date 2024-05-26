@@ -1,0 +1,377 @@
+{
+    "TV/AV>Monitor/Signage": {
+        "27LQ625S-PU": {
+            "description": "webOS 22 KAP for Monitor 2.0",
+            "notice": [
+                {
+                    "osSeq": "511404",
+                    "model": "27LQ625S-PU",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-5503_webOS 22 KAP for Monitor_2.0_230615.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "511404",
+                    "model": "27LQ625S-PU",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS 22 KAP for Monitor_2.0_1.tar.gz"
+                },
+                {
+                    "osSeq": "511404",
+                    "model": "27LQ625S-PU",
+                    "type": "Op",
+                    "fileId": "2",
+                    "filename": "webOS 22 KAP for Monitor_2.0_2.tar.gz"
+                }
+            ]
+        },
+        "27MA53DW": {
+            "description": "L14 Platform_MTV",
+            "notice": [
+                {
+                    "osSeq": "10340",
+                    "model": "27MA53DW",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "140306-L14_M1A_MTV_v0.2.pdf"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "10340",
+                    "model": "27MA53DW",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "20141223144029_5.0_L_CO_FI_2014_Monitor.zip"
+                }
+            ]
+        },
+        "27MA53DW-14": {
+            "description": "L14 Platform_MTV",
+            "notice": [
+                {
+                    "osSeq": "10340",
+                    "model": "27MA53DW-14",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "140306-L14_M1A_MTV_v0.2.pdf"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "10340",
+                    "model": "27MA53DW-14",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "20141223144029_5.0_L_CO_FI_2014_Monitor.zip"
+                }
+            ]
+        },
+        "27MA53DW-WN": {
+            "description": "L14 Platform_MTV",
+            "notice": [
+                {
+                    "osSeq": "10340",
+                    "model": "27MA53DW-WN",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "140306-L14_M1A_MTV_v0.2.pdf"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "10340",
+                    "model": "27MA53DW-WN",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "20141223144029_5.0_L_CO_FI_2014_Monitor.zip"
+                }
+            ]
+        },
+        "27MA53DW-WX": {
+            "description": "L14 Platform_MTV",
+            "notice": [
+                {
+                    "osSeq": "10340",
+                    "model": "27MA53DW-WX",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "140306-L14_M1A_MTV_v0.2.pdf"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "10340",
+                    "model": "27MA53DW-WX",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "20141223144029_5.0_L_CO_FI_2014_Monitor.zip"
+                }
+            ]
+        },
+        "27MD5KA-B": {
+            "description": "MD5KA",
+            "notice": [
+                {
+                    "osSeq": "507561",
+                    "model": "27MD5KA-B",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-161020-27MD5K-1.html"
+                }
+            ],
+            "source": []
+        },
+        "27MD5KA-BJ": {
+            "description": "MD5KA",
+            "notice": [
+                {
+                    "osSeq": "507561",
+                    "model": "27MD5KA-BJ",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-161020-27MD5K-1.html"
+                }
+            ],
+            "source": []
+        },
+        "27MD5KA-BK": {
+            "description": "MD5KA",
+            "notice": [
+                {
+                    "osSeq": "507561",
+                    "model": "27MD5KA-BK",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-161020-27MD5K-1.html"
+                }
+            ],
+            "source": []
+        },
+        "27MD5KB-BK": {
+            "description": "MD5KA",
+            "notice": [
+                {
+                    "osSeq": "507561",
+                    "model": "27MD5KB-BK",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-161020-27MD5K-1.html"
+                }
+            ],
+            "source": []
+        },
+        "27MD5KL-BJ": {
+            "description": "MD5KA",
+            "notice": [
+                {
+                    "osSeq": "507561",
+                    "model": "27MD5KL-BJ",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-161020-27MD5K-1.html"
+                }
+            ],
+            "source": []
+        },
+        "27MD5KL-BK": {
+            "description": "MD5KA",
+            "notice": [
+                {
+                    "osSeq": "507561",
+                    "model": "27MD5KL-BK",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-161020-27MD5K-1.html"
+                }
+            ],
+            "source": []
+        },
+        "27MD5KLB-BK": {
+            "description": "MD5KA",
+            "notice": [
+                {
+                    "osSeq": "507561",
+                    "model": "27MD5KLB-BK",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-161020-27MD5K-1.html"
+                }
+            ],
+            "source": []
+        },
+        "27MD5KLP-BK": {
+            "description": "M_Odinson_Leona2_Nxp",
+            "notice": [
+                {
+                    "osSeq": "509858",
+                    "model": "27MD5KLP-BK",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-862_18Y_M_Odinson_4K_200324.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "509858",
+                    "model": "27MD5KLP-BK",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "18Y_M_Odinson_4K.zip"
+                }
+            ]
+        },
+        "27MN60HM-WJ": {
+            "description": "M1A(14) Platform_06_26",
+            "notice": [
+                {
+                    "osSeq": "506590",
+                    "model": "27MN60HM-WJ",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "140306-L14_M1A_MTV_v0.2.pdf"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "506590",
+                    "model": "27MN60HM-WJ",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "20141223144029_5.0_L_CO_FI_2014_Monitor.zip"
+                }
+            ]
+        }
+    },
+    "TV/AV>TV": {
+        "27LX5QKNA": {
+            "description": "webOS 22 KHP 2.0",
+            "notice": [
+                {
+                    "osSeq": "511326",
+                    "model": "27LX5QKNA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-5241_webOS 22 KHP_2.0_230321.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "511326",
+                    "model": "27LX5QKNA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS 22 KHP_2.0_1.tar.gz"
+                },
+                {
+                    "osSeq": "511326",
+                    "model": "27LX5QKNA",
+                    "type": "Op",
+                    "fileId": "2",
+                    "filename": "webOS 22 KHP_2.0_2.tar.gz"
+                }
+            ]
+        },
+        "27LX5QKNB": {
+            "description": "webOS 22 KHP 1.0",
+            "notice": [
+                {
+                    "osSeq": "510780",
+                    "model": "27LX5QKNB",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-3981_webOS 22 KHP_1.0_220118.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "510780",
+                    "model": "27LX5QKNB",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS 22 KHP_1.0_1.tar.gz"
+                },
+                {
+                    "osSeq": "510780",
+                    "model": "27LX5QKNB",
+                    "type": "Op",
+                    "fileId": "2",
+                    "filename": "webOS 22 KHP_1.0_2.tar.gz"
+                }
+            ]
+        },
+        "27LX5QMNA": {
+            "description": "webOS 6.0 LMUA 1.0",
+            "notice": [
+                {
+                    "osSeq": "510685",
+                    "model": "27LX5QMNA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-3037_webOS 6.0 LMUA_1.0_211116.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "510685",
+                    "model": "27LX5QMNA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS 6.0 LMUA_1.0_1.tar.gz"
+                },
+                {
+                    "osSeq": "510685",
+                    "model": "27LX5QMNA",
+                    "type": "Op",
+                    "fileId": "2",
+                    "filename": "webOS 6.0 LMUA_1.0_2.tar.gz"
+                },
+                {
+                    "osSeq": "510685",
+                    "model": "27LX5QMNA",
+                    "type": "Op",
+                    "fileId": "3",
+                    "filename": "webOS 6.0 LMUA_1.0_3.tar.gz"
+                }
+            ]
+        },
+        "27LX6RPGA": {
+            "description": "webOS 23 KHP+ 1.0",
+            "notice": [
+                {
+                    "osSeq": "511215",
+                    "model": "27LX6RPGA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-4668_webOS 23 KHP+_1.0_221220.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "511215",
+                    "model": "27LX6RPGA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS 23 KHP+_1.0_1.tar.gz"
+                },
+                {
+                    "osSeq": "511215",
+                    "model": "27LX6RPGA",
+                    "type": "Op",
+                    "fileId": "2",
+                    "filename": "webOS 23 KHP+_1.0_2.tar.gz"
+                },
+                {
+                    "osSeq": "511215",
+                    "model": "27LX6RPGA",
+                    "type": "Op",
+                    "fileId": "3",
+                    "filename": "webOS 23 KHP+_1.0_3.tar.gz"
+                }
+            ]
+        }
+    }
+}

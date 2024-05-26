@@ -1,0 +1,188 @@
+{
+    "TV/AV>Monitor/Signage": {
+        "65SM5B-BD": {
+            "description": "webOS2.0_LM15U_Signage_2",
+            "notice": [
+                {
+                    "osSeq": "506465",
+                    "model": "65SM5B-BD",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-151022-LM15U_Signage-4.pdf"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "506465",
+                    "model": "65SM5B-BD",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS_Commercial_Signage_OpenSource_version1.0.1_2.zip"
+                }
+            ]
+        },
+        "65SM5C-BF": {
+            "description": "webOS3.0_M16_Signage_2",
+            "notice": [
+                {
+                    "osSeq": "507279",
+                    "model": "65SM5C-BF",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-170214-webOS3.0M16Signage-5.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "507279",
+                    "model": "65SM5C-BF",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS3.2_3.0_M16_Signage_OpenSource_V1.0_2.zip"
+                }
+            ]
+        },
+        "65SM5D-BH": {
+            "description": "webOS3.2_M16_Signage_2",
+            "notice": [
+                {
+                    "osSeq": "507773",
+                    "model": "65SM5D-BH",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-171011-webOS3.2M16Signage-2.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "507773",
+                    "model": "65SM5D-BH",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS3.2_3.0_M16_Signage_OpenSource_V1.0_2.zip"
+                }
+            ]
+        },
+        "65SM5KB-BD": {
+            "description": "webOS2.0_LM15U_Signage_2",
+            "notice": [
+                {
+                    "osSeq": "506465",
+                    "model": "65SM5KB-BD",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-151022-LM15U_Signage-4.pdf"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "506465",
+                    "model": "65SM5KB-BD",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS_Commercial_Signage_OpenSource_version1.0.1_2.zip"
+                }
+            ]
+        },
+        "65SM5KC-BF": {
+            "description": "webOS3.0_M16_Signage_2",
+            "notice": [
+                {
+                    "osSeq": "507279",
+                    "model": "65SM5KC-BF",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-170214-webOS3.0M16Signage-5.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "507279",
+                    "model": "65SM5KC-BF",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS3.2_3.0_M16_Signage_OpenSource_V1.0_2.zip"
+                }
+            ]
+        },
+        "65SM5KD-BH": {
+            "description": "webOS3.2_M16_Signage_2",
+            "notice": [
+                {
+                    "osSeq": "507773",
+                    "model": "65SM5KD-BH",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-171011-webOS3.2M16Signage-2.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "507773",
+                    "model": "65SM5KD-BH",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS3.2_3.0_M16_Signage_OpenSource_V1.0_2.zip"
+                }
+            ]
+        }
+    },
+    "TV/AV>TV": {
+        "65SM8000PLA": {
+            "description": "webOS 4.5 IKLP 4.0",
+            "notice": [
+                {
+                    "osSeq": "510775",
+                    "model": "65SM8000PLA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-4153_webOS 4.5 IKLP_4.0_220114.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "510775",
+                    "model": "65SM8000PLA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS 4.5 IKLP_4.0_1.tar.gz"
+                },
+                {
+                    "osSeq": "510775",
+                    "model": "65SM8000PLA",
+                    "type": "Op",
+                    "fileId": "2",
+                    "filename": "webOS 4.5 IKLP_4.0_2.tar.gz"
+                }
+            ]
+        },
+        "65SM8050PLC": {
+            "description": "webOS 4.5 IKLP 3.0",
+            "notice": [
+                {
+                    "osSeq": "509282",
+                    "model": "65SM8050PLC",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-1914_webOS 4.5 IKLP_3.0_190726.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "509282",
+                    "model": "65SM8050PLC",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS 4.5 IKLP_3.0_1.tar.gz"
+                },
+                {
+                    "osSeq": "509282",
+                    "model": "65SM8050PLC",
+                    "type": "Op",
+                    "fileId": "2",
+                    "filename": "webOS 4.5 IKLP_3.0_2.tar.gz"
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,214 @@
+{
+    "TV/AV>TV": {
+        "55UF940T-TA": {
+            "description": "webOS BLMU LGE Open Source2",
+            "notice": [
+                {
+                    "osSeq": "506703",
+                    "model": "55UF940T-TA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-160509-webOSBLMU-3.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "506703",
+                    "model": "55UF940T-TA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "BLMU-r3160-2.tar.gz"
+                }
+            ]
+        },
+        "55UF940V-ZA": {
+            "description": "webOS BLMU LGE Open Source2",
+            "notice": [
+                {
+                    "osSeq": "506703",
+                    "model": "55UF940V-ZA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-160509-webOSBLMU-3.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "506703",
+                    "model": "55UF940V-ZA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "BLMU-r3160-2.tar.gz"
+                }
+            ]
+        },
+        "55UF9500-CA": {
+            "description": "webOS BH LGE Open Source-Chromium Source",
+            "notice": [
+                {
+                    "osSeq": "506651",
+                    "model": "55UF9500-CA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-150604-webOSBH-5.pdf"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "506651",
+                    "model": "55UF9500-CA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "Chromium.zip"
+                }
+            ]
+        },
+        "55UF9500-JA": {
+            "description": "webOS BH LGE Open Source-Chromium Source",
+            "notice": [
+                {
+                    "osSeq": "506651",
+                    "model": "55UF9500-JA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-150604-webOSBH-5.pdf"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "506651",
+                    "model": "55UF9500-JA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "Chromium.zip"
+                }
+            ]
+        },
+        "55UF9500-NA": {
+            "description": "webOS BH LGE Open Source-Chromium Source",
+            "notice": [
+                {
+                    "osSeq": "506651",
+                    "model": "55UF9500-NA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-150604-webOSBH-5.pdf"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "506651",
+                    "model": "55UF9500-NA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "Chromium.zip"
+                }
+            ]
+        },
+        "55UF9500-SA": {
+            "description": "webOS BH LGE Open Source-Chromium Source",
+            "notice": [
+                {
+                    "osSeq": "506651",
+                    "model": "55UF9500-SA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-150604-webOSBH-5.pdf"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "506651",
+                    "model": "55UF9500-SA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "Chromium.zip"
+                }
+            ]
+        },
+        "55UF9500-UA": {
+            "description": "webOS BH LGE Open Source-Chromium Source",
+            "notice": [
+                {
+                    "osSeq": "506651",
+                    "model": "55UF9500-UA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-150604-webOSBH-5.pdf"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "506651",
+                    "model": "55UF9500-UA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "Chromium.zip"
+                }
+            ]
+        },
+        "55UF9509-ZA": {
+            "description": "webOS BH LGE Open Source-Chromium Source",
+            "notice": [
+                {
+                    "osSeq": "506651",
+                    "model": "55UF9509-ZA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-150604-webOSBH-5.pdf"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "506651",
+                    "model": "55UF9509-ZA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "Chromium.zip"
+                }
+            ]
+        },
+        "55UF950T-DA": {
+            "description": "webOS BH LGE Open Source-Chromium Source",
+            "notice": [
+                {
+                    "osSeq": "506651",
+                    "model": "55UF950T-DA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-150604-webOSBH-5.pdf"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "506651",
+                    "model": "55UF950T-DA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "Chromium.zip"
+                }
+            ]
+        },
+        "55UF950T-TA": {
+            "description": "webOS BH LGE Open Source-Chromium Source",
+            "notice": [
+                {
+                    "osSeq": "506651",
+                    "model": "55UF950T-TA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-150604-webOSBH-5.pdf"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "506651",
+                    "model": "55UF950T-TA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "Chromium.zip"
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,221 @@
+{
+    "TV/AV>TV": {
+        "32LM563BPTC": {
+            "description": "webOS 4.5 IMR 5.0",
+            "notice": [
+                {
+                    "osSeq": "510774",
+                    "model": "32LM563BPTC",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-4154_webOS 4.5 IMR_5.0_240319.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "510774",
+                    "model": "32LM563BPTC",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS 4.5 IMR_5.0_1.tar.gz"
+                },
+                {
+                    "osSeq": "510774",
+                    "model": "32LM563BPTC",
+                    "type": "Op",
+                    "fileId": "2",
+                    "filename": "webOS 4.5 IMR_5.0_2.tar.gz"
+                },
+                {
+                    "osSeq": "510774",
+                    "model": "32LM563BPTC",
+                    "type": "Op",
+                    "fileId": "3",
+                    "filename": "webOS 4.5 IMR_5.0_3.zip"
+                }
+            ]
+        },
+        "32LM565BPTA": {
+            "description": "webOS 4.5 IMR 5.0",
+            "notice": [
+                {
+                    "osSeq": "510774",
+                    "model": "32LM565BPTA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-4154_webOS 4.5 IMR_5.0_240319.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "510774",
+                    "model": "32LM565BPTA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS 4.5 IMR_5.0_1.tar.gz"
+                },
+                {
+                    "osSeq": "510774",
+                    "model": "32LM565BPTA",
+                    "type": "Op",
+                    "fileId": "2",
+                    "filename": "webOS 4.5 IMR_5.0_2.tar.gz"
+                },
+                {
+                    "osSeq": "510774",
+                    "model": "32LM565BPTA",
+                    "type": "Op",
+                    "fileId": "3",
+                    "filename": "webOS 4.5 IMR_5.0_3.zip"
+                }
+            ]
+        },
+        "32LM570BPLA": {
+            "description": "webOS 4.5 IMR 5.0",
+            "notice": [
+                {
+                    "osSeq": "510774",
+                    "model": "32LM570BPLA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-4154_webOS 4.5 IMR_5.0_240319.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "510774",
+                    "model": "32LM570BPLA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS 4.5 IMR_5.0_1.tar.gz"
+                },
+                {
+                    "osSeq": "510774",
+                    "model": "32LM570BPLA",
+                    "type": "Op",
+                    "fileId": "2",
+                    "filename": "webOS 4.5 IMR_5.0_2.tar.gz"
+                },
+                {
+                    "osSeq": "510774",
+                    "model": "32LM570BPLA",
+                    "type": "Op",
+                    "fileId": "3",
+                    "filename": "webOS 4.5 IMR_5.0_3.zip"
+                }
+            ]
+        },
+        "32LM570BPTC": {
+            "description": "webOS 4.5 IMR 5.0",
+            "notice": [
+                {
+                    "osSeq": "510774",
+                    "model": "32LM570BPTC",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-4154_webOS 4.5 IMR_5.0_240319.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "510774",
+                    "model": "32LM570BPTC",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS 4.5 IMR_5.0_1.tar.gz"
+                },
+                {
+                    "osSeq": "510774",
+                    "model": "32LM570BPTC",
+                    "type": "Op",
+                    "fileId": "2",
+                    "filename": "webOS 4.5 IMR_5.0_2.tar.gz"
+                },
+                {
+                    "osSeq": "510774",
+                    "model": "32LM570BPTC",
+                    "type": "Op",
+                    "fileId": "3",
+                    "filename": "webOS 4.5 IMR_5.0_3.zip"
+                }
+            ]
+        },
+        "32LM570BPUA": {
+            "description": "webOS 4.5 IMR 5.0",
+            "notice": [
+                {
+                    "osSeq": "510774",
+                    "model": "32LM570BPUA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-4154_webOS 4.5 IMR_5.0_240319.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "510774",
+                    "model": "32LM570BPUA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS 4.5 IMR_5.0_1.tar.gz"
+                },
+                {
+                    "osSeq": "510774",
+                    "model": "32LM570BPUA",
+                    "type": "Op",
+                    "fileId": "2",
+                    "filename": "webOS 4.5 IMR_5.0_2.tar.gz"
+                },
+                {
+                    "osSeq": "510774",
+                    "model": "32LM570BPUA",
+                    "type": "Op",
+                    "fileId": "3",
+                    "filename": "webOS 4.5 IMR_5.0_3.zip"
+                }
+            ]
+        },
+        "32LM572CBUA": {
+            "description": "webOS 4.5 IMR (Commercial)",
+            "notice": [
+                {
+                    "osSeq": "509225",
+                    "model": "32LM572CBUA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-1357_webOS 4.5 IMR_190305.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "509225",
+                    "model": "32LM572CBUA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS 4.5 IMR.tar.gz"
+                }
+            ]
+        },
+        "32LM575BPTC": {
+            "description": "webOS 4.0 GM 3.0",
+            "notice": [
+                {
+                    "osSeq": "510771",
+                    "model": "32LM575BPTC",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-4061_webOS 4.0 GM_3.0_220113.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "510771",
+                    "model": "32LM575BPTC",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS 4.0 GM_3.0.tar.gz"
+                }
+            ]
+        }
+    }
+}

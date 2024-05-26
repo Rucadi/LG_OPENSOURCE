@@ -1,0 +1,420 @@
+{
+    "TV/AV>AV": {
+        "TONE-NP3C": {
+            "description": "LG TONE-FP3_TONE-NP3 Series (latest)",
+            "notice": [
+                {
+                    "osSeq": "510534",
+                    "model": "TONE-NP3C",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-3687_LG TONE-FP3 Series_0.16.1-_210707.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "510534",
+                    "model": "TONE-NP3C",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "LG TONE-FP3 Series_0.16.1-.zip"
+                }
+            ]
+        },
+        "TONE-TFP3": {
+            "description": "LG TONE-FP3_TONE-NP3 Series (latest)",
+            "notice": [
+                {
+                    "osSeq": "510534",
+                    "model": "TONE-TFP3",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-3687_LG TONE-FP3 Series_0.16.1-_210707.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "510534",
+                    "model": "TONE-TFP3",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "LG TONE-FP3 Series_0.16.1-.zip"
+                }
+            ]
+        },
+        "TONE-TFP3W": {
+            "description": "LG TONE-FP3_TONE-NP3 Series (latest)",
+            "notice": [
+                {
+                    "osSeq": "510534",
+                    "model": "TONE-TFP3W",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-3687_LG TONE-FP3 Series_0.16.1-_210707.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "510534",
+                    "model": "TONE-TFP3W",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "LG TONE-FP3 Series_0.16.1-.zip"
+                }
+            ]
+        },
+        "TONE-TFP9": {
+            "description": "LG TONE-FP9 TONE-FP7 Series 0.15.1-",
+            "notice": [
+                {
+                    "osSeq": "510491",
+                    "model": "TONE-TFP9",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-3628_LG TONE-FP9 Series_0.15.1-_210604.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "510491",
+                    "model": "TONE-TFP9",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "LG TONE-FP9 Series_0.15.1-.zip"
+                }
+            ]
+        },
+        "TONE-TFP9W": {
+            "description": "LG TONE-FP9 TONE-FP7 Series 0.15.1-",
+            "notice": [
+                {
+                    "osSeq": "510491",
+                    "model": "TONE-TFP9W",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-3628_LG TONE-FP9 Series_0.15.1-_210604.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "510491",
+                    "model": "TONE-TFP9W",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "LG TONE-FP9 Series_0.15.1-.zip"
+                }
+            ]
+        },
+        "TONE-TNP3": {
+            "description": "LG TONE-FP3_TONE-NP3 Series (latest)",
+            "notice": [
+                {
+                    "osSeq": "510534",
+                    "model": "TONE-TNP3",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-3687_LG TONE-FP3 Series_0.16.1-_210707.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "510534",
+                    "model": "TONE-TNP3",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "LG TONE-FP3 Series_0.16.1-.zip"
+                }
+            ]
+        },
+        "TONE-UFP3": {
+            "description": "LG TONE-FP3_TONE-NP3 Series (latest)",
+            "notice": [
+                {
+                    "osSeq": "510534",
+                    "model": "TONE-UFP3",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-3687_LG TONE-FP3 Series_0.16.1-_210707.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "510534",
+                    "model": "TONE-UFP3",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "LG TONE-FP3 Series_0.16.1-.zip"
+                }
+            ]
+        },
+        "TONE-UFP9": {
+            "description": "LG TONE-FP9 TONE-FP7 Series 0.15.1-",
+            "notice": [
+                {
+                    "osSeq": "510491",
+                    "model": "TONE-UFP9",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-3628_LG TONE-FP9 Series_0.15.1-_210604.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "510491",
+                    "model": "TONE-UFP9",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "LG TONE-FP9 Series_0.15.1-.zip"
+                }
+            ]
+        },
+        "TONE-UNP3": {
+            "description": "LG TONE-FP3_TONE-NP3 Series (latest)",
+            "notice": [
+                {
+                    "osSeq": "510534",
+                    "model": "TONE-UNP3",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-3687_LG TONE-FP3 Series_0.16.1-_210707.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "510534",
+                    "model": "TONE-UNP3",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "LG TONE-FP3 Series_0.16.1-.zip"
+                }
+            ]
+        },
+        "US40T": {
+            "description": "24Y Low-End SoundBar (S40T/S50TR/SK1D VI) 2308210- (latest)",
+            "notice": [
+                {
+                    "osSeq": "511505",
+                    "model": "US40T",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-5756_24Y Low-End SoundBar (S40T_S50TR)_2308210-_230915.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "511505",
+                    "model": "US40T",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "24Y Low-End SoundBar (S40T_S50TR)_2308210-.zip"
+                }
+            ]
+        },
+        "US40TR": {
+            "description": "24Y Low-End SoundBar (S40T/S50TR/SK1D VI) 2308210- (latest)",
+            "notice": [
+                {
+                    "osSeq": "511505",
+                    "model": "US40TR",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-5756_24Y Low-End SoundBar (S40T_S50TR)_2308210-_230915.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "511505",
+                    "model": "US40TR",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "24Y Low-End SoundBar (S40T_S50TR)_2308210-.zip"
+                }
+            ]
+        }
+    },
+    "TV/AV>TV": {
+        "TOOLCHAIN": {
+            "description": "webOS 5.0 toolchain",
+            "notice": [
+                {
+                    "osSeq": "509518",
+                    "model": "TOOLCHAIN",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-2271_webOS 5.0 toolchain_191118.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "509518",
+                    "model": "TOOLCHAIN",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS 5.0 toolchain.tar.gz"
+                }
+            ]
+        },
+        "TOOLCHAIN WEBOS3.0 (64BIT)": {
+            "description": "webOS TV Toolchain",
+            "notice": [
+                {
+                    "osSeq": "511172",
+                    "model": "TOOLCHAIN WEBOS3.0 (64BIT)",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-4954_webOS TV Toolchain_221111.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "511172",
+                    "model": "TOOLCHAIN WEBOS3.0 (64BIT)",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS TV Toolchain.zip"
+                }
+            ]
+        }
+    },
+    "TV/AV>Monitor/Signage": {
+        "TSP300-A": {
+            "description": "Signage_vs20 Series",
+            "notice": [
+                {
+                    "osSeq": "12680",
+                    "model": "TSP300-A",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-140731-Signage_vs20Series-1.pdf"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "12680",
+                    "model": "TSP300-A",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "Signage_vs20Series_OpenSource_v1.0.zip"
+                }
+            ]
+        },
+        "TSP500-A": {
+            "description": "Signage_vs20 Series",
+            "notice": [
+                {
+                    "osSeq": "12680",
+                    "model": "TSP500-A",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-140731-Signage_vs20Series-1.pdf"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "12680",
+                    "model": "TSP500-A",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "Signage_vs20Series_OpenSource_v1.0.zip"
+                }
+            ]
+        },
+        "TSP500-M": {
+            "description": "Signage_vs20 Series",
+            "notice": [
+                {
+                    "osSeq": "12680",
+                    "model": "TSP500-M",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-140731-Signage_vs20Series-1.pdf"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "12680",
+                    "model": "TSP500-M",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "Signage_vs20Series_OpenSource_v1.0.zip"
+                }
+            ]
+        },
+        "TSP510-A": {
+            "description": "L15_M1A_Signage Open Source",
+            "notice": [
+                {
+                    "osSeq": "506463",
+                    "model": "TSP510-A",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-150128-L15_M1A_Signage-2.pdf"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "506463",
+                    "model": "TSP510-A",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "L15_M1A_Commercial_Signage_Opensource_v1.1.zip"
+                }
+            ]
+        },
+        "TSP510-M": {
+            "description": "L15_M1A_Signage Open Source",
+            "notice": [
+                {
+                    "osSeq": "506463",
+                    "model": "TSP510-M",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-150128-L15_M1A_Signage-2.pdf"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "506463",
+                    "model": "TSP510-M",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "L15_M1A_Commercial_Signage_Opensource_v1.1.zip"
+                }
+            ]
+        },
+        "ULTRA STRETCH CONTENT MANAGER": {
+            "description": "Ultra StretchContent Manager",
+            "notice": [
+                {
+                    "osSeq": "507100",
+                    "model": "ULTRA STRETCH CONTENT MANAGER",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-160205-UltraStretchContentManager-1.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "507100",
+                    "model": "ULTRA STRETCH CONTENT MANAGER",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "USCM_OpenSource.zip"
+                }
+            ]
+        },
+        "ULTRAGEAR STUDIO - GAMING MOUSE PAD PLUGIN": {
+            "description": "LG UltraGear Control Center",
+            "notice": [
+                {
+                    "osSeq": "509024",
+                    "model": "ULTRAGEAR STUDIO - GAMING MOUSE PAD PLUGIN",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-1534_LG UltraGear Control Center_190319.html"
+                }
+            ],
+            "source": []
+        }
+    }
+}

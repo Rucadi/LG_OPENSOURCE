@@ -1,0 +1,571 @@
+{
+    "TV/AV>Monitor/Signage": {
+        "32SP510M-PM": {
+            "description": "M1A(14) Platform_06_26",
+            "notice": [
+                {
+                    "osSeq": "506590",
+                    "model": "32SP510M-PM",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "140306-L14_M1A_MTV_v0.2.pdf"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "506590",
+                    "model": "32SP510M-PM",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "20141223144029_5.0_L_CO_FI_2014_Monitor.zip"
+                }
+            ]
+        },
+        "32SQ700S-WA": {
+            "description": "webOS 22 KLP Smart Monitor",
+            "notice": [
+                {
+                    "osSeq": "511379",
+                    "model": "32SQ700S-WA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-5333_webOS 22 KLP Smart Monitor_230407.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "511379",
+                    "model": "32SQ700S-WA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS 22 KLP Smart Monitor_1.tar.gz"
+                },
+                {
+                    "osSeq": "511379",
+                    "model": "32SQ700S-WA",
+                    "type": "Op",
+                    "fileId": "2",
+                    "filename": "webOS 22 KLP Smart Monitor_2.tar.gz"
+                }
+            ]
+        },
+        "32SQ730S": {
+            "description": "webOS 22 KLP Smart Monitor",
+            "notice": [
+                {
+                    "osSeq": "511379",
+                    "model": "32SQ730S",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-5333_webOS 22 KLP Smart Monitor_230407.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "511379",
+                    "model": "32SQ730S",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS 22 KLP Smart Monitor_1.tar.gz"
+                },
+                {
+                    "osSeq": "511379",
+                    "model": "32SQ730S",
+                    "type": "Op",
+                    "fileId": "2",
+                    "filename": "webOS 22 KLP Smart Monitor_2.tar.gz"
+                }
+            ]
+        },
+        "32SQ730S-HB": {
+            "description": "webOS 22 KLP Smart Monitor",
+            "notice": [
+                {
+                    "osSeq": "511379",
+                    "model": "32SQ730S-HB",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-5333_webOS 22 KLP Smart Monitor_230407.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "511379",
+                    "model": "32SQ730S-HB",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS 22 KLP Smart Monitor_1.tar.gz"
+                },
+                {
+                    "osSeq": "511379",
+                    "model": "32SQ730S-HB",
+                    "type": "Op",
+                    "fileId": "2",
+                    "filename": "webOS 22 KLP Smart Monitor_2.tar.gz"
+                }
+            ]
+        },
+        "32SQ730S-WA": {
+            "description": "webOS 22 KLP Smart Monitor",
+            "notice": [
+                {
+                    "osSeq": "511379",
+                    "model": "32SQ730S-WA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-5333_webOS 22 KLP Smart Monitor_230407.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "511379",
+                    "model": "32SQ730S-WA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS 22 KLP Smart Monitor_1.tar.gz"
+                },
+                {
+                    "osSeq": "511379",
+                    "model": "32SQ730S-WA",
+                    "type": "Op",
+                    "fileId": "2",
+                    "filename": "webOS 22 KLP Smart Monitor_2.tar.gz"
+                }
+            ]
+        },
+        "32SQ730S-WB": {
+            "description": "webOS 22 KLP Smart Monitor",
+            "notice": [
+                {
+                    "osSeq": "511379",
+                    "model": "32SQ730S-WB",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-5333_webOS 22 KLP Smart Monitor_230407.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "511379",
+                    "model": "32SQ730S-WB",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS 22 KLP Smart Monitor_1.tar.gz"
+                },
+                {
+                    "osSeq": "511379",
+                    "model": "32SQ730S-WB",
+                    "type": "Op",
+                    "fileId": "2",
+                    "filename": "webOS 22 KLP Smart Monitor_2.tar.gz"
+                }
+            ]
+        },
+        "32SQ730S-WY": {
+            "description": "webOS 22 KLP Smart Monitor",
+            "notice": [
+                {
+                    "osSeq": "511379",
+                    "model": "32SQ730S-WY",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-5333_webOS 22 KLP Smart Monitor_230407.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "511379",
+                    "model": "32SQ730S-WY",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS 22 KLP Smart Monitor_1.tar.gz"
+                },
+                {
+                    "osSeq": "511379",
+                    "model": "32SQ730S-WY",
+                    "type": "Op",
+                    "fileId": "2",
+                    "filename": "webOS 22 KLP Smart Monitor_2.tar.gz"
+                }
+            ]
+        },
+        "32SQ750S-WA": {
+            "description": "webOS 22 KLP Smart Monitor",
+            "notice": [
+                {
+                    "osSeq": "511379",
+                    "model": "32SQ750S-WA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-5333_webOS 22 KLP Smart Monitor_230407.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "511379",
+                    "model": "32SQ750S-WA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS 22 KLP Smart Monitor_1.tar.gz"
+                },
+                {
+                    "osSeq": "511379",
+                    "model": "32SQ750S-WA",
+                    "type": "Op",
+                    "fileId": "2",
+                    "filename": "webOS 22 KLP Smart Monitor_2.tar.gz"
+                }
+            ]
+        },
+        "32SQ780S-WA": {
+            "description": "webOS 22 KLP (Commercial) / Smart Monitor",
+            "notice": [
+                {
+                    "osSeq": "510887",
+                    "model": "32SQ780S-WA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-4336_webOS 22 KLP (Commercial)_1.0_220330.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "510887",
+                    "model": "32SQ780S-WA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS 22 KLP (Commercial)_1.0_1.tar.gz"
+                },
+                {
+                    "osSeq": "510887",
+                    "model": "32SQ780S-WA",
+                    "type": "Op",
+                    "fileId": "2",
+                    "filename": "webOS 22 KLP (Commercial)_1.0_2.tar.gz"
+                }
+            ]
+        },
+        "32SQ780S-WB": {
+            "description": "webOS 22 KLP (Commercial) / Smart Monitor",
+            "notice": [
+                {
+                    "osSeq": "510887",
+                    "model": "32SQ780S-WB",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-4336_webOS 22 KLP (Commercial)_1.0_220330.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "510887",
+                    "model": "32SQ780S-WB",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS 22 KLP (Commercial)_1.0_1.tar.gz"
+                },
+                {
+                    "osSeq": "510887",
+                    "model": "32SQ780S-WB",
+                    "type": "Op",
+                    "fileId": "2",
+                    "filename": "webOS 22 KLP (Commercial)_1.0_2.tar.gz"
+                }
+            ]
+        },
+        "32SQ780S-WY": {
+            "description": "webOS 22 KLP (Commercial) / Smart Monitor",
+            "notice": [
+                {
+                    "osSeq": "510887",
+                    "model": "32SQ780S-WY",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-4336_webOS 22 KLP (Commercial)_1.0_220330.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "510887",
+                    "model": "32SQ780S-WY",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS 22 KLP (Commercial)_1.0_1.tar.gz"
+                },
+                {
+                    "osSeq": "510887",
+                    "model": "32SQ780S-WY",
+                    "type": "Op",
+                    "fileId": "2",
+                    "filename": "webOS 22 KLP (Commercial)_1.0_2.tar.gz"
+                }
+            ]
+        },
+        "32SR50F-WA": {
+            "description": "webOS 23 KF23F for Monitor 1.0 (1.0 & MR)",
+            "notice": [
+                {
+                    "osSeq": "511464",
+                    "model": "32SR50F-WA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-5646_webOS 23 KKF for Monitor_1.0_230726.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "511464",
+                    "model": "32SR50F-WA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS 23 KKF for Monitor_1.0_1.tar.gz"
+                },
+                {
+                    "osSeq": "511464",
+                    "model": "32SR50F-WA",
+                    "type": "Op",
+                    "fileId": "2",
+                    "filename": "webOS 23 KKF for Monitor_1.0_2.tar.gz"
+                },
+                {
+                    "osSeq": "511464",
+                    "model": "32SR50F-WA",
+                    "type": "Op",
+                    "fileId": "3",
+                    "filename": "webOS 23 KKF for Monitor_1.0_3.tar.gz"
+                }
+            ]
+        },
+        "32SR70U-WA": {
+            "description": "webOS23_KID23Q_SmartMonitor 1.0",
+            "notice": [
+                {
+                    "osSeq": "511542",
+                    "model": "32SR70U-WA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-5645_webOS23_KID23Q_SmartMonitor_1.0_231108.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "511542",
+                    "model": "32SR70U-WA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS23_KID23Q_SmartMonitor_1.0_1.tar.gz"
+                },
+                {
+                    "osSeq": "511542",
+                    "model": "32SR70U-WA",
+                    "type": "Op",
+                    "fileId": "2",
+                    "filename": "webOS23_KID23Q_SmartMonitor_1.0_2.tar.gz"
+                },
+                {
+                    "osSeq": "511542",
+                    "model": "32SR70U-WA",
+                    "type": "Op",
+                    "fileId": "3",
+                    "filename": "webOS23_KID23Q_SmartMonitor_1.0_3.tar.gz"
+                }
+            ]
+        },
+        "32SR73U-WA": {
+            "description": "webOS23_KID23Q_SmartMonitor 1.0",
+            "notice": [
+                {
+                    "osSeq": "511542",
+                    "model": "32SR73U-WA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-5645_webOS23_KID23Q_SmartMonitor_1.0_231108.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "511542",
+                    "model": "32SR73U-WA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS23_KID23Q_SmartMonitor_1.0_1.tar.gz"
+                },
+                {
+                    "osSeq": "511542",
+                    "model": "32SR73U-WA",
+                    "type": "Op",
+                    "fileId": "2",
+                    "filename": "webOS23_KID23Q_SmartMonitor_1.0_2.tar.gz"
+                },
+                {
+                    "osSeq": "511542",
+                    "model": "32SR73U-WA",
+                    "type": "Op",
+                    "fileId": "3",
+                    "filename": "webOS23_KID23Q_SmartMonitor_1.0_3.tar.gz"
+                }
+            ]
+        },
+        "32SR75U-WA": {
+            "description": "webOS23_KID23Q_SmartMonitor 1.0",
+            "notice": [
+                {
+                    "osSeq": "511542",
+                    "model": "32SR75U-WA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-5645_webOS23_KID23Q_SmartMonitor_1.0_231108.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "511542",
+                    "model": "32SR75U-WA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS23_KID23Q_SmartMonitor_1.0_1.tar.gz"
+                },
+                {
+                    "osSeq": "511542",
+                    "model": "32SR75U-WA",
+                    "type": "Op",
+                    "fileId": "2",
+                    "filename": "webOS23_KID23Q_SmartMonitor_1.0_2.tar.gz"
+                },
+                {
+                    "osSeq": "511542",
+                    "model": "32SR75U-WA",
+                    "type": "Op",
+                    "fileId": "3",
+                    "filename": "webOS23_KID23Q_SmartMonitor_1.0_3.tar.gz"
+                }
+            ]
+        },
+        "32SR76U-WA": {
+            "description": "webOS23_KID23Q_SmartMonitor 1.0",
+            "notice": [
+                {
+                    "osSeq": "511542",
+                    "model": "32SR76U-WA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-5645_webOS23_KID23Q_SmartMonitor_1.0_231108.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "511542",
+                    "model": "32SR76U-WA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS23_KID23Q_SmartMonitor_1.0_1.tar.gz"
+                },
+                {
+                    "osSeq": "511542",
+                    "model": "32SR76U-WA",
+                    "type": "Op",
+                    "fileId": "2",
+                    "filename": "webOS23_KID23Q_SmartMonitor_1.0_2.tar.gz"
+                },
+                {
+                    "osSeq": "511542",
+                    "model": "32SR76U-WA",
+                    "type": "Op",
+                    "fileId": "3",
+                    "filename": "webOS23_KID23Q_SmartMonitor_1.0_3.tar.gz"
+                }
+            ]
+        },
+        "32SR83U-WA": {
+            "description": "webOS23_KID23Q_SmartMonitor 1.0",
+            "notice": [
+                {
+                    "osSeq": "511542",
+                    "model": "32SR83U-WA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-5645_webOS23_KID23Q_SmartMonitor_1.0_231108.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "511542",
+                    "model": "32SR83U-WA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS23_KID23Q_SmartMonitor_1.0_1.tar.gz"
+                },
+                {
+                    "osSeq": "511542",
+                    "model": "32SR83U-WA",
+                    "type": "Op",
+                    "fileId": "2",
+                    "filename": "webOS23_KID23Q_SmartMonitor_1.0_2.tar.gz"
+                },
+                {
+                    "osSeq": "511542",
+                    "model": "32SR83U-WA",
+                    "type": "Op",
+                    "fileId": "3",
+                    "filename": "webOS23_KID23Q_SmartMonitor_1.0_3.tar.gz"
+                }
+            ]
+        },
+        "32SR85U-WA": {
+            "description": "webOS23_KID23Q_SmartMonitor 1.0",
+            "notice": [
+                {
+                    "osSeq": "511542",
+                    "model": "32SR85U-WA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-5645_webOS23_KID23Q_SmartMonitor_1.0_231108.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "511542",
+                    "model": "32SR85U-WA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS23_KID23Q_SmartMonitor_1.0_1.tar.gz"
+                },
+                {
+                    "osSeq": "511542",
+                    "model": "32SR85U-WA",
+                    "type": "Op",
+                    "fileId": "2",
+                    "filename": "webOS23_KID23Q_SmartMonitor_1.0_2.tar.gz"
+                },
+                {
+                    "osSeq": "511542",
+                    "model": "32SR85U-WA",
+                    "type": "Op",
+                    "fileId": "3",
+                    "filename": "webOS23_KID23Q_SmartMonitor_1.0_3.tar.gz"
+                }
+            ]
+        },
+        "32TA3E-BH": {
+            "description": "webOS3.2_M16_Signage_1",
+            "notice": [
+                {
+                    "osSeq": "507772",
+                    "model": "32TA3E-BH",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-171011-webOS3.2M16Signage-2.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "507772",
+                    "model": "32TA3E-BH",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS3.2_3.0_M16_Signage_OpenSource_V1.0.zip"
+                }
+            ]
+        }
+    }
+}

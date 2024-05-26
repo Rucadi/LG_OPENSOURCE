@@ -1,0 +1,461 @@
+{
+    "TV/AV>Projector": {
+        "HU915QB-GL": {
+            "description": "webOS 6.0 Projector",
+            "notice": [
+                {
+                    "osSeq": "510544",
+                    "model": "HU915QB-GL",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-3652_webOS 6.0 Projector_210719.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "510544",
+                    "model": "HU915QB-GL",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS 6.0 Projector_1.tar.gz"
+                },
+                {
+                    "osSeq": "510544",
+                    "model": "HU915QB-GL",
+                    "type": "Op",
+                    "fileId": "2",
+                    "filename": "webOS 6.0 Projector_2.tar.gz"
+                },
+                {
+                    "osSeq": "510544",
+                    "model": "HU915QB-GL",
+                    "type": "Op",
+                    "fileId": "3",
+                    "filename": "webOS 6.0 Projector_3.tar.gz"
+                }
+            ]
+        },
+        "HU915QE-CH": {
+            "description": "webOS 6.0 Projector",
+            "notice": [
+                {
+                    "osSeq": "510544",
+                    "model": "HU915QE-CH",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-3652_webOS 6.0 Projector_210719.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "510544",
+                    "model": "HU915QE-CH",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS 6.0 Projector_1.tar.gz"
+                },
+                {
+                    "osSeq": "510544",
+                    "model": "HU915QE-CH",
+                    "type": "Op",
+                    "fileId": "2",
+                    "filename": "webOS 6.0 Projector_2.tar.gz"
+                },
+                {
+                    "osSeq": "510544",
+                    "model": "HU915QE-CH",
+                    "type": "Op",
+                    "fileId": "3",
+                    "filename": "webOS 6.0 Projector_3.tar.gz"
+                }
+            ]
+        },
+        "HU915QE-GL": {
+            "description": "webOS 6.0 Projector",
+            "notice": [
+                {
+                    "osSeq": "510544",
+                    "model": "HU915QE-GL",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-3652_webOS 6.0 Projector_210719.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "510544",
+                    "model": "HU915QE-GL",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS 6.0 Projector_1.tar.gz"
+                },
+                {
+                    "osSeq": "510544",
+                    "model": "HU915QE-GL",
+                    "type": "Op",
+                    "fileId": "2",
+                    "filename": "webOS 6.0 Projector_2.tar.gz"
+                },
+                {
+                    "osSeq": "510544",
+                    "model": "HU915QE-GL",
+                    "type": "Op",
+                    "fileId": "3",
+                    "filename": "webOS 6.0 Projector_3.tar.gz"
+                }
+            ]
+        },
+        "HU915QEG-GL": {
+            "description": "webOS 6.0 Projector",
+            "notice": [
+                {
+                    "osSeq": "510544",
+                    "model": "HU915QEG-GL",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-3652_webOS 6.0 Projector_210719.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "510544",
+                    "model": "HU915QEG-GL",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS 6.0 Projector_1.tar.gz"
+                },
+                {
+                    "osSeq": "510544",
+                    "model": "HU915QEG-GL",
+                    "type": "Op",
+                    "fileId": "2",
+                    "filename": "webOS 6.0 Projector_2.tar.gz"
+                },
+                {
+                    "osSeq": "510544",
+                    "model": "HU915QEG-GL",
+                    "type": "Op",
+                    "fileId": "3",
+                    "filename": "webOS 6.0 Projector_3.tar.gz"
+                }
+            ]
+        },
+        "KPF510N-KR": {
+            "description": "webOS 4.5 Projector",
+            "notice": [
+                {
+                    "osSeq": "509121",
+                    "model": "KPF510N-KR",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-1592_webOS 4.5 Projector_190515.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "509121",
+                    "model": "KPF510N-KR",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS 4.5 Projector.tar.gz"
+                }
+            ]
+        },
+        "KPF510RG-GL": {
+            "description": "Signage_Projector_M16P3_webOS6.0 MR4",
+            "notice": [
+                {
+                    "osSeq": "511209",
+                    "model": "KPF510RG-GL",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-4974_Signage_Projector_M16P3_webOS6.0_MR4_221216.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "511209",
+                    "model": "KPF510RG-GL",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "Signage_Projector_M16P3_webOS6.0_MR4_1.zip"
+                },
+                {
+                    "osSeq": "511209",
+                    "model": "KPF510RG-GL",
+                    "type": "Op",
+                    "fileId": "2",
+                    "filename": "Signage_Projector_M16P3_webOS6.0_MR4_2.zip"
+                }
+            ]
+        },
+        "KPF520N-KR": {
+            "description": "webOS 4.5 Projector",
+            "notice": [
+                {
+                    "osSeq": "509121",
+                    "model": "KPF520N-KR",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-1592_webOS 4.5 Projector_190515.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "509121",
+                    "model": "KPF520N-KR",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS 4.5 Projector.tar.gz"
+                }
+            ]
+        },
+        "KPF530P-KR": {
+            "description": "webOS 4.5 Projector",
+            "notice": [
+                {
+                    "osSeq": "509121",
+                    "model": "KPF530P-KR",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-1592_webOS 4.5 Projector_190515.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "509121",
+                    "model": "KPF530P-KR",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS 4.5 Projector.tar.gz"
+                }
+            ]
+        },
+        "KPU510N-KR": {
+            "description": "webOS 4.5 Projector",
+            "notice": [
+                {
+                    "osSeq": "509121",
+                    "model": "KPU510N-KR",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-1592_webOS 4.5 Projector_190515.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "509121",
+                    "model": "KPU510N-KR",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS 4.5 Projector.tar.gz"
+                }
+            ]
+        },
+        "KPU510RG-GL": {
+            "description": "Signage_Projector_M16P3_webOS6.0 MR4",
+            "notice": [
+                {
+                    "osSeq": "511209",
+                    "model": "KPU510RG-GL",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-4974_Signage_Projector_M16P3_webOS6.0_MR4_221216.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "511209",
+                    "model": "KPU510RG-GL",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "Signage_Projector_M16P3_webOS6.0_MR4_1.zip"
+                },
+                {
+                    "osSeq": "511209",
+                    "model": "KPU510RG-GL",
+                    "type": "Op",
+                    "fileId": "2",
+                    "filename": "Signage_Projector_M16P3_webOS6.0_MR4_2.zip"
+                }
+            ]
+        },
+        "KPU520N-GL": {
+            "description": "webOS 4.5 Projector",
+            "notice": [
+                {
+                    "osSeq": "509121",
+                    "model": "KPU520N-GL",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-1592_webOS 4.5 Projector_190515.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "509121",
+                    "model": "KPU520N-GL",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS 4.5 Projector.tar.gz"
+                }
+            ]
+        },
+        "KPU520N-KR": {
+            "description": "webOS 4.5 Projector",
+            "notice": [
+                {
+                    "osSeq": "509121",
+                    "model": "KPU520N-KR",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-1592_webOS 4.5 Projector_190515.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "509121",
+                    "model": "KPU520N-KR",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS 4.5 Projector.tar.gz"
+                }
+            ]
+        }
+    },
+    "TV/AV>TV": {
+        "JAPANESE MAP APP": {
+            "description": "Japanese Map App 1.0",
+            "notice": [
+                {
+                    "osSeq": "510134",
+                    "model": "JAPANESE MAP APP",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-3140_Japanese Map App_1.0_201023.html"
+                }
+            ],
+            "source": []
+        }
+    },
+    "TV/AV>Monitor/Signage": {
+        "LAA015FL6B1": {
+            "description": "webOS4.0_M16++_Signage MR",
+            "notice": [
+                {
+                    "osSeq": "508876",
+                    "model": "LAA015FL6B1",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-1360_webOS4.0_M16++_Signage_MR_190107.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "508876",
+                    "model": "LAA015FL6B1",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS4.0_M16++_Signage_MR.zip"
+                }
+            ]
+        },
+        "LAA015FL7B1": {
+            "description": "webOS4.0_M16++_Signage MR",
+            "notice": [
+                {
+                    "osSeq": "508876",
+                    "model": "LAA015FL7B1",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-1360_webOS4.0_M16++_Signage_MR_190107.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "508876",
+                    "model": "LAA015FL7B1",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS4.0_M16++_Signage_MR.zip"
+                }
+            ]
+        },
+        "LAA015FL7B2": {
+            "description": "webOS4.0_M16++_Signage MR",
+            "notice": [
+                {
+                    "osSeq": "508876",
+                    "model": "LAA015FL7B2",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-1360_webOS4.0_M16++_Signage_MR_190107.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "508876",
+                    "model": "LAA015FL7B2",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS4.0_M16++_Signage_MR.zip"
+                }
+            ]
+        },
+        "LAA015FL7B3": {
+            "description": "webOS4.0_M16++_Signage MR",
+            "notice": [
+                {
+                    "osSeq": "508876",
+                    "model": "LAA015FL7B3",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-1360_webOS4.0_M16++_Signage_MR_190107.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "508876",
+                    "model": "LAA015FL7B3",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS4.0_M16++_Signage_MR.zip"
+                }
+            ]
+        },
+        "LAA015FL9B1": {
+            "description": "webOS4.0_M16++_Signage MR",
+            "notice": [
+                {
+                    "osSeq": "508876",
+                    "model": "LAA015FL9B1",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-1360_webOS4.0_M16++_Signage_MR_190107.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "508876",
+                    "model": "LAA015FL9B1",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS4.0_M16++_Signage_MR.zip"
+                }
+            ]
+        },
+        "LAA015FL9B2": {
+            "description": "LG Presenter PC Client",
+            "notice": [
+                {
+                    "osSeq": "508848",
+                    "model": "LAA015FL9B2",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-1405_LG Presenter PC Client_190108.html"
+                }
+            ],
+            "source": []
+        }
+    }
+}

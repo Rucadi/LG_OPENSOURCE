@@ -1,0 +1,424 @@
+{
+    "TV/AV>Monitor/Signage": {
+        "27HQ710S-WA": {
+            "description": "M_Odinson_Leona2_Nxp",
+            "notice": [
+                {
+                    "osSeq": "509858",
+                    "model": "27HQ710S-WA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-862_18Y_M_Odinson_4K_200324.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "509858",
+                    "model": "27HQ710S-WA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "18Y_M_Odinson_4K.zip"
+                }
+            ]
+        },
+        "27HSS75U-BO": {
+            "description": "M_Odinson_Leona2",
+            "notice": [
+                {
+                    "osSeq": "509948",
+                    "model": "27HSS75U-BO",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-2803_M_Odinson_Leona2_200714.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "509948",
+                    "model": "27HSS75U-BO",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "M_Odinson_Leona2.zip"
+                }
+            ]
+        },
+        "27HSS75U-LO": {
+            "description": "M_Odinson_Leona2",
+            "notice": [
+                {
+                    "osSeq": "509948",
+                    "model": "27HSS75U-LO",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-2803_M_Odinson_Leona2_200714.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "509948",
+                    "model": "27HSS75U-LO",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "M_Odinson_Leona2.zip"
+                }
+            ]
+        },
+        "27HSS75U-WO": {
+            "description": "M_Odinson_Leona2_Nxp",
+            "notice": [
+                {
+                    "osSeq": "509858",
+                    "model": "27HSS75U-WO",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-862_18Y_M_Odinson_4K_200324.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "509858",
+                    "model": "27HSS75U-WO",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "18Y_M_Odinson_4K.zip"
+                }
+            ]
+        },
+        "27LP600B-PU": {
+            "description": "M1LP(16) Platform_12_16",
+            "notice": [
+                {
+                    "osSeq": "507467",
+                    "model": "27LP600B-PU",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-160824-L16_M1LP_MTV-1.html"
+                }
+            ],
+            "source": []
+        },
+        "27LP615B-PU": {
+            "description": "M1LP(16) Platform_12_16",
+            "notice": [
+                {
+                    "osSeq": "507467",
+                    "model": "27LP615B-PU",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-160824-L16_M1LP_MTV-1.html"
+                }
+            ],
+            "source": []
+        },
+        "27LQ600S-WN": {
+            "description": "webOS 22 KAP for Monitor 2.0",
+            "notice": [
+                {
+                    "osSeq": "511404",
+                    "model": "27LQ600S-WN",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-5503_webOS 22 KAP for Monitor_2.0_230615.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "511404",
+                    "model": "27LQ600S-WN",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS 22 KAP for Monitor_2.0_1.tar.gz"
+                },
+                {
+                    "osSeq": "511404",
+                    "model": "27LQ600S-WN",
+                    "type": "Op",
+                    "fileId": "2",
+                    "filename": "webOS 22 KAP for Monitor_2.0_2.tar.gz"
+                }
+            ]
+        },
+        "27LQ600S-WU": {
+            "description": "webOS 22 KAP for Monitor 2.0",
+            "notice": [
+                {
+                    "osSeq": "511404",
+                    "model": "27LQ600S-WU",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-5503_webOS 22 KAP for Monitor_2.0_230615.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "511404",
+                    "model": "27LQ600S-WU",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS 22 KAP for Monitor_2.0_1.tar.gz"
+                },
+                {
+                    "osSeq": "511404",
+                    "model": "27LQ600S-WU",
+                    "type": "Op",
+                    "fileId": "2",
+                    "filename": "webOS 22 KAP for Monitor_2.0_2.tar.gz"
+                }
+            ]
+        },
+        "27LQ615S-PU": {
+            "description": "webOS 22 KAP for Monitor 2.0",
+            "notice": [
+                {
+                    "osSeq": "511404",
+                    "model": "27LQ615S-PU",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-5503_webOS 22 KAP for Monitor_2.0_230615.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "511404",
+                    "model": "27LQ615S-PU",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS 22 KAP for Monitor_2.0_1.tar.gz"
+                },
+                {
+                    "osSeq": "511404",
+                    "model": "27LQ615S-PU",
+                    "type": "Op",
+                    "fileId": "2",
+                    "filename": "webOS 22 KAP for Monitor_2.0_2.tar.gz"
+                }
+            ]
+        },
+        "27LQ625S-PU": {
+            "description": "webOS 22 KAP for Monitor",
+            "notice": [
+                {
+                    "osSeq": "510812",
+                    "model": "27LQ625S-PU",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-4141_webOS 22 KAP for Monitor_220215.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "510812",
+                    "model": "27LQ625S-PU",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS 22 KAP for Monitor_1.tar.gz"
+                },
+                {
+                    "osSeq": "510812",
+                    "model": "27LQ625S-PU",
+                    "type": "Op",
+                    "fileId": "2",
+                    "filename": "webOS 22 KAP for Monitor_2.tar.gz"
+                }
+            ]
+        }
+    },
+    "TV/AV>TV": {
+        "27LN341C0LA": {
+            "description": "webOS22_K8HP_K8LP_CommercialTV MR",
+            "notice": [
+                {
+                    "osSeq": "511538",
+                    "model": "27LN341C0LA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-5784_webOS22_K8HP_K8LP_CommercialTV_MR_231012.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "511538",
+                    "model": "27LN341C0LA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS22_K8HP_K8LP_CommercialTV_MR_1.zip"
+                },
+                {
+                    "osSeq": "511538",
+                    "model": "27LN341C0LA",
+                    "type": "Op",
+                    "fileId": "2",
+                    "filename": "webOS22_K8HP_K8LP_CommercialTV_MR_2.zip"
+                }
+            ]
+        },
+        "27LN572M0UC": {
+            "description": "webOS22_K8HP_K8LP_CommercialTV",
+            "notice": [
+                {
+                    "osSeq": "510888",
+                    "model": "27LN572M0UC",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-4270_webOS22_K8HP_CommercialTV_220329.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "510888",
+                    "model": "27LN572M0UC",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS22_K8HP_CommercialTV_1.zip"
+                },
+                {
+                    "osSeq": "510888",
+                    "model": "27LN572M0UC",
+                    "type": "Op",
+                    "fileId": "2",
+                    "filename": "webOS22_K8HP_CommercialTV_2.zip"
+                }
+            ]
+        },
+        "27LN572M9UB": {
+            "description": "webOS22_K8HP_K8LP_CommercialTV",
+            "notice": [
+                {
+                    "osSeq": "510888",
+                    "model": "27LN572M9UB",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-4270_webOS22_K8HP_CommercialTV_220329.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "510888",
+                    "model": "27LN572M9UB",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS22_K8HP_CommercialTV_1.zip"
+                },
+                {
+                    "osSeq": "510888",
+                    "model": "27LN572M9UB",
+                    "type": "Op",
+                    "fileId": "2",
+                    "filename": "webOS22_K8HP_CommercialTV_2.zip"
+                }
+            ]
+        },
+        "27LN572M9UC": {
+            "description": "webOS22_K8HP_K8LP_CommercialTV",
+            "notice": [
+                {
+                    "osSeq": "510888",
+                    "model": "27LN572M9UC",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-4270_webOS22_K8HP_CommercialTV_220329.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "510888",
+                    "model": "27LN572M9UC",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS22_K8HP_CommercialTV_1.zip"
+                },
+                {
+                    "osSeq": "510888",
+                    "model": "27LN572M9UC",
+                    "type": "Op",
+                    "fileId": "2",
+                    "filename": "webOS22_K8HP_CommercialTV_2.zip"
+                }
+            ]
+        },
+        "27LN660V0UA": {
+            "description": "webOS22_K8HP_K8LP_CommercialTV",
+            "notice": [
+                {
+                    "osSeq": "510888",
+                    "model": "27LN660V0UA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-4270_webOS22_K8HP_CommercialTV_220329.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "510888",
+                    "model": "27LN660V0UA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS22_K8HP_CommercialTV_1.zip"
+                },
+                {
+                    "osSeq": "510888",
+                    "model": "27LN660V0UA",
+                    "type": "Op",
+                    "fileId": "2",
+                    "filename": "webOS22_K8HP_CommercialTV_2.zip"
+                }
+            ]
+        },
+        "27LN661H0LA": {
+            "description": "webOS22_K8HP_K8LP_CommercialTV MR",
+            "notice": [
+                {
+                    "osSeq": "511538",
+                    "model": "27LN661H0LA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-5784_webOS22_K8HP_K8LP_CommercialTV_MR_231012.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "511538",
+                    "model": "27LN661H0LA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS22_K8HP_K8LP_CommercialTV_MR_1.zip"
+                },
+                {
+                    "osSeq": "511538",
+                    "model": "27LN661H0LA",
+                    "type": "Op",
+                    "fileId": "2",
+                    "filename": "webOS22_K8HP_K8LP_CommercialTV_MR_2.zip"
+                }
+            ]
+        },
+        "27LN662V0LC": {
+            "description": "webOS22_K8HP_K8LP_CommercialTV MR",
+            "notice": [
+                {
+                    "osSeq": "511538",
+                    "model": "27LN662V0LC",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-5784_webOS22_K8HP_K8LP_CommercialTV_MR_231012.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "511538",
+                    "model": "27LN662V0LC",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS22_K8HP_K8LP_CommercialTV_MR_1.zip"
+                },
+                {
+                    "osSeq": "511538",
+                    "model": "27LN662V0LC",
+                    "type": "Op",
+                    "fileId": "2",
+                    "filename": "webOS22_K8HP_K8LP_CommercialTV_MR_2.zip"
+                }
+            ]
+        }
+    }
+}

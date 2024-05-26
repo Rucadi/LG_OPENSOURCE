@@ -1,0 +1,256 @@
+{
+    "TV/AV>TV": {
+        "65UU761H-ZB": {
+            "description": "webOS4.0_M16++_CommercialTV",
+            "notice": [
+                {
+                    "osSeq": "508486",
+                    "model": "65UU761H-ZB",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-942_webOS4.0_M16++_CommercialTV_180326.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "508486",
+                    "model": "65UU761H-ZB",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS4.0_M16++_CommercialTV.zip"
+                }
+            ]
+        },
+        "65UU770H-UA": {
+            "description": "webOS4.0_M16++_CommercialTV MR",
+            "notice": [
+                {
+                    "osSeq": "508907",
+                    "model": "65UU770H-UA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-1407_webOS4.0_M16++_CommercialTV_MR_190107.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "508907",
+                    "model": "65UU770H-UA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS4.0_M16++_CommercialTV_MR.zip"
+                }
+            ]
+        },
+        "65UU770H-UB": {
+            "description": "webOS4.0_M16++_CommercialTV MR",
+            "notice": [
+                {
+                    "osSeq": "508907",
+                    "model": "65UU770H-UB",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-1407_webOS4.0_M16++_CommercialTV_MR_190107.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "508907",
+                    "model": "65UU770H-UB",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS4.0_M16++_CommercialTV_MR.zip"
+                }
+            ]
+        },
+        "65UV330C-NA": {
+            "description": "webOS3.5_M16+_CommercialTV",
+            "notice": [
+                {
+                    "osSeq": "507936",
+                    "model": "65UV330C-NA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-537_webOS3.5 M16+ Commercial TV _170912.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "507936",
+                    "model": "65UV330C-NA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS3.5_M16+_CTV_OpenSource_V1.1.zip"
+                }
+            ]
+        },
+        "65UV340C-GB": {
+            "description": "webOS3.0_M16_CommercialTV_2",
+            "notice": [
+                {
+                    "osSeq": "507303",
+                    "model": "65UV340C-GB",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-160404-webOS3.0M16CommercialTV-2.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "507303",
+                    "model": "65UV340C-GB",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS3.0_M16_CTV_OpenSource_V1.0_2.zip"
+                }
+            ]
+        },
+        "65UV340C-NB": {
+            "description": "webOS3.5_M16+_CommercialTV",
+            "notice": [
+                {
+                    "osSeq": "507936",
+                    "model": "65UV340C-NB",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-537_webOS3.5 M16+ Commercial TV _170912.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "507936",
+                    "model": "65UV340C-NB",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS3.5_M16+_CTV_OpenSource_V1.1.zip"
+                }
+            ]
+        },
+        "65UV340C-TB": {
+            "description": "webOS3.5_M16+_CommercialTV",
+            "notice": [
+                {
+                    "osSeq": "507936",
+                    "model": "65UV340C-TB",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-537_webOS3.5 M16+ Commercial TV _170912.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "507936",
+                    "model": "65UV340C-TB",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS3.5_M16+_CTV_OpenSource_V1.1.zip"
+                }
+            ]
+        },
+        "65UV340C-UB": {
+            "description": "webOS3.5_M16+_CommercialTV",
+            "notice": [
+                {
+                    "osSeq": "507936",
+                    "model": "65UV340C-UB",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-537_webOS3.5 M16+ Commercial TV _170912.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "507936",
+                    "model": "65UV340C-UB",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS3.5_M16+_CTV_OpenSource_V1.1.zip"
+                }
+            ]
+        },
+        "65UV340H-CB": {
+            "description": "webOS3.0_M16_CommercialTV_2",
+            "notice": [
+                {
+                    "osSeq": "507303",
+                    "model": "65UV340H-CB",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-160404-webOS3.0M16CommercialTV-2.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "507303",
+                    "model": "65UV340H-CB",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS3.0_M16_CTV_OpenSource_V1.0_2.zip"
+                }
+            ]
+        },
+        "65UV340H-UB": {
+            "description": "webOS3.5_M16+_CommercialTV",
+            "notice": [
+                {
+                    "osSeq": "507936",
+                    "model": "65UV340H-UB",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-537_webOS3.5 M16+ Commercial TV _170912.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "507936",
+                    "model": "65UV340H-UB",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS3.5_M16+_CTV_OpenSource_V1.1.zip"
+                }
+            ]
+        },
+        "65UV341C-ZC": {
+            "description": "webOS3.0_M16_CommercialTV_2",
+            "notice": [
+                {
+                    "osSeq": "507303",
+                    "model": "65UV341C-ZC",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-160404-webOS3.0M16CommercialTV-2.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "507303",
+                    "model": "65UV341C-ZC",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS3.0_M16_CTV_OpenSource_V1.0_2.zip"
+                }
+            ]
+        },
+        "65UV560H-UB": {
+            "description": "HCAP API",
+            "notice": [
+                {
+                    "osSeq": "507349",
+                    "model": "65UV560H-UB",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-160516-HCAPAPI-1.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "507349",
+                    "model": "65UV560H-UB",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "HCAP_OpenSource_V1.0.zip"
+                }
+            ]
+        }
+    }
+}

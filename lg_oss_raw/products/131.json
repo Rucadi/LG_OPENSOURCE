@@ -1,0 +1,382 @@
+{
+    "TV/AV>Monitor/Signage": {
+        "32QN650-BT": {
+            "description": "M_Odinson_Leona2",
+            "notice": [
+                {
+                    "osSeq": "509948",
+                    "model": "32QN650-BT",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-2803_M_Odinson_Leona2_200714.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "509948",
+                    "model": "32QN650-BT",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "M_Odinson_Leona2.zip"
+                }
+            ]
+        },
+        "32QP880-BB": {
+            "description": "RTK_Platform_Nxp",
+            "notice": [
+                {
+                    "osSeq": "509384",
+                    "model": "32QP880-BB",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-2118_RTK_Platform_Nxp_190927.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "509384",
+                    "model": "32QP880-BB",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "RTK_Platform_Nxp.zip"
+                }
+            ]
+        },
+        "32QP880-BY": {
+            "description": "RTK_Platform_Nxp",
+            "notice": [
+                {
+                    "osSeq": "509384",
+                    "model": "32QP880-BY",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-2118_RTK_Platform_Nxp_190927.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "509384",
+                    "model": "32QP880-BY",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "RTK_Platform_Nxp.zip"
+                }
+            ]
+        },
+        "32QP880N-BB": {
+            "description": "RTK_Platform_Nxp",
+            "notice": [
+                {
+                    "osSeq": "509384",
+                    "model": "32QP880N-BB",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-2118_RTK_Platform_Nxp_190927.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "509384",
+                    "model": "32QP880N-BB",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "RTK_Platform_Nxp.zip"
+                }
+            ]
+        },
+        "32QP880N-BD": {
+            "description": "RTK_Platform_Nxp",
+            "notice": [
+                {
+                    "osSeq": "509384",
+                    "model": "32QP880N-BD",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-2118_RTK_Platform_Nxp_190927.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "509384",
+                    "model": "32QP880N-BD",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "RTK_Platform_Nxp.zip"
+                }
+            ]
+        },
+        "32QP880N-BY": {
+            "description": "RTK_Platform_Nxp",
+            "notice": [
+                {
+                    "osSeq": "509384",
+                    "model": "32QP880N-BY",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-2118_RTK_Platform_Nxp_190927.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "509384",
+                    "model": "32QP880N-BY",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "RTK_Platform_Nxp.zip"
+                }
+            ]
+        },
+        "32QP880P-BB": {
+            "description": "RTK_Platform_Nxp",
+            "notice": [
+                {
+                    "osSeq": "509384",
+                    "model": "32QP880P-BB",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-2118_RTK_Platform_Nxp_190927.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "509384",
+                    "model": "32QP880P-BB",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "RTK_Platform_Nxp.zip"
+                }
+            ]
+        },
+        "32QP88NP-BB": {
+            "description": "RTK_Platform_Nxp",
+            "notice": [
+                {
+                    "osSeq": "509384",
+                    "model": "32QP88NP-BB",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-2118_RTK_Platform_Nxp_190927.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "509384",
+                    "model": "32QP88NP-BB",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "RTK_Platform_Nxp.zip"
+                }
+            ]
+        },
+        "32SE3B-B": {
+            "description": "L15_M1A_Signage Open Source",
+            "notice": [
+                {
+                    "osSeq": "506463",
+                    "model": "32SE3B-B",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-150128-L15_M1A_Signage-2.pdf"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "506463",
+                    "model": "32SE3B-B",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "L15_M1A_Commercial_Signage_Opensource_v1.1.zip"
+                }
+            ]
+        },
+        "32SE3B-BE": {
+            "description": "L15_M1A_Signage Open Source",
+            "notice": [
+                {
+                    "osSeq": "506463",
+                    "model": "32SE3B-BE",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-150128-L15_M1A_Signage-2.pdf"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "506463",
+                    "model": "32SE3B-BE",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "L15_M1A_Commercial_Signage_Opensource_v1.1.zip"
+                }
+            ]
+        },
+        "32SE3B-CE": {
+            "description": "L15_M1A_Signage Open Source",
+            "notice": [
+                {
+                    "osSeq": "506463",
+                    "model": "32SE3B-CE",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-150128-L15_M1A_Signage-2.pdf"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "506463",
+                    "model": "32SE3B-CE",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "L15_M1A_Commercial_Signage_Opensource_v1.1.zip"
+                }
+            ]
+        },
+        "32SE3D-BE": {
+            "description": "L15_M1A_Signage Open Source",
+            "notice": [
+                {
+                    "osSeq": "506463",
+                    "model": "32SE3D-BE",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-150128-L15_M1A_Signage-2.pdf"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "506463",
+                    "model": "32SE3D-BE",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "L15_M1A_Commercial_Signage_Opensource_v1.1.zip"
+                }
+            ]
+        },
+        "32SE3E-BK": {
+            "description": "L18/L19 M1A Signage",
+            "notice": [
+                {
+                    "osSeq": "508319",
+                    "model": "32SE3E-BK",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-820_L18 M1A Signage_171220.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "508319",
+                    "model": "32SE3E-BK",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "L18 M1A Signage.zip"
+                }
+            ]
+        },
+        "32SE3KB-BE": {
+            "description": "L15_M1A_Signage Open Source",
+            "notice": [
+                {
+                    "osSeq": "506463",
+                    "model": "32SE3KB-BE",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-150128-L15_M1A_Signage-2.pdf"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "506463",
+                    "model": "32SE3KB-BE",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "L15_M1A_Commercial_Signage_Opensource_v1.1.zip"
+                }
+            ]
+        },
+        "32SE3KD-BE": {
+            "description": "L15_M1A_Signage Open Source",
+            "notice": [
+                {
+                    "osSeq": "506463",
+                    "model": "32SE3KD-BE",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-150128-L15_M1A_Signage-2.pdf"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "506463",
+                    "model": "32SE3KD-BE",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "L15_M1A_Commercial_Signage_Opensource_v1.1.zip"
+                }
+            ]
+        },
+        "32SE3KE-BK": {
+            "description": "L18/L19 M1A Signage",
+            "notice": [
+                {
+                    "osSeq": "508319",
+                    "model": "32SE3KE-BK",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-820_L18 M1A Signage_171220.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "508319",
+                    "model": "32SE3KE-BK",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "L18 M1A Signage.zip"
+                }
+            ]
+        },
+        "32SL5B-BE": {
+            "description": "L15_M1A_Signage Open Source",
+            "notice": [
+                {
+                    "osSeq": "506463",
+                    "model": "32SL5B-BE",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-150128-L15_M1A_Signage-2.pdf"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "506463",
+                    "model": "32SL5B-BE",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "L15_M1A_Commercial_Signage_Opensource_v1.1.zip"
+                }
+            ]
+        },
+        "32SM5B-BD": {
+            "description": "webOS2.0_LM15U_Signage_2",
+            "notice": [
+                {
+                    "osSeq": "506465",
+                    "model": "32SM5B-BD",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-151022-LM15U_Signage-4.pdf"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "506465",
+                    "model": "32SM5B-BD",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS_Commercial_Signage_OpenSource_version1.0.1_2.zip"
+                }
+            ]
+        }
+    }
+}

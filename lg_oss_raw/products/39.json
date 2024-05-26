@@ -1,0 +1,461 @@
+{
+    "TV/AV>Monitor/Signage": {
+        "25UT55D-PS": {
+            "description": "L14 Platform_MTV",
+            "notice": [
+                {
+                    "osSeq": "10340",
+                    "model": "25UT55D-PS",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "140306-L14_M1A_MTV_v0.2.pdf"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "10340",
+                    "model": "25UT55D-PS",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "20141223144029_5.0_L_CO_FI_2014_Monitor.zip"
+                }
+            ]
+        },
+        "25UT55D-PSR": {
+            "description": "L14 Platform_MTV",
+            "notice": [
+                {
+                    "osSeq": "10340",
+                    "model": "25UT55D-PSR",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "140306-L14_M1A_MTV_v0.2.pdf"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "10340",
+                    "model": "25UT55D-PSR",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "20141223144029_5.0_L_CO_FI_2014_Monitor.zip"
+                }
+            ]
+        }
+    },
+    "TV/AV>TV": {
+        "26LN4100-TA": {
+            "description": "5.0UL LGE MTV Open Source",
+            "notice": [
+                {
+                    "osSeq": "11241",
+                    "model": "26LN4100-TA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-140522-M8RR_MTV-1.pdf"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "11241",
+                    "model": "26LN4100-TA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "N/A"
+                }
+            ]
+        },
+        "26LN4110-TB": {
+            "description": "5.0UL LGE MTV Open Source",
+            "notice": [
+                {
+                    "osSeq": "11241",
+                    "model": "26LN4110-TB",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-140522-M8RR_MTV-1.pdf"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "11241",
+                    "model": "26LN4110-TB",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "N/A"
+                }
+            ]
+        },
+        "26LN4130-TD": {
+            "description": "5.0UL LGE MTV Open Source",
+            "notice": [
+                {
+                    "osSeq": "11241",
+                    "model": "26LN4130-TD",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-140522-M8RR_MTV-1.pdf"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "11241",
+                    "model": "26LN4130-TD",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "N/A"
+                }
+            ]
+        },
+        "26LN4140-TE": {
+            "description": "5.0UL LGE MTV Open Source",
+            "notice": [
+                {
+                    "osSeq": "11241",
+                    "model": "26LN4140-TE",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-140522-M8RR_MTV-1.pdf"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "11241",
+                    "model": "26LN4140-TE",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "N/A"
+                }
+            ]
+        },
+        "26LN4160-TG": {
+            "description": "5.0UL LGE MTV Open Source",
+            "notice": [
+                {
+                    "osSeq": "11241",
+                    "model": "26LN4160-TG",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-140522-M8RR_MTV-1.pdf"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "11241",
+                    "model": "26LN4160-TG",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "N/A"
+                }
+            ]
+        },
+        "26LT769H-ZA": {
+            "description": "NetCast3.0_MTK_CTV_Interactive Smart",
+            "notice": [
+                {
+                    "osSeq": "15640",
+                    "model": "26LT769H-ZA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-141020-NetCast3_0_MTK_Commercial_TVInteractiveSmart-1.pdf"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "15640",
+                    "model": "26LT769H-ZA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "NetCast3.0_MTK_CTV_Interactive Smart_OpenSource_v1.1.zip"
+                }
+            ]
+        },
+        "26LV2500-CA": {
+            "description": "NetCast 1.0R LGE LCD TV Open Source",
+            "notice": [
+                {
+                    "osSeq": "209",
+                    "model": "26LV2500-CA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "GP2_M_CO_LI_2010.pdf"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "209",
+                    "model": "26LV2500-CA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "GP2_M_CO_FI_2010.tar.gz"
+                }
+            ]
+        },
+        "26LV2500-CC": {
+            "description": "NetCast 1.0R LGE LCD TV Open Source",
+            "notice": [
+                {
+                    "osSeq": "209",
+                    "model": "26LV2500-CC",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "GP2_M_CO_LI_2010.pdf"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "209",
+                    "model": "26LV2500-CC",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "GP2_M_CO_FI_2010.tar.gz"
+                }
+            ]
+        },
+        "26LV2500-DA": {
+            "description": "NetCast 1.0R LGE LCD TV Open Source",
+            "notice": [
+                {
+                    "osSeq": "209",
+                    "model": "26LV2500-DA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "GP2_M_CO_LI_2010.pdf"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "209",
+                    "model": "26LV2500-DA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "GP2_M_CO_FI_2010.tar.gz"
+                }
+            ]
+        },
+        "26LV2500-JA": {
+            "description": "[JAPAN]2010 LGE DTV Open Source",
+            "notice": [
+                {
+                    "osSeq": "29",
+                    "model": "26LV2500-JA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "GP2_B_JP_LI_2010.pdf"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "29",
+                    "model": "26LV2500-JA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "GP2_B_JP_FI_2010.tar.gz"
+                }
+            ]
+        },
+        "26LV2500-SA": {
+            "description": "NetCast 1.0R LGE LCD TV Open Source",
+            "notice": [
+                {
+                    "osSeq": "209",
+                    "model": "26LV2500-SA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "GP2_M_CO_LI_2010.pdf"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "209",
+                    "model": "26LV2500-SA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "GP2_M_CO_FI_2010.tar.gz"
+                }
+            ]
+        },
+        "26LV2500-UA": {
+            "description": "NetCast 1.0R LGE LCD TV Open Source",
+            "notice": [
+                {
+                    "osSeq": "209",
+                    "model": "26LV2500-UA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "GP2_M_CO_LI_2010.pdf"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "209",
+                    "model": "26LV2500-UA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "GP2_M_CO_FI_2010.tar.gz"
+                }
+            ]
+        },
+        "26LV2500-ZA": {
+            "description": "NetCast 1.0R LGE LCD TV Open Source",
+            "notice": [
+                {
+                    "osSeq": "209",
+                    "model": "26LV2500-ZA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "GP2_M_CO_LI_2010.pdf"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "209",
+                    "model": "26LV2500-ZA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "GP2_M_CO_FI_2010.tar.gz"
+                }
+            ]
+        },
+        "27ART10AKPL": {
+            "description": "webOS 6.0 LMUA 1.0",
+            "notice": [
+                {
+                    "osSeq": "510685",
+                    "model": "27ART10AKPL",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-3037_webOS 6.0 LMUA_1.0_211116.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "510685",
+                    "model": "27ART10AKPL",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS 6.0 LMUA_1.0_1.tar.gz"
+                },
+                {
+                    "osSeq": "510685",
+                    "model": "27ART10AKPL",
+                    "type": "Op",
+                    "fileId": "2",
+                    "filename": "webOS 6.0 LMUA_1.0_2.tar.gz"
+                },
+                {
+                    "osSeq": "510685",
+                    "model": "27ART10AKPL",
+                    "type": "Op",
+                    "fileId": "3",
+                    "filename": "webOS 6.0 LMUA_1.0_3.tar.gz"
+                }
+            ]
+        },
+        "27ART10CKPL": {
+            "description": "webOS 6.0 LMUA 1.0",
+            "notice": [
+                {
+                    "osSeq": "510685",
+                    "model": "27ART10CKPL",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-3037_webOS 6.0 LMUA_1.0_211116.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "510685",
+                    "model": "27ART10CKPL",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS 6.0 LMUA_1.0_1.tar.gz"
+                },
+                {
+                    "osSeq": "510685",
+                    "model": "27ART10CKPL",
+                    "type": "Op",
+                    "fileId": "2",
+                    "filename": "webOS 6.0 LMUA_1.0_2.tar.gz"
+                },
+                {
+                    "osSeq": "510685",
+                    "model": "27ART10CKPL",
+                    "type": "Op",
+                    "fileId": "3",
+                    "filename": "webOS 6.0 LMUA_1.0_3.tar.gz"
+                }
+            ]
+        },
+        "27ART10CMPL": {
+            "description": "webOS 6.0 LMUA 1.0",
+            "notice": [
+                {
+                    "osSeq": "510685",
+                    "model": "27ART10CMPL",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-3037_webOS 6.0 LMUA_1.0_211116.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "510685",
+                    "model": "27ART10CMPL",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS 6.0 LMUA_1.0_1.tar.gz"
+                },
+                {
+                    "osSeq": "510685",
+                    "model": "27ART10CMPL",
+                    "type": "Op",
+                    "fileId": "2",
+                    "filename": "webOS 6.0 LMUA_1.0_2.tar.gz"
+                },
+                {
+                    "osSeq": "510685",
+                    "model": "27ART10CMPL",
+                    "type": "Op",
+                    "fileId": "3",
+                    "filename": "webOS 6.0 LMUA_1.0_3.tar.gz"
+                }
+            ]
+        },
+        "27ART10DKPL": {
+            "description": "webOS 6.0 LMUA 1.0",
+            "notice": [
+                {
+                    "osSeq": "510685",
+                    "model": "27ART10DKPL",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-3037_webOS 6.0 LMUA_1.0_211116.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "510685",
+                    "model": "27ART10DKPL",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS 6.0 LMUA_1.0_1.tar.gz"
+                },
+                {
+                    "osSeq": "510685",
+                    "model": "27ART10DKPL",
+                    "type": "Op",
+                    "fileId": "2",
+                    "filename": "webOS 6.0 LMUA_1.0_2.tar.gz"
+                },
+                {
+                    "osSeq": "510685",
+                    "model": "27ART10DKPL",
+                    "type": "Op",
+                    "fileId": "3",
+                    "filename": "webOS 6.0 LMUA_1.0_3.tar.gz"
+                }
+            ]
+        }
+    }
+}

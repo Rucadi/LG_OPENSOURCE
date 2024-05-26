@@ -1,0 +1,200 @@
+{
+    "TV/AV>Monitor/Signage": {
+        "SUPERSIGN CONTROL": {
+            "description": "SuperSign Control 1.11",
+            "notice": [
+                {
+                    "osSeq": "510408",
+                    "model": "SUPERSIGN CONTROL",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-3490_SuperSign Control_1.11_210329.html"
+                }
+            ],
+            "source": []
+        },
+        "SUPERSIGN CONTROL PLUS": {
+            "description": "SuperSign Control+ 1.9",
+            "notice": [
+                {
+                    "osSeq": "508780",
+                    "model": "SUPERSIGN CONTROL PLUS",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-1345_SuperSign Control+_1.9_181015.html"
+                }
+            ],
+            "source": []
+        },
+        "SUPERSIGN LINK": {
+            "description": "SuperSign Link",
+            "notice": [
+                {
+                    "osSeq": "507547",
+                    "model": "SUPERSIGN LINK",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-170123-SuperSignLink-3.html"
+                }
+            ],
+            "source": []
+        },
+        "SUPERSIGN M ANDROID": {
+            "description": "SuperSign M Android Open Source",
+            "notice": [
+                {
+                    "osSeq": "506442",
+                    "model": "SUPERSIGN M ANDROID",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-150306-SuperSignM1.0-1.pdf"
+                }
+            ],
+            "source": []
+        },
+        "SUPERSIGN M IOS": {
+            "description": "SuperSign M iOS Opensource",
+            "notice": [
+                {
+                    "osSeq": "506629",
+                    "model": "SUPERSIGN M IOS",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-150519-SuperSignM1.0-2.pdf"
+                }
+            ],
+            "source": []
+        },
+        "SUPERSIGN MASTER": {
+            "description": "SuperSign Premium/Master 2.1",
+            "notice": [
+                {
+                    "osSeq": "508174",
+                    "model": "SUPERSIGN MASTER",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-728_SuperSign Premium_2.1_171012.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "508174",
+                    "model": "SUPERSIGN MASTER",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "SuperSign_Premium_2.1_v1.1.zip"
+                }
+            ]
+        },
+        "SUPERSIGN OLED": {
+            "description": "SuperSign OLED",
+            "notice": [
+                {
+                    "osSeq": "507391",
+                    "model": "SUPERSIGN OLED",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-160719-SuperSignPremium_OLED-1.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "507391",
+                    "model": "SUPERSIGN OLED",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "SuperSign_Premium_OLED_v1.0.zip"
+                }
+            ]
+        },
+        "SUPERSIGN PREMIUM": {
+            "description": "SuperSign Premium/Master 2.1",
+            "notice": [
+                {
+                    "osSeq": "508174",
+                    "model": "SUPERSIGN PREMIUM",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-728_SuperSign Premium_2.1_171012.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "508174",
+                    "model": "SUPERSIGN PREMIUM",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "SuperSign_Premium_2.1_v1.1.zip"
+                }
+            ]
+        },
+        "SUPERSIGN SERVER": {
+            "description": "SuperSign Server",
+            "notice": [
+                {
+                    "osSeq": "506880",
+                    "model": "SUPERSIGN SERVER",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-160524-SuperSignServer-3.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "506880",
+                    "model": "SUPERSIGN SERVER",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "SuperSign_Server_OpenSource.zip"
+                }
+            ]
+        },
+        "SUPERSIGN SIMPLE EDITOR": {
+            "description": "SuperSign Simple Editor",
+            "notice": [
+                {
+                    "osSeq": "506881",
+                    "model": "SUPERSIGN SIMPLE EDITOR",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-160524-SuperSignSimpleEditor-1.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "506881",
+                    "model": "SUPERSIGN SIMPLE EDITOR",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "SuperSign_Simple Editor_OpenSource.zip"
+                }
+            ]
+        },
+        "SUPERSIGN W MEDIA EDITOR 3.5": {
+            "description": "SuperSign W Media Editor",
+            "notice": [
+                {
+                    "osSeq": "506764",
+                    "model": "SUPERSIGN W MEDIA EDITOR 3.5",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-150709-SuperSignW3.5MediaEditor-1.pdf"
+                }
+            ],
+            "source": []
+        },
+        "SUPERSIGN W NEXUS 3.5": {
+            "description": "SuperSign W Nexus",
+            "notice": [
+                {
+                    "osSeq": "506761",
+                    "model": "SUPERSIGN W NEXUS 3.5",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-150709-SuperSignW3.5Nexus-1.pdf"
+                }
+            ],
+            "source": []
+        }
+    }
+}

@@ -1,0 +1,256 @@
+{
+    "TV/AV>Monitor/Signage": {
+        "98LS95A-5BL": {
+            "description": "webOS_H13_Signage",
+            "notice": [
+                {
+                    "osSeq": "215880",
+                    "model": "98LS95A-5BL",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-141119-webOS_H13_Signage-1.pdf"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "215880",
+                    "model": "98LS95A-5BL",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS_H13_Signage_OpenSource_v1.1.zip"
+                }
+            ]
+        },
+        "98LS95D-BF": {
+            "description": "webOS2.0_H15_Signage_SCAP1.3",
+            "notice": [
+                {
+                    "osSeq": "507128",
+                    "model": "98LS95D-BF",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-160125-SCAP1.3-1.html"
+                }
+            ],
+            "source": []
+        },
+        "98TR3DK-BM": {
+            "description": "LG Createboard Lab - Windows MR2",
+            "notice": [
+                {
+                    "osSeq": "511561",
+                    "model": "98TR3DK-BM",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-6044_LG Createboard Lab - Windows_MR2_231204.html"
+                }
+            ],
+            "source": []
+        },
+        "98TR3PJ-BG": {
+            "description": "Android Touch Signage 3",
+            "notice": [
+                {
+                    "osSeq": "510832",
+                    "model": "98TR3PJ-BG",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-3925_Android Touch Signage_3_220221.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "510832",
+                    "model": "98TR3PJ-BG",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "Android Touch Signage_3.zip"
+                }
+            ]
+        },
+        "98TR3PJ-IG": {
+            "description": "Android Touch Signage 3",
+            "notice": [
+                {
+                    "osSeq": "510832",
+                    "model": "98TR3PJ-IG",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-3925_Android Touch Signage_3_220221.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "510832",
+                    "model": "98TR3PJ-IG",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "Android Touch Signage_3.zip"
+                }
+            ]
+        },
+        "98UH1C-BF": {
+            "description": "webOS3.0_H15+_Signage_2",
+            "notice": [
+                {
+                    "osSeq": "507544",
+                    "model": "98UH1C-BF",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-160415-webOS3.0H15_Signage-2.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "507544",
+                    "model": "98UH1C-BF",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS3.0_H15+_Signage_OpenSource_V1.0_2.zip"
+                }
+            ]
+        }
+    },
+    "TV/AV>TV": {
+        "98QNED85T6A": {
+            "description": "webOS 24 K 1.0_2303",
+            "notice": [
+                {
+                    "osSeq": "511664",
+                    "model": "98QNED85T6A",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-6514_webOS 24 K_1.0_2303_240328.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "511664",
+                    "model": "98QNED85T6A",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS 24 K_1.0_2303_1.zip"
+                },
+                {
+                    "osSeq": "511664",
+                    "model": "98QNED85T6A",
+                    "type": "Op",
+                    "fileId": "2",
+                    "filename": "webOS 24 K_1.0_2303_2.tar.gz"
+                },
+                {
+                    "osSeq": "511664",
+                    "model": "98QNED85T6A",
+                    "type": "Op",
+                    "fileId": "3",
+                    "filename": "webOS 24 K_1.0_2303_3.tar.gz"
+                }
+            ]
+        },
+        "98QNED85TKA": {
+            "description": "webOS 24 K 1.0_2303",
+            "notice": [
+                {
+                    "osSeq": "511664",
+                    "model": "98QNED85TKA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-6514_webOS 24 K_1.0_2303_240328.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "511664",
+                    "model": "98QNED85TKA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS 24 K_1.0_2303_1.zip"
+                },
+                {
+                    "osSeq": "511664",
+                    "model": "98QNED85TKA",
+                    "type": "Op",
+                    "fileId": "2",
+                    "filename": "webOS 24 K_1.0_2303_2.tar.gz"
+                },
+                {
+                    "osSeq": "511664",
+                    "model": "98QNED85TKA",
+                    "type": "Op",
+                    "fileId": "3",
+                    "filename": "webOS 24 K_1.0_2303_3.tar.gz"
+                }
+            ]
+        },
+        "98QNED85TSA": {
+            "description": "webOS 24 K 1.0_2303",
+            "notice": [
+                {
+                    "osSeq": "511664",
+                    "model": "98QNED85TSA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-6514_webOS 24 K_1.0_2303_240328.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "511664",
+                    "model": "98QNED85TSA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS 24 K_1.0_2303_1.zip"
+                },
+                {
+                    "osSeq": "511664",
+                    "model": "98QNED85TSA",
+                    "type": "Op",
+                    "fileId": "2",
+                    "filename": "webOS 24 K_1.0_2303_2.tar.gz"
+                },
+                {
+                    "osSeq": "511664",
+                    "model": "98QNED85TSA",
+                    "type": "Op",
+                    "fileId": "3",
+                    "filename": "webOS 24 K_1.0_2303_3.tar.gz"
+                }
+            ]
+        },
+        "98QNED85TUA": {
+            "description": "webOS 24 K 1.0_2303",
+            "notice": [
+                {
+                    "osSeq": "511664",
+                    "model": "98QNED85TUA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-6514_webOS 24 K_1.0_2303_240328.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "511664",
+                    "model": "98QNED85TUA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS 24 K_1.0_2303_1.zip"
+                },
+                {
+                    "osSeq": "511664",
+                    "model": "98QNED85TUA",
+                    "type": "Op",
+                    "fileId": "2",
+                    "filename": "webOS 24 K_1.0_2303_2.tar.gz"
+                },
+                {
+                    "osSeq": "511664",
+                    "model": "98QNED85TUA",
+                    "type": "Op",
+                    "fileId": "3",
+                    "filename": "webOS 24 K_1.0_2303_3.tar.gz"
+                }
+            ]
+        }
+    }
+}

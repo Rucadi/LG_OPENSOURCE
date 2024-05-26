@@ -1,0 +1,298 @@
+{
+    "TV/AV>TV": {
+        "49LJ513V-ZE": {
+            "description": "L17 LMAP LGE TV Open Source",
+            "notice": [
+                {
+                    "osSeq": "507605",
+                    "model": "49LJ513V-ZE",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-161117-L17LMAP-1.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "507605",
+                    "model": "49LJ513V-ZE",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "L17LMAP-r3131.tar.gz"
+                }
+            ]
+        },
+        "49LJ514T-TA": {
+            "description": "L17 LMAP LGE TV Open Source",
+            "notice": [
+                {
+                    "osSeq": "507605",
+                    "model": "49LJ514T-TA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-161117-L17LMAP-1.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "507605",
+                    "model": "49LJ514T-TA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "L17LMAP-r3131.tar.gz"
+                }
+            ]
+        },
+        "49LJ5150-ZD": {
+            "description": "L17 LMAP LGE TV Open Source",
+            "notice": [
+                {
+                    "osSeq": "507605",
+                    "model": "49LJ5150-ZD",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-161117-L17LMAP-1.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "507605",
+                    "model": "49LJ5150-ZD",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "L17LMAP-r3131.tar.gz"
+                }
+            ]
+        },
+        "49LJ515V-ZD": {
+            "description": "L17 LMAP LGE TV Open Source",
+            "notice": [
+                {
+                    "osSeq": "507605",
+                    "model": "49LJ515V-ZD",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-161117-L17LMAP-1.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "507605",
+                    "model": "49LJ515V-ZD",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "L17LMAP-r3131.tar.gz"
+                }
+            ]
+        },
+        "49LJ515V-ZE": {
+            "description": "L17 LMAP LGE TV Open Source",
+            "notice": [
+                {
+                    "osSeq": "507605",
+                    "model": "49LJ515V-ZE",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-161117-L17LMAP-1.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "507605",
+                    "model": "49LJ515V-ZE",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "L17LMAP-r3131.tar.gz"
+                }
+            ]
+        },
+        "49LJ521T-TD": {
+            "description": "L17 LMAP LGE TV Open Source",
+            "notice": [
+                {
+                    "osSeq": "507605",
+                    "model": "49LJ521T-TD",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-161117-L17LMAP-1.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "507605",
+                    "model": "49LJ521T-TD",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "L17LMAP-r3131.tar.gz"
+                }
+            ]
+        },
+        "49LJ523T-TB": {
+            "description": "L17 LMAP LGE TV Open Source",
+            "notice": [
+                {
+                    "osSeq": "507605",
+                    "model": "49LJ523T-TB",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-161117-L17LMAP-1.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "507605",
+                    "model": "49LJ523T-TB",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "L17LMAP-r3131.tar.gz"
+                }
+            ]
+        },
+        "49LJ527T-TC": {
+            "description": "L17 LMAP LGE TV Open Source",
+            "notice": [
+                {
+                    "osSeq": "507605",
+                    "model": "49LJ527T-TC",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-161117-L17LMAP-1.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "507605",
+                    "model": "49LJ527T-TC",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "L17LMAP-r3131.tar.gz"
+                }
+            ]
+        },
+        "49LJ5400-SA": {
+            "description": "webOS DMR LGE Open Source",
+            "notice": [
+                {
+                    "osSeq": "507689",
+                    "model": "49LJ5400-SA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-170601-webOSDMR-2.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "507689",
+                    "model": "49LJ5400-SA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "DMR-r3185.tar.gz"
+                }
+            ]
+        },
+        "49LJ5400-UA": {
+            "description": "webOS DMR LGE Open Source",
+            "notice": [
+                {
+                    "osSeq": "507689",
+                    "model": "49LJ5400-UA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-170601-webOSDMR-2.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "507689",
+                    "model": "49LJ5400-UA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "DMR-r3185.tar.gz"
+                }
+            ]
+        },
+        "49LJ540T-DA": {
+            "description": "webOS DMR LGE Open Source",
+            "notice": [
+                {
+                    "osSeq": "507689",
+                    "model": "49LJ540T-DA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-170601-webOSDMR-2.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "507689",
+                    "model": "49LJ540T-DA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "DMR-r3185.tar.gz"
+                }
+            ]
+        },
+        "49LJ540V-TA": {
+            "description": "webOS DMR LGE Open Source",
+            "notice": [
+                {
+                    "osSeq": "507689",
+                    "model": "49LJ540V-TA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-170601-webOSDMR-2.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "507689",
+                    "model": "49LJ540V-TA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "DMR-r3185.tar.gz"
+                }
+            ]
+        },
+        "49LJ540V-ZA": {
+            "description": "webOS DMR LGE Open Source",
+            "notice": [
+                {
+                    "osSeq": "507689",
+                    "model": "49LJ540V-ZA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-170601-webOSDMR-2.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "507689",
+                    "model": "49LJ540V-ZA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "DMR-r3185.tar.gz"
+                }
+            ]
+        },
+        "49LJ540Y-TA": {
+            "description": "webOS DMR LGE Open Source",
+            "notice": [
+                {
+                    "osSeq": "507689",
+                    "model": "49LJ540Y-TA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-170601-webOSDMR-2.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "507689",
+                    "model": "49LJ540Y-TA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "DMR-r3185.tar.gz"
+                }
+            ]
+        }
+    }
+}

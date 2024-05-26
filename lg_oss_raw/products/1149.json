@@ -1,0 +1,161 @@
+{
+    "TV/AV>Monitor/Signage": {
+        "86TR3BF-IG": {
+            "description": "Android Touch Signage App",
+            "notice": [
+                {
+                    "osSeq": "509287",
+                    "model": "86TR3BF-IG",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-1936_Android Touch Signage App_190731.html"
+                }
+            ],
+            "source": []
+        },
+        "86TR3D-BH": {
+            "description": "webOS3.2_M16_Signage_2",
+            "notice": [
+                {
+                    "osSeq": "507773",
+                    "model": "86TR3D-BH",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-171011-webOS3.2M16Signage-2.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "507773",
+                    "model": "86TR3D-BH",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS3.2_3.0_M16_Signage_OpenSource_V1.0_2.zip"
+                }
+            ]
+        },
+        "86TR3DJ-BG": {
+            "description": "Android Touch Signage 2",
+            "notice": [
+                {
+                    "osSeq": "510672",
+                    "model": "86TR3DJ-BG",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-3537_Android Touch Signage_2_211025.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "510672",
+                    "model": "86TR3DJ-BG",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "Android Touch Signage_2.zip"
+                }
+            ]
+        },
+        "86TR3DJ-EG": {
+            "description": "Android Touch Signage 2",
+            "notice": [
+                {
+                    "osSeq": "510672",
+                    "model": "86TR3DJ-EG",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-3537_Android Touch Signage_2_211025.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "510672",
+                    "model": "86TR3DJ-EG",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "Android Touch Signage_2.zip"
+                }
+            ]
+        },
+        "86TR3DJ-IG": {
+            "description": "Android Touch Signage 2",
+            "notice": [
+                {
+                    "osSeq": "510672",
+                    "model": "86TR3DJ-IG",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-3537_Android Touch Signage_2_211025.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "510672",
+                    "model": "86TR3DJ-IG",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "Android Touch Signage_2.zip"
+                }
+            ]
+        },
+        "86TR3DJ-VG": {
+            "description": "Android Touch Signage 2",
+            "notice": [
+                {
+                    "osSeq": "510672",
+                    "model": "86TR3DJ-VG",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-3537_Android Touch Signage_2_211025.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "510672",
+                    "model": "86TR3DJ-VG",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "Android Touch Signage_2.zip"
+                }
+            ]
+        },
+        "86TR3DK-BG": {
+            "description": "LG Createboard Lab - Windows MR2",
+            "notice": [
+                {
+                    "osSeq": "511561",
+                    "model": "86TR3DK-BG",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-6044_LG Createboard Lab - Windows_MR2_231204.html"
+                }
+            ],
+            "source": []
+        },
+        "86TR3DK-BM": {
+            "description": "LG Createboard Lab - Windows MR2",
+            "notice": [
+                {
+                    "osSeq": "511561",
+                    "model": "86TR3DK-BM",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-6044_LG Createboard Lab - Windows_MR2_231204.html"
+                }
+            ],
+            "source": []
+        },
+        "86TR3DK-BX": {
+            "description": "LG Createboard Lab - Android MR2",
+            "notice": [
+                {
+                    "osSeq": "511562",
+                    "model": "86TR3DK-BX",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-6040_LG Createboard Lab - Android_MR2_231122.html"
+                }
+            ],
+            "source": []
+        }
+    }
+}

@@ -1,0 +1,300 @@
+{
+    "TV/AV>AV": {
+        "S65TR": {
+            "description": "24Y Low-End SoundBar (S40T/S50TR/SK1D VI) 2308210- (latest)",
+            "notice": [
+                {
+                    "osSeq": "511505",
+                    "model": "S65TR",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-5756_24Y Low-End SoundBar (S40T_S50TR)_2308210-_230915.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "511505",
+                    "model": "S65TR",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "24Y Low-End SoundBar (S40T_S50TR)_2308210-.zip"
+                }
+            ]
+        },
+        "S75Q": {
+            "description": "21_22Y High-End SoundBar (8531) 2011250-",
+            "notice": [
+                {
+                    "osSeq": "510223",
+                    "model": "S75Q",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-2739_21Y High-End SoundBar_2011250-_201216.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "510223",
+                    "model": "S75Q",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "21Y High-End SoundBar_2011250-.zip"
+                }
+            ]
+        },
+        "S75QC": {
+            "description": "21_22Y High-End SoundBar (8531) 2011250-",
+            "notice": [
+                {
+                    "osSeq": "510223",
+                    "model": "S75QC",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-2739_21Y High-End SoundBar_2011250-_201216.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "510223",
+                    "model": "S75QC",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "21Y High-End SoundBar_2011250-.zip"
+                }
+            ]
+        },
+        "S75QR": {
+            "description": "21_22Y High-End SoundBar (8531) 2011250-",
+            "notice": [
+                {
+                    "osSeq": "510223",
+                    "model": "S75QR",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-2739_21Y High-End SoundBar_2011250-_201216.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "510223",
+                    "model": "S75QR",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "21Y High-End SoundBar_2011250-.zip"
+                }
+            ]
+        },
+        "S80QR": {
+            "description": "23Y High-End SoundBar / 22Y High-EndSoundBar(SW MR) 2302160-",
+            "notice": [
+                {
+                    "osSeq": "511108",
+                    "model": "S80QR",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-4788_23Y High-End SoundBar_2209051-_220929.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "511108",
+                    "model": "S80QR",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "23Y High-End SoundBar_2209051-.zip"
+                }
+            ]
+        },
+        "S80QY": {
+            "description": "23Y High-End SoundBar / 22Y High-EndSoundBar(SW MR) 2302160-",
+            "notice": [
+                {
+                    "osSeq": "511108",
+                    "model": "S80QY",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-4788_23Y High-End SoundBar_2209051-_220929.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "511108",
+                    "model": "S80QY",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "23Y High-End SoundBar_2209051-.zip"
+                }
+            ]
+        },
+        "S80TR": {
+            "description": "24Y High-End SoundBar 230822-",
+            "notice": [
+                {
+                    "osSeq": "511524",
+                    "model": "S80TR",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-5723_24Y High-End SoundBar_230822-_231016.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "511524",
+                    "model": "S80TR",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "24Y High-End SoundBar_230822-.tar.gz"
+                }
+            ]
+        },
+        "S90QY": {
+            "description": "23Y High-End SoundBar / 22Y High-EndSoundBar(SW MR) 2302160-",
+            "notice": [
+                {
+                    "osSeq": "511108",
+                    "model": "S90QY",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-4788_23Y High-End SoundBar_2209051-_220929.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "511108",
+                    "model": "S90QY",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "23Y High-End SoundBar_2209051-.zip"
+                }
+            ]
+        },
+        "S90TR": {
+            "description": "24Y High-End SoundBar 230822-",
+            "notice": [
+                {
+                    "osSeq": "511524",
+                    "model": "S90TR",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-5723_24Y High-End SoundBar_230822-_231016.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "511524",
+                    "model": "S90TR",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "24Y High-End SoundBar_230822-.tar.gz"
+                }
+            ]
+        },
+        "S90TY": {
+            "description": "24Y High-End SoundBar 230822-",
+            "notice": [
+                {
+                    "osSeq": "511524",
+                    "model": "S90TY",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-5723_24Y High-End SoundBar_230822-_231016.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "511524",
+                    "model": "S90TY",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "24Y High-End SoundBar_230822-.tar.gz"
+                }
+            ]
+        },
+        "S95QR": {
+            "description": "23Y High-End SoundBar / 22Y High-EndSoundBar(SW MR) 2302160-",
+            "notice": [
+                {
+                    "osSeq": "511108",
+                    "model": "S95QR",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-4788_23Y High-End SoundBar_2209051-_220929.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "511108",
+                    "model": "S95QR",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "23Y High-End SoundBar_2209051-.zip"
+                }
+            ]
+        },
+        "S95TR": {
+            "description": "24Y High-End SoundBar 230822-",
+            "notice": [
+                {
+                    "osSeq": "511524",
+                    "model": "S95TR",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-5723_24Y High-End SoundBar_230822-_231016.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "511524",
+                    "model": "S95TR",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "24Y High-End SoundBar_230822-.tar.gz"
+                }
+            ]
+        },
+        "SC9S": {
+            "description": "23Y High-End SoundBar / 22Y High-EndSoundBar(SW MR) 2302160-",
+            "notice": [
+                {
+                    "osSeq": "511108",
+                    "model": "SC9S",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-4788_23Y High-End SoundBar_2209051-_220929.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "511108",
+                    "model": "SC9S",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "23Y High-End SoundBar_2209051-.zip"
+                }
+            ]
+        }
+    },
+    "TV/AV>Monitor/Signage": {
+        "SC-00DA": {
+            "description": "One:Quick Share Windows",
+            "notice": [
+                {
+                    "osSeq": "510390",
+                    "model": "SC-00DA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-3347_One_Quick Share Windows_210315.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "510390",
+                    "model": "SC-00DA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "One_Quick Share Windows.zip"
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,447 @@
+{
+    "TV/AV>AV": {
+        "US60T": {
+            "description": "24Y Low-End SoundBar (S40T/S50TR/SK1D VI) 2308210- (latest)",
+            "notice": [
+                {
+                    "osSeq": "511505",
+                    "model": "US60T",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-5756_24Y Low-End SoundBar (S40T_S50TR)_2308210-_230915.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "511505",
+                    "model": "US60T",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "24Y Low-End SoundBar (S40T_S50TR)_2308210-.zip"
+                }
+            ]
+        },
+        "US60TR": {
+            "description": "24Y Low-End SoundBar (S40T/S50TR/SK1D VI) 2308210- (latest)",
+            "notice": [
+                {
+                    "osSeq": "511505",
+                    "model": "US60TR",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-5756_24Y Low-End SoundBar (S40T_S50TR)_2308210-_230915.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "511505",
+                    "model": "US60TR",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "24Y Low-End SoundBar (S40T_S50TR)_2308210-.zip"
+                }
+            ]
+        },
+        "US80TR": {
+            "description": "24Y High-End SoundBar 230822-",
+            "notice": [
+                {
+                    "osSeq": "511524",
+                    "model": "US80TR",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-5723_24Y High-End SoundBar_230822-_231016.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "511524",
+                    "model": "US80TR",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "24Y High-End SoundBar_230822-.tar.gz"
+                }
+            ]
+        },
+        "US90TY": {
+            "description": "24Y High-End SoundBar 230822-",
+            "notice": [
+                {
+                    "osSeq": "511524",
+                    "model": "US90TY",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-5723_24Y High-End SoundBar_230822-_231016.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "511524",
+                    "model": "US90TY",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "24Y High-End SoundBar_230822-.tar.gz"
+                }
+            ]
+        },
+        "US95TR": {
+            "description": "24Y High-End SoundBar 230822-",
+            "notice": [
+                {
+                    "osSeq": "511524",
+                    "model": "US95TR",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-5723_24Y High-End SoundBar_230822-_231016.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "511524",
+                    "model": "US95TR",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "24Y High-End SoundBar_230822-.tar.gz"
+                }
+            ]
+        },
+        "USC9S": {
+            "description": "23Y High-End SoundBar / 22Y High-EndSoundBar(SW MR) 2302160-",
+            "notice": [
+                {
+                    "osSeq": "511108",
+                    "model": "USC9S",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-4788_23Y High-End SoundBar_2209051-_220929.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "511108",
+                    "model": "USC9S",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "23Y High-End SoundBar_2209051-.zip"
+                }
+            ]
+        },
+        "USE6S": {
+            "description": "23Y High-End SoundBar / 22Y High-EndSoundBar(SW MR) 2302160-",
+            "notice": [
+                {
+                    "osSeq": "511108",
+                    "model": "USE6S",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-4788_23Y High-End SoundBar_2209051-_220929.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "511108",
+                    "model": "USE6S",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "23Y High-End SoundBar_2209051-.zip"
+                }
+            ]
+        },
+        "USG10TY": {
+            "description": "24Y High-End SoundBar 230822-",
+            "notice": [
+                {
+                    "osSeq": "511524",
+                    "model": "USG10TY",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-5723_24Y High-End SoundBar_230822-_231016.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "511524",
+                    "model": "USG10TY",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "24Y High-End SoundBar_230822-.tar.gz"
+                }
+            ]
+        }
+    },
+    "TV/AV>TV": {
+        "W22TU": {
+            "description": "wee2.0 KLP 1.0",
+            "notice": [
+                {
+                    "osSeq": "510980",
+                    "model": "W22TU",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-4439_wee2.0 KLP_1.0_220617.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "510980",
+                    "model": "W22TU",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "wee2.0 KLP_1.0_1.tar.gz"
+                },
+                {
+                    "osSeq": "510980",
+                    "model": "W22TU",
+                    "type": "Op",
+                    "fileId": "2",
+                    "filename": "wee2.0 KLP_1.0_2.tar.gz"
+                }
+            ]
+        },
+        "WB21LMA": {
+            "description": "webOS 6.0 LMUA 1.0",
+            "notice": [
+                {
+                    "osSeq": "510685",
+                    "model": "WB21LMA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-3037_webOS 6.0 LMUA_1.0_211116.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "510685",
+                    "model": "WB21LMA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS 6.0 LMUA_1.0_1.tar.gz"
+                },
+                {
+                    "osSeq": "510685",
+                    "model": "WB21LMA",
+                    "type": "Op",
+                    "fileId": "2",
+                    "filename": "webOS 6.0 LMUA_1.0_2.tar.gz"
+                },
+                {
+                    "osSeq": "510685",
+                    "model": "WB21LMA",
+                    "type": "Op",
+                    "fileId": "3",
+                    "filename": "webOS 6.0 LMUA_1.0_3.tar.gz"
+                }
+            ]
+        },
+        "WE20GA": {
+            "description": "webOS 5.0 JKHP 2.0",
+            "notice": [
+                {
+                    "osSeq": "510776",
+                    "model": "WE20GA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-3913_webOS 5.0 JKHP_2.0_220114.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "510776",
+                    "model": "WE20GA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS 5.0 JKHP_2.0_1.tar.gz"
+                },
+                {
+                    "osSeq": "510776",
+                    "model": "WE20GA",
+                    "type": "Op",
+                    "fileId": "2",
+                    "filename": "webOS 5.0 JKHP_2.0_2.tar.gz"
+                }
+            ]
+        },
+        "WE20GF": {
+            "description": "webOS 6.0 KLP 1.0",
+            "notice": [
+                {
+                    "osSeq": "510320",
+                    "model": "WE20GF",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-3253_webOS 6.0 KLP_1.0_210204.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "510320",
+                    "model": "WE20GF",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS 6.0 KLP_1.0_1.tar.gz"
+                },
+                {
+                    "osSeq": "510320",
+                    "model": "WE20GF",
+                    "type": "Op",
+                    "fileId": "2",
+                    "filename": "webOS 6.0 KLP_1.0_2.tar.gz"
+                },
+                {
+                    "osSeq": "510320",
+                    "model": "WE20GF",
+                    "type": "Op",
+                    "fileId": "3",
+                    "filename": "webOS 6.0 KLP_1.0_3.tar.gz"
+                }
+            ]
+        },
+        "WE22GF": {
+            "description": "webOS 22 KAP 2.0",
+            "notice": [
+                {
+                    "osSeq": "511327",
+                    "model": "WE22GF",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-5242_webOS 22 KAP_2.0_230321.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "511327",
+                    "model": "WE22GF",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS 22 KAP_2.0_1.tar.gz"
+                },
+                {
+                    "osSeq": "511327",
+                    "model": "WE22GF",
+                    "type": "Op",
+                    "fileId": "2",
+                    "filename": "webOS 22 KAP_2.0_2.tar.gz"
+                }
+            ]
+        },
+        "WE22GO": {
+            "description": "webOS 22 KHP 2.0",
+            "notice": [
+                {
+                    "osSeq": "511326",
+                    "model": "WE22GO",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-5241_webOS 22 KHP_2.0_230321.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "511326",
+                    "model": "WE22GO",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS 22 KHP_2.0_1.tar.gz"
+                },
+                {
+                    "osSeq": "511326",
+                    "model": "WE22GO",
+                    "type": "Op",
+                    "fileId": "2",
+                    "filename": "webOS 22 KHP_2.0_2.tar.gz"
+                }
+            ]
+        },
+        "WE22GU": {
+            "description": "wee2.0 KLP 1.0",
+            "notice": [
+                {
+                    "osSeq": "510980",
+                    "model": "WE22GU",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-4439_wee2.0 KLP_1.0_220617.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "510980",
+                    "model": "WE22GU",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "wee2.0 KLP_1.0_1.tar.gz"
+                },
+                {
+                    "osSeq": "510980",
+                    "model": "WE22GU",
+                    "type": "Op",
+                    "fileId": "2",
+                    "filename": "wee2.0 KLP_1.0_2.tar.gz"
+                }
+            ]
+        },
+        "WE22TU": {
+            "description": "wee2.0 KLP 1.0",
+            "notice": [
+                {
+                    "osSeq": "510980",
+                    "model": "WE22TU",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-4439_wee2.0 KLP_1.0_220617.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "510980",
+                    "model": "WE22TU",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "wee2.0 KLP_1.0_1.tar.gz"
+                },
+                {
+                    "osSeq": "510980",
+                    "model": "WE22TU",
+                    "type": "Op",
+                    "fileId": "2",
+                    "filename": "wee2.0 KLP_1.0_2.tar.gz"
+                }
+            ]
+        },
+        "WE23GF": {
+            "description": "webOS 23 KKF 1.0",
+            "notice": [
+                {
+                    "osSeq": "511411",
+                    "model": "WE23GF",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-5431_webOS 23 KKF_1.0_230626.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "511411",
+                    "model": "WE23GF",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS 23 KKF_1.0_1.tar.gz"
+                },
+                {
+                    "osSeq": "511411",
+                    "model": "WE23GF",
+                    "type": "Op",
+                    "fileId": "2",
+                    "filename": "webOS 23 KKF_1.0_2.tar.gz"
+                },
+                {
+                    "osSeq": "511411",
+                    "model": "WE23GF",
+                    "type": "Op",
+                    "fileId": "3",
+                    "filename": "webOS 23 KKF_1.0_3.tar.gz"
+                }
+            ]
+        }
+    }
+}

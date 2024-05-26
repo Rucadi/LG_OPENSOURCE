@@ -1,0 +1,151 @@
+{
+    "TV/AV>TV": {
+        "43LK5260PTA": {
+            "description": "L18/L19 LMAP LGE TV Open Source",
+            "notice": [
+                {
+                    "osSeq": "510562",
+                    "model": "43LK5260PTA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-794_L18 LMAP_1.0_171107.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "510562",
+                    "model": "43LK5260PTA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "L18 LMAP_1.0.tar.gz"
+                }
+            ]
+        },
+        "43LK5360PTA": {
+            "description": "L18/L19 LMAP LGE TV Open Source",
+            "notice": [
+                {
+                    "osSeq": "510562",
+                    "model": "43LK5360PTA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-794_L18 LMAP_1.0_171107.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "510562",
+                    "model": "43LK5360PTA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "L18 LMAP_1.0.tar.gz"
+                }
+            ]
+        },
+        "43LK5400BUA": {
+            "description": "webOS GM LGE TV Open Source",
+            "notice": [
+                {
+                    "osSeq": "508339",
+                    "model": "43LK5400BUA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-767_webOS_4.0_GM_20171027100707.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "508339",
+                    "model": "43LK5400BUA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "DM2-r3173.tar.gz"
+                }
+            ]
+        },
+        "43LK5400PDA": {
+            "description": "webOS GM LGE TV Open Source",
+            "notice": [
+                {
+                    "osSeq": "508339",
+                    "model": "43LK5400PDA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-767_webOS_4.0_GM_20171027100707.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "508339",
+                    "model": "43LK5400PDA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "DM2-r3173.tar.gz"
+                }
+            ]
+        },
+        "43LK5400PLA": {
+            "description": "webOS GM LGE TV Open Source",
+            "notice": [
+                {
+                    "osSeq": "508339",
+                    "model": "43LK5400PLA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-767_webOS_4.0_GM_20171027100707.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "508339",
+                    "model": "43LK5400PLA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "DM2-r3173.tar.gz"
+                }
+            ]
+        },
+        "43LK5400PSA": {
+            "description": "webOS GM LGE TV Open Source",
+            "notice": [
+                {
+                    "osSeq": "508339",
+                    "model": "43LK5400PSA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-767_webOS_4.0_GM_20171027100707.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "508339",
+                    "model": "43LK5400PSA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "DM2-r3173.tar.gz"
+                }
+            ]
+        },
+        "43LK5400PTA": {
+            "description": "webOS 4.0 GM 3.0",
+            "notice": [
+                {
+                    "osSeq": "510771",
+                    "model": "43LK5400PTA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-4061_webOS 4.0 GM_3.0_220113.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "510771",
+                    "model": "43LK5400PTA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS 4.0 GM_3.0.tar.gz"
+                }
+            ]
+        }
+    }
+}

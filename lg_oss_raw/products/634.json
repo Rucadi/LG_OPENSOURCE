@@ -1,0 +1,183 @@
+{
+    "TV/AV>Monitor/Signage": {
+        "55TC3CG-BJ": {
+            "description": "webOS4.0+_M16++_Signage",
+            "notice": [
+                {
+                    "osSeq": "509093",
+                    "model": "55TC3CG-BJ",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-1683_webOS4.0+_M16++_Signage_190425.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "509093",
+                    "model": "55TC3CG-BJ",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS4.0+_M16++_Signage.zip"
+                }
+            ]
+        },
+        "55TC3CG-HJ": {
+            "description": "webOS4.0_M16++_Signage",
+            "notice": [
+                {
+                    "osSeq": "508481",
+                    "model": "55TC3CG-HJ",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-880_webOS4.0_M16++_Signage_180313.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "508481",
+                    "model": "55TC3CG-HJ",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS4.0_M16++_Signage.zip"
+                }
+            ]
+        },
+        "55TC3D-BH": {
+            "description": "webOS3.2_M16_Signage_2",
+            "notice": [
+                {
+                    "osSeq": "507773",
+                    "model": "55TC3D-BH",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-171011-webOS3.2M16Signage-2.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "507773",
+                    "model": "55TC3D-BH",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS3.2_3.0_M16_Signage_OpenSource_V1.0_2.zip"
+                }
+            ]
+        },
+        "55TNF5J-BP": {
+            "description": "webOS6.0_M16P3_Signage",
+            "notice": [
+                {
+                    "osSeq": "510738",
+                    "model": "55TNF5J-BP",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-3413_webOS6.0_M16P3_Signage_211230.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "510738",
+                    "model": "55TNF5J-BP",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS6.0_M16P3_Signage_1.zip"
+                },
+                {
+                    "osSeq": "510738",
+                    "model": "55TNF5J-BP",
+                    "type": "Op",
+                    "fileId": "2",
+                    "filename": "webOS6.0_M16P3_Signage_2.zip"
+                }
+            ]
+        },
+        "55TNF5P-BP": {
+            "description": "webOS6.0_M16P3_Signage",
+            "notice": [
+                {
+                    "osSeq": "510738",
+                    "model": "55TNF5P-BP",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-3413_webOS6.0_M16P3_Signage_211230.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "510738",
+                    "model": "55TNF5P-BP",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS6.0_M16P3_Signage_1.zip"
+                },
+                {
+                    "osSeq": "510738",
+                    "model": "55TNF5P-BP",
+                    "type": "Op",
+                    "fileId": "2",
+                    "filename": "webOS6.0_M16P3_Signage_2.zip"
+                }
+            ]
+        },
+        "55TR3BG-BG": {
+            "description": "Android Touch Signage App",
+            "notice": [
+                {
+                    "osSeq": "509287",
+                    "model": "55TR3BG-BG",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-1936_Android Touch Signage App_190731.html"
+                }
+            ],
+            "source": []
+        },
+        "55TR3BG-BX": {
+            "description": "Android Touch Signage App",
+            "notice": [
+                {
+                    "osSeq": "509287",
+                    "model": "55TR3BG-BX",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-1936_Android Touch Signage App_190731.html"
+                }
+            ],
+            "source": []
+        },
+        "55TR3BG-IX": {
+            "description": "Android Touch Signage App",
+            "notice": [
+                {
+                    "osSeq": "509287",
+                    "model": "55TR3BG-IX",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-1936_Android Touch Signage App_190731.html"
+                }
+            ],
+            "source": []
+        },
+        "55TR3DK-BG": {
+            "description": "Android Touch Signage 4",
+            "notice": [
+                {
+                    "osSeq": "511135",
+                    "model": "55TR3DK-BG",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-4892_Android Touch Signage_4_221017.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "511135",
+                    "model": "55TR3DK-BG",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "Android Touch Signage_4.zip"
+                }
+            ]
+        }
+    }
+}

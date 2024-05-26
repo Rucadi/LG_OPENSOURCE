@@ -1,0 +1,442 @@
+{
+    "TV/AV>AV": {
+        "BP220": {
+            "description": "BDP/BDHTS Opensource package",
+            "notice": [
+                {
+                    "osSeq": "318",
+                    "model": "BP220",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "120720-BBxx2x series"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "318",
+                    "model": "BP220",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "BP320.zip"
+                }
+            ]
+        },
+        "BP250-N": {
+            "description": "BP550_MR 1.0",
+            "notice": [
+                {
+                    "osSeq": "508892",
+                    "model": "BP250-N",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-1295_BP550_MR_1.0_181005.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "508892",
+                    "model": "BP250-N",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "BP550_MR_1.0.zip"
+                }
+            ]
+        },
+        "BP350-P": {
+            "description": "BP550_MR 1.0",
+            "notice": [
+                {
+                    "osSeq": "508892",
+                    "model": "BP350-P",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-1295_BP550_MR_1.0_181005.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "508892",
+                    "model": "BP350-P",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "BP550_MR_1.0.zip"
+                }
+            ]
+        },
+        "BP450-N": {
+            "description": "BP550_MR 1.0",
+            "notice": [
+                {
+                    "osSeq": "508892",
+                    "model": "BP450-N",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-1295_BP550_MR_1.0_181005.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "508892",
+                    "model": "BP450-N",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "BP550_MR_1.0.zip"
+                }
+            ]
+        },
+        "BPM36": {
+            "description": "BP550_MR 1.0",
+            "notice": [
+                {
+                    "osSeq": "508892",
+                    "model": "BPM36",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-1295_BP550_MR_1.0_181005.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "508892",
+                    "model": "BPM36",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "BP550_MR_1.0.zip"
+                }
+            ]
+        }
+    },
+    "TV/AV>Projector": {
+        "BU50NST-GL": {
+            "description": "webOS 4.5 Projector",
+            "notice": [
+                {
+                    "osSeq": "509121",
+                    "model": "BU50NST-GL",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-1592_webOS 4.5 Projector_190515.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "509121",
+                    "model": "BU50NST-GL",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS 4.5 Projector.tar.gz"
+                }
+            ]
+        },
+        "BU50NST-KR": {
+            "description": "webOS 4.5 Projector",
+            "notice": [
+                {
+                    "osSeq": "509121",
+                    "model": "BU50NST-KR",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-1592_webOS 4.5 Projector_190515.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "509121",
+                    "model": "BU50NST-KR",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS 4.5 Projector.tar.gz"
+                }
+            ]
+        },
+        "BU50RG-GL": {
+            "description": "Signage_Projector_M16P3_webOS6.0 MR4",
+            "notice": [
+                {
+                    "osSeq": "511209",
+                    "model": "BU50RG-GL",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-4974_Signage_Projector_M16P3_webOS6.0_MR4_221216.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "511209",
+                    "model": "BU50RG-GL",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "Signage_Projector_M16P3_webOS6.0_MR4_1.zip"
+                },
+                {
+                    "osSeq": "511209",
+                    "model": "BU50RG-GL",
+                    "type": "Op",
+                    "fileId": "2",
+                    "filename": "Signage_Projector_M16P3_webOS6.0_MR4_2.zip"
+                }
+            ]
+        },
+        "BU53PST-GL": {
+            "description": "webOS 4.5 Projector",
+            "notice": [
+                {
+                    "osSeq": "509121",
+                    "model": "BU53PST-GL",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-1592_webOS 4.5 Projector_190515.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "509121",
+                    "model": "BU53PST-GL",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS 4.5 Projector.tar.gz"
+                }
+            ]
+        },
+        "BU53RG-GL": {
+            "description": "Signage_Projector_M16P3_webOS6.0 MR4",
+            "notice": [
+                {
+                    "osSeq": "511209",
+                    "model": "BU53RG-GL",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-4974_Signage_Projector_M16P3_webOS6.0_MR4_221216.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "511209",
+                    "model": "BU53RG-GL",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "Signage_Projector_M16P3_webOS6.0_MR4_1.zip"
+                },
+                {
+                    "osSeq": "511209",
+                    "model": "BU53RG-GL",
+                    "type": "Op",
+                    "fileId": "2",
+                    "filename": "Signage_Projector_M16P3_webOS6.0_MR4_2.zip"
+                }
+            ]
+        },
+        "BU60PSM-GL": {
+            "description": "webOS 4.5 Projector",
+            "notice": [
+                {
+                    "osSeq": "509121",
+                    "model": "BU60PSM-GL",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-1592_webOS 4.5 Projector_190515.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "509121",
+                    "model": "BU60PSM-GL",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS 4.5 Projector.tar.gz"
+                }
+            ]
+        },
+        "BU60PST-GL": {
+            "description": "webOS 4.5 Projector",
+            "notice": [
+                {
+                    "osSeq": "509121",
+                    "model": "BU60PST-GL",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-1592_webOS 4.5 Projector_190515.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "509121",
+                    "model": "BU60PST-GL",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS 4.5 Projector.tar.gz"
+                }
+            ]
+        },
+        "BU60PST-KR": {
+            "description": "webOS 4.5 Projector",
+            "notice": [
+                {
+                    "osSeq": "509121",
+                    "model": "BU60PST-KR",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-1592_webOS 4.5 Projector_190515.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "509121",
+                    "model": "BU60PST-KR",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS 4.5 Projector.tar.gz"
+                }
+            ]
+        },
+        "BU60RG-GL": {
+            "description": "Signage_Projector_M16P3_webOS6.0 MR4",
+            "notice": [
+                {
+                    "osSeq": "511209",
+                    "model": "BU60RG-GL",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-4974_Signage_Projector_M16P3_webOS6.0_MR4_221216.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "511209",
+                    "model": "BU60RG-GL",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "Signage_Projector_M16P3_webOS6.0_MR4_1.zip"
+                },
+                {
+                    "osSeq": "511209",
+                    "model": "BU60RG-GL",
+                    "type": "Op",
+                    "fileId": "2",
+                    "filename": "Signage_Projector_M16P3_webOS6.0_MR4_2.zip"
+                }
+            ]
+        },
+        "BU70QGA-GL": {
+            "description": "Signage_Projector_M16P3_webOS6.0 MR4",
+            "notice": [
+                {
+                    "osSeq": "511209",
+                    "model": "BU70QGA-GL",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-4974_Signage_Projector_M16P3_webOS6.0_MR4_221216.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "511209",
+                    "model": "BU70QGA-GL",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "Signage_Projector_M16P3_webOS6.0_MR4_1.zip"
+                },
+                {
+                    "osSeq": "511209",
+                    "model": "BU70QGA-GL",
+                    "type": "Op",
+                    "fileId": "2",
+                    "filename": "Signage_Projector_M16P3_webOS6.0_MR4_2.zip"
+                }
+            ]
+        }
+    },
+    "TV/AV>TV": {
+        "BUILD SDK": {
+            "description": "Toolchian",
+            "notice": [
+                {
+                    "osSeq": "509590",
+                    "model": "BUILD SDK",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-2282_webOS 4.5 IMR monitor_191202.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "509590",
+                    "model": "BUILD SDK",
+                    "type": "Op",
+                    "fileId": "3",
+                    "filename": "5.0_gstreamer.zip"
+                }
+            ]
+        },
+        "CAMERA FUN MIRROR": {
+            "description": "Camera Fun Mirror aka Circus Mirror aka Funhouse Curved Mirror",
+            "notice": [
+                {
+                    "osSeq": "511204",
+                    "model": "CAMERA FUN MIRROR",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-4992_Circus Mirror_1.0_221209.html"
+                }
+            ],
+            "source": []
+        }
+    },
+    "TV/AV>Monitor/Signage": {
+        "BV55PSPBS0": {
+            "description": "webOS_M14_Outdoor_Signage Open Source",
+            "notice": [
+                {
+                    "osSeq": "506738",
+                    "model": "BV55PSPBS0",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-150622-webOS_M14_Signage-3.pdf"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "506738",
+                    "model": "BV55PSPBS0",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "BV55PS.zip"
+                }
+            ]
+        },
+        "CABA-015D": {
+            "description": "webOS4.0_M16++_Signage MR3",
+            "notice": [
+                {
+                    "osSeq": "510978",
+                    "model": "CABA-015D",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-4517_webOS4.0_M16++_Signage_MR3_220616.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "510978",
+                    "model": "CABA-015D",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS4.0_M16++_Signage_MR3.zip"
+                }
+            ]
+        },
+        "CBAA-012X": {
+            "description": "SCAP API 1.6 / 1.7",
+            "notice": [
+                {
+                    "osSeq": "508373",
+                    "model": "CBAA-012X",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-897_SCAP API_180122.html"
+                }
+            ],
+            "source": []
+        }
+    }
+}

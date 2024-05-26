@@ -1,0 +1,172 @@
+{
+    "TV/AV>TV": {
+        "65UF950T-TA": {
+            "description": "webOS BH LGE Open Source-Chromium Source",
+            "notice": [
+                {
+                    "osSeq": "506651",
+                    "model": "65UF950T-TA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-150604-webOSBH-5.pdf"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "506651",
+                    "model": "65UF950T-TA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "Chromium.zip"
+                }
+            ]
+        },
+        "65UF950V-ZA": {
+            "description": "webOS BH LGE Open Source-Chromium Source",
+            "notice": [
+                {
+                    "osSeq": "506651",
+                    "model": "65UF950V-ZA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-150604-webOSBH-5.pdf"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "506651",
+                    "model": "65UF950V-ZA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "Chromium.zip"
+                }
+            ]
+        },
+        "65UF950Y-TA": {
+            "description": "webOS BH LGE Open Source-Chromium Source",
+            "notice": [
+                {
+                    "osSeq": "506651",
+                    "model": "65UF950Y-TA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-150604-webOSBH-5.pdf"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "506651",
+                    "model": "65UF950Y-TA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "Chromium.zip"
+                }
+            ]
+        },
+        "65UG8700-NA": {
+            "description": "webOS BLMU LGE Open Source2",
+            "notice": [
+                {
+                    "osSeq": "506703",
+                    "model": "65UG8700-NA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-160509-webOSBLMU-3.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "506703",
+                    "model": "65UG8700-NA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "BLMU-r3160-2.tar.gz"
+                }
+            ]
+        },
+        "65UG8700-NB": {
+            "description": "webOS BLMU LGE Open Source2",
+            "notice": [
+                {
+                    "osSeq": "506703",
+                    "model": "65UG8700-NB",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-160509-webOSBLMU-3.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "506703",
+                    "model": "65UG8700-NB",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "BLMU-r3160-2.tar.gz"
+                }
+            ]
+        },
+        "65UG8700-PA": {
+            "description": "webOS BLMU LGE Open Source2",
+            "notice": [
+                {
+                    "osSeq": "506703",
+                    "model": "65UG8700-PA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-160509-webOSBLMU-3.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "506703",
+                    "model": "65UG8700-PA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "BLMU-r3160-2.tar.gz"
+                }
+            ]
+        },
+        "65UG8700-SA": {
+            "description": "webOS BLMU LGE Open Source2",
+            "notice": [
+                {
+                    "osSeq": "506703",
+                    "model": "65UG8700-SA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-160509-webOSBLMU-3.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "506703",
+                    "model": "65UG8700-SA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "BLMU-r3160-2.tar.gz"
+                }
+            ]
+        },
+        "65UG8700-UA": {
+            "description": "webOS BLMU LGE Open Source1",
+            "notice": [
+                {
+                    "osSeq": "506702",
+                    "model": "65UG8700-UA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-160509-webOSBLMU-3.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "506702",
+                    "model": "65UG8700-UA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "BLMU-r3173-1.tar.gz"
+                }
+            ]
+        }
+    }
+}

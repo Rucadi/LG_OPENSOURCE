@@ -1,0 +1,293 @@
+{
+    "TV/AV>Monitor/Signage": {
+        "43SM5KD-BH": {
+            "description": "webOS3.2_M16_Signage_2",
+            "notice": [
+                {
+                    "osSeq": "507773",
+                    "model": "43SM5KD-BH",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-171011-webOS3.2M16Signage-2.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "507773",
+                    "model": "43SM5KD-BH",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS3.2_3.0_M16_Signage_OpenSource_V1.0_2.zip"
+                }
+            ]
+        },
+        "43SM5KE-BJ": {
+            "description": "webOS4.0_M16++_Signage MR3",
+            "notice": [
+                {
+                    "osSeq": "510978",
+                    "model": "43SM5KE-BJ",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-4517_webOS4.0_M16++_Signage_MR3_220616.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "510978",
+                    "model": "43SM5KE-BJ",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS4.0_M16++_Signage_MR3.zip"
+                }
+            ]
+        },
+        "43SP520M-PM": {
+            "description": "M1A(14) Platform_06_26",
+            "notice": [
+                {
+                    "osSeq": "506590",
+                    "model": "43SP520M-PM",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "140306-L14_M1A_MTV_v0.2.pdf"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "506590",
+                    "model": "43SP520M-PM",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "20141223144029_5.0_L_CO_FI_2014_Monitor.zip"
+                }
+            ]
+        },
+        "43SQ700S-WA": {
+            "description": "webOS 22 KLP (Commercial) / Smart Monitor",
+            "notice": [
+                {
+                    "osSeq": "510887",
+                    "model": "43SQ700S-WA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-4336_webOS 22 KLP (Commercial)_1.0_220330.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "510887",
+                    "model": "43SQ700S-WA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS 22 KLP (Commercial)_1.0_1.tar.gz"
+                },
+                {
+                    "osSeq": "510887",
+                    "model": "43SQ700S-WA",
+                    "type": "Op",
+                    "fileId": "2",
+                    "filename": "webOS 22 KLP (Commercial)_1.0_2.tar.gz"
+                }
+            ]
+        },
+        "43SQ700S-WB": {
+            "description": "webOS 22 KLP (Commercial) / Smart Monitor",
+            "notice": [
+                {
+                    "osSeq": "510887",
+                    "model": "43SQ700S-WB",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-4336_webOS 22 KLP (Commercial)_1.0_220330.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "510887",
+                    "model": "43SQ700S-WB",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS 22 KLP (Commercial)_1.0_1.tar.gz"
+                },
+                {
+                    "osSeq": "510887",
+                    "model": "43SQ700S-WB",
+                    "type": "Op",
+                    "fileId": "2",
+                    "filename": "webOS 22 KLP (Commercial)_1.0_2.tar.gz"
+                }
+            ]
+        },
+        "43SQ700S-WY": {
+            "description": "webOS 22 KLP (Commercial) / Smart Monitor",
+            "notice": [
+                {
+                    "osSeq": "510887",
+                    "model": "43SQ700S-WY",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-4336_webOS 22 KLP (Commercial)_1.0_220330.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "510887",
+                    "model": "43SQ700S-WY",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS 22 KLP (Commercial)_1.0_1.tar.gz"
+                },
+                {
+                    "osSeq": "510887",
+                    "model": "43SQ700S-WY",
+                    "type": "Op",
+                    "fileId": "2",
+                    "filename": "webOS 22 KLP (Commercial)_1.0_2.tar.gz"
+                }
+            ]
+        },
+        "43TA3E-BH": {
+            "description": "webOS3.2_M16_Signage_2",
+            "notice": [
+                {
+                    "osSeq": "507773",
+                    "model": "43TA3E-BH",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-171011-webOS3.2M16Signage-2.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "507773",
+                    "model": "43TA3E-BH",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS3.2_3.0_M16_Signage_OpenSource_V1.0_2.zip"
+                }
+            ]
+        },
+        "43TNF5J-BP": {
+            "description": "webOS6.0_M16P3_Signage",
+            "notice": [
+                {
+                    "osSeq": "510738",
+                    "model": "43TNF5J-BP",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-3413_webOS6.0_M16P3_Signage_211230.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "510738",
+                    "model": "43TNF5J-BP",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS6.0_M16P3_Signage_1.zip"
+                },
+                {
+                    "osSeq": "510738",
+                    "model": "43TNF5J-BP",
+                    "type": "Op",
+                    "fileId": "2",
+                    "filename": "webOS6.0_M16P3_Signage_2.zip"
+                }
+            ]
+        },
+        "43TNF5P-BP": {
+            "description": "webOS6.0_M16P3_Signage",
+            "notice": [
+                {
+                    "osSeq": "510738",
+                    "model": "43TNF5P-BP",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-3413_webOS6.0_M16P3_Signage_211230.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "510738",
+                    "model": "43TNF5P-BP",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS6.0_M16P3_Signage_1.zip"
+                },
+                {
+                    "osSeq": "510738",
+                    "model": "43TNF5P-BP",
+                    "type": "Op",
+                    "fileId": "2",
+                    "filename": "webOS6.0_M16P3_Signage_2.zip"
+                }
+            ]
+        }
+    },
+    "TV/AV>TV": {
+        "43UF6300-CA": {
+            "description": "L15 L LGE TV Open Source",
+            "notice": [
+                {
+                    "osSeq": "506657",
+                    "model": "43UF6300-CA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-150304-L15L-1.pdf"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "506657",
+                    "model": "43UF6300-CA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "L15_L_LGE_TV_OpenSource_v1.1.zip"
+                }
+            ]
+        },
+        "43UF6300-CD": {
+            "description": "L15 L LGE TV Open Source",
+            "notice": [
+                {
+                    "osSeq": "506657",
+                    "model": "43UF6300-CD",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-150304-L15L-1.pdf"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "506657",
+                    "model": "43UF6300-CD",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "L15_L_LGE_TV_OpenSource_v1.1.zip"
+                }
+            ]
+        },
+        "43UF6350-CA": {
+            "description": "webOS BLMA LGE Open Source2",
+            "notice": [
+                {
+                    "osSeq": "506701",
+                    "model": "43UF6350-CA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-160509-webOSBLMA-5.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "506701",
+                    "model": "43UF6350-CA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "BLMA-r3161-2.tar.gz"
+                }
+            ]
+        }
+    }
+}

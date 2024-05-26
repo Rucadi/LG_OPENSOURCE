@@ -1,0 +1,431 @@
+{
+    "TV/AV>Monitor/Signage": {
+        "38CB99-WF": {
+            "description": "MST9UXX(16) Platform_07-29",
+            "notice": [
+                {
+                    "osSeq": "507238",
+                    "model": "38CB99-WF",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-160225-MST9UXXSeries-1.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "507238",
+                    "model": "38CB99-WF",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "opensource_MST9UXX_v1.0.zip"
+                }
+            ]
+        },
+        "38CK900G": {
+            "description": "18Y_M_Platform",
+            "notice": [
+                {
+                    "osSeq": "508344",
+                    "model": "38CK900G",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-841_18Y_M_Platform_171228.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "508344",
+                    "model": "38CK900G",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "18Y_M_Platform.zip"
+                }
+            ]
+        },
+        "38CK900G-1C": {
+            "description": "18Y_M_Platform",
+            "notice": [
+                {
+                    "osSeq": "508344",
+                    "model": "38CK900G-1C",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-841_18Y_M_Platform_171228.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "508344",
+                    "model": "38CK900G-1C",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "18Y_M_Platform.zip"
+                }
+            ]
+        },
+        "38CK900N-1C": {
+            "description": "18Y_M_Platform",
+            "notice": [
+                {
+                    "osSeq": "508344",
+                    "model": "38CK900N-1C",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-841_18Y_M_Platform_171228.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "508344",
+                    "model": "38CK900N-1C",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "18Y_M_Platform.zip"
+                }
+            ]
+        },
+        "38CK950N-1C": {
+            "description": "18Y_M_Platform",
+            "notice": [
+                {
+                    "osSeq": "508344",
+                    "model": "38CK950N-1C",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-841_18Y_M_Platform_171228.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "508344",
+                    "model": "38CK950N-1C",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "18Y_M_Platform.zip"
+                }
+            ]
+        },
+        "38CL900G-1C": {
+            "description": "M_Odinson_Leona2",
+            "notice": [
+                {
+                    "osSeq": "509948",
+                    "model": "38CL900G-1C",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-2803_M_Odinson_Leona2_200714.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "509948",
+                    "model": "38CL900G-1C",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "M_Odinson_Leona2.zip"
+                }
+            ]
+        },
+        "38CL950N-1C": {
+            "description": "M_Odinson_Leona2",
+            "notice": [
+                {
+                    "osSeq": "509948",
+                    "model": "38CL950N-1C",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-2803_M_Odinson_Leona2_200714.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "509948",
+                    "model": "38CL950N-1C",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "M_Odinson_Leona2.zip"
+                }
+            ]
+        },
+        "38CL950P-1C": {
+            "description": "M_Odinson_Leona2",
+            "notice": [
+                {
+                    "osSeq": "509948",
+                    "model": "38CL950P-1C",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-2803_M_Odinson_Leona2_200714.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "509948",
+                    "model": "38CL950P-1C",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "M_Odinson_Leona2.zip"
+                }
+            ]
+        },
+        "38GL950G-BG": {
+            "description": "38GL950G",
+            "notice": [
+                {
+                    "osSeq": "509359",
+                    "model": "38GL950G-BG",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-2054_38GL950G_190925.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "509359",
+                    "model": "38GL950G-BG",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "38GL950G.zip"
+                }
+            ]
+        },
+        "38GN950-BB": {
+            "description": "M_Odinson_Leona2_Nxp",
+            "notice": [
+                {
+                    "osSeq": "509858",
+                    "model": "38GN950-BB",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-862_18Y_M_Odinson_4K_200324.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "509858",
+                    "model": "38GN950-BB",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "18Y_M_Odinson_4K.zip"
+                }
+            ]
+        },
+        "38GN950-BC": {
+            "description": "M_Odinson_Leona2_Nxp",
+            "notice": [
+                {
+                    "osSeq": "509858",
+                    "model": "38GN950-BC",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-862_18Y_M_Odinson_4K_200324.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "509858",
+                    "model": "38GN950-BC",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "18Y_M_Odinson_4K.zip"
+                }
+            ]
+        },
+        "38GN950-BY": {
+            "description": "M_Odinson_Leona2_Nxp",
+            "notice": [
+                {
+                    "osSeq": "509858",
+                    "model": "38GN950-BY",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-862_18Y_M_Odinson_4K_200324.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "509858",
+                    "model": "38GN950-BY",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "18Y_M_Odinson_4K.zip"
+                }
+            ]
+        },
+        "38GN950P-BB": {
+            "description": "M_Odinson_Leona2_Nxp",
+            "notice": [
+                {
+                    "osSeq": "509858",
+                    "model": "38GN950P-BB",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-862_18Y_M_Odinson_4K_200324.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "509858",
+                    "model": "38GN950P-BB",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "18Y_M_Odinson_4K.zip"
+                }
+            ]
+        },
+        "38GN950P-BC": {
+            "description": "M_Odinson_Leona2_Nxp",
+            "notice": [
+                {
+                    "osSeq": "509858",
+                    "model": "38GN950P-BC",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-862_18Y_M_Odinson_4K_200324.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "509858",
+                    "model": "38GN950P-BC",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "18Y_M_Odinson_4K.zip"
+                }
+            ]
+        },
+        "38GN95B-BB": {
+            "description": "M_Odinson_Leona2_Nxp",
+            "notice": [
+                {
+                    "osSeq": "509858",
+                    "model": "38GN95B-BB",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-862_18Y_M_Odinson_4K_200324.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "509858",
+                    "model": "38GN95B-BB",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "18Y_M_Odinson_4K.zip"
+                }
+            ]
+        },
+        "38GN95B-BY": {
+            "description": "M_Odinson_Leona2_Nxp",
+            "notice": [
+                {
+                    "osSeq": "509858",
+                    "model": "38GN95B-BY",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-862_18Y_M_Odinson_4K_200324.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "509858",
+                    "model": "38GN95B-BY",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "18Y_M_Odinson_4K.zip"
+                }
+            ]
+        },
+        "38UC99-WF": {
+            "description": "MST9UXX(16) Platform_07-29",
+            "notice": [
+                {
+                    "osSeq": "507238",
+                    "model": "38UC99-WF",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-160225-MST9UXXSeries-1.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "507238",
+                    "model": "38UC99-WF",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "opensource_MST9UXX_v1.0.zip"
+                }
+            ]
+        },
+        "38WK95C": {
+            "description": "M_Leona_Platform_Nxp",
+            "notice": [
+                {
+                    "osSeq": "509413",
+                    "model": "38WK95C",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-2137_M_Leona_Platform_Nxp_191129.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "509413",
+                    "model": "38WK95C",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "M_Leona_Platform_Nxp_1.zip"
+                },
+                {
+                    "osSeq": "509413",
+                    "model": "38WK95C",
+                    "type": "Op",
+                    "fileId": "2",
+                    "filename": "M_Leona_Platform_Nxp_2.zip"
+                }
+            ]
+        },
+        "38WK95C-WY": {
+            "description": "M_Platform_applied_models",
+            "notice": [
+                {
+                    "osSeq": "508050",
+                    "model": "38WK95C-WY",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-695_M_Platform_2018_1.0_170821.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "508050",
+                    "model": "38WK95C-WY",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "M_Platform_1.0_bign.zip"
+                }
+            ]
+        },
+        "38WN95C-WL": {
+            "description": "M_Odinson_Leona2_Nxp",
+            "notice": [
+                {
+                    "osSeq": "509858",
+                    "model": "38WN95C-WL",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-862_18Y_M_Odinson_4K_200324.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "509858",
+                    "model": "38WN95C-WL",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "18Y_M_Odinson_4K.zip"
+                }
+            ]
+        }
+    }
+}

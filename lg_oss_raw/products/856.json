@@ -1,0 +1,396 @@
+{
+    "TV/AV>TV": {
+        "65QNED916QE": {
+            "description": "webOS 23 KHP+ 1.0",
+            "notice": [
+                {
+                    "osSeq": "511215",
+                    "model": "65QNED916QE",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-4668_webOS 23 KHP+_1.0_221220.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "511215",
+                    "model": "65QNED916QE",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS 23 KHP+_1.0_1.tar.gz"
+                },
+                {
+                    "osSeq": "511215",
+                    "model": "65QNED916QE",
+                    "type": "Op",
+                    "fileId": "2",
+                    "filename": "webOS 23 KHP+_1.0_2.tar.gz"
+                },
+                {
+                    "osSeq": "511215",
+                    "model": "65QNED916QE",
+                    "type": "Op",
+                    "fileId": "3",
+                    "filename": "webOS 23 KHP+_1.0_3.tar.gz"
+                }
+            ]
+        },
+        "65QNED919PA": {
+            "description": "webOS 6.0 LMUA 1.0",
+            "notice": [
+                {
+                    "osSeq": "510685",
+                    "model": "65QNED919PA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-3037_webOS 6.0 LMUA_1.0_211116.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "510685",
+                    "model": "65QNED919PA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS 6.0 LMUA_1.0_1.tar.gz"
+                },
+                {
+                    "osSeq": "510685",
+                    "model": "65QNED919PA",
+                    "type": "Op",
+                    "fileId": "2",
+                    "filename": "webOS 6.0 LMUA_1.0_2.tar.gz"
+                },
+                {
+                    "osSeq": "510685",
+                    "model": "65QNED919PA",
+                    "type": "Op",
+                    "fileId": "3",
+                    "filename": "webOS 6.0 LMUA_1.0_3.tar.gz"
+                }
+            ]
+        },
+        "65QNED919PB": {
+            "description": "webOS 6.0 LMUA 1.0",
+            "notice": [
+                {
+                    "osSeq": "510685",
+                    "model": "65QNED919PB",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-3037_webOS 6.0 LMUA_1.0_211116.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "510685",
+                    "model": "65QNED919PB",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS 6.0 LMUA_1.0_1.tar.gz"
+                },
+                {
+                    "osSeq": "510685",
+                    "model": "65QNED919PB",
+                    "type": "Op",
+                    "fileId": "2",
+                    "filename": "webOS 6.0 LMUA_1.0_2.tar.gz"
+                },
+                {
+                    "osSeq": "510685",
+                    "model": "65QNED919PB",
+                    "type": "Op",
+                    "fileId": "3",
+                    "filename": "webOS 6.0 LMUA_1.0_3.tar.gz"
+                }
+            ]
+        },
+        "65QNED919QA": {
+            "description": "webOS 22 KHP 2.0",
+            "notice": [
+                {
+                    "osSeq": "511326",
+                    "model": "65QNED919QA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-5241_webOS 22 KHP_2.0_230321.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "511326",
+                    "model": "65QNED919QA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS 22 KHP_2.0_1.tar.gz"
+                },
+                {
+                    "osSeq": "511326",
+                    "model": "65QNED919QA",
+                    "type": "Op",
+                    "fileId": "2",
+                    "filename": "webOS 22 KHP_2.0_2.tar.gz"
+                }
+            ]
+        },
+        "65QNED919QE": {
+            "description": "webOS 22 KHP 2.0",
+            "notice": [
+                {
+                    "osSeq": "511326",
+                    "model": "65QNED919QE",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-5241_webOS 22 KHP_2.0_230321.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "511326",
+                    "model": "65QNED919QE",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS 22 KHP_2.0_1.tar.gz"
+                },
+                {
+                    "osSeq": "511326",
+                    "model": "65QNED919QE",
+                    "type": "Op",
+                    "fileId": "2",
+                    "filename": "webOS 22 KHP_2.0_2.tar.gz"
+                }
+            ]
+        },
+        "65QNED91CPA": {
+            "description": "webOS 6.0 LMUA 1.0",
+            "notice": [
+                {
+                    "osSeq": "510685",
+                    "model": "65QNED91CPA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-3037_webOS 6.0 LMUA_1.0_211116.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "510685",
+                    "model": "65QNED91CPA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS 6.0 LMUA_1.0_1.tar.gz"
+                },
+                {
+                    "osSeq": "510685",
+                    "model": "65QNED91CPA",
+                    "type": "Op",
+                    "fileId": "2",
+                    "filename": "webOS 6.0 LMUA_1.0_2.tar.gz"
+                },
+                {
+                    "osSeq": "510685",
+                    "model": "65QNED91CPA",
+                    "type": "Op",
+                    "fileId": "3",
+                    "filename": "webOS 6.0 LMUA_1.0_3.tar.gz"
+                }
+            ]
+        },
+        "65QNED91CQA": {
+            "description": "webOS 22 KHP 2.0",
+            "notice": [
+                {
+                    "osSeq": "511326",
+                    "model": "65QNED91CQA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-5241_webOS 22 KHP_2.0_230321.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "511326",
+                    "model": "65QNED91CQA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS 22 KHP_2.0_1.tar.gz"
+                },
+                {
+                    "osSeq": "511326",
+                    "model": "65QNED91CQA",
+                    "type": "Op",
+                    "fileId": "2",
+                    "filename": "webOS 22 KHP_2.0_2.tar.gz"
+                }
+            ]
+        },
+        "65QNED91SPA": {
+            "description": "webOS 6.0 LMUA 1.0",
+            "notice": [
+                {
+                    "osSeq": "510685",
+                    "model": "65QNED91SPA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-3037_webOS 6.0 LMUA_1.0_211116.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "510685",
+                    "model": "65QNED91SPA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS 6.0 LMUA_1.0_1.tar.gz"
+                },
+                {
+                    "osSeq": "510685",
+                    "model": "65QNED91SPA",
+                    "type": "Op",
+                    "fileId": "2",
+                    "filename": "webOS 6.0 LMUA_1.0_2.tar.gz"
+                },
+                {
+                    "osSeq": "510685",
+                    "model": "65QNED91SPA",
+                    "type": "Op",
+                    "fileId": "3",
+                    "filename": "webOS 6.0 LMUA_1.0_3.tar.gz"
+                }
+            ]
+        },
+        "65QNED91SQA": {
+            "description": "webOS 22 KHP 2.0",
+            "notice": [
+                {
+                    "osSeq": "511326",
+                    "model": "65QNED91SQA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-5241_webOS 22 KHP_2.0_230321.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "511326",
+                    "model": "65QNED91SQA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS 22 KHP_2.0_1.tar.gz"
+                },
+                {
+                    "osSeq": "511326",
+                    "model": "65QNED91SQA",
+                    "type": "Op",
+                    "fileId": "2",
+                    "filename": "webOS 22 KHP_2.0_2.tar.gz"
+                }
+            ]
+        },
+        "65QNED91T3A": {
+            "description": "webOS 24 K 1.0_2303",
+            "notice": [
+                {
+                    "osSeq": "511664",
+                    "model": "65QNED91T3A",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-6514_webOS 24 K_1.0_2303_240328.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "511664",
+                    "model": "65QNED91T3A",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS 24 K_1.0_2303_1.zip"
+                },
+                {
+                    "osSeq": "511664",
+                    "model": "65QNED91T3A",
+                    "type": "Op",
+                    "fileId": "2",
+                    "filename": "webOS 24 K_1.0_2303_2.tar.gz"
+                },
+                {
+                    "osSeq": "511664",
+                    "model": "65QNED91T3A",
+                    "type": "Op",
+                    "fileId": "3",
+                    "filename": "webOS 24 K_1.0_2303_3.tar.gz"
+                }
+            ]
+        },
+        "65QNED91T6A": {
+            "description": "webOS 24 K 1.0_2303",
+            "notice": [
+                {
+                    "osSeq": "511664",
+                    "model": "65QNED91T6A",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-6514_webOS 24 K_1.0_2303_240328.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "511664",
+                    "model": "65QNED91T6A",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS 24 K_1.0_2303_1.zip"
+                },
+                {
+                    "osSeq": "511664",
+                    "model": "65QNED91T6A",
+                    "type": "Op",
+                    "fileId": "2",
+                    "filename": "webOS 24 K_1.0_2303_2.tar.gz"
+                },
+                {
+                    "osSeq": "511664",
+                    "model": "65QNED91T6A",
+                    "type": "Op",
+                    "fileId": "3",
+                    "filename": "webOS 24 K_1.0_2303_3.tar.gz"
+                }
+            ]
+        },
+        "65QNED91TCA": {
+            "description": "webOS 24 K 1.0",
+            "notice": [
+                {
+                    "osSeq": "511581",
+                    "model": "65QNED91TCA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-5365_webOS 24 K_1.0_231228.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "511581",
+                    "model": "65QNED91TCA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS 24 K_1.0_1.tar.gz"
+                },
+                {
+                    "osSeq": "511581",
+                    "model": "65QNED91TCA",
+                    "type": "Op",
+                    "fileId": "2",
+                    "filename": "webOS 24 K_1.0_2.tar.gz"
+                },
+                {
+                    "osSeq": "511581",
+                    "model": "65QNED91TCA",
+                    "type": "Op",
+                    "fileId": "3",
+                    "filename": "webOS 24 K_1.0_3.tar.gz"
+                }
+            ]
+        }
+    }
+}

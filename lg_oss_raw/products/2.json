@@ -1,0 +1,398 @@
+{
+    "TV/AV>Monitor/Signage": {
+        "17HK701G-WA": {
+            "description": "DXD Detector",
+            "notice": [
+                {
+                    "osSeq": "508602",
+                    "model": "17HK701G-WA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-1070_DXD Detector_180605.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "508602",
+                    "model": "17HK701G-WA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "DXD Detector.zip"
+                }
+            ]
+        },
+        "17HK701G-WB": {
+            "description": "DXD Detector",
+            "notice": [
+                {
+                    "osSeq": "508602",
+                    "model": "17HK701G-WB",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-1070_DXD Detector_180605.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "508602",
+                    "model": "17HK701G-WB",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "DXD Detector.zip"
+                }
+            ]
+        },
+        "17HK701G-WP": {
+            "description": "DXD Detector",
+            "notice": [
+                {
+                    "osSeq": "508602",
+                    "model": "17HK701G-WP",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-1070_DXD Detector_180605.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "508602",
+                    "model": "17HK701G-WP",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "DXD Detector.zip"
+                }
+            ]
+        },
+        "17HK701G-WV": {
+            "description": "DXD Detector",
+            "notice": [
+                {
+                    "osSeq": "508602",
+                    "model": "17HK701G-WV",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-1070_DXD Detector_180605.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "508602",
+                    "model": "17HK701G-WV",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "DXD Detector.zip"
+                }
+            ]
+        },
+        "17HQ701G-BA": {
+            "description": "DXD Xilinx Platform",
+            "notice": [
+                {
+                    "osSeq": "510710",
+                    "model": "17HQ701G-BA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-3690_DXD Xilinx Platform_211207.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "510710",
+                    "model": "17HQ701G-BA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "DXD Xilinx Platform_1.zip"
+                },
+                {
+                    "osSeq": "510710",
+                    "model": "17HQ701G-BA",
+                    "type": "Op",
+                    "fileId": "2",
+                    "filename": "DXD Xilinx Platform_2.zip"
+                }
+            ]
+        },
+        "17HQ701G-BP": {
+            "description": "DXD Xilinx Platform",
+            "notice": [
+                {
+                    "osSeq": "510710",
+                    "model": "17HQ701G-BP",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-3690_DXD Xilinx Platform_211207.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "510710",
+                    "model": "17HQ701G-BP",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "DXD Xilinx Platform_1.zip"
+                },
+                {
+                    "osSeq": "510710",
+                    "model": "17HQ701G-BP",
+                    "type": "Op",
+                    "fileId": "2",
+                    "filename": "DXD Xilinx Platform_2.zip"
+                }
+            ]
+        },
+        "17HQ901G-BA": {
+            "description": "DXD Xilinx Platform",
+            "notice": [
+                {
+                    "osSeq": "510710",
+                    "model": "17HQ901G-BA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-3690_DXD Xilinx Platform_211207.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "510710",
+                    "model": "17HQ901G-BA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "DXD Xilinx Platform_1.zip"
+                },
+                {
+                    "osSeq": "510710",
+                    "model": "17HQ901G-BA",
+                    "type": "Op",
+                    "fileId": "2",
+                    "filename": "DXD Xilinx Platform_2.zip"
+                }
+            ]
+        },
+        "17HQ901G-BP": {
+            "description": "DXD Xilinx Platform",
+            "notice": [
+                {
+                    "osSeq": "510710",
+                    "model": "17HQ901G-BP",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-3690_DXD Xilinx Platform_211207.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "510710",
+                    "model": "17HQ901G-BP",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "DXD Xilinx Platform_1.zip"
+                },
+                {
+                    "osSeq": "510710",
+                    "model": "17HQ901G-BP",
+                    "type": "Op",
+                    "fileId": "2",
+                    "filename": "DXD Xilinx Platform_2.zip"
+                }
+            ]
+        },
+        "19HK312C-BA": {
+            "description": "M_Platform_applied_models",
+            "notice": [
+                {
+                    "osSeq": "508050",
+                    "model": "19HK312C-BA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-695_M_Platform_2018_1.0_170821.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "508050",
+                    "model": "19HK312C-BA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "M_Platform_1.0_bign.zip"
+                }
+            ]
+        },
+        "20LF430A-PT": {
+            "description": "M8RR(15) Platform_09_07",
+            "notice": [
+                {
+                    "osSeq": "506706",
+                    "model": "20LF430A-PT",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-140522-M8RR_MTV-1.pdf"
+                }
+            ],
+            "source": []
+        },
+        "20LF460A-PT": {
+            "description": "M8RR(15) Platform_06_01",
+            "notice": [
+                {
+                    "osSeq": "506414",
+                    "model": "20LF460A-PT",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-140522-M8RR_MTV-1.pdf"
+                }
+            ],
+            "source": []
+        },
+        "20LH460A-PT": {
+            "description": "M8RR(16) Platform_02_20",
+            "notice": [
+                {
+                    "osSeq": "506984",
+                    "model": "20LH460A-PT",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-140522-M8RR_MTV-1.pdf"
+                }
+            ],
+            "source": []
+        },
+        "20MN47A-PT": {
+            "description": "M8RR(15) Platform_06_01",
+            "notice": [
+                {
+                    "osSeq": "506414",
+                    "model": "20MN47A-PT",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-140522-M8RR_MTV-1.pdf"
+                }
+            ],
+            "source": []
+        },
+        "20MN48A-PTA": {
+            "description": "M8RR(16) Platform_0422",
+            "notice": [
+                {
+                    "osSeq": "507204",
+                    "model": "20MN48A-PTA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-140522-M8RR_MTV-1.pdf"
+                }
+            ],
+            "source": []
+        },
+        "20MN48A-PTT": {
+            "description": "M8RR(16) Platform_02_20",
+            "notice": [
+                {
+                    "osSeq": "506984",
+                    "model": "20MN48A-PTT",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-140522-M8RR_MTV-1.pdf"
+                }
+            ],
+            "source": []
+        },
+        "20MN49A-PTA": {
+            "description": "M8RR(16)_Platform",
+            "notice": [
+                {
+                    "osSeq": "506971",
+                    "model": "20MN49A-PTA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-140522-M8RR_MTV-1.pdf"
+                }
+            ],
+            "source": []
+        },
+        "20MT45D": {
+            "description": "L14 Platform_MTV",
+            "notice": [
+                {
+                    "osSeq": "10340",
+                    "model": "20MT45D",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "140306-L14_M1A_MTV_v0.2.pdf"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "10340",
+                    "model": "20MT45D",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "20141223144029_5.0_L_CO_FI_2014_Monitor.zip"
+                }
+            ]
+        },
+        "20MT45D-14": {
+            "description": "L14 Platform_MTV",
+            "notice": [
+                {
+                    "osSeq": "10340",
+                    "model": "20MT45D-14",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "140306-L14_M1A_MTV_v0.2.pdf"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "10340",
+                    "model": "20MT45D-14",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "20141223144029_5.0_L_CO_FI_2014_Monitor.zip"
+                }
+            ]
+        },
+        "20MT45D-PN": {
+            "description": "L14 Platform_MTV",
+            "notice": [
+                {
+                    "osSeq": "10340",
+                    "model": "20MT45D-PN",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "140306-L14_M1A_MTV_v0.2.pdf"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "10340",
+                    "model": "20MT45D-PN",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "20141223144029_5.0_L_CO_FI_2014_Monitor.zip"
+                }
+            ]
+        }
+    },
+    "TV/AV>TV": {
+        "19LN4050-TB": {
+            "description": "5.0UL LGE MTV Open Source",
+            "notice": [
+                {
+                    "osSeq": "11241",
+                    "model": "19LN4050-TB",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-140522-M8RR_MTV-1.pdf"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "11241",
+                    "model": "19LN4050-TB",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "N/A"
+                }
+            ]
+        }
+    }
+}

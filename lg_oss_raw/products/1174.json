@@ -1,0 +1,195 @@
+{
+    "TV/AV>Monitor/Signage": {
+        "98UH5E-BJ": {
+            "description": "webOS4.0_M16++_Signage MR3",
+            "notice": [
+                {
+                    "osSeq": "510978",
+                    "model": "98UH5E-BJ",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-4517_webOS4.0_M16++_Signage_MR3_220616.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "510978",
+                    "model": "98UH5E-BJ",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS4.0_M16++_Signage_MR3.zip"
+                }
+            ]
+        },
+        "98UH5F-BJ": {
+            "description": "webOS4.0_M16++_Signage MR3",
+            "notice": [
+                {
+                    "osSeq": "510978",
+                    "model": "98UH5F-BJ",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-4517_webOS4.0_M16++_Signage_MR3_220616.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "510978",
+                    "model": "98UH5F-BJ",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS4.0_M16++_Signage_MR3.zip"
+                }
+            ]
+        },
+        "98UH5F-HJ": {
+            "description": "webOS4.0_M16++_Signage MR3",
+            "notice": [
+                {
+                    "osSeq": "510978",
+                    "model": "98UH5F-HJ",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-4517_webOS4.0_M16++_Signage_MR3_220616.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "510978",
+                    "model": "98UH5F-HJ",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS4.0_M16++_Signage_MR3.zip"
+                }
+            ]
+        },
+        "98UH5J-HP": {
+            "description": "webOS6.0_M16P3_Signage MR6",
+            "notice": [
+                {
+                    "osSeq": "511528",
+                    "model": "98UH5J-HP",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-5907_webOS6.0_M16P3_Signage_MR6_231017.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "511528",
+                    "model": "98UH5J-HP",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS6.0_M16P3_Signage_MR6.zip"
+                }
+            ]
+        }
+    },
+    "TV/AV>TV": {
+        "98UH9800-CA": {
+            "description": "webOS DHP LGE Open Source",
+            "notice": [
+                {
+                    "osSeq": "507092",
+                    "model": "98UH9800-CA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-160615-webOSDHP-7.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "507092",
+                    "model": "98UH9800-CA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "DH-r3056.tar.gz"
+                }
+            ]
+        },
+        "98UH9800-NA": {
+            "description": "webOS DHP LGE Open Source",
+            "notice": [
+                {
+                    "osSeq": "507092",
+                    "model": "98UH9800-NA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-160615-webOSDHP-7.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "507092",
+                    "model": "98UH9800-NA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "DH-r3056.tar.gz"
+                }
+            ]
+        },
+        "98UH9800-SA": {
+            "description": "webOS DHP LGE Open Source",
+            "notice": [
+                {
+                    "osSeq": "507092",
+                    "model": "98UH9800-SA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-160615-webOSDHP-7.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "507092",
+                    "model": "98UH9800-SA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "DH-r3056.tar.gz"
+                }
+            ]
+        },
+        "98UH9800-UA": {
+            "description": "webOS DHP LGE Open Source",
+            "notice": [
+                {
+                    "osSeq": "507092",
+                    "model": "98UH9800-UA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-160615-webOSDHP-7.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "507092",
+                    "model": "98UH9800-UA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "DH-r3056.tar.gz"
+                }
+            ]
+        },
+        "98UH980V-TA": {
+            "description": "webOS DHP LGE Open Source",
+            "notice": [
+                {
+                    "osSeq": "507092",
+                    "model": "98UH980V-TA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-160615-webOSDHP-7.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "507092",
+                    "model": "98UH980V-TA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "DH-r3056.tar.gz"
+                }
+            ]
+        }
+    }
+}

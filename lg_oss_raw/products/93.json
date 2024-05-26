@@ -1,0 +1,424 @@
+{
+    "TV/AV>TV": {
+        "32LJ514D-TB": {
+            "description": "L17 LMAP LGE TV Open Source",
+            "notice": [
+                {
+                    "osSeq": "507605",
+                    "model": "32LJ514D-TB",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-161117-L17LMAP-1.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "507605",
+                    "model": "32LJ514D-TB",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "L17LMAP-r3131.tar.gz"
+                }
+            ]
+        },
+        "32LJ519D-TA": {
+            "description": "L17 LMAP LGE TV Open Source",
+            "notice": [
+                {
+                    "osSeq": "507605",
+                    "model": "32LJ519D-TA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-161117-L17LMAP-1.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "507605",
+                    "model": "32LJ519D-TA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "L17LMAP-r3131.tar.gz"
+                }
+            ]
+        },
+        "32LJ519U-ZC": {
+            "description": "L17 LMAP LGE TV Open Source",
+            "notice": [
+                {
+                    "osSeq": "507605",
+                    "model": "32LJ519U-ZC",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-161117-L17LMAP-1.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "507605",
+                    "model": "32LJ519U-ZC",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "L17LMAP-r3131.tar.gz"
+                }
+            ]
+        },
+        "32LJ520B-SA": {
+            "description": "L17 LMA LGE TV Open Source",
+            "notice": [
+                {
+                    "osSeq": "507594",
+                    "model": "32LJ520B-SA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-161121-L17LMA-1.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "507594",
+                    "model": "32LJ520B-SA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "L17LMA-r3132.tar.gz"
+                }
+            ]
+        },
+        "32LJ520U-TA": {
+            "description": "L16 LP LGE TV Open Source",
+            "notice": [
+                {
+                    "osSeq": "506951",
+                    "model": "32LJ520U-TA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-151127-L16LP-1.pdf"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "506951",
+                    "model": "32LJ520U-TA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "L16LP-r2953.tar.gz"
+                }
+            ]
+        },
+        "32LJ522D-TA": {
+            "description": "L17 LMAP LGE TV Open Source",
+            "notice": [
+                {
+                    "osSeq": "507605",
+                    "model": "32LJ522D-TA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-161117-L17LMAP-1.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "507605",
+                    "model": "32LJ522D-TA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "L17LMAP-r3131.tar.gz"
+                }
+            ]
+        },
+        "32LJ523D-TA": {
+            "description": "L17 LMAP LGE TV Open Source",
+            "notice": [
+                {
+                    "osSeq": "507605",
+                    "model": "32LJ523D-TA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-161117-L17LMAP-1.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "507605",
+                    "model": "32LJ523D-TA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "L17LMAP-r3131.tar.gz"
+                }
+            ]
+        },
+        "32LJ525D-TA": {
+            "description": "L17 LMAP LGE TV Open Source",
+            "notice": [
+                {
+                    "osSeq": "507605",
+                    "model": "32LJ525D-TA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-161117-L17LMAP-1.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "507605",
+                    "model": "32LJ525D-TA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "L17LMAP-r3131.tar.gz"
+                }
+            ]
+        },
+        "32LJ530D-TA": {
+            "description": "L17 LMAP LGE TV Open Source",
+            "notice": [
+                {
+                    "osSeq": "507605",
+                    "model": "32LJ530D-TA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-161117-L17LMAP-1.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "507605",
+                    "model": "32LJ530D-TA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "L17LMAP-r3131.tar.gz"
+                }
+            ]
+        },
+        "32LJ542D-TD": {
+            "description": "L17 LMAP LGE TV Open Source",
+            "notice": [
+                {
+                    "osSeq": "507605",
+                    "model": "32LJ542D-TD",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-161117-L17LMAP-1.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "507605",
+                    "model": "32LJ542D-TD",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "L17LMAP-r3131.tar.gz"
+                }
+            ]
+        },
+        "32LJ548D-TG": {
+            "description": "L17 LMAP LGE TV Open Source",
+            "notice": [
+                {
+                    "osSeq": "507605",
+                    "model": "32LJ548D-TG",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-161117-L17LMAP-1.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "507605",
+                    "model": "32LJ548D-TG",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "L17LMAP-r3131.tar.gz"
+                }
+            ]
+        },
+        "32LJ550B-DA": {
+            "description": "webOS DMR LGE Open Source",
+            "notice": [
+                {
+                    "osSeq": "507689",
+                    "model": "32LJ550B-DA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-170601-webOSDMR-2.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "507689",
+                    "model": "32LJ550B-DA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "DMR-r3185.tar.gz"
+                }
+            ]
+        },
+        "32LJ550B-PA": {
+            "description": "webOS DMR LGE Open Source",
+            "notice": [
+                {
+                    "osSeq": "507689",
+                    "model": "32LJ550B-PA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-170601-webOSDMR-2.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "507689",
+                    "model": "32LJ550B-PA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "DMR-r3185.tar.gz"
+                }
+            ]
+        },
+        "32LJ550B-SA": {
+            "description": "webOS DMR LGE Open Source",
+            "notice": [
+                {
+                    "osSeq": "507689",
+                    "model": "32LJ550B-SA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-170601-webOSDMR-2.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "507689",
+                    "model": "32LJ550B-SA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "DMR-r3185.tar.gz"
+                }
+            ]
+        },
+        "32LJ550B-UA": {
+            "description": "webOS DMR LGE Open Source",
+            "notice": [
+                {
+                    "osSeq": "507689",
+                    "model": "32LJ550B-UA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-170601-webOSDMR-2.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "507689",
+                    "model": "32LJ550B-UA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "DMR-r3185.tar.gz"
+                }
+            ]
+        },
+        "32LJ550D-DA": {
+            "description": "webOS DMR LGE Open Source",
+            "notice": [
+                {
+                    "osSeq": "507689",
+                    "model": "32LJ550D-DA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-170601-webOSDMR-2.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "507689",
+                    "model": "32LJ550D-DA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "DMR-r3185.tar.gz"
+                }
+            ]
+        },
+        "32LJ550D-TA": {
+            "description": "webOS DMR LGE Open Source",
+            "notice": [
+                {
+                    "osSeq": "507689",
+                    "model": "32LJ550D-TA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-170601-webOSDMR-2.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "507689",
+                    "model": "32LJ550D-TA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "DMR-r3185.tar.gz"
+                }
+            ]
+        },
+        "32LJ550M-UA": {
+            "description": "webOS DMR LGE Open Source",
+            "notice": [
+                {
+                    "osSeq": "507689",
+                    "model": "32LJ550M-UA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-170601-webOSDMR-2.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "507689",
+                    "model": "32LJ550M-UA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "DMR-r3185.tar.gz"
+                }
+            ]
+        },
+        "32LJ550M-UB": {
+            "description": "webOS DMR LGE Open Source",
+            "notice": [
+                {
+                    "osSeq": "507689",
+                    "model": "32LJ550M-UB",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-170601-webOSDMR-2.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "507689",
+                    "model": "32LJ550M-UB",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "DMR-r3185.tar.gz"
+                }
+            ]
+        },
+        "32LJ550U-TA": {
+            "description": "webOS DMR LGE Open Source",
+            "notice": [
+                {
+                    "osSeq": "507689",
+                    "model": "32LJ550U-TA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-170601-webOSDMR-2.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "507689",
+                    "model": "32LJ550U-TA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "DMR-r3185.tar.gz"
+                }
+            ]
+        }
+    }
+}

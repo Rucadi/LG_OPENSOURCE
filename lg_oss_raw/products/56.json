@@ -1,0 +1,340 @@
+{
+    "TV/AV>Monitor/Signage": {
+        "27UD68-BG": {
+            "description": "LM54_55_16_01_30",
+            "notice": [
+                {
+                    "osSeq": "506833",
+                    "model": "27UD68-BG",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-150417-LM54_55-1.pdf"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "506833",
+                    "model": "27UD68-BG",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "LM54_55_opensource_v1_1.zip"
+                }
+            ]
+        },
+        "27UD68-PG": {
+            "description": "MST9UXX(16) Platform_06-09",
+            "notice": [
+                {
+                    "osSeq": "507139",
+                    "model": "27UD68-PG",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-160225-MST9UXXSeries-1.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "507139",
+                    "model": "27UD68-PG",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "opensource_MST9UXX_v1.0.zip"
+                }
+            ]
+        },
+        "27UD68-WG": {
+            "description": "MST9UXX(16) Platform_06-09",
+            "notice": [
+                {
+                    "osSeq": "507139",
+                    "model": "27UD68-WG",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-160225-MST9UXXSeries-1.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "507139",
+                    "model": "27UD68-WG",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "opensource_MST9UXX_v1.0.zip"
+                }
+            ]
+        },
+        "27UD68P-BG": {
+            "description": "MST9UXX(16) Platform_06-09",
+            "notice": [
+                {
+                    "osSeq": "507139",
+                    "model": "27UD68P-BG",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-160225-MST9UXXSeries-1.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "507139",
+                    "model": "27UD68P-BG",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "opensource_MST9UXX_v1.0.zip"
+                }
+            ]
+        },
+        "27UD69-WC": {
+            "description": "MST9UXX(16) Platform_07-29",
+            "notice": [
+                {
+                    "osSeq": "507238",
+                    "model": "27UD69-WC",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-160225-MST9UXXSeries-1.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "507238",
+                    "model": "27UD69-WC",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "opensource_MST9UXX_v1.0.zip"
+                }
+            ]
+        },
+        "27UD69P-WC": {
+            "description": "MST9UXX(16) Platform_07-29",
+            "notice": [
+                {
+                    "osSeq": "507238",
+                    "model": "27UD69P-WC",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-160225-MST9UXXSeries-1.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "507238",
+                    "model": "27UD69P-WC",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "opensource_MST9UXX_v1.0.zip"
+                }
+            ]
+        },
+        "27UD88-WF": {
+            "description": "LM54_55_16_01_30",
+            "notice": [
+                {
+                    "osSeq": "506833",
+                    "model": "27UD88-WF",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-150417-LM54_55-1.pdf"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "506833",
+                    "model": "27UD88-WF",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "LM54_55_opensource_v1_1.zip"
+                }
+            ]
+        },
+        "27UK500-BY": {
+            "description": "M_Odinson_Leona2",
+            "notice": [
+                {
+                    "osSeq": "509948",
+                    "model": "27UK500-BY",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-2803_M_Odinson_Leona2_200714.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "509948",
+                    "model": "27UK500-BY",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "M_Odinson_Leona2.zip"
+                }
+            ]
+        },
+        "27UK580-BC": {
+            "description": "M_Platform_applied_models",
+            "notice": [
+                {
+                    "osSeq": "508050",
+                    "model": "27UK580-BC",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-695_M_Platform_2018_1.0_170821.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "508050",
+                    "model": "27UK580-BC",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "M_Platform_1.0_bign.zip"
+                }
+            ]
+        },
+        "27UK580-BT": {
+            "description": "M_Odinson_Leona2",
+            "notice": [
+                {
+                    "osSeq": "509948",
+                    "model": "27UK580-BT",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-2803_M_Odinson_Leona2_200714.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "509948",
+                    "model": "27UK580-BT",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "M_Odinson_Leona2.zip"
+                }
+            ]
+        },
+        "27UK580-BY": {
+            "description": "M_Odinson_Leona2",
+            "notice": [
+                {
+                    "osSeq": "509948",
+                    "model": "27UK580-BY",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-2803_M_Odinson_Leona2_200714.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "509948",
+                    "model": "27UK580-BY",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "M_Odinson_Leona2.zip"
+                }
+            ]
+        },
+        "27UK600-W": {
+            "description": "M_Platform_applied_models",
+            "notice": [
+                {
+                    "osSeq": "508050",
+                    "model": "27UK600-W",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-695_M_Platform_2018_1.0_170821.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "508050",
+                    "model": "27UK600-W",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "M_Platform_1.0_bign.zip"
+                }
+            ]
+        },
+        "27UK600-WC": {
+            "description": "M_Platform_applied_models",
+            "notice": [
+                {
+                    "osSeq": "508050",
+                    "model": "27UK600-WC",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-695_M_Platform_2018_1.0_170821.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "508050",
+                    "model": "27UK600-WC",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "M_Platform_1.0_bign.zip"
+                }
+            ]
+        },
+        "27UK650-WC": {
+            "description": "M_Platform_applied_models",
+            "notice": [
+                {
+                    "osSeq": "508050",
+                    "model": "27UK650-WC",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-695_M_Platform_2018_1.0_170821.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "508050",
+                    "model": "27UK650-WC",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "M_Platform_1.0_bign.zip"
+                }
+            ]
+        },
+        "27UK650-WY": {
+            "description": "M_Platform_applied_models",
+            "notice": [
+                {
+                    "osSeq": "508050",
+                    "model": "27UK650-WY",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-695_M_Platform_2018_1.0_170821.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "508050",
+                    "model": "27UK650-WY",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "M_Platform_1.0_bign.zip"
+                }
+            ]
+        },
+        "27UK670-BA": {
+            "description": "M_Platform_applied_models",
+            "notice": [
+                {
+                    "osSeq": "508050",
+                    "model": "27UK670-BA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-695_M_Platform_2018_1.0_170821.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "508050",
+                    "model": "27UK670-BA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "M_Platform_1.0_bign.zip"
+                }
+            ]
+        }
+    }
+}

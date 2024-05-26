@@ -1,0 +1,266 @@
+{
+    "TV/AV>TV": {
+        "WEBOS 6.0 TV EMULATOR": {
+            "description": "webOS 6.0 TV Emulator 1.0",
+            "notice": [
+                {
+                    "osSeq": "510445",
+                    "model": "WEBOS 6.0 TV EMULATOR",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-3385_webOS 6.0 Emulator_1.0_210420.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "510445",
+                    "model": "WEBOS 6.0 TV EMULATOR",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS 6.0 Emulator_1.0.tar.gz"
+                }
+            ]
+        },
+        "WIRELESS CHARGING MAGIC MOTION REMOTE CONTROL": {
+            "description": "Wireless Charging Magic Motion Remote Controller",
+            "notice": [
+                {
+                    "osSeq": "506511",
+                    "model": "WIRELESS CHARGING MAGIC MOTION REMOTE CONTROL",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-141230-WirelessChargingMagicMotionRemoteController-2.pdf"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "506511",
+                    "model": "WIRELESS CHARGING MAGIC MOTION REMOTE CONTROL",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "Wireless Charging Remote Controller_v1.0.zip"
+                }
+            ]
+        },
+        "WM23GF": {
+            "description": "webOS 23 KKF 1.0",
+            "notice": [
+                {
+                    "osSeq": "511411",
+                    "model": "WM23GF",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-5431_webOS 23 KKF_1.0_230626.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "511411",
+                    "model": "WM23GF",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS 23 KKF_1.0_1.tar.gz"
+                },
+                {
+                    "osSeq": "511411",
+                    "model": "WM23GF",
+                    "type": "Op",
+                    "fileId": "2",
+                    "filename": "webOS 23 KKF_1.0_2.tar.gz"
+                },
+                {
+                    "osSeq": "511411",
+                    "model": "WM23GF",
+                    "type": "Op",
+                    "fileId": "3",
+                    "filename": "webOS 23 KKF_1.0_3.tar.gz"
+                }
+            ]
+        }
+    },
+    "TV/AV>Monitor/Signage": {
+        "WEBOS SIGNAGE EMULATOR": {
+            "description": "webOS Signage Emulator 6.0.8",
+            "notice": [
+                {
+                    "osSeq": "510616",
+                    "model": "WEBOS SIGNAGE EMULATOR",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-3840_webOS Signage Emulator_6.0.8_210924.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "510616",
+                    "model": "WEBOS SIGNAGE EMULATOR",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS Signage Emulator_6.0.8.zip"
+                }
+            ]
+        },
+        "WEBOS_SIGNAGE_EMULATOR": {
+            "description": "webOS Signage SDK 4.1.7",
+            "notice": [
+                {
+                    "osSeq": "509525",
+                    "model": "WEBOS_SIGNAGE_EMULATOR",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-2047_webOS Signage SDK_4.1.7_191010.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "509525",
+                    "model": "WEBOS_SIGNAGE_EMULATOR",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS Signage SDK_4.1.7.zip"
+                }
+            ]
+        },
+        "WK600": {
+            "description": "M_Platform_applied_models",
+            "notice": [
+                {
+                    "osSeq": "508050",
+                    "model": "WK600",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-695_M_Platform_2018_1.0_170821.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "508050",
+                    "model": "WK600",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "M_Platform_1.0_bign.zip"
+                }
+            ]
+        },
+        "WK650": {
+            "description": "M_Platform_applied_models",
+            "notice": [
+                {
+                    "osSeq": "508050",
+                    "model": "WK650",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-695_M_Platform_2018_1.0_170821.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "508050",
+                    "model": "WK650",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "M_Platform_1.0_bign.zip"
+                }
+            ]
+        },
+        "WP320-HP": {
+            "description": "webOS3.2_M16_Signage_2",
+            "notice": [
+                {
+                    "osSeq": "507773",
+                    "model": "WP320-HP",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-171011-webOS3.2M16Signage-2.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "507773",
+                    "model": "WP320-HP",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS3.2_3.0_M16_Signage_OpenSource_V1.0_2.zip"
+                }
+            ]
+        },
+        "WP400-JP": {
+            "description": "webOS4.0_M16++_Signage MR3",
+            "notice": [
+                {
+                    "osSeq": "510978",
+                    "model": "WP400-JP",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-4517_webOS4.0_M16++_Signage_MR3_220616.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "510978",
+                    "model": "WP400-JP",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS4.0_M16++_Signage_MR3.zip"
+                }
+            ]
+        },
+        "WP401-BJ": {
+            "description": "webOS4.0_M16++_Signage",
+            "notice": [
+                {
+                    "osSeq": "508481",
+                    "model": "WP401-BJ",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-880_webOS4.0_M16++_Signage_180313.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "508481",
+                    "model": "WP401-BJ",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS4.0_M16++_Signage.zip"
+                }
+            ]
+        },
+        "WP401-JP": {
+            "description": "LG Presenter PC Client",
+            "notice": [
+                {
+                    "osSeq": "508848",
+                    "model": "WP401-JP",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-1405_LG Presenter PC Client_190108.html"
+                }
+            ],
+            "source": []
+        }
+    },
+    "TV/AV>AV": {
+        "WK7Y": {
+            "description": "19Y Voice Assistant Speaker(Yandex) M19022501-",
+            "notice": [
+                {
+                    "osSeq": "509203",
+                    "model": "WK7Y",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-1546_19Y Voice Assistant Speaker(Yandex)_M19022501-_190624.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "509203",
+                    "model": "WK7Y",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "19Y Voice Assistant Speaker(Yandex)_M19022501-.zip"
+                }
+            ]
+        }
+    }
+}

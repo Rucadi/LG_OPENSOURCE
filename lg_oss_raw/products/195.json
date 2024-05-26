@@ -1,0 +1,387 @@
+{
+    "TV/AV>TV": {
+        "43LJ620T-TA": {
+            "description": "webOS DMR LGE Open Source",
+            "notice": [
+                {
+                    "osSeq": "507689",
+                    "model": "43LJ620T-TA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-170601-webOSDMR-2.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "507689",
+                    "model": "43LJ620T-TA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "DMR-r3185.tar.gz"
+                }
+            ]
+        },
+        "43LJ622V-ZC": {
+            "description": "webOS DMR LGE Open Source",
+            "notice": [
+                {
+                    "osSeq": "507689",
+                    "model": "43LJ622V-ZC",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-170601-webOSDMR-2.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "507689",
+                    "model": "43LJ622V-ZC",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "DMR-r3185.tar.gz"
+                }
+            ]
+        },
+        "43LJ624V-ZC": {
+            "description": "webOS DMR LGE Open Source",
+            "notice": [
+                {
+                    "osSeq": "507689",
+                    "model": "43LJ624V-ZC",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-170601-webOSDMR-2.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "507689",
+                    "model": "43LJ624V-ZC",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "DMR-r3185.tar.gz"
+                }
+            ]
+        },
+        "43LJ625V-ZC": {
+            "description": "webOS DMR LGE Open Source",
+            "notice": [
+                {
+                    "osSeq": "507689",
+                    "model": "43LJ625V-ZC",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-170601-webOSDMR-2.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "507689",
+                    "model": "43LJ625V-ZC",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "DMR-r3185.tar.gz"
+                }
+            ]
+        },
+        "43LJ6400-NA": {
+            "description": "webOS DMR LGE Open Source",
+            "notice": [
+                {
+                    "osSeq": "507689",
+                    "model": "43LJ6400-NA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-170601-webOSDMR-2.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "507689",
+                    "model": "43LJ6400-NA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "DMR-r3185.tar.gz"
+                }
+            ]
+        },
+        "43LJ6420-NA": {
+            "description": "webOS DMR LGE Open Source",
+            "notice": [
+                {
+                    "osSeq": "507689",
+                    "model": "43LJ6420-NA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-170601-webOSDMR-2.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "507689",
+                    "model": "43LJ6420-NA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "DMR-r3185.tar.gz"
+                }
+            ]
+        },
+        "43LJ6800-NA": {
+            "description": "webOS DMR LGE Open Source",
+            "notice": [
+                {
+                    "osSeq": "507689",
+                    "model": "43LJ6800-NA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-170601-webOSDMR-2.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "507689",
+                    "model": "43LJ6800-NA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "DMR-r3185.tar.gz"
+                }
+            ]
+        },
+        "43LK5000PLA": {
+            "description": "2018 LGE ODM Open Source (TP) - EU",
+            "notice": [
+                {
+                    "osSeq": "508272",
+                    "model": "43LK5000PLA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-171127-TP_EU-1.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "508272",
+                    "model": "43LK5000PLA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "NT72461_17-r1.zip"
+                }
+            ]
+        },
+        "43LK5000PSA": {
+            "description": "2017 LGE ODM Open Source (TP) - BR",
+            "notice": [
+                {
+                    "osSeq": "507624",
+                    "model": "43LK5000PSA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-161205-LJ50_BR-1.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "507624",
+                    "model": "43LK5000PSA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "Gemini17-r1.zip"
+                }
+            ]
+        },
+        "43LK5000PTA": {
+            "description": "2017 LGE ODM Open Source (BO)",
+            "notice": [
+                {
+                    "osSeq": "507889",
+                    "model": "43LK5000PTA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "No_OpenSource.txt"
+                }
+            ],
+            "source": []
+        },
+        "43LK5000YTA": {
+            "description": "2017 LGE ODM Open Source (BO)",
+            "notice": [
+                {
+                    "osSeq": "507889",
+                    "model": "43LK5000YTA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "No_OpenSource.txt"
+                }
+            ],
+            "source": []
+        },
+        "43LK5100PDA": {
+            "description": "L18/L19 LMA LGE TV Open Source",
+            "notice": [
+                {
+                    "osSeq": "508199",
+                    "model": "43LK5100PDA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-770_L18 LMA_171030.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "508199",
+                    "model": "43LK5100PDA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "L18LMA-r3132.zip"
+                }
+            ]
+        },
+        "43LK5100PLA": {
+            "description": "L18/L19 LMAP LGE TV Open Source",
+            "notice": [
+                {
+                    "osSeq": "510562",
+                    "model": "43LK5100PLA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-794_L18 LMAP_1.0_171107.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "510562",
+                    "model": "43LK5100PLA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "L18 LMAP_1.0.tar.gz"
+                }
+            ]
+        },
+        "43LK5100PLB": {
+            "description": "L18/L19 LMAP LGE TV Open Source",
+            "notice": [
+                {
+                    "osSeq": "510562",
+                    "model": "43LK5100PLB",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-794_L18 LMAP_1.0_171107.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "510562",
+                    "model": "43LK5100PLB",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "L18 LMAP_1.0.tar.gz"
+                }
+            ]
+        },
+        "43LK5100PSA": {
+            "description": "L18/L19 LMA LGE TV Open Source",
+            "notice": [
+                {
+                    "osSeq": "508199",
+                    "model": "43LK5100PSA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-770_L18 LMA_171030.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "508199",
+                    "model": "43LK5100PSA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "L18LMA-r3132.zip"
+                }
+            ]
+        },
+        "43LK5100PTB": {
+            "description": "L18/L19 LMAP LGE TV Open Source",
+            "notice": [
+                {
+                    "osSeq": "510562",
+                    "model": "43LK5100PTB",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-794_L18 LMAP_1.0_171107.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "510562",
+                    "model": "43LK5100PTB",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "L18 LMAP_1.0.tar.gz"
+                }
+            ]
+        },
+        "43LK5100PVB": {
+            "description": "L18/L19 LMAP LGE TV Open Source",
+            "notice": [
+                {
+                    "osSeq": "510562",
+                    "model": "43LK5100PVB",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-794_L18 LMAP_1.0_171107.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "510562",
+                    "model": "43LK5100PVB",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "L18 LMAP_1.0.tar.gz"
+                }
+            ]
+        },
+        "43LK510V-ZA": {
+            "description": "L18/L19 LMAP LGE TV Open Source",
+            "notice": [
+                {
+                    "osSeq": "510562",
+                    "model": "43LK510V-ZA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-794_L18 LMAP_1.0_171107.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "510562",
+                    "model": "43LK510V-ZA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "L18 LMAP_1.0.tar.gz"
+                }
+            ]
+        },
+        "43LK5130PVD": {
+            "description": "L18/L19 LMAP LGE TV Open Source",
+            "notice": [
+                {
+                    "osSeq": "510562",
+                    "model": "43LK5130PVD",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-794_L18 LMAP_1.0_171107.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "510562",
+                    "model": "43LK5130PVD",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "L18 LMAP_1.0.tar.gz"
+                }
+            ]
+        }
+    }
+}

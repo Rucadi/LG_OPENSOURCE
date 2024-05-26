@@ -1,0 +1,354 @@
+{
+    "TV/AV>Monitor/Signage": {
+        "GEAA018-GQ8": {
+            "description": "webOS4.0_M16++_Signage MR3",
+            "notice": [
+                {
+                    "osSeq": "510978",
+                    "model": "GEAA018-GQ8",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-4517_webOS4.0_M16++_Signage_MR3_220616.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "510978",
+                    "model": "GEAA018-GQ8",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS4.0_M16++_Signage_MR3.zip"
+                }
+            ]
+        },
+        "GNEB062-GN": {
+            "description": "webOS4.0_M16++_Signage MR3",
+            "notice": [
+                {
+                    "osSeq": "510978",
+                    "model": "GNEB062-GN",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-4517_webOS4.0_M16++_Signage_MR3_220616.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "510978",
+                    "model": "GNEB062-GN",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS4.0_M16++_Signage_MR3.zip"
+                }
+            ]
+        },
+        "GSEG060-GN": {
+            "description": "webOS4.0_M16++_Signage MR3",
+            "notice": [
+                {
+                    "osSeq": "510978",
+                    "model": "GSEG060-GN",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-4517_webOS4.0_M16++_Signage_MR3_220616.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "510978",
+                    "model": "GSEG060-GN",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS4.0_M16++_Signage_MR3.zip"
+                }
+            ]
+        },
+        "GTN-EDTS04": {
+            "description": "SMART-D/MT 2.3.0",
+            "notice": [
+                {
+                    "osSeq": "510995",
+                    "model": "GTN-EDTS04",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-4575_SMART-D_MT_2.3.0_220711.html"
+                }
+            ],
+            "source": []
+        }
+    },
+    "TV/AV>AV": {
+        "GP3": {
+            "description": "21Y UltraGear Gaming Speaker (GP3) 210715-",
+            "notice": [
+                {
+                    "osSeq": "510566",
+                    "model": "GP3",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-3703_21Y UltraGear Gaming Speaker (GP3)_210715-_210805.html"
+                }
+            ],
+            "source": []
+        },
+        "GX": {
+            "description": "20Y High-End Soundbar (MT8531) 1911141~",
+            "notice": [
+                {
+                    "osSeq": "509595",
+                    "model": "GX",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-1805_20Y High-End Soundbar (MT8531)_1911141_200102.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "509595",
+                    "model": "GX",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "20Y High-End Soundbar (MT8531)_1911141.zip"
+                }
+            ]
+        },
+        "HBS-FA4": {
+            "description": "LG Tone Free 0.14.1-",
+            "notice": [
+                {
+                    "osSeq": "509778",
+                    "model": "HBS-FA4",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-2475_20Y LG Tone Free_0.14.1-_200403.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "509778",
+                    "model": "HBS-FA4",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "20Y LG Tone Free_0.14.1-.zip"
+                }
+            ]
+        },
+        "HBS-FN4": {
+            "description": "LG Tone Free 0.14.1-",
+            "notice": [
+                {
+                    "osSeq": "509778",
+                    "model": "HBS-FN4",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-2475_20Y LG Tone Free_0.14.1-_200403.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "509778",
+                    "model": "HBS-FN4",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "20Y LG Tone Free_0.14.1-.zip"
+                }
+            ]
+        },
+        "HBS-FN5U": {
+            "description": "LG Tone Free 0.14.1-",
+            "notice": [
+                {
+                    "osSeq": "509778",
+                    "model": "HBS-FN5U",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-2475_20Y LG Tone Free_0.14.1-_200403.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "509778",
+                    "model": "HBS-FN5U",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "20Y LG Tone Free_0.14.1-.zip"
+                }
+            ]
+        },
+        "HBS-FN5W": {
+            "description": "LG Tone Free 0.14.1-",
+            "notice": [
+                {
+                    "osSeq": "509778",
+                    "model": "HBS-FN5W",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-2475_20Y LG Tone Free_0.14.1-_200403.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "509778",
+                    "model": "HBS-FN5W",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "20Y LG Tone Free_0.14.1-.zip"
+                }
+            ]
+        },
+        "HBS-FN6": {
+            "description": "LG Tone Free 0.14.1-",
+            "notice": [
+                {
+                    "osSeq": "509778",
+                    "model": "HBS-FN6",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-2475_20Y LG Tone Free_0.14.1-_200403.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "509778",
+                    "model": "HBS-FN6",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "20Y LG Tone Free_0.14.1-.zip"
+                }
+            ]
+        },
+        "HBS-FN6E": {
+            "description": "LG Tone Free 0.14.1-",
+            "notice": [
+                {
+                    "osSeq": "509778",
+                    "model": "HBS-FN6E",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-2475_20Y LG Tone Free_0.14.1-_200403.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "509778",
+                    "model": "HBS-FN6E",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "20Y LG Tone Free_0.14.1-.zip"
+                }
+            ]
+        },
+        "HBS-FN6W": {
+            "description": "LG Tone Free 0.14.1-",
+            "notice": [
+                {
+                    "osSeq": "509778",
+                    "model": "HBS-FN6W",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-2475_20Y LG Tone Free_0.14.1-_200403.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "509778",
+                    "model": "HBS-FN6W",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "20Y LG Tone Free_0.14.1-.zip"
+                }
+            ]
+        },
+        "HBS-FN7": {
+            "description": "20Y LG Tone Free (HBS-FN7 Series) 0.30.2-",
+            "notice": [
+                {
+                    "osSeq": "510018",
+                    "model": "HBS-FN7",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-2785_20Y LG Tone Free (HBS-FN7 Series)_0.30.2-_200803.html"
+                }
+            ],
+            "source": []
+        },
+        "HBS-FN7W": {
+            "description": "20Y LG Tone Free (HBS-FN7 Series) 0.30.2-",
+            "notice": [
+                {
+                    "osSeq": "510018",
+                    "model": "HBS-FN7W",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-2785_20Y LG Tone Free (HBS-FN7 Series)_0.30.2-_200803.html"
+                }
+            ],
+            "source": []
+        },
+        "HBS-PL5": {
+            "description": "LG Tone Style 190731-",
+            "notice": [
+                {
+                    "osSeq": "509650",
+                    "model": "HBS-PL5",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-1905_LG Tone Style_190731.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "509650",
+                    "model": "HBS-PL5",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "LG Tone Style.zip"
+                }
+            ]
+        }
+    },
+    "TV/AV>Projector": {
+        "GRF510N-GL": {
+            "description": "webOS 4.5 Projector",
+            "notice": [
+                {
+                    "osSeq": "509121",
+                    "model": "GRF510N-GL",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-1592_webOS 4.5 Projector_190515.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "509121",
+                    "model": "GRF510N-GL",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS 4.5 Projector.tar.gz"
+                }
+            ]
+        },
+        "GRU510N-GL": {
+            "description": "webOS 4.5 Projector",
+            "notice": [
+                {
+                    "osSeq": "509121",
+                    "model": "GRU510N-GL",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-1592_webOS 4.5 Projector_190515.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "509121",
+                    "model": "GRU510N-GL",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS 4.5 Projector.tar.gz"
+                }
+            ]
+        }
+    }
+}

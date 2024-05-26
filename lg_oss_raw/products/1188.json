@@ -1,0 +1,273 @@
+{
+    "TV/AV>AV": {
+        "HBS-PL6S": {
+            "description": "LG Tone Style 190731-",
+            "notice": [
+                {
+                    "osSeq": "509650",
+                    "model": "HBS-PL6S",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-1905_LG Tone Style_190731.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "509650",
+                    "model": "HBS-PL6S",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "LG Tone Style.zip"
+                }
+            ]
+        },
+        "HBS-SL5": {
+            "description": "LG Tone Style 190731-",
+            "notice": [
+                {
+                    "osSeq": "509650",
+                    "model": "HBS-SL5",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-1905_LG Tone Style_190731.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "509650",
+                    "model": "HBS-SL5",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "LG Tone Style.zip"
+                }
+            ]
+        },
+        "HBS-SL6S": {
+            "description": "LG Tone Style 190731-",
+            "notice": [
+                {
+                    "osSeq": "509650",
+                    "model": "HBS-SL6S",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-1905_LG Tone Style_190731.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "509650",
+                    "model": "HBS-SL6S",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "LG Tone Style.zip"
+                }
+            ]
+        },
+        "HBS-TFN4": {
+            "description": "LG Tone Free 0.14.1-",
+            "notice": [
+                {
+                    "osSeq": "509778",
+                    "model": "HBS-TFN4",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-2475_20Y LG Tone Free_0.14.1-_200403.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "509778",
+                    "model": "HBS-TFN4",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "20Y LG Tone Free_0.14.1-.zip"
+                }
+            ]
+        },
+        "HBS-TFN5": {
+            "description": "LG Tone Free 0.14.1-",
+            "notice": [
+                {
+                    "osSeq": "509778",
+                    "model": "HBS-TFN5",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-2475_20Y LG Tone Free_0.14.1-_200403.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "509778",
+                    "model": "HBS-TFN5",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "20Y LG Tone Free_0.14.1-.zip"
+                }
+            ]
+        },
+        "HBS-TFN5W": {
+            "description": "LG Tone Free 0.14.1-",
+            "notice": [
+                {
+                    "osSeq": "509778",
+                    "model": "HBS-TFN5W",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-2475_20Y LG Tone Free_0.14.1-_200403.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "509778",
+                    "model": "HBS-TFN5W",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "20Y LG Tone Free_0.14.1-.zip"
+                }
+            ]
+        },
+        "HBS-TFN6": {
+            "description": "LG Tone Free 0.14.1-",
+            "notice": [
+                {
+                    "osSeq": "509778",
+                    "model": "HBS-TFN6",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-2475_20Y LG Tone Free_0.14.1-_200403.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "509778",
+                    "model": "HBS-TFN6",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "20Y LG Tone Free_0.14.1-.zip"
+                }
+            ]
+        },
+        "HBS-TFN7": {
+            "description": "20Y LG Tone Free (HBS-FN7 Series) 0.30.2-",
+            "notice": [
+                {
+                    "osSeq": "510018",
+                    "model": "HBS-TFN7",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-2785_20Y LG Tone Free (HBS-FN7 Series)_0.30.2-_200803.html"
+                }
+            ],
+            "source": []
+        }
+    },
+    "TV/AV>Projector": {
+        "HF60LSR-JP": {
+            "description": "webOS 4.0 Projector",
+            "notice": [
+                {
+                    "osSeq": "508645",
+                    "model": "HF60LSR-JP",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-1116_webOS 4.0 Projector_1.0_180626.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "508645",
+                    "model": "HF60LSR-JP",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS 4.0 Projector_1.0.gz"
+                }
+            ]
+        },
+        "HF65LSR-JP": {
+            "description": "webOS 4.0 Projector",
+            "notice": [
+                {
+                    "osSeq": "508645",
+                    "model": "HF65LSR-JP",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-1116_webOS 4.0 Projector_1.0_180626.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "508645",
+                    "model": "HF65LSR-JP",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS 4.0 Projector_1.0.gz"
+                }
+            ]
+        },
+        "HF85LSR-JP": {
+            "description": "webOS 4.0 Projector",
+            "notice": [
+                {
+                    "osSeq": "508645",
+                    "model": "HF85LSR-JP",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-1116_webOS 4.0 Projector_1.0_180626.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "508645",
+                    "model": "HF85LSR-JP",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS 4.0 Projector_1.0.gz"
+                }
+            ]
+        }
+    },
+    "TV/AV>TV": {
+        "HOTEL SOLUTION 3.5": {
+            "description": "Hotel Solution Web 3.5",
+            "notice": [
+                {
+                    "osSeq": "508904",
+                    "model": "HOTEL SOLUTION 3.5",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-1481_Hotel Solution Web_3.5_190104.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "508904",
+                    "model": "HOTEL SOLUTION 3.5",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "Hotel Solution Web_3.5.zip"
+                }
+            ]
+        },
+        "HOTEL SOLUTION 4.0": {
+            "description": "Smart Hotel Room System_HSP_MultiHotelManager 4.0",
+            "notice": [
+                {
+                    "osSeq": "509863",
+                    "model": "HOTEL SOLUTION 4.0",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-2367_Smart Hotel Room System_HSP_MultiHotelManager_4.0_200513.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "509863",
+                    "model": "HOTEL SOLUTION 4.0",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "Smart Hotel Room System_HSP_MultiHotelManager_4.0.zip"
+                }
+            ]
+        }
+    }
+}

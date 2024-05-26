@@ -1,0 +1,132 @@
+{
+    "TV/AV>Monitor/Signage": {
+        "LG CLOUD DEVICE MANAGER 3.1": {
+            "description": "LG Cloud Device Manager 3.2 - Server",
+            "notice": [
+                {
+                    "osSeq": "511537",
+                    "model": "LG CLOUD DEVICE MANAGER 3.1",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-5773_LG Cloud Device Manager 3.2 - Server_231024.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "511537",
+                    "model": "LG CLOUD DEVICE MANAGER 3.1",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "LG Cloud Device Manager 3.2 - Server.zip"
+                }
+            ]
+        },
+        "LG CLOUD DEVICE MANAGER 3.2": {
+            "description": "LG Cloud Device Manager 3.2 - Windows Agent",
+            "notice": [
+                {
+                    "osSeq": "511594",
+                    "model": "LG CLOUD DEVICE MANAGER 3.2",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-5774_LG Cloud Device Manager 3.2 - Windows Agent_240111.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "511594",
+                    "model": "LG CLOUD DEVICE MANAGER 3.2",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "LG Cloud Device Manager 3.2 - Windows Agent.zip"
+                }
+            ]
+        },
+        "LG CLOUD LAUNCHER": {
+            "description": "Thin Client - LG Cloud Launcher 2.01.23, 2.01.24, 2.01.25",
+            "notice": [
+                {
+                    "osSeq": "511334",
+                    "model": "LG CLOUD LAUNCHER",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-5301_Thin Client - LG Cloud Launcher_2.01.23_230330.html"
+                }
+            ],
+            "source": []
+        },
+        "LG COLOR CLONING": {
+            "description": "Color Cloning Windows Application",
+            "notice": [
+                {
+                    "osSeq": "14820",
+                    "model": "LG COLOR CLONING",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-140929-ColorPairingforWindow-1.pdf"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "14820",
+                    "model": "LG COLOR CLONING",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "ColorPairing_WindowsApp_OpenSource_v1_0.zip"
+                }
+            ]
+        },
+        "LG CONNECTED CARE": {
+            "description": "LG ConnectedCare DMS Agent 1.1",
+            "notice": [
+                {
+                    "osSeq": "511440",
+                    "model": "LG CONNECTED CARE",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-5479_LG ConnectedCare DMS Agent_1.1_230719.html"
+                }
+            ],
+            "source": []
+        },
+        "LG CONNECTED CARE 2.0": {
+            "description": "LG ConnectedCare 2.0 24R1",
+            "notice": [
+                {
+                    "osSeq": "511614",
+                    "model": "LG CONNECTED CARE 2.0",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-6363_LG ConnectedCare 2.0_24R1_240216.html"
+                }
+            ],
+            "source": []
+        },
+        "LG CONNECTED CARE 2.0 AGENT (ANDROID)": {
+            "description": "LG ConnectedCare 2.0 Agent (Android) 24R1",
+            "notice": [
+                {
+                    "osSeq": "511623",
+                    "model": "LG CONNECTED CARE 2.0 AGENT (ANDROID)",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-6390_LG ConnectedCare 2.0 Agent (Android)_24R1_240219.html"
+                }
+            ],
+            "source": []
+        },
+        "LG CREATEBOARD LAB": {
+            "description": "LG CreateBoard Lab",
+            "notice": [
+                {
+                    "osSeq": "511207",
+                    "model": "LG CREATEBOARD LAB",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-5024_LG Createboard Lab_221212.html"
+                }
+            ],
+            "source": []
+        }
+    }
+}

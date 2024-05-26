@@ -1,0 +1,235 @@
+{
+    "TV/AV>TV": {
+        "49UB836V-ZG": {
+            "description": "NetCast4.5 LM LGE TV Open Source",
+            "notice": [
+                {
+                    "osSeq": "506625",
+                    "model": "49UB836V-ZG",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-140925-NetCast4_5LM-2.pdf"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "506625",
+                    "model": "49UB836V-ZG",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "NetCast4.5_LM_CO_FI-4.zip"
+                }
+            ]
+        },
+        "49UB839Y-TG": {
+            "description": "NetCast4.5 LM LGE TV Open Source",
+            "notice": [
+                {
+                    "osSeq": "506625",
+                    "model": "49UB839Y-TG",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-140925-NetCast4_5LM-2.pdf"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "506625",
+                    "model": "49UB839Y-TG",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "NetCast4.5_LM_CO_FI-4.zip"
+                }
+            ]
+        },
+        "49UB8400-CA": {
+            "description": "NetCast4.5 LM LGE TV Open Source",
+            "notice": [
+                {
+                    "osSeq": "506625",
+                    "model": "49UB8400-CA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-140925-NetCast4_5LM-2.pdf"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "506625",
+                    "model": "49UB8400-CA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "NetCast4.5_LM_CO_FI-4.zip"
+                }
+            ]
+        },
+        "49UF6300-CA": {
+            "description": "L15 L LGE TV Open Source",
+            "notice": [
+                {
+                    "osSeq": "506657",
+                    "model": "49UF6300-CA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-150304-L15L-1.pdf"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "506657",
+                    "model": "49UF6300-CA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "L15_L_LGE_TV_OpenSource_v1.1.zip"
+                }
+            ]
+        },
+        "49UF6300-CD": {
+            "description": "L15 L LGE TV Open Source",
+            "notice": [
+                {
+                    "osSeq": "506657",
+                    "model": "49UF6300-CD",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-150304-L15L-1.pdf"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "506657",
+                    "model": "49UF6300-CD",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "L15_L_LGE_TV_OpenSource_v1.1.zip"
+                }
+            ]
+        },
+        "49UF6350-CA": {
+            "description": "webOS BLMA LGE Open Source2",
+            "notice": [
+                {
+                    "osSeq": "506701",
+                    "model": "49UF6350-CA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-160509-webOSBLMA-5.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "506701",
+                    "model": "49UF6350-CA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "BLMA-r3161-2.tar.gz"
+                }
+            ]
+        },
+        "49UF6400-CA": {
+            "description": "webOS BLLMA LGE Open Source2",
+            "notice": [
+                {
+                    "osSeq": "506663",
+                    "model": "49UF6400-CA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-150423-webOSBLLMA-1.pdf"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "506663",
+                    "model": "49UF6400-CA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "BLMAL-r3173-1.tar.gz"
+                }
+            ]
+        },
+        "49UF6400-CJ": {
+            "description": "webOS BLLMA LGE Open Source2",
+            "notice": [
+                {
+                    "osSeq": "506663",
+                    "model": "49UF6400-CJ",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-150423-webOSBLLMA-1.pdf"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "506663",
+                    "model": "49UF6400-CJ",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "BLMAL-r3173-1.tar.gz"
+                }
+            ]
+        },
+        "49UF6400-NA": {
+            "description": "webOS BLLMA LGE Open Source2",
+            "notice": [
+                {
+                    "osSeq": "506663",
+                    "model": "49UF6400-NA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-150423-webOSBLLMA-1.pdf"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "506663",
+                    "model": "49UF6400-NA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "BLMAL-r3173-1.tar.gz"
+                }
+            ]
+        },
+        "49UF6400-SA": {
+            "description": "webOS BLLMA LGE Open Source2",
+            "notice": [
+                {
+                    "osSeq": "506663",
+                    "model": "49UF6400-SA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-150423-webOSBLLMA-1.pdf"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "506663",
+                    "model": "49UF6400-SA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "BLMAL-r3173-1.tar.gz"
+                }
+            ]
+        },
+        "49UF6400-UA": {
+            "description": "webOS BLLMA LGE Open Source2",
+            "notice": [
+                {
+                    "osSeq": "506663",
+                    "model": "49UF6400-UA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-150423-webOSBLLMA-1.pdf"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "506663",
+                    "model": "49UF6400-UA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "BLMAL-r3173-1.tar.gz"
+                }
+            ]
+        }
+    }
+}

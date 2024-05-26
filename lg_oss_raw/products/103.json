@@ -1,0 +1,291 @@
+{
+    "TV/AV>TV": {
+        "32LM550BPLB": {
+            "description": "webOS 4.5 IMR 5.0",
+            "notice": [
+                {
+                    "osSeq": "510774",
+                    "model": "32LM550BPLB",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-4154_webOS 4.5 IMR_5.0_240319.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "510774",
+                    "model": "32LM550BPLB",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS 4.5 IMR_5.0_1.tar.gz"
+                },
+                {
+                    "osSeq": "510774",
+                    "model": "32LM550BPLB",
+                    "type": "Op",
+                    "fileId": "2",
+                    "filename": "webOS 4.5 IMR_5.0_2.tar.gz"
+                },
+                {
+                    "osSeq": "510774",
+                    "model": "32LM550BPLB",
+                    "type": "Op",
+                    "fileId": "3",
+                    "filename": "webOS 4.5 IMR_5.0_3.zip"
+                }
+            ]
+        },
+        "32LM550BPTA": {
+            "description": "L18/L19 LMAP LGE TV Open Source",
+            "notice": [
+                {
+                    "osSeq": "510562",
+                    "model": "32LM550BPTA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-794_L18 LMAP_1.0_171107.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "510562",
+                    "model": "32LM550BPTA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "L18 LMAP_1.0.tar.gz"
+                }
+            ]
+        },
+        "32LM550BPVA": {
+            "description": "L18/L19 LMAP LGE TV Open Source",
+            "notice": [
+                {
+                    "osSeq": "510562",
+                    "model": "32LM550BPVA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-794_L18 LMAP_1.0_171107.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "510562",
+                    "model": "32LM550BPVA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "L18 LMAP_1.0.tar.gz"
+                }
+            ]
+        },
+        "32LM551CBTA": {
+            "description": "L18/L19 LMAP LGE TV Open Source (Commercial)",
+            "notice": [
+                {
+                    "osSeq": "509555",
+                    "model": "32LM551CBTA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-794_L18 LMAP_1.0_171107.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "509555",
+                    "model": "32LM551CBTA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "L18 LMAP_1.0.tar.gz"
+                }
+            ]
+        },
+        "32LM553BPTB": {
+            "description": "L18/L19 LMAP LGE TV Open Source",
+            "notice": [
+                {
+                    "osSeq": "510562",
+                    "model": "32LM553BPTB",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-794_L18 LMAP_1.0_171107.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "510562",
+                    "model": "32LM553BPTB",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "L18 LMAP_1.0.tar.gz"
+                }
+            ]
+        },
+        "32LM558BPLC": {
+            "description": "L18/L19 LMAP LGE TV Open Source",
+            "notice": [
+                {
+                    "osSeq": "510562",
+                    "model": "32LM558BPLC",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-794_L18 LMAP_1.0_171107.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "510562",
+                    "model": "32LM558BPLC",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "L18 LMAP_1.0.tar.gz"
+                }
+            ]
+        },
+        "32LM560BPLA": {
+            "description": "webOS 4.5 IMR 5.0",
+            "notice": [
+                {
+                    "osSeq": "510774",
+                    "model": "32LM560BPLA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-4154_webOS 4.5 IMR_5.0_240319.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "510774",
+                    "model": "32LM560BPLA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS 4.5 IMR_5.0_1.tar.gz"
+                },
+                {
+                    "osSeq": "510774",
+                    "model": "32LM560BPLA",
+                    "type": "Op",
+                    "fileId": "2",
+                    "filename": "webOS 4.5 IMR_5.0_2.tar.gz"
+                },
+                {
+                    "osSeq": "510774",
+                    "model": "32LM560BPLA",
+                    "type": "Op",
+                    "fileId": "3",
+                    "filename": "webOS 4.5 IMR_5.0_3.zip"
+                }
+            ]
+        },
+        "32LM560BPTC": {
+            "description": "webOS 4.5 IMR 5.0",
+            "notice": [
+                {
+                    "osSeq": "510774",
+                    "model": "32LM560BPTC",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-4154_webOS 4.5 IMR_5.0_240319.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "510774",
+                    "model": "32LM560BPTC",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS 4.5 IMR_5.0_1.tar.gz"
+                },
+                {
+                    "osSeq": "510774",
+                    "model": "32LM560BPTC",
+                    "type": "Op",
+                    "fileId": "2",
+                    "filename": "webOS 4.5 IMR_5.0_2.tar.gz"
+                },
+                {
+                    "osSeq": "510774",
+                    "model": "32LM560BPTC",
+                    "type": "Op",
+                    "fileId": "3",
+                    "filename": "webOS 4.5 IMR_5.0_3.zip"
+                }
+            ]
+        },
+        "32LM561CBNA": {
+            "description": "webOS 4.5 IMR (Commercial)",
+            "notice": [
+                {
+                    "osSeq": "509225",
+                    "model": "32LM561CBNA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-1357_webOS 4.5 IMR_190305.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "509225",
+                    "model": "32LM561CBNA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS 4.5 IMR.tar.gz"
+                }
+            ]
+        },
+        "32LM561CBTC": {
+            "description": "webOS 4.5 IMR (Commercial)",
+            "notice": [
+                {
+                    "osSeq": "509225",
+                    "model": "32LM561CBTC",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-1357_webOS 4.5 IMR_190305.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "509225",
+                    "model": "32LM561CBTC",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS 4.5 IMR.tar.gz"
+                }
+            ]
+        },
+        "32LM562BPTA": {
+            "description": "webOS 4.5 IMR 5.0",
+            "notice": [
+                {
+                    "osSeq": "510774",
+                    "model": "32LM562BPTA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-4154_webOS 4.5 IMR_5.0_240319.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "510774",
+                    "model": "32LM562BPTA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS 4.5 IMR_5.0_1.tar.gz"
+                },
+                {
+                    "osSeq": "510774",
+                    "model": "32LM562BPTA",
+                    "type": "Op",
+                    "fileId": "2",
+                    "filename": "webOS 4.5 IMR_5.0_2.tar.gz"
+                },
+                {
+                    "osSeq": "510774",
+                    "model": "32LM562BPTA",
+                    "type": "Op",
+                    "fileId": "3",
+                    "filename": "webOS 4.5 IMR_5.0_3.zip"
+                }
+            ]
+        }
+    }
+}

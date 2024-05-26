@@ -1,0 +1,356 @@
+{
+    "TV/AV>Monitor/Signage": {
+        "CBAA-012X": {
+            "description": "webOS4.0+_M16++_Signage LED",
+            "notice": [
+                {
+                    "osSeq": "509828",
+                    "model": "CBAA-012X",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-2415_webOS4.0+_M16++_Signage_LED_200226.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "509828",
+                    "model": "CBAA-012X",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS4.0+_M16++_Signage_LED.zip"
+                }
+            ]
+        },
+        "CBAA-012X5": {
+            "description": "webOS4.0+_M16++_Signage LED",
+            "notice": [
+                {
+                    "osSeq": "509828",
+                    "model": "CBAA-012X5",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-2415_webOS4.0+_M16++_Signage_LED_200226.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "509828",
+                    "model": "CBAA-012X5",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS4.0+_M16++_Signage_LED.zip"
+                }
+            ]
+        },
+        "CBAE-026M": {
+            "description": "webOS4.0+_M16++_Signage LED",
+            "notice": [
+                {
+                    "osSeq": "509828",
+                    "model": "CBAE-026M",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-2415_webOS4.0+_M16++_Signage_LED_200226.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "509828",
+                    "model": "CBAE-026M",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS4.0+_M16++_Signage_LED.zip"
+                }
+            ]
+        },
+        "CBAF-0151": {
+            "description": "webOS4.0+_M16++_Signage LED",
+            "notice": [
+                {
+                    "osSeq": "509828",
+                    "model": "CBAF-0151",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-2415_webOS4.0+_M16++_Signage_LED_200226.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "509828",
+                    "model": "CBAF-0151",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS4.0+_M16++_Signage_LED.zip"
+                }
+            ]
+        },
+        "CBAF-0153": {
+            "description": "webOS4.0+_M16++_Signage LED",
+            "notice": [
+                {
+                    "osSeq": "509828",
+                    "model": "CBAF-0153",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-2415_webOS4.0+_M16++_Signage_LED_200226.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "509828",
+                    "model": "CBAF-0153",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS4.0+_M16++_Signage_LED.zip"
+                }
+            ]
+        },
+        "CBBA": {
+            "description": "webOS4.0_M16++_Signage MR3",
+            "notice": [
+                {
+                    "osSeq": "510978",
+                    "model": "CBBA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-4517_webOS4.0_M16++_Signage_MR3_220616.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "510978",
+                    "model": "CBBA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS4.0_M16++_Signage_MR3.zip"
+                }
+            ]
+        },
+        "CBCA": {
+            "description": "webOS4.0_M16++_Signage MR3",
+            "notice": [
+                {
+                    "osSeq": "510978",
+                    "model": "CBCA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-4517_webOS4.0_M16++_Signage_MR3_220616.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "510978",
+                    "model": "CBCA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS4.0_M16++_Signage_MR3.zip"
+                }
+            ]
+        },
+        "CBV42-BP": {
+            "description": "CLOUD MONITOR V-SERIES",
+            "notice": [
+                {
+                    "osSeq": "615",
+                    "model": "CBV42-BP",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "121210-CloudMonitorV-Series-1.pdf"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "615",
+                    "model": "CBV42-BP",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "N/A"
+                }
+            ]
+        },
+        "CDAA-012D": {
+            "description": "webOS4.0_M16++_Signage MR",
+            "notice": [
+                {
+                    "osSeq": "508876",
+                    "model": "CDAA-012D",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-1360_webOS4.0_M16++_Signage_MR_190107.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "508876",
+                    "model": "CDAA-012D",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS4.0_M16++_Signage_MR.zip"
+                }
+            ]
+        },
+        "CDAA-025D": {
+            "description": "webOS4.0_M16++_Signage MR",
+            "notice": [
+                {
+                    "osSeq": "508876",
+                    "model": "CDAA-025D",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-1360_webOS4.0_M16++_Signage_MR_190107.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "508876",
+                    "model": "CDAA-025D",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS4.0_M16++_Signage_MR.zip"
+                }
+            ]
+        },
+        "CDAA-025D1": {
+            "description": "webOS4.0_M16++_Signage MR",
+            "notice": [
+                {
+                    "osSeq": "508876",
+                    "model": "CDAA-025D1",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-1360_webOS4.0_M16++_Signage_MR_190107.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "508876",
+                    "model": "CDAA-025D1",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS4.0_M16++_Signage_MR.zip"
+                }
+            ]
+        },
+        "CK500W": {
+            "description": "Thin Client - VXL Solution",
+            "notice": [
+                {
+                    "osSeq": "508483",
+                    "model": "CK500W",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-832_Thin Client - VXL Solution_180314.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "508483",
+                    "model": "CK500W",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "Thin Client - VXL Solution.zip"
+                }
+            ]
+        },
+        "CL600I-6N": {
+            "description": "IGEL OS",
+            "notice": [
+                {
+                    "osSeq": "510664",
+                    "model": "CL600I-6N",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-3741_IGEL OS_210902.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "510664",
+                    "model": "CL600I-6N",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "IGEL OS.zip"
+                }
+            ]
+        },
+        "CL600L-DA": {
+            "description": "Linux ThinClient",
+            "notice": [
+                {
+                    "osSeq": "509774",
+                    "model": "CL600L-DA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-2584_Linux ThinClient_200402.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "509774",
+                    "model": "CL600L-DA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "Linux ThinClient_1.tar.gz"
+                },
+                {
+                    "osSeq": "509774",
+                    "model": "CL600L-DA",
+                    "type": "Op",
+                    "fileId": "2",
+                    "filename": "Linux ThinClient_2.tar.gz"
+                },
+                {
+                    "osSeq": "509774",
+                    "model": "CL600L-DA",
+                    "type": "Op",
+                    "fileId": "3",
+                    "filename": "Linux ThinClient_3.tar.gz"
+                }
+            ]
+        },
+        "CL600W": {
+            "description": "Thin Client - VXL Solution",
+            "notice": [
+                {
+                    "osSeq": "508483",
+                    "model": "CL600W",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-832_Thin Client - VXL Solution_180314.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "508483",
+                    "model": "CL600W",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "Thin Client - VXL Solution.zip"
+                }
+            ]
+        }
+    },
+    "TV/AV>Projector": {
+        "CJH310N-GL": {
+            "description": "2019 LGE ODM Projector",
+            "notice": [
+                {
+                    "osSeq": "509577",
+                    "model": "CJH310N-GL",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-1691_2019 LGE ODM Projector_191219.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "509577",
+                    "model": "CJH310N-GL",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "2019 LGE ODM Projector.zip"
+                }
+            ]
+        }
+    }
+}

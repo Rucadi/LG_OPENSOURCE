@@ -1,0 +1,402 @@
+{
+    "TV/AV>Monitor/Signage": {
+        "SUPERSIGN W VIDEO WALL EDITOR": {
+            "description": "SuperSign W Video Wall Editor",
+            "notice": [
+                {
+                    "osSeq": "11501",
+                    "model": "SUPERSIGN W VIDEO WALL EDITOR",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-140604-SuperSignVideoWallEditor-1.pdf"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "11501",
+                    "model": "SUPERSIGN W VIDEO WALL EDITOR",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "SuperSignVideoWallEditor_OpenSource_v1.0.zip"
+                }
+            ]
+        },
+        "SUPERSIGN WHITE BALANCE": {
+            "description": "SuperSign White Balance",
+            "notice": [
+                {
+                    "osSeq": "506940",
+                    "model": "SUPERSIGN WHITE BALANCE",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-151103-SuperSignWhiteBalance3.7-1.pdf"
+                }
+            ],
+            "source": []
+        }
+    },
+    "TV/AV>AV": {
+        "TONE-DFP3": {
+            "description": "LG TONE-FP3_TONE-NP3 Series (latest)",
+            "notice": [
+                {
+                    "osSeq": "510534",
+                    "model": "TONE-DFP3",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-3687_LG TONE-FP3 Series_0.16.1-_210707.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "510534",
+                    "model": "TONE-DFP3",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "LG TONE-FP3 Series_0.16.1-.zip"
+                }
+            ]
+        },
+        "TONE-DFP3W": {
+            "description": "LG TONE-FP3_TONE-NP3 Series (latest)",
+            "notice": [
+                {
+                    "osSeq": "510534",
+                    "model": "TONE-DFP3W",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-3687_LG TONE-FP3 Series_0.16.1-_210707.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "510534",
+                    "model": "TONE-DFP3W",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "LG TONE-FP3 Series_0.16.1-.zip"
+                }
+            ]
+        },
+        "TONE-DFP9": {
+            "description": "LG TONE-FP9 TONE-FP7 Series 0.15.1-",
+            "notice": [
+                {
+                    "osSeq": "510491",
+                    "model": "TONE-DFP9",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-3628_LG TONE-FP9 Series_0.15.1-_210604.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "510491",
+                    "model": "TONE-DFP9",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "LG TONE-FP9 Series_0.15.1-.zip"
+                }
+            ]
+        },
+        "TONE-DFP9W": {
+            "description": "LG TONE-FP9 TONE-FP7 Series 0.15.1-",
+            "notice": [
+                {
+                    "osSeq": "510491",
+                    "model": "TONE-DFP9W",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-3628_LG TONE-FP9 Series_0.15.1-_210604.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "510491",
+                    "model": "TONE-DFP9W",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "LG TONE-FP9 Series_0.15.1-.zip"
+                }
+            ]
+        },
+        "TONE-DNP3": {
+            "description": "LG TONE-FP3_TONE-NP3 Series (latest)",
+            "notice": [
+                {
+                    "osSeq": "510534",
+                    "model": "TONE-DNP3",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-3687_LG TONE-FP3 Series_0.16.1-_210707.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "510534",
+                    "model": "TONE-DNP3",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "LG TONE-FP3 Series_0.16.1-.zip"
+                }
+            ]
+        },
+        "TONE-FN7": {
+            "description": "20Y LG Tone Free (HBS-FN7 Series) 0.30.2-",
+            "notice": [
+                {
+                    "osSeq": "510018",
+                    "model": "TONE-FN7",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-2785_20Y LG Tone Free (HBS-FN7 Series)_0.30.2-_200803.html"
+                }
+            ],
+            "source": []
+        },
+        "TONE-FN7UV": {
+            "description": "20Y LG Tone Free (HBS-FN7 Series) 0.30.2-",
+            "notice": [
+                {
+                    "osSeq": "510018",
+                    "model": "TONE-FN7UV",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-2785_20Y LG Tone Free (HBS-FN7 Series)_0.30.2-_200803.html"
+                }
+            ],
+            "source": []
+        },
+        "TONE-FP3": {
+            "description": "LG TONE-FP3_TONE-NP3 Series (latest)",
+            "notice": [
+                {
+                    "osSeq": "510534",
+                    "model": "TONE-FP3",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-3687_LG TONE-FP3 Series_0.16.1-_210707.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "510534",
+                    "model": "TONE-FP3",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "LG TONE-FP3 Series_0.16.1-.zip"
+                }
+            ]
+        },
+        "TONE-FP3A": {
+            "description": "LG TONE-FP3_TONE-NP3 Series (latest)",
+            "notice": [
+                {
+                    "osSeq": "510534",
+                    "model": "TONE-FP3A",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-3687_LG TONE-FP3 Series_0.16.1-_210707.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "510534",
+                    "model": "TONE-FP3A",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "LG TONE-FP3 Series_0.16.1-.zip"
+                }
+            ]
+        },
+        "TONE-FP3W": {
+            "description": "LG TONE-FP3_TONE-NP3 Series (latest)",
+            "notice": [
+                {
+                    "osSeq": "510534",
+                    "model": "TONE-FP3W",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-3687_LG TONE-FP3 Series_0.16.1-_210707.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "510534",
+                    "model": "TONE-FP3W",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "LG TONE-FP3 Series_0.16.1-.zip"
+                }
+            ]
+        },
+        "TONE-FP3WA": {
+            "description": "LG TONE-FP3_TONE-NP3 Series (latest)",
+            "notice": [
+                {
+                    "osSeq": "510534",
+                    "model": "TONE-FP3WA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-3687_LG TONE-FP3 Series_0.16.1-_210707.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "510534",
+                    "model": "TONE-FP3WA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "LG TONE-FP3 Series_0.16.1-.zip"
+                }
+            ]
+        },
+        "TONE-FP7": {
+            "description": "LG TONE-FP9 TONE-FP7 Series 0.15.1-",
+            "notice": [
+                {
+                    "osSeq": "510491",
+                    "model": "TONE-FP7",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-3628_LG TONE-FP9 Series_0.15.1-_210604.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "510491",
+                    "model": "TONE-FP7",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "LG TONE-FP9 Series_0.15.1-.zip"
+                }
+            ]
+        },
+        "TONE-FP7C": {
+            "description": "LG TONE-FP9 TONE-FP7 Series 0.15.1-",
+            "notice": [
+                {
+                    "osSeq": "510491",
+                    "model": "TONE-FP7C",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-3628_LG TONE-FP9 Series_0.15.1-_210604.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "510491",
+                    "model": "TONE-FP7C",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "LG TONE-FP9 Series_0.15.1-.zip"
+                }
+            ]
+        },
+        "TONE-FP9": {
+            "description": "LG TONE-FP9 TONE-FP7 Series 0.15.1-",
+            "notice": [
+                {
+                    "osSeq": "510491",
+                    "model": "TONE-FP9",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-3628_LG TONE-FP9 Series_0.15.1-_210604.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "510491",
+                    "model": "TONE-FP9",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "LG TONE-FP9 Series_0.15.1-.zip"
+                }
+            ]
+        },
+        "TONE-FP9A": {
+            "description": "LG TONE-FP9 TONE-FP7 Series 0.15.1-",
+            "notice": [
+                {
+                    "osSeq": "510491",
+                    "model": "TONE-FP9A",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-3628_LG TONE-FP9 Series_0.15.1-_210604.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "510491",
+                    "model": "TONE-FP9A",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "LG TONE-FP9 Series_0.15.1-.zip"
+                }
+            ]
+        },
+        "TONE-FP9W": {
+            "description": "LG TONE-FP9 TONE-FP7 Series 0.15.1-",
+            "notice": [
+                {
+                    "osSeq": "510491",
+                    "model": "TONE-FP9W",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-3628_LG TONE-FP9 Series_0.15.1-_210604.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "510491",
+                    "model": "TONE-FP9W",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "LG TONE-FP9 Series_0.15.1-.zip"
+                }
+            ]
+        },
+        "TONE-FREE": {
+            "description": "LG Tone Free 0.14.1-",
+            "notice": [
+                {
+                    "osSeq": "509778",
+                    "model": "TONE-FREE",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-2475_20Y LG Tone Free_0.14.1-_200403.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "509778",
+                    "model": "TONE-FREE",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "20Y LG Tone Free_0.14.1-.zip"
+                }
+            ]
+        },
+        "TONE-NP3": {
+            "description": "LG TONE-FP3_TONE-NP3 Series (latest)",
+            "notice": [
+                {
+                    "osSeq": "510534",
+                    "model": "TONE-NP3",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-3687_LG TONE-FP3 Series_0.16.1-_210707.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "510534",
+                    "model": "TONE-NP3",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "LG TONE-FP3 Series_0.16.1-.zip"
+                }
+            ]
+        }
+    }
+}

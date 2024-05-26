@@ -1,0 +1,130 @@
+{
+    "TV/AV>TV": {
+        "65SM9800KNB": {
+            "description": "webOS 4.5 IMP 4.0",
+            "notice": [
+                {
+                    "osSeq": "510773",
+                    "model": "65SM9800KNB",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-4152_webOS 4.5 IMP_4.0_220113.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "510773",
+                    "model": "65SM9800KNB",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS 4.5 IMP_4.0_1.tar.gz"
+                },
+                {
+                    "osSeq": "510773",
+                    "model": "65SM9800KNB",
+                    "type": "Op",
+                    "fileId": "2",
+                    "filename": "webOS 4.5 IMP_4.0_2.tar.gz"
+                }
+            ]
+        },
+        "65SM9800PLA": {
+            "description": "webOS 4.5 IMP 4.0",
+            "notice": [
+                {
+                    "osSeq": "510773",
+                    "model": "65SM9800PLA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-4152_webOS 4.5 IMP_4.0_220113.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "510773",
+                    "model": "65SM9800PLA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS 4.5 IMP_4.0_1.tar.gz"
+                },
+                {
+                    "osSeq": "510773",
+                    "model": "65SM9800PLA",
+                    "type": "Op",
+                    "fileId": "2",
+                    "filename": "webOS 4.5 IMP_4.0_2.tar.gz"
+                }
+            ]
+        }
+    },
+    "TV/AV>Monitor/Signage": {
+        "65TC3D-BH": {
+            "description": "webOS3.2_M16_Signage_2",
+            "notice": [
+                {
+                    "osSeq": "507773",
+                    "model": "65TC3D-BH",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-171011-webOS3.2M16Signage-2.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "507773",
+                    "model": "65TC3D-BH",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS3.2_3.0_M16_Signage_OpenSource_V1.0_2.zip"
+                }
+            ]
+        },
+        "65TR3BF-BJ": {
+            "description": "Android Touch Signage App",
+            "notice": [
+                {
+                    "osSeq": "509287",
+                    "model": "65TR3BF-BJ",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-1936_Android Touch Signage App_190731.html"
+                }
+            ],
+            "source": []
+        },
+        "65TR3BF-IG": {
+            "description": "Android Touch Signage App",
+            "notice": [
+                {
+                    "osSeq": "509287",
+                    "model": "65TR3BF-IG",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-1936_Android Touch Signage App_190731.html"
+                }
+            ],
+            "source": []
+        },
+        "65TR3BG-BG": {
+            "description": "Android Touch Signage",
+            "notice": [
+                {
+                    "osSeq": "509916",
+                    "model": "65TR3BG-BG",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-1908_Android Touch Signage_200630.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "509916",
+                    "model": "65TR3BG-BG",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "Android Touch Signage.zip"
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,221 @@
+{
+    "TV/AV>TV": {
+        "49UN7850KNA": {
+            "description": "webOS 5.0 JKHP 2.0",
+            "notice": [
+                {
+                    "osSeq": "510776",
+                    "model": "49UN7850KNA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-3913_webOS 5.0 JKHP_2.0_220114.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "510776",
+                    "model": "49UN7850KNA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS 5.0 JKHP_2.0_1.tar.gz"
+                },
+                {
+                    "osSeq": "510776",
+                    "model": "49UN7850KNA",
+                    "type": "Op",
+                    "fileId": "2",
+                    "filename": "webOS 5.0 JKHP_2.0_2.tar.gz"
+                }
+            ]
+        },
+        "49US761H0CA": {
+            "description": "webOS5.0_K6HP_CommercialTV",
+            "notice": [
+                {
+                    "osSeq": "509748",
+                    "model": "49US761H0CA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-2511_webOS5.0_K6HP_CommercialTV_200318.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "509748",
+                    "model": "49US761H0CA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS5.0_K6HP_CommercialTV_1.zip"
+                },
+                {
+                    "osSeq": "509748",
+                    "model": "49US761H0CA",
+                    "type": "Op",
+                    "fileId": "2",
+                    "filename": "webOS5.0_K6HP_CommercialTV_2.zip"
+                }
+            ]
+        },
+        "49US761H0DA": {
+            "description": "webOS5.0_K6HP_CommercialTV",
+            "notice": [
+                {
+                    "osSeq": "509748",
+                    "model": "49US761H0DA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-2511_webOS5.0_K6HP_CommercialTV_200318.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "509748",
+                    "model": "49US761H0DA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS5.0_K6HP_CommercialTV_1.zip"
+                },
+                {
+                    "osSeq": "509748",
+                    "model": "49US761H0DA",
+                    "type": "Op",
+                    "fileId": "2",
+                    "filename": "webOS5.0_K6HP_CommercialTV_2.zip"
+                }
+            ]
+        },
+        "49US761H0GA": {
+            "description": "webOS5.0_K6HP_CommercialTV",
+            "notice": [
+                {
+                    "osSeq": "509748",
+                    "model": "49US761H0GA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-2511_webOS5.0_K6HP_CommercialTV_200318.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "509748",
+                    "model": "49US761H0GA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS5.0_K6HP_CommercialTV_1.zip"
+                },
+                {
+                    "osSeq": "509748",
+                    "model": "49US761H0GA",
+                    "type": "Op",
+                    "fileId": "2",
+                    "filename": "webOS5.0_K6HP_CommercialTV_2.zip"
+                }
+            ]
+        },
+        "49US761H0ND": {
+            "description": "webOS5.0_K6HP_CommercialTV",
+            "notice": [
+                {
+                    "osSeq": "509748",
+                    "model": "49US761H0ND",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-2511_webOS5.0_K6HP_CommercialTV_200318.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "509748",
+                    "model": "49US761H0ND",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS5.0_K6HP_CommercialTV_1.zip"
+                },
+                {
+                    "osSeq": "509748",
+                    "model": "49US761H0ND",
+                    "type": "Op",
+                    "fileId": "2",
+                    "filename": "webOS5.0_K6HP_CommercialTV_2.zip"
+                }
+            ]
+        },
+        "49US761H0TA": {
+            "description": "webOS5.0_K6HP_CommercialTV",
+            "notice": [
+                {
+                    "osSeq": "509748",
+                    "model": "49US761H0TA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-2511_webOS5.0_K6HP_CommercialTV_200318.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "509748",
+                    "model": "49US761H0TA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS5.0_K6HP_CommercialTV_1.zip"
+                },
+                {
+                    "osSeq": "509748",
+                    "model": "49US761H0TA",
+                    "type": "Op",
+                    "fileId": "2",
+                    "filename": "webOS5.0_K6HP_CommercialTV_2.zip"
+                }
+            ]
+        },
+        "49US762H0ZC": {
+            "description": "webOS5.0_K6HP_CommercialTV",
+            "notice": [
+                {
+                    "osSeq": "509748",
+                    "model": "49US762H0ZC",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-2511_webOS5.0_K6HP_CommercialTV_200318.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "509748",
+                    "model": "49US762H0ZC",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS5.0_K6HP_CommercialTV_1.zip"
+                },
+                {
+                    "osSeq": "509748",
+                    "model": "49US762H0ZC",
+                    "type": "Op",
+                    "fileId": "2",
+                    "filename": "webOS5.0_K6HP_CommercialTV_2.zip"
+                }
+            ]
+        },
+        "49US765H0VA": {
+            "description": "HCAP API",
+            "notice": [
+                {
+                    "osSeq": "507349",
+                    "model": "49US765H0VA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-160516-HCAPAPI-1.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "507349",
+                    "model": "49US765H0VA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "HCAP_OpenSource_V1.0.zip"
+                }
+            ]
+        }
+    }
+}

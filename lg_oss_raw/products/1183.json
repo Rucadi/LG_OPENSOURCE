@@ -1,0 +1,371 @@
+{
+    "TV/AV>Projector": {
+        "DBF510RG-GL": {
+            "description": "Signage_Projector_M16P3_webOS6.0 MR4",
+            "notice": [
+                {
+                    "osSeq": "511209",
+                    "model": "DBF510RG-GL",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-4974_Signage_Projector_M16P3_webOS6.0_MR4_221216.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "511209",
+                    "model": "DBF510RG-GL",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "Signage_Projector_M16P3_webOS6.0_MR4_1.zip"
+                },
+                {
+                    "osSeq": "511209",
+                    "model": "DBF510RG-GL",
+                    "type": "Op",
+                    "fileId": "2",
+                    "filename": "Signage_Projector_M16P3_webOS6.0_MR4_2.zip"
+                }
+            ]
+        },
+        "DBU510P-GL": {
+            "description": "webOS 4.5 Projector",
+            "notice": [
+                {
+                    "osSeq": "509121",
+                    "model": "DBU510P-GL",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-1592_webOS 4.5 Projector_190515.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "509121",
+                    "model": "DBU510P-GL",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS 4.5 Projector.tar.gz"
+                }
+            ]
+        },
+        "DBU510RG-GL": {
+            "description": "Signage_Projector_M16P3_webOS6.0 MR4",
+            "notice": [
+                {
+                    "osSeq": "511209",
+                    "model": "DBU510RG-GL",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-4974_Signage_Projector_M16P3_webOS6.0_MR4_221216.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "511209",
+                    "model": "DBU510RG-GL",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "Signage_Projector_M16P3_webOS6.0_MR4_1.zip"
+                },
+                {
+                    "osSeq": "511209",
+                    "model": "DBU510RG-GL",
+                    "type": "Op",
+                    "fileId": "2",
+                    "filename": "Signage_Projector_M16P3_webOS6.0_MR4_2.zip"
+                }
+            ]
+        }
+    },
+    "TV/AV>AV": {
+        "DG1": {
+            "description": "20Y High-End Soundbar (MT8531) 1911141~",
+            "notice": [
+                {
+                    "osSeq": "509595",
+                    "model": "DG1",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-1805_20Y High-End Soundbar (MT8531)_1911141_200102.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "509595",
+                    "model": "DG1",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "20Y High-End Soundbar (MT8531)_1911141.zip"
+                }
+            ]
+        },
+        "DGP3": {
+            "description": "21Y UltraGear Gaming Speaker (GP3) 210715-",
+            "notice": [
+                {
+                    "osSeq": "510566",
+                    "model": "DGP3",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-3703_21Y UltraGear Gaming Speaker (GP3)_210715-_210805.html"
+                }
+            ],
+            "source": []
+        },
+        "DGX": {
+            "description": "20Y High-End Soundbar (MT8531) 1911141~",
+            "notice": [
+                {
+                    "osSeq": "509595",
+                    "model": "DGX",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-1805_20Y High-End Soundbar (MT8531)_1911141_200102.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "509595",
+                    "model": "DGX",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "20Y High-End Soundbar (MT8531)_1911141.zip"
+                }
+            ]
+        },
+        "DQP5": {
+            "description": "21_22Y High-End SoundBar (8531) 2011250-",
+            "notice": [
+                {
+                    "osSeq": "510223",
+                    "model": "DQP5",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-2739_21Y High-End SoundBar_2011250-_201216.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "510223",
+                    "model": "DQP5",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "21Y High-End SoundBar_2011250-.zip"
+                }
+            ]
+        },
+        "DQP5BE": {
+            "description": "21_22Y High-End SoundBar (8531) 2011250-",
+            "notice": [
+                {
+                    "osSeq": "510223",
+                    "model": "DQP5BE",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-2739_21Y High-End SoundBar_2011250-_201216.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "510223",
+                    "model": "DQP5BE",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "21Y High-End SoundBar_2011250-.zip"
+                }
+            ]
+        },
+        "DQP5W": {
+            "description": "21_22Y High-End SoundBar (8531) 2011250-",
+            "notice": [
+                {
+                    "osSeq": "510223",
+                    "model": "DQP5W",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-2739_21Y High-End SoundBar_2011250-_201216.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "510223",
+                    "model": "DQP5W",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "21Y High-End SoundBar_2011250-.zip"
+                }
+            ]
+        },
+        "DS40T": {
+            "description": "24Y Low-End SoundBar (S40T/S50TR/SK1D VI) 2308210- (latest)",
+            "notice": [
+                {
+                    "osSeq": "511505",
+                    "model": "DS40T",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-5756_24Y Low-End SoundBar (S40T_S50TR)_2308210-_230915.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "511505",
+                    "model": "DS40T",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "24Y Low-End SoundBar (S40T_S50TR)_2308210-.zip"
+                }
+            ]
+        },
+        "DS60Q": {
+            "description": "22Y_Mid-End_SoundBar 220207A-",
+            "notice": [
+                {
+                    "osSeq": "510876",
+                    "model": "DS60Q",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-4277_22Y_Mid-End_SoundBar_S60Q_220207A-_220324.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "510876",
+                    "model": "DS60Q",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "22Y_Mid-End_SoundBar_S60Q_220207A-.zip"
+                }
+            ]
+        },
+        "DS60T": {
+            "description": "24Y Low-End SoundBar (S40T/S50TR/SK1D VI) 2308210- (latest)",
+            "notice": [
+                {
+                    "osSeq": "511505",
+                    "model": "DS60T",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-5756_24Y Low-End SoundBar (S40T_S50TR)_2308210-_230915.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "511505",
+                    "model": "DS60T",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "24Y Low-End SoundBar (S40T_S50TR)_2308210-.zip"
+                }
+            ]
+        },
+        "DS60TR": {
+            "description": "24Y Low-End SoundBar (S40T/S50TR/SK1D VI) 2308210- (latest)",
+            "notice": [
+                {
+                    "osSeq": "511505",
+                    "model": "DS60TR",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-5756_24Y Low-End SoundBar (S40T_S50TR)_2308210-_230915.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "511505",
+                    "model": "DS60TR",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "24Y Low-End SoundBar (S40T_S50TR)_2308210-.zip"
+                }
+            ]
+        },
+        "DS65Q": {
+            "description": "21_22Y Normal SoundBar(8502) 2010161-",
+            "notice": [
+                {
+                    "osSeq": "510153",
+                    "model": "DS65Q",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-2801_21Y Normal SoundBar_2010161-_201029.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "510153",
+                    "model": "DS65Q",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "21Y Normal SoundBar_2010161-.zip"
+                }
+            ]
+        },
+        "DS75Q": {
+            "description": "21_22Y High-End SoundBar (8531) 2011250-",
+            "notice": [
+                {
+                    "osSeq": "510223",
+                    "model": "DS75Q",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-2739_21Y High-End SoundBar_2011250-_201216.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "510223",
+                    "model": "DS75Q",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "21Y High-End SoundBar_2011250-.zip"
+                }
+            ]
+        },
+        "DS80QR": {
+            "description": "23Y High-End SoundBar / 22Y High-EndSoundBar(SW MR) 2302160-",
+            "notice": [
+                {
+                    "osSeq": "511108",
+                    "model": "DS80QR",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-4788_23Y High-End SoundBar_2209051-_220929.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "511108",
+                    "model": "DS80QR",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "23Y High-End SoundBar_2209051-.zip"
+                }
+            ]
+        }
+    },
+    "TV/AV>TV": {
+        "DIRECTV READY": {
+            "description": "2015 DIRECTV Ready",
+            "notice": [
+                {
+                    "osSeq": "506848",
+                    "model": "DIRECTV READY",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-150812-DIRECTVReady-1.pdf"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "506848",
+                    "model": "DIRECTV READY",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "DirecTV.zip"
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,424 @@
+{
+    "TV/AV>TV": {
+        "OLED65G4PTA": {
+            "description": "webOS 24 O 1.0_2303",
+            "notice": [
+                {
+                    "osSeq": "511646",
+                    "model": "OLED65G4PTA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-6351_webOS24 O_1.0_2303_240311.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "511646",
+                    "model": "OLED65G4PTA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS24 O_1.0_2303_1.tar.gz"
+                },
+                {
+                    "osSeq": "511646",
+                    "model": "OLED65G4PTA",
+                    "type": "Op",
+                    "fileId": "2",
+                    "filename": "webOS24 O_1.0_2303_2.tar.gz"
+                },
+                {
+                    "osSeq": "511646",
+                    "model": "OLED65G4PTA",
+                    "type": "Op",
+                    "fileId": "3",
+                    "filename": "webOS24 O_1.0_2303_3.tar.gz"
+                }
+            ]
+        },
+        "OLED65G4RLA": {
+            "description": "webOS 24 O 1.0_2303",
+            "notice": [
+                {
+                    "osSeq": "511646",
+                    "model": "OLED65G4RLA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-6351_webOS24 O_1.0_2303_240311.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "511646",
+                    "model": "OLED65G4RLA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS24 O_1.0_2303_1.tar.gz"
+                },
+                {
+                    "osSeq": "511646",
+                    "model": "OLED65G4RLA",
+                    "type": "Op",
+                    "fileId": "2",
+                    "filename": "webOS24 O_1.0_2303_2.tar.gz"
+                },
+                {
+                    "osSeq": "511646",
+                    "model": "OLED65G4RLA",
+                    "type": "Op",
+                    "fileId": "3",
+                    "filename": "webOS24 O_1.0_2303_3.tar.gz"
+                }
+            ]
+        },
+        "OLED65G4SUB": {
+            "description": "webOS 24 O 1.0_2303",
+            "notice": [
+                {
+                    "osSeq": "511646",
+                    "model": "OLED65G4SUB",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-6351_webOS24 O_1.0_2303_240311.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "511646",
+                    "model": "OLED65G4SUB",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS24 O_1.0_2303_1.tar.gz"
+                },
+                {
+                    "osSeq": "511646",
+                    "model": "OLED65G4SUB",
+                    "type": "Op",
+                    "fileId": "2",
+                    "filename": "webOS24 O_1.0_2303_2.tar.gz"
+                },
+                {
+                    "osSeq": "511646",
+                    "model": "OLED65G4SUB",
+                    "type": "Op",
+                    "fileId": "3",
+                    "filename": "webOS24 O_1.0_2303_3.tar.gz"
+                }
+            ]
+        },
+        "OLED65G6K-N": {
+            "description": "webOS DHP LGE Open Source",
+            "notice": [
+                {
+                    "osSeq": "507092",
+                    "model": "OLED65G6K-N",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-160615-webOSDHP-7.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "507092",
+                    "model": "OLED65G6K-N",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "DH-r3056.tar.gz"
+                }
+            ]
+        },
+        "OLED65G6P-C": {
+            "description": "webOS DHP LGE Open Source",
+            "notice": [
+                {
+                    "osSeq": "507092",
+                    "model": "OLED65G6P-C",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-160615-webOSDHP-7.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "507092",
+                    "model": "OLED65G6P-C",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "DH-r3056.tar.gz"
+                }
+            ]
+        },
+        "OLED65G6P-J": {
+            "description": "webOS DHP LGE Open Source",
+            "notice": [
+                {
+                    "osSeq": "507092",
+                    "model": "OLED65G6P-J",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-160615-webOSDHP-7.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "507092",
+                    "model": "OLED65G6P-J",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "DH-r3056.tar.gz"
+                }
+            ]
+        },
+        "OLED65G6P-S": {
+            "description": "webOS DHP LGE Open Source",
+            "notice": [
+                {
+                    "osSeq": "507092",
+                    "model": "OLED65G6P-S",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-160615-webOSDHP-7.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "507092",
+                    "model": "OLED65G6P-S",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "DH-r3056.tar.gz"
+                }
+            ]
+        },
+        "OLED65G6P-U": {
+            "description": "webOS DHP LGE Open Source",
+            "notice": [
+                {
+                    "osSeq": "507092",
+                    "model": "OLED65G6P-U",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-160615-webOSDHP-7.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "507092",
+                    "model": "OLED65G6P-U",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "DH-r3056.tar.gz"
+                }
+            ]
+        },
+        "OLED65G6T-T": {
+            "description": "webOS DHP LGE Open Source",
+            "notice": [
+                {
+                    "osSeq": "507092",
+                    "model": "OLED65G6T-T",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-160615-webOSDHP-7.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "507092",
+                    "model": "OLED65G6T-T",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "DH-r3056.tar.gz"
+                }
+            ]
+        },
+        "OLED65G6V-T": {
+            "description": "webOS DHP LGE Open Source",
+            "notice": [
+                {
+                    "osSeq": "507092",
+                    "model": "OLED65G6V-T",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-160615-webOSDHP-7.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "507092",
+                    "model": "OLED65G6V-T",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "DH-r3056.tar.gz"
+                }
+            ]
+        },
+        "OLED65G6V-Z": {
+            "description": "webOS DHP LGE Open Source",
+            "notice": [
+                {
+                    "osSeq": "507092",
+                    "model": "OLED65G6V-Z",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-160615-webOSDHP-7.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "507092",
+                    "model": "OLED65G6V-Z",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "DH-r3056.tar.gz"
+                }
+            ]
+        },
+        "OLED65G6Y-T": {
+            "description": "webOS DHP LGE Open Source",
+            "notice": [
+                {
+                    "osSeq": "507092",
+                    "model": "OLED65G6Y-T",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-160615-webOSDHP-7.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "507092",
+                    "model": "OLED65G6Y-T",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "DH-r3056.tar.gz"
+                }
+            ]
+        },
+        "OLED65G7K-N": {
+            "description": "webOS DMP LGE Open Source",
+            "notice": [
+                {
+                    "osSeq": "507684",
+                    "model": "OLED65G7K-N",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-170601-webOSDMP-4.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "507684",
+                    "model": "OLED65G7K-N",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "DMP-r3186.tar.gz"
+                }
+            ]
+        },
+        "OLED65G7P-U": {
+            "description": "webOS DMP LGE Open Source",
+            "notice": [
+                {
+                    "osSeq": "507684",
+                    "model": "OLED65G7P-U",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-170601-webOSDMP-4.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "507684",
+                    "model": "OLED65G7P-U",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "DMP-r3186.tar.gz"
+                }
+            ]
+        },
+        "OLED65G7T-T": {
+            "description": "webOS DMP LGE Open Source",
+            "notice": [
+                {
+                    "osSeq": "507684",
+                    "model": "OLED65G7T-T",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-170601-webOSDMP-4.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "507684",
+                    "model": "OLED65G7T-T",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "DMP-r3186.tar.gz"
+                }
+            ]
+        },
+        "OLED65G7V-T": {
+            "description": "webOS DMP LGE Open Source",
+            "notice": [
+                {
+                    "osSeq": "507684",
+                    "model": "OLED65G7V-T",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-170601-webOSDMP-4.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "507684",
+                    "model": "OLED65G7V-T",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "DMP-r3186.tar.gz"
+                }
+            ]
+        },
+        "OLED65G7V-Z": {
+            "description": "webOS DMP LGE Open Source",
+            "notice": [
+                {
+                    "osSeq": "507684",
+                    "model": "OLED65G7V-Z",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-170601-webOSDMP-4.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "507684",
+                    "model": "OLED65G7V-Z",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "DMP-r3186.tar.gz"
+                }
+            ]
+        },
+        "OLED65G7Y-T": {
+            "description": "webOS DMP LGE Open Source",
+            "notice": [
+                {
+                    "osSeq": "507684",
+                    "model": "OLED65G7Y-T",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-170601-webOSDMP-4.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "507684",
+                    "model": "OLED65G7Y-T",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "DMP-r3186.tar.gz"
+                }
+            ]
+        }
+    }
+}

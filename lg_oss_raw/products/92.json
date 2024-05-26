@@ -1,0 +1,384 @@
+{
+    "TV/AV>TV": {
+        "32LJ500B-UB": {
+            "description": "2017 LGE ODM Open Source (BO)",
+            "notice": [
+                {
+                    "osSeq": "507889",
+                    "model": "32LJ500B-UB",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "No_OpenSource.txt"
+                }
+            ],
+            "source": []
+        },
+        "32LJ500D-DA": {
+            "description": "2017 LGE ODM Open Source (TP) - DA",
+            "notice": [
+                {
+                    "osSeq": "507908",
+                    "model": "32LJ500D-DA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "No_OpenSource.txt"
+                }
+            ],
+            "source": []
+        },
+        "32LJ500D-TA": {
+            "description": "2017 LGE ODM Open Source (BO)",
+            "notice": [
+                {
+                    "osSeq": "507889",
+                    "model": "32LJ500D-TA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "No_OpenSource.txt"
+                }
+            ],
+            "source": []
+        },
+        "32LJ500U-ZB": {
+            "description": "2017 LGE ODM Open Source (TP) - EU",
+            "notice": [
+                {
+                    "osSeq": "507623",
+                    "model": "32LJ500U-ZB",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-161205-LJ50_EU-1.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "507623",
+                    "model": "32LJ500U-ZB",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "NT72461_17-r1.zip"
+                }
+            ]
+        },
+        "32LJ500V-ZB": {
+            "description": "2017 LGE ODM Open Source (TP) - EU",
+            "notice": [
+                {
+                    "osSeq": "507623",
+                    "model": "32LJ500V-ZB",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-161205-LJ50_EU-1.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "507623",
+                    "model": "32LJ500V-ZB",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "NT72461_17-r1.zip"
+                }
+            ]
+        },
+        "32LJ501B-SA": {
+            "description": "2017 LGE ODM Open Source (TP) - BR",
+            "notice": [
+                {
+                    "osSeq": "507624",
+                    "model": "32LJ501B-SA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-161205-LJ50_BR-1.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "507624",
+                    "model": "32LJ501B-SA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "Gemini17-r1.zip"
+                }
+            ]
+        },
+        "32LJ501D-DA": {
+            "description": "2017 LGE ODM Open Source (TP) - DA",
+            "notice": [
+                {
+                    "osSeq": "507908",
+                    "model": "32LJ501D-DA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "No_OpenSource.txt"
+                }
+            ],
+            "source": []
+        },
+        "32LJ501U-ZB": {
+            "description": "2017 LGE ODM Open Source (TP) - EU",
+            "notice": [
+                {
+                    "osSeq": "507623",
+                    "model": "32LJ501U-ZB",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-161205-LJ50_EU-1.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "507623",
+                    "model": "32LJ501U-ZB",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "NT72461_17-r1.zip"
+                }
+            ]
+        },
+        "32LJ502D-TB": {
+            "description": "2017 LGE ODM Open Source (BO)",
+            "notice": [
+                {
+                    "osSeq": "507889",
+                    "model": "32LJ502D-TB",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "No_OpenSource.txt"
+                }
+            ],
+            "source": []
+        },
+        "32LJ502U-ZB": {
+            "description": "2017 LGE ODM Open Source (TP) - EU",
+            "notice": [
+                {
+                    "osSeq": "507623",
+                    "model": "32LJ502U-ZB",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-161205-LJ50_EU-1.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "507623",
+                    "model": "32LJ502U-ZB",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "NT72461_17-r1.zip"
+                }
+            ]
+        },
+        "32LJ503U-ZA": {
+            "description": "2017 LGE ODM Open Source (TP) - EU",
+            "notice": [
+                {
+                    "osSeq": "507623",
+                    "model": "32LJ503U-ZA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-161205-LJ50_EU-1.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "507623",
+                    "model": "32LJ503U-ZA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "NT72461_17-r1.zip"
+                }
+            ]
+        },
+        "32LJ510B-NA": {
+            "description": "L17 LMA LGE TV Open Source",
+            "notice": [
+                {
+                    "osSeq": "507594",
+                    "model": "32LJ510B-NA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-161121-L17LMA-1.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "507594",
+                    "model": "32LJ510B-NA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "L17LMA-r3132.tar.gz"
+                }
+            ]
+        },
+        "32LJ510B-ZA": {
+            "description": "L17 LMAP LGE TV Open Source",
+            "notice": [
+                {
+                    "osSeq": "507605",
+                    "model": "32LJ510B-ZA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-161117-L17LMAP-1.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "507605",
+                    "model": "32LJ510B-ZA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "L17LMAP-r3131.tar.gz"
+                }
+            ]
+        },
+        "32LJ510D-DA": {
+            "description": "L17 LMA LGE TV Open Source",
+            "notice": [
+                {
+                    "osSeq": "507594",
+                    "model": "32LJ510D-DA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-161121-L17LMA-1.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "507594",
+                    "model": "32LJ510D-DA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "L17LMA-r3132.tar.gz"
+                }
+            ]
+        },
+        "32LJ510D-DB": {
+            "description": "L17 LMA LGE TV Open Source",
+            "notice": [
+                {
+                    "osSeq": "507594",
+                    "model": "32LJ510D-DB",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-161121-L17LMA-1.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "507594",
+                    "model": "32LJ510D-DB",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "L17LMA-r3132.tar.gz"
+                }
+            ]
+        },
+        "32LJ510D-TB": {
+            "description": "L17 LMAP LGE TV Open Source",
+            "notice": [
+                {
+                    "osSeq": "507605",
+                    "model": "32LJ510D-TB",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-161117-L17LMAP-1.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "507605",
+                    "model": "32LJ510D-TB",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "L17LMAP-r3131.tar.gz"
+                }
+            ]
+        },
+        "32LJ510U-TA": {
+            "description": "L17 LMAP LGE TV Open Source",
+            "notice": [
+                {
+                    "osSeq": "507605",
+                    "model": "32LJ510U-TA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-161117-L17LMAP-1.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "507605",
+                    "model": "32LJ510U-TA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "L17LMAP-r3131.tar.gz"
+                }
+            ]
+        },
+        "32LJ510U-ZA": {
+            "description": "L17 LMAP LGE TV Open Source",
+            "notice": [
+                {
+                    "osSeq": "507605",
+                    "model": "32LJ510U-ZA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-161117-L17LMAP-1.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "507605",
+                    "model": "32LJ510U-ZA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "L17LMAP-r3131.tar.gz"
+                }
+            ]
+        },
+        "32LJ510Z-TA": {
+            "description": "L17 LMAP LGE TV Open Source",
+            "notice": [
+                {
+                    "osSeq": "507605",
+                    "model": "32LJ510Z-TA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-161117-L17LMAP-1.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "507605",
+                    "model": "32LJ510Z-TA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "L17LMAP-r3131.tar.gz"
+                }
+            ]
+        },
+        "32LJ513B-ZB": {
+            "description": "L17 LMAP LGE TV Open Source",
+            "notice": [
+                {
+                    "osSeq": "507605",
+                    "model": "32LJ513B-ZB",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-161117-L17LMAP-1.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "507605",
+                    "model": "32LJ513B-ZB",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "L17LMAP-r3131.tar.gz"
+                }
+            ]
+        }
+    }
+}

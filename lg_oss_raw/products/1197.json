@@ -1,0 +1,167 @@
+{
+    "TV/AV>AV": {
+        "LG AV REMOTE FOR ANDROID": {
+            "description": "LG AV Remote for Android (latest)",
+            "notice": [
+                {
+                    "osSeq": "510411",
+                    "model": "LG AV REMOTE FOR ANDROID",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-3500_LG AV Remote for Android_2.0.10-_210401.html"
+                }
+            ],
+            "source": []
+        },
+        "LG AV REMOTE FOR IOS": {
+            "description": "LG AV Remote for iOS (latest)",
+            "notice": [
+                {
+                    "osSeq": "510412",
+                    "model": "LG AV REMOTE FOR IOS",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-3501_LG AV Remote for iOS_2.0.12-_210401.html"
+                }
+            ],
+            "source": []
+        }
+    },
+    "TV/AV>Monitor/Signage": {
+        "LG CALIBRATION STUDIO": {
+            "description": "LG Calibration Studio",
+            "notice": [
+                {
+                    "osSeq": "509876",
+                    "model": "LG CALIBRATION STUDIO",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-2713_LG Calibration Studio_200603.html"
+                }
+            ],
+            "source": []
+        },
+        "LG CALIBRATION STUDIO MEDICAL": {
+            "description": "Medical Calibration Studio - Client (Phase3)",
+            "notice": [
+                {
+                    "osSeq": "511658",
+                    "model": "LG CALIBRATION STUDIO MEDICAL",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-6500_Medical Calibration Studio - Client (Phase3)_240325.html"
+                }
+            ],
+            "source": []
+        },
+        "LG CLOUD DEVICE MANAGER": {
+            "description": "LG Cloud Device Manager 2.1",
+            "notice": [
+                {
+                    "osSeq": "510270",
+                    "model": "LG CLOUD DEVICE MANAGER",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-3247_LG Cloud Device Manager_2.1_210111.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "510270",
+                    "model": "LG CLOUD DEVICE MANAGER",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "LG Cloud Device Manager_2.1.zip"
+                }
+            ]
+        },
+        "LG CLOUD DEVICE MANAGER 3.0": {
+            "description": "LG Cloud Device Manager 3.0 - Windows Agent",
+            "notice": [
+                {
+                    "osSeq": "510830",
+                    "model": "LG CLOUD DEVICE MANAGER 3.0",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-4025_LG Cloud Device Manager 3.0 - Windows Agent_220217.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "510830",
+                    "model": "LG CLOUD DEVICE MANAGER 3.0",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "LG Cloud Device Manager 3.0 - Windows Agent.zip"
+                }
+            ]
+        }
+    },
+    "TV/AV>TV": {
+        "LG CHANNEL APP": {
+            "description": "LG Channel App 1.0",
+            "notice": [
+                {
+                    "osSeq": "510358",
+                    "model": "LG CHANNEL APP",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-3423_LG Channel App_1.0_210308.html"
+                }
+            ],
+            "source": []
+        },
+        "LG CHANNELS APP": {
+            "description": "LG Channels App (webOS) 1.0",
+            "notice": [
+                {
+                    "osSeq": "511496",
+                    "model": "LG CHANNELS APP",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-5762_LG Channels App (webOS)_1.0_230912.html"
+                }
+            ],
+            "source": []
+        },
+        "LG CINEMA": {
+            "description": "Web app for LG Smart TV (webOS and NetCast) - New movies aggregator",
+            "notice": [
+                {
+                    "osSeq": "507014",
+                    "model": "LG CINEMA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-151221-LGCinema-1.html"
+                }
+            ],
+            "source": []
+        },
+        "LG CINEMA MANAGEMENT": {
+            "description": "LG Cinema Management: webOS application for LG Smart TV for content management",
+            "notice": [
+                {
+                    "osSeq": "510065",
+                    "model": "LG CINEMA MANAGEMENT",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-2963_LG Cinema Management_1_200831.html"
+                }
+            ],
+            "source": []
+        },
+        "LG CINEMA V2.0": {
+            "description": "webOS application for LG Smart TV - New movies aggregator (CIS Region)",
+            "notice": [
+                {
+                    "osSeq": "510066",
+                    "model": "LG CINEMA V2.0",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-1925_LG Cinema_2.0_200831.html"
+                }
+            ],
+            "source": []
+        }
+    }
+}

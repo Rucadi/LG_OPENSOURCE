@@ -1,0 +1,456 @@
+{
+    "TV/AV>Monitor/Signage": {
+        "27MU67-BE": {
+            "description": "LM54_55_06_02",
+            "notice": [
+                {
+                    "osSeq": "506565",
+                    "model": "27MU67-BE",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-150417-LM54_55-1.pdf"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "506565",
+                    "model": "27MU67-BE",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "LM54_55_opensource_v1_1.zip"
+                }
+            ]
+        },
+        "27MU88-WF": {
+            "description": "LM54_55_16_01_30",
+            "notice": [
+                {
+                    "osSeq": "506833",
+                    "model": "27MU88-WF",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-150417-LM54_55-1.pdf"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "506833",
+                    "model": "27MU88-WF",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "LM54_55_opensource_v1_1.zip"
+                }
+            ]
+        },
+        "27QD58P-BA": {
+            "description": "MST9UXX(16) Platform_06-09",
+            "notice": [
+                {
+                    "osSeq": "507139",
+                    "model": "27QD58P-BA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-160225-MST9UXXSeries-1.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "507139",
+                    "model": "27QD58P-BA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "opensource_MST9UXX_v1.0.zip"
+                }
+            ]
+        },
+        "27QN600-BT": {
+            "description": "M_Odinson_Leona2",
+            "notice": [
+                {
+                    "osSeq": "509948",
+                    "model": "27QN600-BT",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-2803_M_Odinson_Leona2_200714.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "509948",
+                    "model": "27QN600-BT",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "M_Odinson_Leona2.zip"
+                }
+            ]
+        },
+        "27QN850-BB": {
+            "description": "RTK_Platform_Nxp",
+            "notice": [
+                {
+                    "osSeq": "509384",
+                    "model": "27QN850-BB",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-2118_RTK_Platform_Nxp_190927.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "509384",
+                    "model": "27QN850-BB",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "RTK_Platform_Nxp.zip"
+                }
+            ]
+        },
+        "27QN880-BB": {
+            "description": "RTK_Platform_Nxp",
+            "notice": [
+                {
+                    "osSeq": "509384",
+                    "model": "27QN880-BB",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-2118_RTK_Platform_Nxp_190927.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "509384",
+                    "model": "27QN880-BB",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "RTK_Platform_Nxp.zip"
+                }
+            ]
+        },
+        "27QN880P-BB": {
+            "description": "RTK_Platform_Nxp",
+            "notice": [
+                {
+                    "osSeq": "509384",
+                    "model": "27QN880P-BB",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-2118_RTK_Platform_Nxp_190927.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "509384",
+                    "model": "27QN880P-BB",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "RTK_Platform_Nxp.zip"
+                }
+            ]
+        },
+        "27QP88D-BB": {
+            "description": "M_Odinson_Leona2_Nxp",
+            "notice": [
+                {
+                    "osSeq": "509858",
+                    "model": "27QP88D-BB",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-862_18Y_M_Odinson_4K_200324.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "509858",
+                    "model": "27QP88D-BB",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "18Y_M_Odinson_4K.zip"
+                }
+            ]
+        },
+        "27QP88D-BS": {
+            "description": "M_Odinson_Leona2_Nxp",
+            "notice": [
+                {
+                    "osSeq": "509858",
+                    "model": "27QP88D-BS",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-862_18Y_M_Odinson_4K_200324.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "509858",
+                    "model": "27QP88D-BS",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "18Y_M_Odinson_4K.zip"
+                }
+            ]
+        },
+        "27QP88D-BY": {
+            "description": "M_Odinson_Leona2_Nxp",
+            "notice": [
+                {
+                    "osSeq": "509858",
+                    "model": "27QP88D-BY",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-862_18Y_M_Odinson_4K_200324.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "509858",
+                    "model": "27QP88D-BY",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "18Y_M_Odinson_4K.zip"
+                }
+            ]
+        },
+        "27QP88DP-BB": {
+            "description": "M_Odinson_Leona2_Nxp",
+            "notice": [
+                {
+                    "osSeq": "509858",
+                    "model": "27QP88DP-BB",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-862_18Y_M_Odinson_4K_200324.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "509858",
+                    "model": "27QP88DP-BB",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "18Y_M_Odinson_4K.zip"
+                }
+            ]
+        },
+        "27QP88DP-BS": {
+            "description": "M_Odinson_Leona2_Nxp",
+            "notice": [
+                {
+                    "osSeq": "509858",
+                    "model": "27QP88DP-BS",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-862_18Y_M_Odinson_4K_200324.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "509858",
+                    "model": "27QP88DP-BS",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "18Y_M_Odinson_4K.zip"
+                }
+            ]
+        },
+        "27SR50F-WA": {
+            "description": "webOS 23 KF23F for Monitor 1.0 (1.0 & MR)",
+            "notice": [
+                {
+                    "osSeq": "511464",
+                    "model": "27SR50F-WA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-5646_webOS 23 KKF for Monitor_1.0_230726.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "511464",
+                    "model": "27SR50F-WA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS 23 KKF for Monitor_1.0_1.tar.gz"
+                },
+                {
+                    "osSeq": "511464",
+                    "model": "27SR50F-WA",
+                    "type": "Op",
+                    "fileId": "2",
+                    "filename": "webOS 23 KKF for Monitor_1.0_2.tar.gz"
+                },
+                {
+                    "osSeq": "511464",
+                    "model": "27SR50F-WA",
+                    "type": "Op",
+                    "fileId": "3",
+                    "filename": "webOS 23 KKF for Monitor_1.0_3.tar.gz"
+                }
+            ]
+        },
+        "27SR5BF-PA": {
+            "description": "webOS 23 KF23F for Monitor 1.0 (1.0 & MR)",
+            "notice": [
+                {
+                    "osSeq": "511464",
+                    "model": "27SR5BF-PA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-5646_webOS 23 KKF for Monitor_1.0_230726.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "511464",
+                    "model": "27SR5BF-PA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS 23 KKF for Monitor_1.0_1.tar.gz"
+                },
+                {
+                    "osSeq": "511464",
+                    "model": "27SR5BF-PA",
+                    "type": "Op",
+                    "fileId": "2",
+                    "filename": "webOS 23 KKF for Monitor_1.0_2.tar.gz"
+                },
+                {
+                    "osSeq": "511464",
+                    "model": "27SR5BF-PA",
+                    "type": "Op",
+                    "fileId": "3",
+                    "filename": "webOS 23 KKF for Monitor_1.0_3.tar.gz"
+                }
+            ]
+        },
+        "27SR73U-WA": {
+            "description": "webOS23_KID23Q_SmartMonitor 1.0",
+            "notice": [
+                {
+                    "osSeq": "511542",
+                    "model": "27SR73U-WA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-5645_webOS23_KID23Q_SmartMonitor_1.0_231108.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "511542",
+                    "model": "27SR73U-WA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS23_KID23Q_SmartMonitor_1.0_1.tar.gz"
+                },
+                {
+                    "osSeq": "511542",
+                    "model": "27SR73U-WA",
+                    "type": "Op",
+                    "fileId": "2",
+                    "filename": "webOS23_KID23Q_SmartMonitor_1.0_2.tar.gz"
+                },
+                {
+                    "osSeq": "511542",
+                    "model": "27SR73U-WA",
+                    "type": "Op",
+                    "fileId": "3",
+                    "filename": "webOS23_KID23Q_SmartMonitor_1.0_3.tar.gz"
+                }
+            ]
+        },
+        "27SR75U-WA": {
+            "description": "webOS23_KID23Q_SmartMonitor 1.0",
+            "notice": [
+                {
+                    "osSeq": "511542",
+                    "model": "27SR75U-WA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-5645_webOS23_KID23Q_SmartMonitor_1.0_231108.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "511542",
+                    "model": "27SR75U-WA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS23_KID23Q_SmartMonitor_1.0_1.tar.gz"
+                },
+                {
+                    "osSeq": "511542",
+                    "model": "27SR75U-WA",
+                    "type": "Op",
+                    "fileId": "2",
+                    "filename": "webOS23_KID23Q_SmartMonitor_1.0_2.tar.gz"
+                },
+                {
+                    "osSeq": "511542",
+                    "model": "27SR75U-WA",
+                    "type": "Op",
+                    "fileId": "3",
+                    "filename": "webOS23_KID23Q_SmartMonitor_1.0_3.tar.gz"
+                }
+            ]
+        },
+        "27ST67-WB": {
+            "description": "T-Station_AIO_05-06",
+            "notice": [
+                {
+                    "osSeq": "507212",
+                    "model": "27ST67-WB",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-140522-M8RR_MTV-1.pdf"
+                }
+            ],
+            "source": []
+        },
+        "27ST67-WK": {
+            "description": "27ST67_Monitor",
+            "notice": [
+                {
+                    "osSeq": "506772",
+                    "model": "27ST67-WK",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-150713-27ST67-1.pdf"
+                }
+            ],
+            "source": []
+        },
+        "27ST67-WU": {
+            "description": "27ST67_Monitor",
+            "notice": [
+                {
+                    "osSeq": "506772",
+                    "model": "27ST67-WU",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-150713-27ST67-1.pdf"
+                }
+            ],
+            "source": []
+        },
+        "27TK600D-WH": {
+            "description": "18Y_M1A_Platform",
+            "notice": [
+                {
+                    "osSeq": "508366",
+                    "model": "27TK600D-WH",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-856_18Y_M1A_Platform_180115.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "508366",
+                    "model": "27TK600D-WH",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "18Y_M1A_Platform.zip"
+                }
+            ]
+        }
+    }
+}

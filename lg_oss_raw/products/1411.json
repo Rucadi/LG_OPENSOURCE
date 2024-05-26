@@ -1,0 +1,510 @@
+{
+    "TV/AV>TV": {
+        "PCS200SE": {
+            "description": "PCS200SE (Pro:Centric Encryption System ) Open Source",
+            "notice": [
+                {
+                    "osSeq": "507427",
+                    "model": "PCS200SE",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-160706-PCS200SE-2.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "507427",
+                    "model": "PCS200SE",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "PCS200SE_OpenSource_v2.0.zip"
+                }
+            ]
+        },
+        "PCS400R": {
+            "description": "PCS400R (ProCentric Server)",
+            "notice": [
+                {
+                    "osSeq": "508159",
+                    "model": "PCS400R",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-739_PCS400R_170929.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "508159",
+                    "model": "PCS400R",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "PCS400R_OpenSource_v1.1.zip"
+                }
+            ]
+        },
+        "PCS500R": {
+            "description": "ProCentric Direct 4.5",
+            "notice": [
+                {
+                    "osSeq": "510061",
+                    "model": "PCS500R",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-3018_ProCentric Direct_4.5_200904.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "510061",
+                    "model": "PCS500R",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "ProCentric Direct_4.5.zip"
+                }
+            ]
+        }
+    },
+    "TV/AV>Projector": {
+        "PF50KS-SA": {
+            "description": "webOS DM2 LGE Open Source PF50KG-SP",
+            "notice": [
+                {
+                    "osSeq": "508526",
+                    "model": "PF50KS-SA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-170616-PF50KA_KR_PF50KS_EU_PF50KS_NA_PF50KG_GL_PF50KG_SP.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "508526",
+                    "model": "PF50KS-SA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "DMR-r3154.tar.gz"
+                }
+            ]
+        },
+        "PF510Q-GL": {
+            "description": "webOS22 Projector 1.0",
+            "notice": [
+                {
+                    "osSeq": "510964",
+                    "model": "PF510Q-GL",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-4486_webOS22 Projector_1.0_220602.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "510964",
+                    "model": "PF510Q-GL",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS22 Projector_1.0_1.tar.gz"
+                },
+                {
+                    "osSeq": "510964",
+                    "model": "PF510Q-GL",
+                    "type": "Op",
+                    "fileId": "2",
+                    "filename": "webOS22 Projector_1.0_2.tar.gz"
+                }
+            ]
+        },
+        "PF510QA-GL": {
+            "description": "webOS22 Projector 1.0",
+            "notice": [
+                {
+                    "osSeq": "510964",
+                    "model": "PF510QA-GL",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-4486_webOS22 Projector_1.0_220602.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "510964",
+                    "model": "PF510QA-GL",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS22 Projector_1.0_1.tar.gz"
+                },
+                {
+                    "osSeq": "510964",
+                    "model": "PF510QA-GL",
+                    "type": "Op",
+                    "fileId": "2",
+                    "filename": "webOS22 Projector_1.0_2.tar.gz"
+                }
+            ]
+        },
+        "PF510QC-GL": {
+            "description": "webOS22 Projector 1.0",
+            "notice": [
+                {
+                    "osSeq": "510964",
+                    "model": "PF510QC-GL",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-4486_webOS22 Projector_1.0_220602.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "510964",
+                    "model": "PF510QC-GL",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS22 Projector_1.0_1.tar.gz"
+                },
+                {
+                    "osSeq": "510964",
+                    "model": "PF510QC-GL",
+                    "type": "Op",
+                    "fileId": "2",
+                    "filename": "webOS22 Projector_1.0_2.tar.gz"
+                }
+            ]
+        },
+        "PF510QG-GL": {
+            "description": "webOS22 Projector 1.0",
+            "notice": [
+                {
+                    "osSeq": "510964",
+                    "model": "PF510QG-GL",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-4486_webOS22 Projector_1.0_220602.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "510964",
+                    "model": "PF510QG-GL",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS22 Projector_1.0_1.tar.gz"
+                },
+                {
+                    "osSeq": "510964",
+                    "model": "PF510QG-GL",
+                    "type": "Op",
+                    "fileId": "2",
+                    "filename": "webOS22 Projector_1.0_2.tar.gz"
+                }
+            ]
+        },
+        "PF610P-CB": {
+            "description": "webOS 5.0 Projector",
+            "notice": [
+                {
+                    "osSeq": "510093",
+                    "model": "PF610P-CB",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-2784_webOS 5.0 Projector_200929.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "510093",
+                    "model": "PF610P-CB",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS 5.0 Projector_1.tar.gz"
+                },
+                {
+                    "osSeq": "510093",
+                    "model": "PF610P-CB",
+                    "type": "Op",
+                    "fileId": "2",
+                    "filename": "webOS 5.0 Projector_2.tar.gz"
+                }
+            ]
+        },
+        "PF610P-EU": {
+            "description": "webOS 5.0 Projector",
+            "notice": [
+                {
+                    "osSeq": "510093",
+                    "model": "PF610P-EU",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-2784_webOS 5.0 Projector_200929.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "510093",
+                    "model": "PF610P-EU",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS 5.0 Projector_1.tar.gz"
+                },
+                {
+                    "osSeq": "510093",
+                    "model": "PF610P-EU",
+                    "type": "Op",
+                    "fileId": "2",
+                    "filename": "webOS 5.0 Projector_2.tar.gz"
+                }
+            ]
+        },
+        "PF610P-JP": {
+            "description": "webOS 5.0 Projector",
+            "notice": [
+                {
+                    "osSeq": "510093",
+                    "model": "PF610P-JP",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-2784_webOS 5.0 Projector_200929.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "510093",
+                    "model": "PF610P-JP",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS 5.0 Projector_1.tar.gz"
+                },
+                {
+                    "osSeq": "510093",
+                    "model": "PF610P-JP",
+                    "type": "Op",
+                    "fileId": "2",
+                    "filename": "webOS 5.0 Projector_2.tar.gz"
+                }
+            ]
+        },
+        "PF610P-KR": {
+            "description": "webOS 5.0 Projector",
+            "notice": [
+                {
+                    "osSeq": "510093",
+                    "model": "PF610P-KR",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-2784_webOS 5.0 Projector_200929.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "510093",
+                    "model": "PF610P-KR",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS 5.0 Projector_1.tar.gz"
+                },
+                {
+                    "osSeq": "510093",
+                    "model": "PF610P-KR",
+                    "type": "Op",
+                    "fileId": "2",
+                    "filename": "webOS 5.0 Projector_2.tar.gz"
+                }
+            ]
+        },
+        "PF610P-MA": {
+            "description": "webOS 5.0 Projector",
+            "notice": [
+                {
+                    "osSeq": "510093",
+                    "model": "PF610P-MA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-2784_webOS 5.0 Projector_200929.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "510093",
+                    "model": "PF610P-MA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS 5.0 Projector_1.tar.gz"
+                },
+                {
+                    "osSeq": "510093",
+                    "model": "PF610P-MA",
+                    "type": "Op",
+                    "fileId": "2",
+                    "filename": "webOS 5.0 Projector_2.tar.gz"
+                }
+            ]
+        },
+        "PF610P-NA": {
+            "description": "webOS 5.0 Projector",
+            "notice": [
+                {
+                    "osSeq": "510093",
+                    "model": "PF610P-NA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-2784_webOS 5.0 Projector_200929.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "510093",
+                    "model": "PF610P-NA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS 5.0 Projector_1.tar.gz"
+                },
+                {
+                    "osSeq": "510093",
+                    "model": "PF610P-NA",
+                    "type": "Op",
+                    "fileId": "2",
+                    "filename": "webOS 5.0 Projector_2.tar.gz"
+                }
+            ]
+        },
+        "PF610P-SA": {
+            "description": "webOS 5.0 Projector",
+            "notice": [
+                {
+                    "osSeq": "510093",
+                    "model": "PF610P-SA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-2784_webOS 5.0 Projector_200929.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "510093",
+                    "model": "PF610P-SA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS 5.0 Projector_1.tar.gz"
+                },
+                {
+                    "osSeq": "510093",
+                    "model": "PF610P-SA",
+                    "type": "Op",
+                    "fileId": "2",
+                    "filename": "webOS 5.0 Projector_2.tar.gz"
+                }
+            ]
+        },
+        "PF610PG-GL": {
+            "description": "webOS 5.0 Projector",
+            "notice": [
+                {
+                    "osSeq": "510093",
+                    "model": "PF610PG-GL",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-2784_webOS 5.0 Projector_200929.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "510093",
+                    "model": "PF610PG-GL",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "webOS 5.0 Projector_1.tar.gz"
+                },
+                {
+                    "osSeq": "510093",
+                    "model": "PF610PG-GL",
+                    "type": "Op",
+                    "fileId": "2",
+                    "filename": "webOS 5.0 Projector_2.tar.gz"
+                }
+            ]
+        },
+        "PH150GX-GL": {
+            "description": "L14 Projector Opensource",
+            "notice": [
+                {
+                    "osSeq": "506348",
+                    "model": "PH150GX-GL",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "140604-PA1000,PW700,PH250-1.pdf"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "506348",
+                    "model": "PH150GX-GL",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "L14_LGE_Projector_Open_Source_140422.bz2"
+                }
+            ]
+        },
+        "PH30N-GL": {
+            "description": "2019 LGE ODM Projector",
+            "notice": [
+                {
+                    "osSeq": "509577",
+                    "model": "PH30N-GL",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "OSSNotice-1691_2019 LGE ODM Projector_191219.html"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "509577",
+                    "model": "PH30N-GL",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "2019 LGE ODM Projector.zip"
+                }
+            ]
+        },
+        "PH510P-KR": {
+            "description": "L14 Projector Opensource",
+            "notice": [
+                {
+                    "osSeq": "506348",
+                    "model": "PH510P-KR",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "140604-PA1000,PW700,PH250-1.pdf"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "506348",
+                    "model": "PH510P-KR",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "L14_LGE_Projector_Open_Source_140422.bz2"
+                }
+            ]
+        },
+        "PH510P-NA": {
+            "description": "L14 Projector Opensource",
+            "notice": [
+                {
+                    "osSeq": "506348",
+                    "model": "PH510P-NA",
+                    "type": "Li",
+                    "fileId": "1",
+                    "filename": "140604-PA1000,PW700,PH250-1.pdf"
+                }
+            ],
+            "source": [
+                {
+                    "osSeq": "506348",
+                    "model": "PH510P-NA",
+                    "type": "Op",
+                    "fileId": "1",
+                    "filename": "L14_LGE_Projector_Open_Source_140422.bz2"
+                }
+            ]
+        }
+    }
+}
