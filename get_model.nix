@@ -44,6 +44,8 @@ pkgs.stdenv.mkDerivation {
   src = sources;
   sourceRoot = ".";
   buildPhase = "mkdir $out && cp -R * $out";
+  dontFixup = true;
+  dontPatchELF = true;
 }
 '';
 }
