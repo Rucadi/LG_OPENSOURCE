@@ -42,6 +42,7 @@ let
 in
 pkgs.stdenv.mkDerivation {
   name = "86QNED866RE";
-  src = sources ++ notices;
+  src = sources;
+  sourceRoot = ".";
   buildPhase = "mkdir $out && cp -R * $out";
 }

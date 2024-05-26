@@ -42,6 +42,7 @@ in
 pkgs.stdenv.mkDerivation {
   name = "${model}";
   src = sources;
+  sourceRoot = ".";
   buildPhase = "mkdir $out && cp -R * $out";
 }
 '';
