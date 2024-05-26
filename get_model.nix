@@ -41,7 +41,7 @@ let
 in
 pkgs.stdenv.mkDerivation {
   name = "${model}";
-  src = sources ++ notices;
+  src = sources;
   buildPhase = "mkdir $out && cp -R * $out";
 }
 '';
